@@ -1,0 +1,146 @@
+[
+    {
+        "location": "Argentina",
+        "summary": "\u2022 Spain has recalled its ambassador from Argentina due to a dispute over comments made by Argentine politician Jos\u00e9 Mar\u00eda Milei.\n\u2022 The recall was prompted by Milei's remarks, which sparked diplomatic tensions between the two nations.\n\u2022 The move aims to resolve the issue and restore bilateral relations between Spain and Argentina.",
+        "coordinates": [
+            -34.9964963,
+            -64.9672817
+        ]
+    },
+    {
+        "location": "Brazil",
+        "summary": "\u2022 Heavy rainfall causes widespread flooding in Brazil.\n\u2022 Rescue helicopters are deployed to assist affected areas.\n\u2022 Emergency services work to reach stranded residents and provide aid.",
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
+        "location": "France",
+        "summary": "\u2022 French President Emmanuel Macron is set to visit New Caledonia amid ongoing riots.\n\u2022 The unrest stems from tensions between indigenous Kanaks and French settlers over independence and land rights.",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "location": "Germany",
+        "summary": "\u2022 A German prince is on trial for allegedly planning a coup.\n\u2022 The trial has sparked intense media interest in Germany.\n\u2022 The motive behind the alleged coup remains unclear.",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "location": "Greece",
+        "summary": "\u2022 A Greek court has thrown out a trial involving nine men accused in connection with a deadly shipwreck.\n\u2022 The verdict means the charges will be dropped against all nine defendants.\n\u2022 The ruling is seen as a major setback for families of the victims who were seeking justice.",
+        "coordinates": [
+            39.0742,
+            21.8243
+        ]
+    },
+    {
+        "location": "Haiti",
+        "summary": "\u2022 Haiti is a Caribbean island nation with a rich cultural heritage.\n\u2022 The country has faced significant challenges, including political instability and natural disasters.\n\u2022 Haitians have made efforts to rebuild their nation and improve living conditions despite these obstacles.",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
+        ]
+    },
+    {
+        "location": "Hong Kong",
+        "summary": "\u2022 A charity event features a unique obstacle course with buns as obstacles\n\u2022 Participants must climb a tower covered in 40-foot-long Chinese buns\n\u2022 The event aims to raise funds for those in need",
+        "coordinates": [
+            22.2793278,
+            114.1628131
+        ]
+    },
+    {
+        "location": "India",
+        "summary": "\u2022 India's diverse regions feature distinct campaign styles reflecting local cultures.\n\u2022 Regional parties adapt their messages to resonate with voters.\n\u2022 National parties face challenges in reaching rural areas due to language barriers.",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "location": "Iran",
+        "summary": "\u2022 Thousands attended the funeral procession for Iran's late president.\n\u2022 Iranians had mixed reactions to the president's sudden passing due to his helicopter crash.\n\u2022 The helicopter crash, which occurred while flying a US-designed aircraft, was attributed to technical failure, leading to the appointment of an acting president.",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "location": "Israel",
+        "summary": "\u2022 Detainees in an Israeli hospital were found shackled and blindfolded.\n\u2022 Seven Palestinians were killed in an Israeli West Bank raid.\n\u2022 Israel shut down the Associated Press' Gaza live feed.",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "location": "Italy",
+        "summary": "\u2022 Over 150 earthquakes hit the Naples region\n\u2022 No reports of human casualties or significant damage yet\n\u2022 Local authorities monitoring the situation closely",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "location": "Kenya",
+        "summary": "\u2022 Kenya defends cost of jet for President Ruto's US trip.\n\u2022 As U.S. influence in Africa wanes, Kenya bucks the trend.",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "location": "Mozambique",
+        "summary": "\u2022 Hundreds of Mozambican patients have died due to a nationwide medical workers' strike\n\u2022 The strike has resulted in severe shortages of medicines and essential healthcare services\n\u2022 The government has urged the striking health workers to resume their duties immediately",
+        "coordinates": [
+            -19.302233,
+            34.9144977
+        ]
+    },
+    {
+        "location": "Singapore",
+        "summary": "\u2022 A passenger was injured and had to be carried off the plane after experiencing severe turbulence.\n\u2022 The incident resulted in one fatality and left 30 others injured among the 230 passengers onboard.\n\u2022 The cause of the turbulence is under investigation by authorities.",
+        "coordinates": [
+            1.357107,
+            103.8194992
+        ]
+    },
+    {
+        "location": "Spain",
+        "summary": "\u2022 A blue fireball lit up the skies over Spain.\n\u2022 The cause of the phenomenon is currently unknown.\n\u2022 Experts will investigate to determine its origin.",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 Thousands flee due to Russian military escalation in Ukraine's Kharkiv region.\n\u2022 Russia launches intense attacks on civilian areas, causing widespread destruction and displacement.\n\u2022 Ukrainian authorities work to provide aid and support to affected populations amidst escalating conflict.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "location": "United Kingdom",
+        "summary": "1. A 73-year-old British man died during a turbulent flight where passengers experienced extreme turbulence.\n2. The UK High Court ruled that Julian Assange can appeal against his US extradition order.\n3. No other major events occurred in the UK related to these news stories.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "location": "United States",
+        "summary": "\u2022 Donald Trump's defense team has rested its case in a hush-money trial.\n\u2022 Rudy Giuliani was back in court regarding the 2020 presidential election.\n\u2022 Thousands of people in Texas lost electricity during a heatwave.\n\u2022 The International Criminal Court seeks arrest warrants for Israeli and Hamas leaders.\n\u2022 Joe Biden criticized an \"outrageous\" request for an international arrest warrant for Israeli leaders.",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    }
+]
