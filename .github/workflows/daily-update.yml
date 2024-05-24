@@ -28,7 +28,7 @@ jobs:
     - name: Run news_locations.py
       run: python news_locations.py
       env:
-        API_KEY: ${{ secrets.LLM_API_KEY }}  # Use GitHub Secrets for sensitive data
+        API_KEY: ${{ secrets.API_KEY }}  # Use GitHub Secrets for sensitive data
 
     - name: Run news_location_cleaning.py
       run: python news_location_cleaning.py
