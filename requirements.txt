@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pycountry
+geopy
+bs4
+json
+time
