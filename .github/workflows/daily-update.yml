@@ -36,7 +36,7 @@ jobs:
     - name: Run summarizer.py
       run: python summarizer.py
       env:
-        API_KEY: ${{ secrets.LLM_API_KEY }}  # Use GitHub Secrets for sensitive data
+        API_KEY: ${{ secrets.API_KEY }}  # Use GitHub Secrets for sensitive data
 
     - name: Commit and push changes
       run: |
