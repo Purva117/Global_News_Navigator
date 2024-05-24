@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import os
 
 def scrape_news(url, headline_tag):
     try:
@@ -111,23 +112,19 @@ headlines = [article['headline'] for article in all_news_articles]
 
 # LLM API configuration
 api_url = "https://api.awanllm.com/v1/chat/completions"
-api_key = "008c3ec5-1822-450a-8755-bb3ff2eb5443"  # Replace with your actual API key
+if __name__ == "__main__":
+    api_key = os.getenv('API_KEY')
+    if not api_key:
+        raise ValueError("API_KEY environment variable not set")
 
-# Get locations for all headlines in a single request using LLM
-headline_locations = get_locations_from_llm(headlines, api_url, api_key)
+    # Get locations for all headlines in a single request using LLM
+    headline_locations = get_locations_from_llm(headlines, api_url, api_key)
 
-# Add locations to the articles
-if headline_locations:
-    for i, article in enumerate(all_news_articles):
-        article['location'] = headline_locations.get(i, "Location not found")
+    # Add locations to the articles
+    if headline_locations:
+        for i, article in enumerate(all_news_articles):
+            article['location'] = headline_locations.get(i, "Location not found")
 
-# Print the processed news articles with details
-if all_news_articles:
-    for i, article in enumerate(all_news_articles, 1):
-        print(f"Article {i}:")
-        print(f"Headline: {article['headline']}")
-        print(f"Location: {article['location']}")
-        print()
 
-# Export the data to a JSON file
-export_data(all_news_articles, 'news_data_with_locations.json')
+    # Export the data to a JSON file
+    export_data(all_news_articles, 'news_data_with_locations.json')

@@ -1,4 +1,5 @@
 import json
+import os
 import requests
 import time
 import pycountry
@@ -97,28 +98,31 @@ def save_summarized_data(summarized_data, output_file):
 # Input and output file paths
 input_file = 'sorted_news_data.json'
 output_file = 'summarized_news_data.json'
-api_key = '008c3ec5-1822-450a-8755-bb3ff2eb5443'  # Replace with your actual API key
+if __name__ == "__main__":
+    api_key = os.getenv('API_KEY')
+    if not api_key:
+        raise ValueError("API_KEY environment variable not set")
 
-# Load sorted data
-news_articles = load_sorted_data(input_file)
+    # Load sorted data
+    news_articles = load_sorted_data(input_file)
 
-# Group headlines by location
-grouped_headlines = group_headlines_by_location(news_articles)
+    # Group headlines by location
+    grouped_headlines = group_headlines_by_location(news_articles)
 
-# Generate summaries for each location
-summarized_data = summarize_headlines(grouped_headlines, api_key)
+    # Generate summaries for each location
+    summarized_data = summarize_headlines(grouped_headlines, api_key)
 
-# Convert country names to coordinates and save the summarized data
-for article in summarized_data:
-    location = article['location']
-    if is_valid_country(location):
-        coordinates = get_country_coordinates(location)
-        if coordinates:
-            article['coordinates'] = coordinates
+    # Convert country names to coordinates and save the summarized data
+    for article in summarized_data:
+        location = article['location']
+        if is_valid_country(location):
+            coordinates = get_country_coordinates(location)
+            if coordinates:
+                article['coordinates'] = coordinates
+            else:
+                print(f"Failed to get coordinates for {location}")
         else:
-            print(f"Failed to get coordinates for {location}")
-    else:
-        print(f"{location} is not a valid country name")
+            print(f"{location} is not a valid country name")
 
-# Save the summarized data to a new JSON file
-save_summarized_data(summarized_data, output_file)
+    # Save the summarized data to a new JSON file
+    save_summarized_data(summarized_data, output_file)
