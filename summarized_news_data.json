@@ -1,15 +1,7 @@
 [
     {
-        "location": "Argentina",
-        "summary": "\u2022 Spain has recalled its ambassador from Argentina due to a dispute over comments made by Argentine politician Jos\u00e9 Mar\u00eda Milei.\n\u2022 The recall was prompted by Milei's remarks, which sparked diplomatic tensions between the two nations.\n\u2022 The move aims to resolve the issue and restore bilateral relations between Spain and Argentina.",
-        "coordinates": [
-            -34.9964963,
-            -64.9672817
-        ]
-    },
-    {
         "location": "Brazil",
-        "summary": "\u2022 Heavy rainfall causes widespread flooding in Brazil.\n\u2022 Rescue helicopters are deployed to assist affected areas.\n\u2022 Emergency services work to reach stranded residents and provide aid.",
+        "summary": "\u2022 Heavy rainfall caused widespread flooding in southern Brazil\n\u2022 Thousands of people affected by the disaster\n\u2022 Rescue efforts underway to reach stranded communities",
         "coordinates": [
             -10.3333333,
             -53.2
@@ -17,119 +9,103 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 French President Emmanuel Macron is set to visit New Caledonia amid ongoing riots.\n\u2022 The unrest stems from tensions between indigenous Kanaks and French settlers over independence and land rights.",
+        "summary": "\u2022 A precocious prime minister faces competition from a far-right phenom in France.\n\u2022 The prime minister's ability to hold off the challenger is uncertain due to their differing political ideologies.\n\u2022 The outcome will significantly impact French politics.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Germany",
-        "summary": "\u2022 A German prince is on trial for allegedly planning a coup.\n\u2022 The trial has sparked intense media interest in Germany.\n\u2022 The motive behind the alleged coup remains unclear.",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "location": "Greece",
-        "summary": "\u2022 A Greek court has thrown out a trial involving nine men accused in connection with a deadly shipwreck.\n\u2022 The verdict means the charges will be dropped against all nine defendants.\n\u2022 The ruling is seen as a major setback for families of the victims who were seeking justice.",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
         "location": "Haiti",
-        "summary": "\u2022 Haiti is a Caribbean island nation with a rich cultural heritage.\n\u2022 The country has faced significant challenges, including political instability and natural disasters.\n\u2022 Haitians have made efforts to rebuild their nation and improve living conditions despite these obstacles.",
+        "summary": "\u2022 Gang violence in Haiti resulted in the deaths of US missionaries.\n\u2022 Three missionaries from an Oklahoma-based group were among those killed.\n\u2022 The US is trying to downplay its involvement in Haiti despite its visible military presence.",
         "coordinates": [
             19.1399952,
             -72.3570972
         ]
     },
     {
-        "location": "Hong Kong",
-        "summary": "\u2022 A charity event features a unique obstacle course with buns as obstacles\n\u2022 Participants must climb a tower covered in 40-foot-long Chinese buns\n\u2022 The event aims to raise funds for those in need",
-        "coordinates": [
-            22.2793278,
-            114.1628131
-        ]
-    },
-    {
         "location": "India",
-        "summary": "\u2022 India's diverse regions feature distinct campaign styles reflecting local cultures.\n\u2022 Regional parties adapt their messages to resonate with voters.\n\u2022 National parties face challenges in reaching rural areas due to language barriers.",
+        "summary": "\u2022 A politician's involvement in an astrologer's murder led to a significant legal change.\n\u2022 A heartwarming story about Indian sisters was showcased at the Cannes Film Festival.\n\u2022 No additional information is available regarding this headline as it appears to be a duplicate entry.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Iran",
-        "summary": "\u2022 Thousands attended the funeral procession for Iran's late president.\n\u2022 Iranians had mixed reactions to the president's sudden passing due to his helicopter crash.\n\u2022 The helicopter crash, which occurred while flying a US-designed aircraft, was attributed to technical failure, leading to the appointment of an acting president.",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
         "location": "Israel",
-        "summary": "\u2022 Detainees in an Israeli hospital were found shackled and blindfolded.\n\u2022 Seven Palestinians were killed in an Israeli West Bank raid.\n\u2022 Israel shut down the Associated Press' Gaza live feed.",
+        "summary": "\u2022 Conflict escalates as Israeli activists clash over Gaza-bound aid convoys and three Israeli hostages are found dead in Gaza.\n\u2022 Israel reverses its decision to shut down the Associated Press news agency's Gaza live feed.\n\u2022 The number of remaining hostages in Gaza is unknown after a Hamas attack on Israel, while Israel urges negotiators to continue hostage talks and faces increasing international isolation.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Italy",
-        "summary": "\u2022 Over 150 earthquakes hit the Naples region\n\u2022 No reports of human casualties or significant damage yet\n\u2022 Local authorities monitoring the situation closely",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
         "location": "Kenya",
-        "summary": "\u2022 Kenya defends cost of jet for President Ruto's US trip.\n\u2022 As U.S. influence in Africa wanes, Kenya bucks the trend.",
+        "summary": "\u2022 Kenyan police will deploy to Haiti within three weeks.\n\u2022 The move aims to support local authorities in addressing security concerns.\n\u2022 The deployment demonstrates regional solidarity and cooperation.",
         "coordinates": [
             1.4419683,
             38.4313975
         ]
     },
     {
-        "location": "Mozambique",
-        "summary": "\u2022 Hundreds of Mozambican patients have died due to a nationwide medical workers' strike\n\u2022 The strike has resulted in severe shortages of medicines and essential healthcare services\n\u2022 The government has urged the striking health workers to resume their duties immediately",
+        "location": "Mexico",
+        "summary": "\u2022 A man discovered 30,000-year-old mammoth bones in his wine cellar.\n\u2022 The ancient remains were found in Mexico.\n\u2022 No further details about the discovery have been released.",
         "coordinates": [
-            -19.302233,
-            34.9144977
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "location": "Singapore",
-        "summary": "\u2022 A passenger was injured and had to be carried off the plane after experiencing severe turbulence.\n\u2022 The incident resulted in one fatality and left 30 others injured among the 230 passengers onboard.\n\u2022 The cause of the turbulence is under investigation by authorities.",
+        "location": "Netherlands",
+        "summary": "\u2022 The International Court of Justice at The Hague has ordered Israel to halt its military operation in the Gaza Strip.\n\u2022 The ruling comes after Egypt withdrew its forces from the area, allowing Israeli troops to advance further into the territory.\n\u2022 The ICJ's decision is seen as a significant blow to Israel's efforts to maintain control over the region.",
         "coordinates": [
-            1.357107,
-            103.8194992
+            52.2434979,
+            5.6343227
+        ]
+    },
+    {
+        "location": "Niger",
+        "summary": "\u2022 A military coup occurred in Niger.\n\u2022 Security forces have taken control of key government buildings.\n\u2022 The current whereabouts of President Mahamadou Issoufou remain unknown.",
+        "coordinates": [
+            17.7356214,
+            9.3238432
+        ]
+    },
+    {
+        "location": "Papua New Guinea",
+        "summary": "\u2022 A devastating landslide has struck Papua New Guinea, trapping numerous villagers.\n\u2022 Emergency responders are racing against time to reach the affected areas and rescue those in need.\n\u2022 The situation remains critical as search and rescue efforts continue to unfold.",
+        "coordinates": [
+            -5.6816069,
+            144.2489081
+        ]
+    },
+    {
+        "location": "South Africa",
+        "summary": "\u2022 Cynthia, who voted for Nelson Mandela, is now abandoning his successors.\n\u2022 She had previously supported Mandela but has since changed her stance.\n\u2022 This shift in opinion may be due to various reasons such as political ideology or personal beliefs.",
+        "coordinates": [
+            -28.8166236,
+            24.991639
         ]
     },
     {
         "location": "Spain",
-        "summary": "\u2022 A blue fireball lit up the skies over Spain.\n\u2022 The cause of the phenomenon is currently unknown.\n\u2022 Experts will investigate to determine its origin.",
+        "summary": "\u2022 Four people died in a building collapse in Majorca.\n\u2022 Locals protested against a Louis Vuitton fashion show in Barcelona.\n\u2022 The event caused chaos.",
         "coordinates": [
             39.3260685,
             -4.8379791
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 Thousands flee due to Russian military escalation in Ukraine's Kharkiv region.\n\u2022 Russia launches intense attacks on civilian areas, causing widespread destruction and displacement.\n\u2022 Ukrainian authorities work to provide aid and support to affected populations amidst escalating conflict.",
+        "location": "Sudan",
+        "summary": "\u2022 A United Nations expert warns that the world is ignoring the risk of genocide in Sudan.\n\u2022 The situation remains volatile due to ongoing political instability, conflict, and human rights abuses.\n\u2022 The international community must take immediate action to prevent a potential humanitarian crisis.",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            10.9,
+            6.5
         ]
     },
     {
         "location": "United Kingdom",
-        "summary": "1. A 73-year-old British man died during a turbulent flight where passengers experienced extreme turbulence.\n2. The UK High Court ruled that Julian Assange can appeal against his US extradition order.\n3. No other major events occurred in the UK related to these news stories.",
+        "summary": "\u2022 Rishi Sunak and Keir Starmer are the top contenders for UK Prime Minister.\n\u2022 Both candidates have unique strengths and weaknesses that will be crucial in their bid for leadership.\n\u2022 Their political views and leadership styles will shape the future direction of the country.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -137,7 +113,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Donald Trump's defense team has rested its case in a hush-money trial.\n\u2022 Rudy Giuliani was back in court regarding the 2020 presidential election.\n\u2022 Thousands of people in Texas lost electricity during a heatwave.\n\u2022 The International Criminal Court seeks arrest warrants for Israeli and Hamas leaders.\n\u2022 Joe Biden criticized an \"outrageous\" request for an international arrest warrant for Israeli leaders.",
+        "summary": "\u2022 Alec Baldwin's request to dismiss Rust manslaughter charges is rejected.\n\u2022 Families of the Uvalde shooting sue Meta, a video game developer, and a firearms manufacturer.\n\u2022 A teenager is arrested after a violent incident at a UCLA Gaza protest.",
         "coordinates": [
             39.7837304,
             -100.445882

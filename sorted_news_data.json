@@ -1,22 +1,6 @@
 [
     {
-        "headline": "Spain recalls Argentina ambassador in Milei insult row",
-        "location": "Argentina",
-        "coordinates": [
-            -34.9964963,
-            -64.9672817
-        ]
-    },
-    {
-        "headline": "Spain recalls Argentina ambassador in Milei insult row",
-        "location": "Argentina",
-        "coordinates": [
-            -34.9964963,
-            -64.9672817
-        ]
-    },
-    {
-        "headline": "Brazil floods: On board a rescue helicopter",
+        "headline": "Visualizing the scale of the floods that left south Brazil submerged",
         "location": "Brazil",
         "coordinates": [
             -10.3333333,
@@ -24,7 +8,7 @@
         ]
     },
     {
-        "headline": "France's president to fly to riot-hit New Caledonia",
+        "headline": "Can a precocious prime minister hold off a far-right phenom in France?",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,31 +16,7 @@
         ]
     },
     {
-        "headline": "Riots are flaring on a French archipelago in the South Pacific. Here\u2019s why.",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "A German prince is on trial for an alleged coup plot. Here\u2019s what to know.",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "Greek court throws out shipwreck trial against nine men",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "Haiti country profile",
+        "headline": "US missionaries killed in Haiti gang violence",
         "location": "Haiti",
         "coordinates": [
             19.1399952,
@@ -64,15 +24,23 @@
         ]
     },
     {
-        "headline": "The race up a Hong Kong tower covered in 40 feet of buns",
-        "location": "Hong Kong",
+        "headline": "Three missionaries from Oklahoma-based group shot to death in Haiti",
+        "location": "Haiti",
         "coordinates": [
-            22.350627,
-            114.1849161
+            19.1399952,
+            -72.3570972
         ]
     },
     {
-        "headline": "The many colours of India\u2019s election campaigns",
+        "headline": "U.S. tries to downplay role in Haiti, but it\u2019s hard to hide the planes",
+        "location": "Haiti",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
+        ]
+    },
+    {
+        "headline": "The politician, the astrologer and a murder that changed the law",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -80,87 +48,31 @@
         ]
     },
     {
-        "headline": "Thousands at Iran president's funeral procession",
-        "location": "Iran",
+        "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
+        "location": "India",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "How Iranians reacted to president's helicopter crash",
-        "location": "Iran",
+        "headline": "The politician, the astrologer and a murder that changed the law",
+        "location": "India",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Raisi's death leaves Iranians with mixed feelings",
-        "location": "Iran",
+        "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
+        "location": "India",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "The death of Iran\u2019s president",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Who is Mohammad Mokhber? Iran taps acting president after Raisi\u2019s death.",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Helicopter crash that killed Iran\u2019s president caused by \u2018technical failure,\u2019 state media says",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Iran\u2019s president was flying in U.S.-designed helicopter when it crashed",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "What we know about the helicopter crash that killed Iranian President Raisi",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Gaza detainees shackled and blindfolded at Israel hospital, say whistle-blowers",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Seven Palestinians killed in Israeli West Bank raid",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Gaza detainees shackled and blindfolded at Israel hospital, say whistle-blowers",
+        "headline": "Israeli activists battle over Gaza-bound aid convoys",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -176,7 +88,7 @@
         ]
     },
     {
-        "headline": "Israel shuts down Associated Press news agency's Gaza live feed",
+        "headline": "Three more Israeli hostages' bodies found in Gaza",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -184,7 +96,7 @@
         ]
     },
     {
-        "headline": "Netanyahu denounces bid to arrest him over Gaza war",
+        "headline": "Israel revokes decision to shut down Associated Press news agency's Gaza live feed",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -192,7 +104,7 @@
         ]
     },
     {
-        "headline": "Israel's defence minister rejects ICC prosecutor\u2019s request for warrants",
+        "headline": "Israeli activists battle over Gaza-bound aid convoys",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -200,7 +112,7 @@
         ]
     },
     {
-        "headline": "Israel war cabinet minister vows to quit if there is no post-war plan for Gaza",
+        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -208,7 +120,7 @@
         ]
     },
     {
-        "headline": "Seven Palestinians killed in Israeli West Bank raid",
+        "headline": "Israel\u2019s isolation deepens on the world stage",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -216,15 +128,15 @@
         ]
     },
     {
-        "headline": "Naples region rocked by more than 150 quakes",
-        "location": "Italy",
+        "headline": "Israel tells negotiators to continue hostage talks",
+        "location": "Israel",
         "coordinates": [
-            42.6384261,
-            12.674297
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "Kenya defends cost of jet for President Ruto's US trip",
+        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
         "location": "Kenya",
         "coordinates": [
             1.4419683,
@@ -232,39 +144,63 @@
         ]
     },
     {
-        "headline": "As U.S. influence in Africa wanes, Kenya bucks the trend",
-        "location": "Kenya",
+        "headline": "Man finds huge 30,000-year-old mammoth bones in his wine cellar",
+        "location": "Mexico",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "Hundreds of Mozambique patients die amid strike - union",
-        "location": "Mozambique",
+        "headline": "Top UN court orders Israel to stop Rafah offensive",
+        "location": "Netherlands",
         "coordinates": [
-            -19.302233,
-            34.9144977
+            52.2434979,
+            5.6343227
         ]
     },
     {
-        "headline": "Injured Singapore Airlines passenger carried off flight",
-        "location": "Singapore",
+        "headline": "The ripple effects of the coup in Niger",
+        "location": "Niger",
         "coordinates": [
-            1.357107,
-            103.8194992
+            17.7356214,
+            9.3238432
         ]
     },
     {
-        "headline": "1 dead, 30 injured on Singapore Airlines flight during \u2018severe turbulence\u2019",
-        "location": "Singapore",
+        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
+        "location": "Papua New Guinea",
         "coordinates": [
-            1.357107,
-            103.8194992
+            -5.6816069,
+            144.2489081
         ]
     },
     {
-        "headline": "Watch: Blue fireball lights up skies over Spain",
+        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
+        "location": "Papua New Guinea",
+        "coordinates": [
+            -5.6816069,
+            144.2489081
+        ]
+    },
+    {
+        "headline": "Race to rescue villagers trapped after landslide",
+        "location": "Papua New Guinea",
+        "coordinates": [
+            -5.6816069,
+            144.2489081
+        ]
+    },
+    {
+        "headline": "Cynthia voted for Nelson Mandela. Now she's abandoning his successors",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "'It was chaos': Four dead in Majorca building collapse",
         "location": "Spain",
         "coordinates": [
             39.3260685,
@@ -272,15 +208,23 @@
         ]
     },
     {
-        "headline": "Thousands flee Russian offensive in Kharkiv region",
-        "location": "Ukraine",
+        "headline": "Locals protest Louis Vuitton show in Barcelona park",
+        "location": "Spain",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            39.3260685,
+            -4.8379791
         ]
     },
     {
-        "headline": "Passengers tell of horror flight in which British man, 73, dies",
+        "headline": "World ignoring risk of Sudan genocide - UN expert",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "Features",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -288,7 +232,7 @@
         ]
     },
     {
-        "headline": "Passengers tell of horror aboard turbulence-hit flight",
+        "headline": "Sunak vs. Starmer: What to know about the U.K. prime minister contenders",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -296,15 +240,7 @@
         ]
     },
     {
-        "headline": "Julian Assange can appeal U.S. extradition order, U.K. court rules",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Trump's defence team rests in hush-money trial",
+        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +248,7 @@
         ]
     },
     {
-        "headline": "Rudy Giuliani in court again over 2020 election",
+        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +256,7 @@
         ]
     },
     {
-        "headline": "Elvis's granddaughter fights Graceland auction",
+        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +264,7 @@
         ]
     },
     {
-        "headline": "US security adviser urges Netanyahu to connect war to 'political strategy'",
+        "headline": "Super Size Me director Morgan Spurlock dies at 53",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -336,7 +272,7 @@
         ]
     },
     {
-        "headline": "Trump campaign deletes video mentioning 'unified Reich'",
+        "headline": "US teen arrested for melee at UCLA Gaza protest",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -344,7 +280,7 @@
         ]
     },
     {
-        "headline": "Thousands of Texans have no power as heat rises",
+        "headline": "Harvard students stage walkout at graduation ceremony",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -352,7 +288,7 @@
         ]
     },
     {
-        "headline": "Biden criticizes \u2018outrageous\u2019 ICC arrest warrant ask for Israeli leaders",
+        "headline": "How film stars faded - and pop stars took over",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -360,7 +296,71 @@
         ]
     },
     {
-        "headline": "What is the ICC, the global court seeking arrest warrants for Israeli, Hamas leaders?",
+        "headline": "Veteran sketch artists have never seen a trial like Trump's",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Jodi Picoult: \u2018It\u2019s not a badge of honour to be banned\u2019",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Lloyd Austin turns over powers during medical procedure",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "How film stars faded - and pop stars took over",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "US teen arrested for melee at UCLA Gaza protest",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Orcas aren\u2019t attacking boats \u2014 they\u2019re just playful teens, scientists say",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden administration straddles its own \u2018red line\u2019 on Rafah invasion",
         "location": "United States",
         "coordinates": [
             39.7837304,
