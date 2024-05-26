@@ -1,23 +1,39 @@
 [
     {
         "location": "Brazil",
-        "summary": "\u2022 Heavy rainfall caused widespread flooding in southern Brazil\n\u2022 Thousands of people affected by the disaster\n\u2022 Rescue efforts underway to reach stranded communities",
+        "summary": "\u2022 A previously unknown indigenous tribe was discovered in the Amazon rainforest.\n\u2022 Loggers have been encroaching on their territory despite the presence of environmental laws protecting it.\n\u2022 The Brazilian government has failed to take action to protect the tribe or their land.",
         "coordinates": [
             -10.3333333,
             -53.2
         ]
     },
     {
-        "location": "France",
-        "summary": "\u2022 A precocious prime minister faces competition from a far-right phenom in France.\n\u2022 The prime minister's ability to hold off the challenger is uncertain due to their differing political ideologies.\n\u2022 The outcome will significantly impact French politics.",
+        "location": "Chile",
+        "summary": "\u2022 A Chilean firefighter has been arrested in connection with a devastating fire that claimed 137 lives.\n\u2022 The blaze occurred at a shopping mall in Santiago, resulting in one of the country's deadliest fires in recent history.\n\u2022 Authorities have launched an investigation into the cause of the fire, which remains unclear at this stage.",
         "coordinates": [
-            46.603354,
-            1.8883335
+            -31.7613365,
+            -71.3187697
+        ]
+    },
+    {
+        "location": "China",
+        "summary": "\u2022 The US has lost its popularity in China.\n\u2022 Its influence is no longer as strong as it once was.\n\u2022 This change may be attributed to various factors.",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "location": "Germany",
+        "summary": "\u2022 The far-right movement is gaining popularity in European elections.\n\u2022 It is abandoning support for the German party Alternative for Germany (AfD).\n\u2022 This shift may lead to significant political changes in the region.",
+        "coordinates": [
+            51.1638175,
+            10.4478313
         ]
     },
     {
         "location": "Haiti",
-        "summary": "\u2022 Gang violence in Haiti resulted in the deaths of US missionaries.\n\u2022 Three missionaries from an Oklahoma-based group were among those killed.\n\u2022 The US is trying to downplay its involvement in Haiti despite its visible military presence.",
+        "summary": "\u2022 Kenyan police will arrive in Haiti within three weeks.\n\u2022 US missionaries were killed in Haiti due to gang violence.\n\u2022 Three missionaries from an Oklahoma-based group were fatally shot in Haiti.",
         "coordinates": [
             19.1399952,
             -72.3570972
@@ -25,39 +41,31 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 A politician's involvement in an astrologer's murder led to a significant legal change.\n\u2022 A heartwarming story about Indian sisters was showcased at the Cannes Film Festival.\n\u2022 No additional information is available regarding this headline as it appears to be a duplicate entry.",
+        "summary": "1. A fire in an Indian games arcade killed 24 people.\n2. The incident occurred due to a possible short circuit or electrical issue.\n3. The victims included both children and adults, with several injured still hospitalized.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
+        "location": "Ireland",
+        "summary": "\u2022 Ireland, Norway, and Spain recognize Palestine as a sovereign state.\n\u2022 Three men appear in court regarding a \u20ac2.1 million cannabis seizure.",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
         "location": "Israel",
-        "summary": "\u2022 Conflict escalates as Israeli activists clash over Gaza-bound aid convoys and three Israeli hostages are found dead in Gaza.\n\u2022 Israel reverses its decision to shut down the Associated Press news agency's Gaza live feed.\n\u2022 The number of remaining hostages in Gaza is unknown after a Hamas attack on Israel, while Israel urges negotiators to continue hostage talks and faces increasing international isolation.",
+        "summary": "\u2022 Israeli activists clash over Gaza-bound aid convoys.\n\u2022 Three more Israeli hostages found dead in Gaza; negotiations ongoing.\n\u2022 Israel reinstates Associated Press' Gaza live feed after previous shutdown.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 Kenyan police will deploy to Haiti within three weeks.\n\u2022 The move aims to support local authorities in addressing security concerns.\n\u2022 The deployment demonstrates regional solidarity and cooperation.",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "location": "Mexico",
-        "summary": "\u2022 A man discovered 30,000-year-old mammoth bones in his wine cellar.\n\u2022 The ancient remains were found in Mexico.\n\u2022 No further details about the discovery have been released.",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
         "location": "Netherlands",
-        "summary": "\u2022 The International Court of Justice at The Hague has ordered Israel to halt its military operation in the Gaza Strip.\n\u2022 The ruling comes after Egypt withdrew its forces from the area, allowing Israeli troops to advance further into the territory.\n\u2022 The ICJ's decision is seen as a significant blow to Israel's efforts to maintain control over the region.",
+        "summary": "\u2022 Nicki Minaj's concert in Amsterdam was cancelled due to her arrest.\n\u2022 The concert cancellation occurred after her detention by Dutch authorities.\n\u2022 No further details about the reason for the arrest have been disclosed.",
         "coordinates": [
             52.2434979,
             5.6343227
@@ -65,7 +73,7 @@
     },
     {
         "location": "Niger",
-        "summary": "\u2022 A military coup occurred in Niger.\n\u2022 Security forces have taken control of key government buildings.\n\u2022 The current whereabouts of President Mahamadou Issoufou remain unknown.",
+        "summary": "\u2022 A military junta seized power in Niger, led by Colonel Mamadou Bazoumoun Koyari.\n\u2022 The new government faces significant challenges in maintaining stability, including addressing economic issues, regional tensions, and international reactions.",
         "coordinates": [
             17.7356214,
             9.3238432
@@ -73,7 +81,7 @@
     },
     {
         "location": "Papua New Guinea",
-        "summary": "\u2022 A devastating landslide has struck Papua New Guinea, trapping numerous villagers.\n\u2022 Emergency responders are racing against time to reach the affected areas and rescue those in need.\n\u2022 The situation remains critical as search and rescue efforts continue to unfold.",
+        "summary": "\u2022 Rescue efforts underway in Papua New Guinea following a deadly landslide that has trapped villagers.\n\u2022 Emergency teams racing against time to reach isolated communities affected by the disaster.\n\u2022 Multiple landslides reported in the region, causing widespread destruction and loss of life.",
         "coordinates": [
             -5.6816069,
             144.2489081
@@ -81,42 +89,26 @@
     },
     {
         "location": "South Africa",
-        "summary": "\u2022 Cynthia, who voted for Nelson Mandela, is now abandoning his successors.\n\u2022 She had previously supported Mandela but has since changed her stance.\n\u2022 This shift in opinion may be due to various reasons such as political ideology or personal beliefs.",
+        "summary": "\u2022 Cynthia initially supported Nelson Mandela.\n\u2022 She is now withdrawing her support from his successors.\n\u2022 The reason for this change in stance is unknown.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 Four people died in a building collapse in Majorca.\n\u2022 Locals protested against a Louis Vuitton fashion show in Barcelona.\n\u2022 The event caused chaos.",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "location": "Sudan",
-        "summary": "\u2022 A United Nations expert warns that the world is ignoring the risk of genocide in Sudan.\n\u2022 The situation remains volatile due to ongoing political instability, conflict, and human rights abuses.\n\u2022 The international community must take immediate action to prevent a potential humanitarian crisis.",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "location": "United Kingdom",
-        "summary": "\u2022 Rishi Sunak and Keir Starmer are the top contenders for UK Prime Minister.\n\u2022 Both candidates have unique strengths and weaknesses that will be crucial in their bid for leadership.\n\u2022 Their political views and leadership styles will shape the future direction of the country.",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "location": "United States",
-        "summary": "\u2022 Alec Baldwin's request to dismiss Rust manslaughter charges is rejected.\n\u2022 Families of the Uvalde shooting sue Meta, a video game developer, and a firearms manufacturer.\n\u2022 A teenager is arrested after a violent incident at a UCLA Gaza protest.",
+        "location": "USA",
+        "summary": "\u2022 A murder case involving a politician and an astrologer led to changes in the law.\n\u2022 Clive Myrie is disillusioned with the US due to mass shootings.\n\u2022 Disney songwriter Richard M Sherman has died at age 95.",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 A Russian airstrike hits a Kharkiv supermarket, killing two people.\n\u2022 The attack occurs amid ongoing conflict between Russia and Ukraine.\n\u2022 Details about other victims or damage are unknown.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     }
 ]

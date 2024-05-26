@@ -1,6 +1,6 @@
 [
     {
-        "headline": "Visualizing the scale of the floods that left south Brazil submerged",
+        "headline": "Loggers encroach on an uncontacted tribe, and the government shrugs",
         "location": "Brazil",
         "coordinates": [
             -10.3333333,
@@ -8,11 +8,43 @@
         ]
     },
     {
-        "headline": "Can a precocious prime minister hold off a far-right phenom in France?",
-        "location": "France",
+        "headline": "Chile arrests firefighter for blaze that killed 137",
+        "location": "Chile",
         "coordinates": [
-            46.603354,
-            1.8883335
+            -31.7613365,
+            -71.3187697
+        ]
+    },
+    {
+        "headline": "The United States used to have cachet in China. Not anymore.",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "headline": "Far right eyes Europe vote surge and ditches German AfD",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Far right eyes Europe vote surge and ditches German AfD",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
+        "location": "Haiti",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
         ]
     },
     {
@@ -32,15 +64,15 @@
         ]
     },
     {
-        "headline": "U.S. tries to downplay role in Haiti, but it\u2019s hard to hide the planes",
-        "location": "Haiti",
+        "headline": "India games arcade fire kills 24",
+        "location": "India",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "The politician, the astrologer and a murder that changed the law",
+        "headline": "Watch: Smoke and flames at deadly India arcade fire",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -56,7 +88,7 @@
         ]
     },
     {
-        "headline": "The politician, the astrologer and a murder that changed the law",
+        "headline": "India games arcade fire kills 24",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -64,11 +96,19 @@
         ]
     },
     {
-        "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
-        "location": "India",
+        "headline": "Ireland, Norway and Spain to recognise Palestinian state",
+        "location": "Ireland",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Men in court over \u20ac2.1m cannabis seizure",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
         ]
     },
     {
@@ -104,15 +144,7 @@
         ]
     },
     {
-        "headline": "Israeli activists battle over Gaza-bound aid convoys",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
+        "headline": "U.N. court order deepens Israel\u2019s isolation as it fights on in Rafah",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -136,23 +168,23 @@
         ]
     },
     {
-        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
-        "location": "Kenya",
+        "headline": "Visualizing the scale of the floods that left south Brazil submerged",
+        "location": "Israel",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "Man finds huge 30,000-year-old mammoth bones in his wine cellar",
-        "location": "Mexico",
+        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
+        "location": "Netherlands",
         "coordinates": [
-            19.4326296,
-            -99.1331785
+            52.2434979,
+            5.6343227
         ]
     },
     {
-        "headline": "Top UN court orders Israel to stop Rafah offensive",
+        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
         "location": "Netherlands",
         "coordinates": [
             52.2434979,
@@ -184,7 +216,7 @@
         ]
     },
     {
-        "headline": "Race to rescue villagers trapped after landslide",
+        "headline": "Race to rescue villagers trapped after deadly landslide",
         "location": "Papua New Guinea",
         "coordinates": [
             -5.6816069,
@@ -200,64 +232,16 @@
         ]
     },
     {
-        "headline": "'It was chaos': Four dead in Majorca building collapse",
-        "location": "Spain",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "headline": "Locals protest Louis Vuitton show in Barcelona park",
-        "location": "Spain",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "headline": "World ignoring risk of Sudan genocide - UN expert",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "Features",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Sunak vs. Starmer: What to know about the U.K. prime minister contenders",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States",
+        "headline": "The politician, the astrologer and a murder that changed the law",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States",
+        "headline": "Clive Myrie: \u2018Mass shootings undermined my love for the US\u2019",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -265,87 +249,15 @@
     },
     {
         "headline": "Super Size Me director Morgan Spurlock dies at 53",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "US teen arrested for melee at UCLA Gaza protest",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Harvard students stage walkout at graduation ceremony",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "How film stars faded - and pop stars took over",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Veteran sketch artists have never seen a trial like Trump's",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Jodi Picoult: \u2018It\u2019s not a badge of honour to be banned\u2019",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Lloyd Austin turns over powers during medical procedure",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "How film stars faded - and pop stars took over",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US teen arrested for melee at UCLA Gaza protest",
-        "location": "United States",
+        "headline": "Disney songwriter Richard M Sherman dies aged 95",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -353,7 +265,23 @@
     },
     {
         "headline": "Orcas aren\u2019t attacking boats \u2014 they\u2019re just playful teens, scientists say",
-        "location": "United States",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Russian jamming leaves some high-tech U.S. weapons ineffective in Ukraine",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. tries to downplay role in Haiti, but it\u2019s hard to hide the planes",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -361,10 +289,18 @@
     },
     {
         "headline": "Biden administration straddles its own \u2018red line\u2019 on Rafah invasion",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "headline": "Russian strike on Kharkiv supermarket kills two",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     }
 ]

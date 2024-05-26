@@ -1,23 +1,11 @@
 [
     {
-        "headline": "Israeli activists battle over Gaza-bound aid convoys",
-        "location": "Israel"
+        "headline": "How plans for \u2018the day after\u2019 could help end war in Gaza",
+        "location": "Palestine"
     },
     {
-        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
-        "location": "Papua New Guinea"
-    },
-    {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States"
-    },
-    {
-        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
-        "location": "Kenya"
-    },
-    {
-        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
-        "location": "United States"
+        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
+        "location": "Netherlands"
     },
     {
         "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
@@ -25,43 +13,59 @@
     },
     {
         "headline": "The politician, the astrologer and a murder that changed the law",
+        "location": "USA"
+    },
+    {
+        "headline": "Chile arrests firefighter for blaze that killed 137",
+        "location": "Chile"
+    },
+    {
+        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
+        "location": "Netherlands"
+    },
+    {
+        "headline": "Far right eyes Europe vote surge and ditches German AfD",
+        "location": "Germany"
+    },
+    {
+        "headline": "Clive Myrie: \u2018Mass shootings undermined my love for the US\u2019",
+        "location": "USA"
+    },
+    {
+        "headline": "India games arcade fire kills 24",
         "location": "India"
+    },
+    {
+        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
+        "location": "Papua New Guinea"
     },
     {
         "headline": "Cynthia voted for Nelson Mandela. Now she's abandoning his successors",
         "location": "South Africa"
     },
     {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States"
+        "headline": "Israeli activists battle over Gaza-bound aid convoys",
+        "location": "Israel/Gaza Strip"
+    },
+    {
+        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
+        "location": "Haiti/Kenya"
     },
     {
         "headline": "Super Size Me director Morgan Spurlock dies at 53",
-        "location": "United States"
+        "location": "USA"
     },
     {
         "headline": "US missionaries killed in Haiti gang violence",
         "location": "Haiti"
     },
     {
-        "headline": "US teen arrested for melee at UCLA Gaza protest",
-        "location": "United States"
-    },
-    {
-        "headline": "World ignoring risk of Sudan genocide - UN expert",
-        "location": "Sudan"
-    },
-    {
-        "headline": "'It was chaos': Four dead in Majorca building collapse",
-        "location": "Spain"
-    },
-    {
         "headline": "Israel-Gaza war",
-        "location": "Israel"
+        "location": "Israel/Palestine"
     },
     {
         "headline": "Top UN court orders Israel to stop Rafah offensive",
-        "location": "Netherlands"
+        "location": "International Court of Justice"
     },
     {
         "headline": "Three more Israeli hostages' bodies found in Gaza",
@@ -69,7 +73,7 @@
     },
     {
         "headline": "Ireland, Norway and Spain to recognise Palestinian state",
-        "location": "Ireland, Norway, and Spain"
+        "location": "Ireland/Norway/Spain"
     },
     {
         "headline": "UN halts Rafah food distribution due to shortages and hostilities",
@@ -81,99 +85,115 @@
     },
     {
         "headline": "Watch/Listen",
-        "location": "Unknown"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Watch: BBC's Jeremy Bowen at the site of Kharkiv strike",
+        "location": "UK/Russia"
     },
     {
         "headline": "\u2018If they see us they will bomb us\u2019 - watch as BBC reaches a hidden war\u2019s jungle front line",
-        "location": "Unknown"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Watch: Smoke and flames at deadly India arcade fire",
+        "location": "India"
     },
     {
         "headline": "CCTV reveals lion taking dog from family home",
-        "location": "Unknown"
+        "location": "Not applicable"
     },
     {
         "headline": "\u2018It's possible to regain the forest we once had\u2019",
-        "location": "Unknown"
-    },
-    {
-        "headline": "Locals protest Louis Vuitton show in Barcelona park",
-        "location": "Spain"
-    },
-    {
-        "headline": "Harvard students stage walkout at graduation ceremony",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "Features",
-        "location": "United Kingdom"
+        "location": "Not applicable"
     },
     {
         "headline": "How film stars faded - and pop stars took over",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "Veteran sketch artists have never seen a trial like Trump's",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "Rain, running and red: Photos of the week",
-        "location": "Unknown"
+        "location": "Not applicable"
     },
     {
         "headline": "Jodi Picoult: \u2018It\u2019s not a badge of honour to be banned\u2019",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
-        "location": "India"
+        "location": "India/France"
     },
     {
         "headline": "Latest updates",
-        "location": "Unknown"
+        "location": "Not applicable"
     },
     {
-        "headline": "Race to rescue villagers trapped after landslide",
+        "headline": "Disney songwriter Richard M Sherman dies aged 95",
+        "location": "USA"
+    },
+    {
+        "headline": "Far right eyes Europe vote surge and ditches German AfD",
+        "location": "Germany/Europe"
+    },
+    {
+        "headline": "India games arcade fire kills 24",
+        "location": "India"
+    },
+    {
+        "headline": "How plans for \u2018the day after\u2019 could help end war in Gaza",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Men in court over \u20ac2.1m cannabis seizure",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Watch: Smoke and flames at deadly India arcade fire",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Watch: BBC's Jeremy Bowen at the site of Kharkiv strike",
+        "location": "UK/Russia"
+    },
+    {
+        "headline": "Russian strike on Kharkiv supermarket kills two",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Race to rescue villagers trapped after deadly landslide",
         "location": "Papua New Guinea"
     },
     {
-        "headline": "Israeli activists battle over Gaza-bound aid convoys",
-        "location": "Israel"
+        "headline": "U.S. silent as global condemnation of Israel\u2019s Rafah offensive grows",
+        "location": "Not applicable"
     },
     {
-        "headline": "Uvalde families sue Meta, video game creator and gunmaker",
-        "location": "United States"
-    },
-    {
-        "headline": "Lloyd Austin turns over powers during medical procedure",
-        "location": "United States"
-    },
-    {
-        "headline": "How film stars faded - and pop stars took over",
-        "location": "United States"
-    },
-    {
-        "headline": "The politician, the astrologer and a murder that changed the law",
-        "location": "India"
-    },
-    {
-        "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
-        "location": "India"
-    },
-    {
-        "headline": "Alec Baldwin request to drop Rust manslaughter case denied",
-        "location": "United States"
-    },
-    {
-        "headline": "US teen arrested for melee at UCLA Gaza protest",
-        "location": "United States"
+        "headline": "Russia bombs market in Kharkiv, killing at least 6 and wounding 40",
+        "location": "Russia/Ukraine"
     },
     {
         "headline": "U.N. chief \u2018trusts\u2019 Israel will comply with ICJ order to halt Rafah assault",
-        "location": "United Nations"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Loggers encroach on an uncontacted tribe, and the government shrugs",
+        "location": "Brazil"
+    },
+    {
+        "headline": "The United States used to have cachet in China. Not anymore.",
+        "location": "China/USA"
     },
     {
         "headline": "Orcas aren\u2019t attacking boats \u2014 they\u2019re just playful teens, scientists say",
-        "location": "United States"
+        "location": "USA"
     },
     {
         "headline": "Three missionaries from Oklahoma-based group shot to death in Haiti",
@@ -181,27 +201,27 @@
     },
     {
         "headline": "ICJ orders Israel \u2018to immediately halt\u2019 Rafah offensive",
-        "location": "United Nations"
+        "location": "International Court of Justice"
     },
     {
         "headline": "U.N. court order deepens Israel\u2019s isolation as it fights on in Rafah",
-        "location": "United Nations"
+        "location": "Israel"
     },
     {
         "headline": "What is the ICJ, the U.N. court ordering Israel to halt Rafah offensive?",
-        "location": "United Nations"
+        "location": "International Court of Justice"
     },
     {
         "headline": "Can a precocious prime minister hold off a far-right phenom in France?",
-        "location": "France"
+        "location": "Not applicable"
     },
     {
         "headline": "Russian jamming leaves some high-tech U.S. weapons ineffective in Ukraine",
-        "location": "United States and Russia"
+        "location": "USA/Russia"
     },
     {
         "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
-        "location": "Israel"
+        "location": "Gaza Strip"
     },
     {
         "headline": "Israel\u2019s isolation deepens on the world stage",
@@ -213,11 +233,11 @@
     },
     {
         "headline": "U.S. tries to downplay role in Haiti, but it\u2019s hard to hide the planes",
-        "location": "Haiti"
+        "location": "USA/Haiti"
     },
     {
         "headline": "Biden administration straddles its own \u2018red line\u2019 on Rafah invasion",
-        "location": "United States"
+        "location": "USA"
     },
     {
         "headline": "Israel tells negotiators to continue hostage talks",
@@ -225,26 +245,10 @@
     },
     {
         "headline": "Visualizing the scale of the floods that left south Brazil submerged",
-        "location": "Brazil"
+        "location": "Israel"
     },
     {
         "headline": "The ripple effects of the coup in Niger",
         "location": "Niger"
-    },
-    {
-        "headline": "Sunak vs. Starmer: What to know about the U.K. prime minister contenders",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Russia slams Kharkiv with missile barrage, killing printing-plant workers",
-        "location": "Russia"
-    },
-    {
-        "headline": "Man finds huge 30,000-year-old mammoth bones in his wine cellar",
-        "location": "Mexico"
-    },
-    {
-        "headline": "How Mexico\u2019s cartels infiltrated the tortilla business",
-        "location": "MexicoThese countries were identified through careful reading and analysis of the provided news headlines."
     }
 ]
