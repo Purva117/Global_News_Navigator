@@ -8,11 +8,19 @@
         ]
     },
     {
-        "headline": "Chile arrests firefighter for blaze that killed 137",
-        "location": "Chile",
+        "headline": "Burkina Faso extends military rule by five years",
+        "location": "Burkina Faso",
         "coordinates": [
-            -31.7613365,
-            -71.3187697
+            12.0753083,
+            -1.6880314
+        ]
+    },
+    {
+        "headline": "China attempts to counter Japan and South Korea\u2019s closer ties with U.S.",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
         ]
     },
     {
@@ -24,11 +32,27 @@
         ]
     },
     {
-        "headline": "Far right eyes Europe vote surge and ditches German AfD",
-        "location": "Germany",
+        "headline": "Colombia begins exploring \u2018holy grail of shipwrecks\u2019",
+        "location": "Colombia",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            4.099917,
+            -72.9088133
+        ]
+    },
+    {
+        "headline": "Colombia begins exploring \u2018holy grail of shipwrecks\u2019",
+        "location": "Colombia",
+        "coordinates": [
+            4.099917,
+            -72.9088133
+        ]
+    },
+    {
+        "headline": "Can a precocious prime minister hold off a far-right phenom in France?",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
         ]
     },
     {
@@ -40,31 +64,7 @@
         ]
     },
     {
-        "headline": "Kenya police to arrive in Haiti in 'three weeks'",
-        "location": "Haiti",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
-        "headline": "US missionaries killed in Haiti gang violence",
-        "location": "Haiti",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
-        "headline": "Three missionaries from Oklahoma-based group shot to death in Haiti",
-        "location": "Haiti",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
-        "headline": "India games arcade fire kills 24",
+        "headline": "Newborn babies die after fire at Delhi hospital",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "headline": "An Indian tale of love and sisterhood unfolds at Cannes",
+        "headline": "Newborn babies die after fire at Delhi hospital",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -88,11 +88,19 @@
         ]
     },
     {
-        "headline": "India games arcade fire kills 24",
-        "location": "India",
+        "headline": "UN fears 670 people buried under Papua landslide",
+        "location": "Indonesia",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            -2.4833826,
+            117.8902853
+        ]
+    },
+    {
+        "headline": "UN fears 670 people buried under Papua landslide",
+        "location": "Indonesia",
+        "coordinates": [
+            -2.4833826,
+            117.8902853
         ]
     },
     {
@@ -104,15 +112,7 @@
         ]
     },
     {
-        "headline": "Men in court over \u20ac2.1m cannabis seizure",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "Israeli activists battle over Gaza-bound aid convoys",
+        "headline": "Israeli strike hits Rafah after Hamas rocket barrage",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -144,7 +144,39 @@
         ]
     },
     {
-        "headline": "U.N. court order deepens Israel\u2019s isolation as it fights on in Rafah",
+        "headline": "Israeli strike hits Rafah after Hamas rocket barrage",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Hamas launches rocket attack towards Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel strikes hit Rafah camp after Hamas fires rockets toward Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Far-right Israeli settlers step up attacks on aid trucks bound for Gaza",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -160,47 +192,23 @@
         ]
     },
     {
-        "headline": "Israel tells negotiators to continue hostage talks",
-        "location": "Israel",
+        "headline": "Suspected Sinaloa cartel assassin extradited to US",
+        "location": "Mexico",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "Visualizing the scale of the floods that left south Brazil submerged",
-        "location": "Israel",
+        "headline": "Some 160 villagers reported taken in deadly raid in Nigeria",
+        "location": "Nigeria",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            9.6000359,
+            7.9999721
         ]
     },
     {
-        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
-        "location": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "Nicki Minaj gig cancelled following Amsterdam arrest",
-        "location": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "The ripple effects of the coup in Niger",
-        "location": "Niger",
-        "coordinates": [
-            17.7356214,
-            9.3238432
-        ]
-    },
-    {
-        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
+        "headline": "Papua New Guinea struggles to find the estimated 670 killed in landslide",
         "location": "Papua New Guinea",
         "coordinates": [
             -5.6816069,
@@ -208,23 +216,31 @@
         ]
     },
     {
-        "headline": "Race to rescue villagers trapped after Papua New Guinea landslide",
-        "location": "Papua New Guinea",
+        "headline": "Turbulence on Doha-Dublin flight leaves 12 injured",
+        "location": "Qatar",
         "coordinates": [
-            -5.6816069,
-            144.2489081
+            25.3336984,
+            51.2295295
         ]
     },
     {
-        "headline": "Race to rescue villagers trapped after deadly landslide",
-        "location": "Papua New Guinea",
+        "headline": "Passengers recall 'panic' as plane hit turbulence",
+        "location": "Qatar",
         "coordinates": [
-            -5.6816069,
-            144.2489081
+            25.3336984,
+            51.2295295
         ]
     },
     {
-        "headline": "Cynthia voted for Nelson Mandela. Now she's abandoning his successors",
+        "headline": "Turbulence on Doha-Dublin flight leaves 12 injured",
+        "location": "Qatar",
+        "coordinates": [
+            25.3336984,
+            51.2295295
+        ]
+    },
+    {
+        "headline": "The ANC hopes to conquer but will it struggle in South Africa poll?",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -232,7 +248,23 @@
         ]
     },
     {
-        "headline": "The politician, the astrologer and a murder that changed the law",
+        "headline": "130 people die at Sudan hospital amid city siege",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "130 people die at Sudan hospital amid city siege",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "Tornadoes and storms leave 15 dead across central US",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -240,7 +272,7 @@
         ]
     },
     {
-        "headline": "Clive Myrie: \u2018Mass shootings undermined my love for the US\u2019",
+        "headline": "'We saw the flight attendant just go up in the air'",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -248,7 +280,7 @@
         ]
     },
     {
-        "headline": "Super Size Me director Morgan Spurlock dies at 53",
+        "headline": "Boos and jeers for Trump at Libertarian convention",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -256,7 +288,31 @@
         ]
     },
     {
-        "headline": "Disney songwriter Richard M Sherman dies aged 95",
+        "headline": "Veteran sketch artists have never seen a trial like Trump's",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Tornadoes and storms leave 15 dead across central US",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump booed at Libertarian convention",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. silent as global condemnation of Israel\u2019s Rafah offensive grows",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -272,7 +328,7 @@
         ]
     },
     {
-        "headline": "Russian jamming leaves some high-tech U.S. weapons ineffective in Ukraine",
+        "headline": "Three missionaries from Oklahoma-based group shot to death in Haiti",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -280,23 +336,39 @@
         ]
     },
     {
-        "headline": "U.S. tries to downplay role in Haiti, but it\u2019s hard to hide the planes",
-        "location": "USA",
+        "headline": "Watch: BBC's Jeremy Bowen at the site of Kharkiv strike",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     },
     {
-        "headline": "Biden administration straddles its own \u2018red line\u2019 on Rafah invasion",
-        "location": "USA",
+        "headline": "\u2018If they see us they will bomb us\u2019 - watch as BBC reaches a hidden war\u2019s jungle front line",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     },
     {
-        "headline": "Russian strike on Kharkiv supermarket kills two",
+        "headline": "Meet the Peaky Blinders - Ukraine's drone squad defending Kharkiv",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "These Ukrainians were musicians before the war. Now they fight with song.",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Russia bombs market in Kharkiv, killing at least 6 and wounding 40",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,

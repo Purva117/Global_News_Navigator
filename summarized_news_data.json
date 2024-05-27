@@ -1,55 +1,71 @@
 [
     {
         "location": "Brazil",
-        "summary": "\u2022 A previously unknown indigenous tribe was discovered in the Amazon rainforest.\n\u2022 Loggers have been encroaching on their territory despite the presence of environmental laws protecting it.\n\u2022 The Brazilian government has failed to take action to protect the tribe or their land.",
+        "summary": "\u2022 Uncontacted indigenous tribe in Brazil faces threat from loggers\n\u2022 Government has failed to intervene or protect the tribe's territory",
         "coordinates": [
             -10.3333333,
             -53.2
         ]
     },
     {
-        "location": "Chile",
-        "summary": "\u2022 A Chilean firefighter has been arrested in connection with a devastating fire that claimed 137 lives.\n\u2022 The blaze occurred at a shopping mall in Santiago, resulting in one of the country's deadliest fires in recent history.\n\u2022 Authorities have launched an investigation into the cause of the fire, which remains unclear at this stage.",
+        "location": "Burkina Faso",
+        "summary": "\u2022 Military rule extended in Burkina Faso by five years\n\u2022 No additional information available about other developments or context surrounding this decision",
         "coordinates": [
-            -31.7613365,
-            -71.3187697
+            12.0753083,
+            -1.6880314
         ]
     },
     {
         "location": "China",
-        "summary": "\u2022 The US has lost its popularity in China.\n\u2022 Its influence is no longer as strong as it once was.\n\u2022 This change may be attributed to various factors.",
+        "summary": "\u2022 China seeks to counterbalance Japan and South Korea's strengthening ties with the US\n\u2022 US influence has waned in China due to declining trust and increasing assertiveness from Beijing",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
+        "location": "Colombia",
+        "summary": "\u2022 Colombia has started exploring what is considered the \"holy grail\" of shipwrecks.\n\u2022 The shipwreck, located off the coast of Colombia, holds significant historical value due to its cargo of gold, silver, and other precious items.\n\u2022 This discovery could provide valuable insights into maritime history and trade routes in the region.",
+        "coordinates": [
+            4.099917,
+            -72.9088133
+        ]
+    },
+    {
+        "location": "France",
+        "summary": "\u2022 The French government faces uncertainty as Prime Minister \u00c9douard Philippe struggles to contain the rising popularity of far-right leader Marine Le Pen.\n\u2022 Despite his efforts, Philippe's leadership is being challenged by Le Pen's growing influence among voters.\n\u2022 A potential showdown between the two politicians could reshape the country's political landscape.",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
         "location": "Germany",
-        "summary": "\u2022 The far-right movement is gaining popularity in European elections.\n\u2022 It is abandoning support for the German party Alternative for Germany (AfD).\n\u2022 This shift may lead to significant political changes in the region.",
+        "summary": "\u2022 The far-right party in Germany is shifting focus towards European elections.\n\u2022 They are leaving the German AfD to participate in European parliamentary polls instead.\n\u2022 This move indicates their desire to expand influence across the continent.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "Haiti",
-        "summary": "\u2022 Kenyan police will arrive in Haiti within three weeks.\n\u2022 US missionaries were killed in Haiti due to gang violence.\n\u2022 Three missionaries from an Oklahoma-based group were fatally shot in Haiti.",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
         "location": "India",
-        "summary": "1. A fire in an Indian games arcade killed 24 people.\n2. The incident occurred due to a possible short circuit or electrical issue.\n3. The victims included both children and adults, with several injured still hospitalized.",
+        "summary": "\u2022 A fire at a Delhi hospital resulted in the death of newborn babies.\n\u2022 An arcade in India caught on fire, causing damage and injury to patrons.\n\u2022 The same type of fire occurred again at another Delhi hospital, resulting in fatalities among newborns.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
+        "location": "Indonesia",
+        "summary": "\u2022 A devastating landslide in Papua has left 670 people feared buried.\n\u2022 The United Nations is concerned about the impact on the affected community.\n\u2022 Search and rescue efforts are underway to locate survivors.",
+        "coordinates": [
+            -2.4833826,
+            117.8902853
+        ]
+    },
+    {
         "location": "Ireland",
-        "summary": "\u2022 Ireland, Norway, and Spain recognize Palestine as a sovereign state.\n\u2022 Three men appear in court regarding a \u20ac2.1 million cannabis seizure.",
+        "summary": "\u2022 Ireland, Norway, and Spain will recognize Palestine as a sovereign state.\n\u2022 This decision aims to support the peace process between Israelis and Palestinians.\n\u2022 The move may lead to increased diplomatic engagement and cooperation between the three countries and Palestine.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -57,47 +73,63 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli activists clash over Gaza-bound aid convoys.\n\u2022 Three more Israeli hostages found dead in Gaza; negotiations ongoing.\n\u2022 Israel reinstates Associated Press' Gaza live feed after previous shutdown.",
+        "summary": "\u2022 An Israeli airstrike targeted Rafah in response to a Hamas rocket barrage.\n\u2022 The conflict escalated with three Israeli hostages found dead in Gaza and a rocket attack on Tel Aviv.\n\u2022 The Associated Press' Gaza live feed was reinstated after being suspended due to security concerns.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Netherlands",
-        "summary": "\u2022 Nicki Minaj's concert in Amsterdam was cancelled due to her arrest.\n\u2022 The concert cancellation occurred after her detention by Dutch authorities.\n\u2022 No further details about the reason for the arrest have been disclosed.",
+        "location": "Mexico",
+        "summary": "\u2022 A suspected member of the Sinaloa cartel has been extradited from Mexico to the United States\n\u2022 The individual faces charges related to drug trafficking and other criminal offenses in the US\n\u2022 Their extradition marks another significant cooperation between Mexican and American law enforcement agencies",
         "coordinates": [
-            52.2434979,
-            5.6343227
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "location": "Niger",
-        "summary": "\u2022 A military junta seized power in Niger, led by Colonel Mamadou Bazoumoun Koyari.\n\u2022 The new government faces significant challenges in maintaining stability, including addressing economic issues, regional tensions, and international reactions.",
+        "location": "Nigeria",
+        "summary": "\u2022 160 villagers were reportedly taken during a deadly raid in Nigeria.\n\u2022 The number of fatalities remains unknown due to lack of official confirmation.\n\u2022 The reason behind the raid is currently unclear.",
         "coordinates": [
-            17.7356214,
-            9.3238432
+            9.6000359,
+            7.9999721
         ]
     },
     {
         "location": "Papua New Guinea",
-        "summary": "\u2022 Rescue efforts underway in Papua New Guinea following a deadly landslide that has trapped villagers.\n\u2022 Emergency teams racing against time to reach isolated communities affected by the disaster.\n\u2022 Multiple landslides reported in the region, causing widespread destruction and loss of life.",
+        "summary": "\u2022 At least 670 people remain unaccounted for after a massive landslide hit Papua New Guinea.\n\u2022 Authorities face challenges in locating survivors amidst challenging terrain and harsh weather conditions.\n\u2022 The government is working with local communities to search for missing persons and provide aid to affected families.",
         "coordinates": [
             -5.6816069,
             144.2489081
         ]
     },
     {
+        "location": "Qatar",
+        "summary": "\u2022 A recent Doha-Dublin flight experienced turbulence, leaving 12 passengers injured.\n\u2022 The incident caused panic among passengers due to sudden air pockets.\n\u2022 Emergency services attended to those affected upon landing.",
+        "coordinates": [
+            25.3336984,
+            51.2295295
+        ]
+    },
+    {
         "location": "South Africa",
-        "summary": "\u2022 Cynthia initially supported Nelson Mandela.\n\u2022 She is now withdrawing her support from his successors.\n\u2022 The reason for this change in stance is unknown.",
+        "summary": "\u2022 The African National Congress (ANC) aims to win the upcoming election.\n\u2022 The party faces challenges due to internal divisions and economic issues.\n\u2022 The outcome remains uncertain due to various factors.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
+        "location": "Sudan",
+        "summary": "\u2022 At least 130 people died in a Sudanese hospital due to shortages of medical supplies and oxygen during a city siege.\n\u2022 The situation was exacerbated by an ongoing political crisis and economic instability in Sudan.\n\u2022 The hospital's supply chain was severely disrupted due to lack of access to essential resources.",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
         "location": "USA",
-        "summary": "\u2022 A murder case involving a politician and an astrologer led to changes in the law.\n\u2022 Clive Myrie is disillusioned with the US due to mass shootings.\n\u2022 Disney songwriter Richard M Sherman has died at age 95.",
+        "summary": "\u2022 Tornadoes and storms left 15 people dead across the central United States.\n\u2022 The Libertarians booed President Donald Trump during his speech at their convention.\n\u2022 Three missionaries from an Oklahoma-based organization were killed in Haiti.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -105,7 +137,7 @@
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 A Russian airstrike hits a Kharkiv supermarket, killing two people.\n\u2022 The attack occurs amid ongoing conflict between Russia and Ukraine.\n\u2022 Details about other victims or damage are unknown.",
+        "summary": "1. The BBC reports on the impact of a strike in Kharkiv, Ukraine.\n2. Ukrainian drone operators, inspired by the TV show Peaky Blinders, use drones to defend their city from enemy attacks.\n3. At least six people died and 40 others were injured after a Russian airstrike hit a market in Kharkiv, Ukraine.",
         "coordinates": [
             49.4871968,
             31.2718321
