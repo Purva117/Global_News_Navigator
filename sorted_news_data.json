@@ -8,14 +8,6 @@
         ]
     },
     {
-        "headline": "Burkina Faso extends military rule by five years",
-        "location": "Burkina Faso",
-        "coordinates": [
-            12.0753083,
-            -1.6880314
-        ]
-    },
-    {
         "headline": "China attempts to counter Japan and South Korea\u2019s closer ties with U.S.",
         "location": "China",
         "coordinates": [
@@ -24,31 +16,15 @@
         ]
     },
     {
-        "headline": "The United States used to have cachet in China. Not anymore.",
-        "location": "China",
+        "headline": "Egyptian soldier killed in Israel border incident",
+        "location": "Egypt",
         "coordinates": [
-            35.000074,
-            104.999927
+            26.2540493,
+            29.2675469
         ]
     },
     {
-        "headline": "Colombia begins exploring \u2018holy grail of shipwrecks\u2019",
-        "location": "Colombia",
-        "coordinates": [
-            4.099917,
-            -72.9088133
-        ]
-    },
-    {
-        "headline": "Colombia begins exploring \u2018holy grail of shipwrecks\u2019",
-        "location": "Colombia",
-        "coordinates": [
-            4.099917,
-            -72.9088133
-        ]
-    },
-    {
-        "headline": "Can a precocious prime minister hold off a far-right phenom in France?",
+        "headline": "French town reels from fortune teller scandal",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -56,15 +32,7 @@
         ]
     },
     {
-        "headline": "Far right eyes Europe vote surge and ditches German AfD",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "Newborn babies die after fire at Delhi hospital",
+        "headline": "Delhi hospital where babies died lacked licence",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -80,7 +48,7 @@
         ]
     },
     {
-        "headline": "Newborn babies die after fire at Delhi hospital",
+        "headline": "Features",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -88,31 +56,15 @@
         ]
     },
     {
-        "headline": "UN fears 670 people buried under Papua landslide",
-        "location": "Indonesia",
+        "headline": "LGBTQ Indians are more accepted than ever - but politics hasn't caught up",
+        "location": "India",
         "coordinates": [
-            -2.4833826,
-            117.8902853
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "UN fears 670 people buried under Papua landslide",
-        "location": "Indonesia",
-        "coordinates": [
-            -2.4833826,
-            117.8902853
-        ]
-    },
-    {
-        "headline": "Ireland, Norway and Spain to recognise Palestinian state",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "Israeli strike hits Rafah after Hamas rocket barrage",
+        "headline": "Deadly strike on Rafah a tragic mishap, Netanyahu says",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -120,7 +72,7 @@
         ]
     },
     {
-        "headline": "Israel-Gaza war",
+        "headline": "Deadly strike on Rafah a tragic mishap, Netanyahu says",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -128,7 +80,7 @@
         ]
     },
     {
-        "headline": "Three more Israeli hostages' bodies found in Gaza",
+        "headline": "Dozens reported killed in Israeli strike on Rafah",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -136,31 +88,7 @@
         ]
     },
     {
-        "headline": "Israel revokes decision to shut down Associated Press news agency's Gaza live feed",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israeli strike hits Rafah after Hamas rocket barrage",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Hamas launches rocket attack towards Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israel strikes hit Rafah camp after Hamas fires rockets toward Tel Aviv",
+        "headline": "Israel strikes hit Rafah camp, killing dozens",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -176,7 +104,7 @@
         ]
     },
     {
-        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
+        "headline": "U.S. silent as global condemnation of Israel\u2019s Rafah offensive grows",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -184,7 +112,7 @@
         ]
     },
     {
-        "headline": "Israel\u2019s isolation deepens on the world stage",
+        "headline": "U.N. chief \u2018trusts\u2019 Israel will comply with ICJ order to halt Rafah assault",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -192,7 +120,31 @@
         ]
     },
     {
-        "headline": "Suspected Sinaloa cartel assassin extradited to US",
+        "headline": "Kenyan leader says private jet cheaper option",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "Priced out of home ownership - 'It makes me want to throw up'",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "The ex-con, illegal guns and the fear of Kenya's police",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "Kidnapped man running for mayor in Mexico found alive",
         "location": "Mexico",
         "coordinates": [
             19.4326296,
@@ -200,11 +152,27 @@
         ]
     },
     {
-        "headline": "Some 160 villagers reported taken in deadly raid in Nigeria",
-        "location": "Nigeria",
+        "headline": "Claudia Sheinbaum is likely to be Mexico\u2019s next president. Who is she?",
+        "location": "Mexico",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "headline": "Papua New Guinea fears thousands buried after landslide",
+        "location": "Papua New Guinea",
+        "coordinates": [
+            -5.6816069,
+            144.2489081
+        ]
+    },
+    {
+        "headline": "Papua New Guinea landslide buries over 2,000, official estimates to U.N.",
+        "location": "Papua New Guinea",
+        "coordinates": [
+            -5.6816069,
+            144.2489081
         ]
     },
     {
@@ -216,7 +184,7 @@
         ]
     },
     {
-        "headline": "Turbulence on Doha-Dublin flight leaves 12 injured",
+        "headline": "12 injured in severe turbulence on Qatar Airways flight",
         "location": "Qatar",
         "coordinates": [
             25.3336984,
@@ -224,23 +192,7 @@
         ]
     },
     {
-        "headline": "Passengers recall 'panic' as plane hit turbulence",
-        "location": "Qatar",
-        "coordinates": [
-            25.3336984,
-            51.2295295
-        ]
-    },
-    {
-        "headline": "Turbulence on Doha-Dublin flight leaves 12 injured",
-        "location": "Qatar",
-        "coordinates": [
-            25.3336984,
-            51.2295295
-        ]
-    },
-    {
-        "headline": "The ANC hopes to conquer but will it struggle in South Africa poll?",
+        "headline": "Political killings rock South Africa as it heads into elections",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -248,23 +200,15 @@
         ]
     },
     {
-        "headline": "130 people die at Sudan hospital amid city siege",
-        "location": "Sudan",
+        "headline": "Newly verified Caravaggio goes on show in Madrid",
+        "location": "Spain",
         "coordinates": [
-            10.9,
-            6.5
+            39.3260685,
+            -4.8379791
         ]
     },
     {
-        "headline": "130 people die at Sudan hospital amid city siege",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "Tornadoes and storms leave 15 dead across central US",
+        "headline": "Millions of Americans under storm alerts after deadly tornadoes",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -272,7 +216,23 @@
         ]
     },
     {
-        "headline": "'We saw the flight attendant just go up in the air'",
+        "headline": "Millions of Americans under storm alerts after deadly tornadoes",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Longest-serving flight attendant dies at 88",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch: Airport employee informs Nicki Minaj of bag search",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -288,7 +248,7 @@
         ]
     },
     {
-        "headline": "Veteran sketch artists have never seen a trial like Trump's",
+        "headline": "The evidence which may decide Trump's fate at trial",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -296,7 +256,7 @@
         ]
     },
     {
-        "headline": "Tornadoes and storms leave 15 dead across central US",
+        "headline": "NBA Hall of Famer and broadcaster Bill Walton dies at 71",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -304,7 +264,7 @@
         ]
     },
     {
-        "headline": "Trump booed at Libertarian convention",
+        "headline": "Biden honours fallen service members on Memorial Day",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -312,7 +272,23 @@
         ]
     },
     {
-        "headline": "U.S. silent as global condemnation of Israel\u2019s Rafah offensive grows",
+        "headline": "Biden says US troops fight to protect democracy",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. lawmakers ignore China\u2019s warning, meet with Taiwan\u2019s new leader",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "The United States used to have cachet in China. Not anymore.",
         "location": "USA",
         "coordinates": [
             39.7837304,
@@ -328,15 +304,7 @@
         ]
     },
     {
-        "headline": "Three missionaries from Oklahoma-based group shot to death in Haiti",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch: BBC's Jeremy Bowen at the site of Kharkiv strike",
+        "headline": "Force Russia to make peace, Zelensky urges West",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -352,7 +320,7 @@
         ]
     },
     {
-        "headline": "Meet the Peaky Blinders - Ukraine's drone squad defending Kharkiv",
+        "headline": "Force Russia to make peace, Zelensky urges West",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -361,14 +329,6 @@
     },
     {
         "headline": "These Ukrainians were musicians before the war. Now they fight with song.",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Russia bombs market in Kharkiv, killing at least 6 and wounding 40",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,

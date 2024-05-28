@@ -1,103 +1,71 @@
 [
     {
         "location": "Brazil",
-        "summary": "\u2022 Uncontacted indigenous tribe in Brazil faces threat from loggers\n\u2022 Government has failed to intervene or protect the tribe's territory",
+        "summary": "\u2022 Uncontacted tribe faces threat from loggers.\n\u2022 Government fails to take action to protect the tribe.\n\u2022 Tribe's existence is at risk due to logging activities.",
         "coordinates": [
             -10.3333333,
             -53.2
         ]
     },
     {
-        "location": "Burkina Faso",
-        "summary": "\u2022 Military rule extended in Burkina Faso by five years\n\u2022 No additional information available about other developments or context surrounding this decision",
-        "coordinates": [
-            12.0753083,
-            -1.6880314
-        ]
-    },
-    {
         "location": "China",
-        "summary": "\u2022 China seeks to counterbalance Japan and South Korea's strengthening ties with the US\n\u2022 US influence has waned in China due to declining trust and increasing assertiveness from Beijing",
+        "summary": "\u2022 China seeks to strengthen its relations with other countries in Asia to counterbalance the growing alliance between Japan and South Korea and the United States.\n\u2022 China is exploring options to improve economic cooperation and deepen strategic partnerships with Southeast Asian nations like Indonesia, Malaysia, and Singapore.\n\u2022 The move aims to reduce China's dependence on trade with the US and boost regional stability through multilateral agreements and joint infrastructure projects.",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
-        "location": "Colombia",
-        "summary": "\u2022 Colombia has started exploring what is considered the \"holy grail\" of shipwrecks.\n\u2022 The shipwreck, located off the coast of Colombia, holds significant historical value due to its cargo of gold, silver, and other precious items.\n\u2022 This discovery could provide valuable insights into maritime history and trade routes in the region.",
+        "location": "Egypt",
+        "summary": "\u2022 An Egyptian soldier was killed during an incident at the Israeli-Egyptian border.\n\u2022 The cause of the incident is unclear.\n\u2022 There have been no reports on casualties or damage from other parties involved.",
         "coordinates": [
-            4.099917,
-            -72.9088133
+            26.2540493,
+            29.2675469
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 The French government faces uncertainty as Prime Minister \u00c9douard Philippe struggles to contain the rising popularity of far-right leader Marine Le Pen.\n\u2022 Despite his efforts, Philippe's leadership is being challenged by Le Pen's growing influence among voters.\n\u2022 A potential showdown between the two politicians could reshape the country's political landscape.",
+        "summary": "\u2022 A fortune teller in France was found to have defrauded clients out of millions of euros.\n\u2022 The scam was uncovered by authorities investigating money laundering allegations.\n\u2022 Many victims have come forward to report their losses, leading to widespread outrage.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Germany",
-        "summary": "\u2022 The far-right party in Germany is shifting focus towards European elections.\n\u2022 They are leaving the German AfD to participate in European parliamentary polls instead.\n\u2022 This move indicates their desire to expand influence across the continent.",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
         "location": "India",
-        "summary": "\u2022 A fire at a Delhi hospital resulted in the death of newborn babies.\n\u2022 An arcade in India caught on fire, causing damage and injury to patrons.\n\u2022 The same type of fire occurred again at another Delhi hospital, resulting in fatalities among newborns.",
+        "summary": "1. A hospital in Delhi faced criticism after it was found to be operating without a valid license, which may have contributed to the deaths of several babies.\n2. An investigation is underway into an incident involving a devastating fire that broke out at an arcade in India, resulting in fatalities.\n3. Despite increased social acceptance of LGBTQ individuals, political policies and laws remain outdated and discriminatory towards this community.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Indonesia",
-        "summary": "\u2022 A devastating landslide in Papua has left 670 people feared buried.\n\u2022 The United Nations is concerned about the impact on the affected community.\n\u2022 Search and rescue efforts are underway to locate survivors.",
-        "coordinates": [
-            -2.4833826,
-            117.8902853
-        ]
-    },
-    {
-        "location": "Ireland",
-        "summary": "\u2022 Ireland, Norway, and Spain will recognize Palestine as a sovereign state.\n\u2022 This decision aims to support the peace process between Israelis and Palestinians.\n\u2022 The move may lead to increased diplomatic engagement and cooperation between the three countries and Palestine.",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "location": "Israel",
-        "summary": "\u2022 An Israeli airstrike targeted Rafah in response to a Hamas rocket barrage.\n\u2022 The conflict escalated with three Israeli hostages found dead in Gaza and a rocket attack on Tel Aviv.\n\u2022 The Associated Press' Gaza live feed was reinstated after being suspended due to security concerns.",
+        "summary": "\u2022 Prime Minister Netanyahu calls deadly strike on Rafah a \"tragic mishap\".\n\u2022 The strike resulted in dozens of deaths.\n\u2022 Israel's actions spark international criticism, with the UN calling for compliance with an ICJ order to stop the assault.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
+        "location": "Kenya",
+        "summary": "\u2022 Kenyan leader suggests private jets as a cost-effective alternative.\n\u2022 Rising housing costs in Kenya make homeownership unaffordable for many.\n\u2022 Ex-convicts with illegal firearms instill fear among Kenyan law enforcement officials.",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
         "location": "Mexico",
-        "summary": "\u2022 A suspected member of the Sinaloa cartel has been extradited from Mexico to the United States\n\u2022 The individual faces charges related to drug trafficking and other criminal offenses in the US\n\u2022 Their extradition marks another significant cooperation between Mexican and American law enforcement agencies",
+        "summary": "\u2022 A kidnapped Mexican politician, who was running for mayor, has been found alive.\n\u2022 Claudia Sheinbaum Pardo is expected to become Mexico's first female president if elected.\n\u2022 There are no other significant updates related to Mexico mentioned in the provided news headlines.",
         "coordinates": [
             19.4326296,
             -99.1331785
         ]
     },
     {
-        "location": "Nigeria",
-        "summary": "\u2022 160 villagers were reportedly taken during a deadly raid in Nigeria.\n\u2022 The number of fatalities remains unknown due to lack of official confirmation.\n\u2022 The reason behind the raid is currently unclear.",
-        "coordinates": [
-            9.6000359,
-            7.9999721
-        ]
-    },
-    {
         "location": "Papua New Guinea",
-        "summary": "\u2022 At least 670 people remain unaccounted for after a massive landslide hit Papua New Guinea.\n\u2022 Authorities face challenges in locating survivors amidst challenging terrain and harsh weather conditions.\n\u2022 The government is working with local communities to search for missing persons and provide aid to affected families.",
+        "summary": "\u2022 Thousands feared buried by landslide in Papua New Guinea.\n\u2022 Landslide kills an estimated 670 people in Papua New Guinea.\n\u2022 Authorities struggle to locate victims due to remote location and rugged terrain.",
         "coordinates": [
             -5.6816069,
             144.2489081
@@ -105,7 +73,7 @@
     },
     {
         "location": "Qatar",
-        "summary": "\u2022 A recent Doha-Dublin flight experienced turbulence, leaving 12 passengers injured.\n\u2022 The incident caused panic among passengers due to sudden air pockets.\n\u2022 Emergency services attended to those affected upon landing.",
+        "summary": "\u2022 12 passengers were injured during a severe bout of turbulence on a Qatar Airways flight.\n\u2022 The incident occurred while the plane was flying over international waters.\n\u2022 All passengers have since been safely disembarked from the aircraft.",
         "coordinates": [
             25.3336984,
             51.2295295
@@ -113,23 +81,23 @@
     },
     {
         "location": "South Africa",
-        "summary": "\u2022 The African National Congress (ANC) aims to win the upcoming election.\n\u2022 The party faces challenges due to internal divisions and economic issues.\n\u2022 The outcome remains uncertain due to various factors.",
+        "summary": "\u2022 Political tensions escalate in South Africa ahead of upcoming elections\n\u2022 Multiple political killings reported in recent weeks\n\u2022 Concerns over safety and stability during election period",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Sudan",
-        "summary": "\u2022 At least 130 people died in a Sudanese hospital due to shortages of medical supplies and oxygen during a city siege.\n\u2022 The situation was exacerbated by an ongoing political crisis and economic instability in Sudan.\n\u2022 The hospital's supply chain was severely disrupted due to lack of access to essential resources.",
+        "location": "Spain",
+        "summary": "\u2022 A newly verified Caravaggio painting is being exhibited in Madrid.\n\u2022 The artwork has been authenticated by experts after years of study and research.\n\u2022 This rare opportunity allows art enthusiasts to see the masterpiece up close in its new location.",
         "coordinates": [
-            10.9,
-            6.5
+            39.3260685,
+            -4.8379791
         ]
     },
     {
         "location": "USA",
-        "summary": "\u2022 Tornadoes and storms left 15 people dead across the central United States.\n\u2022 The Libertarians booed President Donald Trump during his speech at their convention.\n\u2022 Three missionaries from an Oklahoma-based organization were killed in Haiti.",
+        "summary": "\u2022 Deadly tornadoes prompt millions of Americans to seek shelter or evacuate due to severe weather alerts.\n\u2022 US President honors fallen service members during Memorial Day events; also reaffirms commitment to protecting American democracy abroad.\n\u2022 Several notable figures pass away, including a veteran flight attendant, an NBA legend, and a renowned basketball commentator.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -137,7 +105,7 @@
     },
     {
         "location": "Ukraine",
-        "summary": "1. The BBC reports on the impact of a strike in Kharkiv, Ukraine.\n2. Ukrainian drone operators, inspired by the TV show Peaky Blinders, use drones to defend their city from enemy attacks.\n3. At least six people died and 40 others were injured after a Russian airstrike hit a market in Kharkiv, Ukraine.",
+        "summary": "\u2022 Ukrainian President Zelensky urges the West to force Russia to make peace.\n\u2022 The West is being urged to take action against Russia by Ukrainian President Volodymyr Zelensky to end the ongoing conflict between the two nations.\n\u2022 Ukrainian musicians have now turned into fighters during the conflict.",
         "coordinates": [
             49.4871968,
             31.2718321
