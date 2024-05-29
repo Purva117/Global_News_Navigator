@@ -1,114 +1,114 @@
 [
     {
-        "location": "Brazil",
-        "summary": "\u2022 Uncontacted tribe faces threat from loggers.\n\u2022 Government fails to take action to protect the tribe.\n\u2022 Tribe's existence is at risk due to logging activities.",
+        "location": "Georgia",
+        "summary": "\u2022 Georgia's parliament has passed a 'foreign agent' law modeled after Russia's.\n\u2022 The law requires non-governmental organizations receiving foreign funding to register as \"foreign agents\".\n\u2022 This move is seen as a win for Russia, which has been pushing for similar laws across its borders.",
         "coordinates": [
-            -10.3333333,
-            -53.2
-        ]
-    },
-    {
-        "location": "China",
-        "summary": "\u2022 China seeks to strengthen its relations with other countries in Asia to counterbalance the growing alliance between Japan and South Korea and the United States.\n\u2022 China is exploring options to improve economic cooperation and deepen strategic partnerships with Southeast Asian nations like Indonesia, Malaysia, and Singapore.\n\u2022 The move aims to reduce China's dependence on trade with the US and boost regional stability through multilateral agreements and joint infrastructure projects.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "location": "Egypt",
-        "summary": "\u2022 An Egyptian soldier was killed during an incident at the Israeli-Egyptian border.\n\u2022 The cause of the incident is unclear.\n\u2022 There have been no reports on casualties or damage from other parties involved.",
-        "coordinates": [
-            26.2540493,
-            29.2675469
-        ]
-    },
-    {
-        "location": "France",
-        "summary": "\u2022 A fortune teller in France was found to have defrauded clients out of millions of euros.\n\u2022 The scam was uncovered by authorities investigating money laundering allegations.\n\u2022 Many victims have come forward to report their losses, leading to widespread outrage.",
-        "coordinates": [
-            46.603354,
-            1.8883335
+            32.3293809,
+            -83.1137366
         ]
     },
     {
         "location": "India",
-        "summary": "1. A hospital in Delhi faced criticism after it was found to be operating without a valid license, which may have contributed to the deaths of several babies.\n2. An investigation is underway into an incident involving a devastating fire that broke out at an arcade in India, resulting in fatalities.\n3. Despite increased social acceptance of LGBTQ individuals, political policies and laws remain outdated and discriminatory towards this community.",
+        "summary": "\u2022 India's Prime Minister faces re-election challenge from opposition parties.\n\u2022 State elections will play a crucial role in determining his chances of winning.\n\u2022 National polls suggest a close race ahead of the election.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
+        "location": "Iran",
+        "summary": "\u2022 Iran was responsible for at least 285 reported executions in 2023, according to Amnesty International.\n\u2022 This represents a significant increase from previous years, with 106 reported executions in 2022 and 246 in 2019.\n\u2022 The organization attributes the surge in executions to the country's strict drug laws, which can result in capital punishment for non-violent crimes such as drug possession.",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
         "location": "Israel",
-        "summary": "\u2022 Prime Minister Netanyahu calls deadly strike on Rafah a \"tragic mishap\".\n\u2022 The strike resulted in dozens of deaths.\n\u2022 Israel's actions spark international criticism, with the UN calling for compliance with an ICJ order to stop the assault.",
+        "summary": "\u2022 Israeli tanks have entered central Rafah.\n\u2022 21 people were killed in an airstrike in Rafah.\n\u2022 Eyewitnesses described horrific scenes at the site of the attack.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 Kenyan leader suggests private jets as a cost-effective alternative.\n\u2022 Rising housing costs in Kenya make homeownership unaffordable for many.\n\u2022 Ex-convicts with illegal firearms instill fear among Kenyan law enforcement officials.",
+        "location": "Italy",
+        "summary": "\u2022 A long-lost Caravaggio painting of \"extraordinary value\" has been shown for the first time.\n\u2022 The painting is highly valuable due to its rarity and historical significance.\n\u2022 Its exhibition marks a significant cultural event in Italy.",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            42.6384261,
+            12.674297
         ]
     },
     {
         "location": "Mexico",
-        "summary": "\u2022 A kidnapped Mexican politician, who was running for mayor, has been found alive.\n\u2022 Claudia Sheinbaum Pardo is expected to become Mexico's first female president if elected.\n\u2022 There are no other significant updates related to Mexico mentioned in the provided news headlines.",
+        "summary": "\u2022 Claudia Sheinbaum Pardo is a Mexican politician who has been nominated by the National Regeneration Movement party as their candidate for President in the upcoming election.\n\u2022 As a former engineer and economist, she brings a unique combination of technical expertise and political experience to the role.\n\u2022 Her nomination marks a significant milestone in Mexican politics, as she would become the first female president if elected.",
         "coordinates": [
             19.4326296,
             -99.1331785
         ]
     },
     {
+        "location": "Netherlands",
+        "summary": "\u2022 Former Dutch spy chief Dick Schoof has been nominated as a prime minister candidate.\n\u2022 He was chosen by the Netherlands' hard-right coalition.\n\u2022 This decision marks a significant shift in the country's political landscape.",
+        "coordinates": [
+            52.2434979,
+            5.6343227
+        ]
+    },
+    {
+        "location": "Nigeria",
+        "summary": "\u2022 Despite facing challenges, President Bola Tinubu has implemented policies aimed at boosting economic growth and security in Nigeria.\n\u2022 The country continues to face corruption and infrastructure issues despite these efforts.\n\u2022 Inflation remains a concern, with prices rising by over 15% in the past year.",
+        "coordinates": [
+            9.6000359,
+            7.9999721
+        ]
+    },
+    {
         "location": "Papua New Guinea",
-        "summary": "\u2022 Thousands feared buried by landslide in Papua New Guinea.\n\u2022 Landslide kills an estimated 670 people in Papua New Guinea.\n\u2022 Authorities struggle to locate victims due to remote location and rugged terrain.",
+        "summary": "\u2022 A landslide in Papua New Guinea has left many without homes.\n\u2022 The disaster has affected around 7,900 people with limited hopes of finding more survivors.\n\u2022 Emergency responders have been searching through the rubble to help those affected.",
         "coordinates": [
             -5.6816069,
             144.2489081
         ]
     },
     {
-        "location": "Qatar",
-        "summary": "\u2022 12 passengers were injured during a severe bout of turbulence on a Qatar Airways flight.\n\u2022 The incident occurred while the plane was flying over international waters.\n\u2022 All passengers have since been safely disembarked from the aircraft.",
-        "coordinates": [
-            25.3336984,
-            51.2295295
-        ]
-    },
-    {
         "location": "South Africa",
-        "summary": "\u2022 Political tensions escalate in South Africa ahead of upcoming elections\n\u2022 Multiple political killings reported in recent weeks\n\u2022 Concerns over safety and stability during election period",
+        "summary": "\u2022 The African National Congress (ANC) faces uncertainty regarding its majority status in the election.\n\u2022 Political violence is on the rise ahead of the election, threatening stability.\n\u2022 Elections will determine the fate of the ANC's dominance in South African politics.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 A newly verified Caravaggio painting is being exhibited in Madrid.\n\u2022 The artwork has been authenticated by experts after years of study and research.\n\u2022 This rare opportunity allows art enthusiasts to see the masterpiece up close in its new location.",
+        "location": "Ukraine",
+        "summary": "\u2022 Jeremy Bowen reports from the site of a strike in Kharkiv.\n\u2022 He also visits the jungle front line where Ukrainian forces fear being bombed if spotted.\n\u2022 The conflict marks Ukraine's worst crisis since the start of the war.",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            49.4871968,
+            31.2718321
         ]
     },
     {
-        "location": "USA",
-        "summary": "\u2022 Deadly tornadoes prompt millions of Americans to seek shelter or evacuate due to severe weather alerts.\n\u2022 US President honors fallen service members during Memorial Day events; also reaffirms commitment to protecting American democracy abroad.\n\u2022 Several notable figures pass away, including a veteran flight attendant, an NBA legend, and a renowned basketball commentator.",
+        "location": "United Kingdom",
+        "summary": "\u2022 A new satellite will study cloud formation and its impact on climate change.\n\u2022 The UK has grounded its entire WWII-era Spitfire fleet due to safety concerns after a fatal accident.\n\u2022 UK conservatives propose introducing compulsory national service for young people, which may appeal less to Gen Z.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "location": "United States",
+        "summary": "\u2022 The US believes Israel's recent operation in Rafah was not a major offensive.\n\u2022 Heavy seas have rendered the US Gaza aid pier unusable.\n\u2022 A suspect has been charged with injuring six people during a knife attack in the US.",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 Ukrainian President Zelensky urges the West to force Russia to make peace.\n\u2022 The West is being urged to take action against Russia by Ukrainian President Volodymyr Zelensky to end the ongoing conflict between the two nations.\n\u2022 Ukrainian musicians have now turned into fighters during the conflict.",
+        "location": "Zambia",
+        "summary": "\u2022 A row has erupted over the mysterious disappearance of a Zambian Member of Parliament.\n\u2022 The missing politician's family is seeking answers from authorities about his whereabouts.\n\u2022 An investigation is underway to determine what happened to him.",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            -14.5189121,
+            27.5589884
         ]
     }
 ]
