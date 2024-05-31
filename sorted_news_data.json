@@ -1,14 +1,46 @@
 [
     {
-        "headline": "Georgia enacts Russian-style \u2018foreign agent\u2019 law in victory for Moscow",
-        "location": "Georgia",
+        "headline": "Australia\u2019s new \u2018men\u2019s behavior change\u2019 secretary says the job won\u2019t be easy",
+        "location": "Australia",
         "coordinates": [
-            32.3293809,
-            -83.1137366
+            -24.7761086,
+            134.755
         ]
     },
     {
-        "headline": "Who are the 47 democracy activists facing jail in Hong Kong?",
+        "headline": "Dinosaur hunter stumbles across million-dollar find",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
+        "headline": "All Eyes on Rafah: The post that's been   shared by more than 47m people",
+        "location": "Egypt",
+        "coordinates": [
+            26.2540493,
+            29.2675469
+        ]
+    },
+    {
+        "headline": "Model sues over Cannes red carpet 'assault'",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Russia not invited to D-Day 80th anniversary ceremonies, \u00c9lys\u00e9e says",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Hong Kong convicts 14 activists of subversion",
         "location": "Hong Kong",
         "coordinates": [
             22.2793278,
@@ -16,7 +48,7 @@
         ]
     },
     {
-        "headline": "Who are the 47 democracy activists facing jail in Hong Kong?",
+        "headline": "Hong Kong convicts 14 pro-democracy activists of subversion in landmark case",
         "location": "Hong Kong",
         "coordinates": [
             22.2793278,
@@ -24,23 +56,7 @@
         ]
     },
     {
-        "headline": "Who are the 47 democracy activists facing jail in Hong Kong?",
-        "location": "Hong Kong",
-        "coordinates": [
-            22.2793278,
-            114.1628131
-        ]
-    },
-    {
-        "headline": "Black men sue American Airlines for 'racial discrimination'",
-        "location": "Hong Kong",
-        "coordinates": [
-            22.2793278,
-            114.1628131
-        ]
-    },
-    {
-        "headline": "'Curtain of fire': Iceland volcano forces evacuation",
+        "headline": "Seoul to offer cash to reverse vasectomies, untie tubes as birthrate falls",
         "location": "Iceland",
         "coordinates": [
             64.9841821,
@@ -48,7 +64,7 @@
         ]
     },
     {
-        "headline": "'Curtain of fire': Iceland volcano forces evacuation",
+        "headline": "Icelandic volcano spews lava in what could be its fiercest eruption",
         "location": "Iceland",
         "coordinates": [
             64.9841821,
@@ -56,23 +72,7 @@
         ]
     },
     {
-        "headline": "Varanasi: The ancient city at the heart of India\u2019s election",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "India\u2019s historic election",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Israel controls corridor on Gaza-Egypt border - military",
+        "headline": "Israel extends control of Gaza's entire land border",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "headline": "Gaza war could go on for rest of 2024, says Israel PM's aide",
+        "headline": "Most Israelis rate military\u2019s campaign in Gaza \u2018about right\u2019 or not enough",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -104,35 +104,19 @@
         ]
     },
     {
-        "headline": "Pentagon suspends aid deliveries via Gaza pier after repeated mishaps",
-        "location": "Israel",
+        "headline": "Italy\u2019s PM says fascism is \u2018consigned to history\u2019. Not everyone is so sure",
+        "location": "Italy",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "Person killed by jet engine at Amsterdam airport",
-        "location": "Netherlands",
+        "headline": "Thousands rally in NZ in support of M\u0101ori rights",
+        "location": "New Zealand",
         "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "Netherlands\u2019 hard-right coalition chooses former spy chief as PM",
-        "location": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "Outrage as Nigeria changes national anthem",
-        "location": "Nigeria",
-        "coordinates": [
-            9.6000359,
-            7.9999721
+            -41.5000831,
+            172.8344077
         ]
     },
     {
@@ -144,23 +128,15 @@
         ]
     },
     {
-        "headline": "Locals search rubble after Papua New Guinea landslide",
-        "location": "Papua New Guinea",
+        "headline": "Recovering Slovak PM moved to capital after shooting",
+        "location": "Slovakia",
         "coordinates": [
-            -5.6816069,
-            144.2489081
+            48.7411522,
+            19.4528646
         ]
     },
     {
-        "headline": "Papua New Guinea landslide impacts 7,900 people as hope for survivors dims",
-        "location": "Papua New Guinea",
-        "coordinates": [
-            -5.6816069,
-            144.2489081
-        ]
-    },
-    {
-        "headline": "Counting under way in South Africa's crucial election",
+        "headline": "ANC on course to lose majority, partial results suggest",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -168,7 +144,7 @@
         ]
     },
     {
-        "headline": "South Africa holds national election as support for ruling ANC ebbs",
+        "headline": "ANC on course to lose majority, partial results suggest",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -176,11 +152,27 @@
         ]
     },
     {
-        "headline": "Political killings rock South Africa as it heads into elections",
+        "headline": "Early election results in South Africa suggest major setback for ruling ANC",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
             24.991639
+        ]
+    },
+    {
+        "headline": "Spain passes amnesty law for Catalan nationalists",
+        "location": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "headline": "Ukraine allowed to hit some targets in Russia with US weapons",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
@@ -192,7 +184,7 @@
         ]
     },
     {
-        "headline": "Growing up under fire: Ukraine\u2019s children adapt to survive Russia's invasion",
+        "headline": "Ukraine can use U.S. weapons for limited strikes in Russia, Biden says",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -200,103 +192,39 @@
         ]
     },
     {
-        "headline": "Trump jury begins deliberations after weeks of testimony",
-        "location": "United States",
+        "headline": "As Ukraine stumbles in war, Kyiv and Western powers struggle to coordinate",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Man arrested in US after years of catapult attacks",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Black men sue American Airlines for 'racial discrimination'",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Judge rejects calls to skip Trump cases amid flags row",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "New York crowds gather for sunset 'Manhattanhenge'",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "What each side said in Trump trial closing arguments",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "What each side said in Trump trial closing arguments",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Suspended driver joins court hearing while driving",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Power cuts could last for days in storm-hit Texas",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Alito rejects call to skip Trump cases after flags row",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'Serial slingshot shooter', 81, arrested in California",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "After strict instructions, Trump jury begins deliberations",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     },
     {
         "headline": "U.S. concerned about Ukraine strikes on Russian nuclear radar stations",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Tycoon told to pay $1bn in record  divorce ruling",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "U.K. Parliament dissolves, and election campaign drama gets underway",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Donald Trump guilty on all counts in historic criminal trial",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +232,7 @@
         ]
     },
     {
-        "headline": "Another State Department official resigns over Gaza, taking aim at aid",
+        "headline": "What Trump's conviction means for the election",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +240,7 @@
         ]
     },
     {
-        "headline": "Biden administration eases some economic restrictions on Cuba",
+        "headline": "Earliest and most distant galaxy ever observed",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +248,7 @@
         ]
     },
     {
-        "headline": "What to know about the brutal heat dome shifting from Mexico into the U.S.",
+        "headline": "What Trump's conviction means for the election",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +256,79 @@
         ]
     },
     {
-        "headline": "Biden administration straddles its own \u2018red line\u2019 on Rafah invasion",
+        "headline": "Earliest and most distant galaxy ever observed",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch: Trump calls trial 'a disgrace' after guilty verdict",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Moment winds push plane away from airport gate in Texas",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Can Trump run for president as a convicted felon?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Sentencing set for 11 July as Trump says verdict 'a disgrace'",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Earliest and most distant galaxy ever observed",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Hush-money trial was Trump's to lose. Here\u2019s why he did",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Sentencing set for 11 July as Trump says verdict 'a disgrace'",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch: Trump calls trial 'a disgrace' after guilty verdict",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Nikki Haley criticized for writing \u2018Finish Them!\u2019 on artillery shell in Israel",
         "location": "United States",
         "coordinates": [
             39.7837304,
