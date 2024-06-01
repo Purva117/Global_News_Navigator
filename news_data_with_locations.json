@@ -1,151 +1,199 @@
 [
     {
-        "headline": "Donald Trump guilty on all counts in historic criminal trial",
+        "headline": "Biden unveils Israeli proposal to end Gaza war",
         "location": "United States"
     },
     {
-        "headline": "What Trump's conviction means for the election",
-        "location": "United States"
-    },
-    {
-        "headline": "Earliest and most distant galaxy ever observed",
-        "location": "United States"
-    },
-    {
-        "headline": "Thousands rally in NZ in support of M\u0101ori rights",
-        "location": "New Zealand"
-    },
-    {
-        "headline": "Spain passes amnesty law for Catalan nationalists",
-        "location": "Spain"
-    },
-    {
-        "headline": "What Trump's conviction means for the election",
-        "location": "United States"
-    },
-    {
-        "headline": "Ukraine allowed to hit some targets in Russia with US weapons",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "ANC on course to lose majority, partial results suggest",
-        "location": "South Africa"
-    },
-    {
-        "headline": "Earliest and most distant galaxy ever observed",
-        "location": "United States"
-    },
-    {
-        "headline": "Model sues over Cannes red carpet 'assault'",
-        "location": "France"
-    },
-    {
-        "headline": "Hong Kong convicts 14 activists of subversion",
-        "location": "Hong Kong"
-    },
-    {
-        "headline": "Recovering Slovak PM moved to capital after shooting",
-        "location": "Slovakia"
-    },
-    {
-        "headline": "Tycoon told to pay $1bn in record  divorce ruling",
+        "headline": "'Twice I backed Trump but no more' - voters split on verdict",
         "location": "United Kingdom"
     },
     {
-        "headline": "Israel extends control of Gaza's entire land border",
-        "location": "Israel"
-    },
-    {
-        "headline": "Watch/Listen",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Watch: Trump calls trial 'a disgrace' after guilty verdict",
-        "location": "United States"
-    },
-    {
-        "headline": "Moment winds push plane away from airport gate in Texas",
-        "location": "United States"
-    },
-    {
-        "headline": "Suspended driver joins court hearing while driving",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Watch: Rubbish-filled balloon saga explained\u2026 in 63 seconds",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Hard choices as Ukraine faces worst crisis since war began",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Features",
-        "location": "Africa"
-    },
-    {
-        "headline": "Brass bands and ballot boxes: Africa's top shots",
-        "location": "Africa"
-    },
-    {
-        "headline": "All Eyes on Rafah: The post that's been   shared by more than 47m people",
-        "location": "Egypt"
-    },
-    {
-        "headline": "Italy\u2019s PM says fascism is \u2018consigned to history\u2019. Not everyone is so sure",
-        "location": "Italy"
-    },
-    {
-        "headline": "How the Kremlin uses comics to glorify its war in Ukraine",
+        "headline": "Anger in Moscow after Ukraine allowed to hit Russia with Western weapons",
         "location": "Russia"
     },
     {
-        "headline": "Africa's new F1 fans who want a race on the continent",
-        "location": "Africa"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Various"
-    },
-    {
-        "headline": "Can Trump run for president as a convicted felon?",
+        "headline": "Michelle Obama's mother, Marian Robinson, dies at 86",
         "location": "United States"
     },
     {
-        "headline": "Sentencing set for 11 July as Trump says verdict 'a disgrace'",
+        "headline": "France mourns nurse known as Angel of Dien Bien Phu",
+        "location": "France"
+    },
+    {
+        "headline": "'Twice I backed Trump but no more' - voters split on verdict",
         "location": "United States"
     },
     {
-        "headline": "Dinosaur hunter stumbles across million-dollar find",
-        "location": "Canada"
+        "headline": "We have no Plan B if Ukraine falls, says Estonia",
+        "location": "Estonia"
     },
     {
-        "headline": "Brass bands and ballot boxes: Africa's top shots",
-        "location": "Africa"
-    },
-    {
-        "headline": "Earliest and most distant galaxy ever observed",
-        "location": "United States"
-    },
-    {
-        "headline": "Hush-money trial was Trump's to lose. Here\u2019s why he did",
-        "location": "United States"
-    },
-    {
-        "headline": "Sentencing set for 11 July as Trump says verdict 'a disgrace'",
-        "location": "United States"
-    },
-    {
-        "headline": "ANC on course to lose majority, partial results suggest",
+        "headline": "ANC looks set to share power after historic election loss",
         "location": "South Africa"
     },
     {
-        "headline": "Watch: Trump calls trial 'a disgrace' after guilty verdict",
+        "headline": "Anger in Moscow after Ukraine allowed to hit Russia with Western weapons",
+        "location": "Russia"
+    },
+    {
+        "headline": "German anti-Islam activist injured in knife attack",
+        "location": "Germany"
+    },
+    {
+        "headline": "UK ambassador left post after 'pointing gun at staff'",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Ex-US admiral charged with bribery for Navy contract",
+        "location": "United States"
+    },
+    {
+        "headline": "French police arrest man over plot to attack Olympics",
+        "location": "France"
+    },
+    {
+        "headline": "$60m collection of rare cars and sneakers going on auction",
+        "location": "United States"
+    },
+    {
+        "headline": "Watch/Listen",
+        "location": "No country specified"
+    },
+    {
+        "headline": "Americans react to Trump's guilty conviction",
+        "location": "United States"
+    },
+    {
+        "headline": "\u2018Aposiopesis\u2019: Watch 12-year-old win US Spelling Bee",
+        "location": "United States"
+    },
+    {
+        "headline": "Mesmerising lava rivers as Icelandic volcano erupts",
+        "location": "Iceland"
+    },
+    {
+        "headline": "BBC reporter in court describes Trump's reaction after guilty verdict",
+        "location": "United States"
+    },
+    {
+        "headline": "District Attorney on Trump verdict: \u2018I did my job\u2019",
+        "location": "United States"
+    },
+    {
+        "headline": "Features",
+        "location": "United States"
+    },
+    {
+        "headline": "Attack Trump verdict or be exiled - a new test for Republicans",
+        "location": "United States"
+    },
+    {
+        "headline": "Obituary: Marian Robinson, Michelle Obama\u2019s mother, dies",
+        "location": "United States"
+    },
+    {
+        "headline": "Philippines warns China against 'acts of war'",
+        "location": "Philippines"
+    },
+    {
+        "headline": "Meet the women campaigning to become Mexico's first female president",
+        "location": "Mexico"
+    },
+    {
+        "headline": "Surfing, dancing and a robot: Photos of the week",
+        "location": "Unknown"
+    },
+    {
+        "headline": "Latest updates",
+        "location": "Unknown"
+    },
+    {
+        "headline": "Michelle Obama's mother, Marian Robinson, dies at 86",
+        "location": "United States"
+    },
+    {
+        "headline": "Mother was 'beloved' in White House - Michelle Obama",
+        "location": "United States"
+    },
+    {
+        "headline": "$60m collection of rare cars and sneakers going on auction",
+        "location": "United States"
+    },
+    {
+        "headline": "Why India's T20 World Cup squad sends confusing signals",
+        "location": "India"
+    },
+    {
+        "headline": "We have no Plan B if Ukraine falls, says Estonia",
+        "location": "Estonia"
+    },
+    {
+        "headline": "'Twice I backed Trump but no more' - voters split on verdict",
+        "location": "United States"
+    },
+    {
+        "headline": "How a sports broadcaster became a voice for those who stutter",
+        "location": "United States"
+    },
+    {
+        "headline": "Biden: 'Reckless' for Trump to call trial rigged",
+        "location": "United States"
+    },
+    {
+        "headline": "Obituary: Marian Robinson, Michelle Obama\u2019s mother, dies",
+        "location": "United States"
+    },
+    {
+        "headline": "Israeli troops withdraw from Gaza\u2019s Jabalya, leaving devastation",
+        "location": "Israel"
+    },
+    {
+        "headline": "Biden announces new cease-fire plan for Gaza",
+        "location": "Israel"
+    },
+    {
+        "headline": "Mapping Israel\u2019s expanding battle for Rafah, a test of U.S. red lines",
+        "location": "Israel"
+    },
+    {
+        "headline": "Anti-Islam activist among six wounded in stabbing in Germany",
+        "location": "Germany"
+    },
+    {
+        "headline": "Blinken opens the door to attacks with U.S. weapons deeper inside Russia",
+        "location": "United States"
+    },
+    {
+        "headline": "As Indian voting wraps up, reports of electoral irregularities mount",
+        "location": "India"
+    },
+    {
+        "headline": "South Africa\u2019s ruling ANC on track to lose majority for the first time",
+        "location": "South Africa"
+    },
+    {
+        "headline": "Amid tension, U.S. and China defense chiefs hold first meeting in two years",
         "location": "United States"
     },
     {
         "headline": "Ukraine can use U.S. weapons for limited strikes in Russia, Biden says",
-        "location": "Ukraine"
+        "location": "United States"
+    },
+    {
+        "headline": "Joint U.S.-British attack kills at least 16 in Yemen; Houthis claim attack on carrier",
+        "location": "United States"
+    },
+    {
+        "headline": "A TikToker interviewed \u2018Elvis\u2019 director Baz Luhrmann without realizing it",
+        "location": "Unknown"
+    },
+    {
+        "headline": "Deaths mount and water rationed as India faces record heat",
+        "location": "India"
+    },
+    {
+        "headline": "Netanyahu and Putin are both waiting for Trump",
+        "location": "Israel/Russia"
     },
     {
         "headline": "As Ukraine stumbles in war, Kyiv and Western powers struggle to coordinate",
@@ -153,7 +201,7 @@
     },
     {
         "headline": "Gaza conditions worse than ever, USAID chief says, as Rafah invasion rages",
-        "location": "Gaza Strip"
+        "location": "United States"
     },
     {
         "headline": "Early election results in South Africa suggest major setback for ruling ANC",
@@ -169,58 +217,10 @@
     },
     {
         "headline": "Gaza pier suspension another blow to troubled U.S. aid mission",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "Eyewitnesses describe horrific scenes after Israeli strike on Rafah camp",
-        "location": "Palestine"
-    },
-    {
-        "headline": "Australia\u2019s new \u2018men\u2019s behavior change\u2019 secretary says the job won\u2019t be easy",
-        "location": "Australia"
-    },
-    {
-        "headline": "Most Israelis rate military\u2019s campaign in Gaza \u2018about right\u2019 or not enough",
-        "location": "Israel"
-    },
-    {
-        "headline": "Rugby clubs team up to help girl climb Scottish peak in her wheelchair",
-        "location": "Scotland"
-    },
-    {
-        "headline": "Seoul to offer cash to reverse vasectomies, untie tubes as birthrate falls",
-        "location": "Iceland"
-    },
-    {
-        "headline": "Hong Kong convicts 14 pro-democracy activists of subversion in landmark case",
-        "location": "Hong Kong"
-    },
-    {
-        "headline": "Icelandic volcano spews lava in what could be its fiercest eruption",
-        "location": "Iceland"
-    },
-    {
-        "headline": "Nikki Haley criticized for writing \u2018Finish Them!\u2019 on artillery shell in Israel",
         "location": "United States"
     },
     {
-        "headline": "U.S. concerned about Ukraine strikes on Russian nuclear radar stations",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Experts say Israel used U.S.-made bomb in deadly Rafah strike",
+        "headline": "Eyewitnesses describe horrific scenes after Israeli strike on Rafah camp",
         "location": "Israel"
-    },
-    {
-        "headline": "Israel says it gained \u2018tactical control\u2019 of Philadelphi buffer zone",
-        "location": "Israel"
-    },
-    {
-        "headline": "An image calling for \u2018All Eyes on Rafah\u2019 is going viral. But it seems AI-generated.",
-        "location": "Palestine"
-    },
-    {
-        "headline": "North Korea launches waste-filled balloons to taunt the South",
-        "location": "North Korea"
     }
 ]
