@@ -1,7 +1,15 @@
 [
     {
+        "location": "Bulgaria",
+        "summary": "\u2022 The \"Cryptoqueen\" is linked to the Bulgarian underworld\n\u2022 Her connections to organized crime remain unclear\n\u2022 Investigations continue into her activities",
+        "coordinates": [
+            42.6073975,
+            25.4856617
+        ]
+    },
+    {
         "location": "Canada",
-        "summary": "\u2022 A potential \"housing revolution\" could transform Canadian cities.\n\u2022 Two articles discuss this possibility.\n\u2022 Serial killer Robert Pickton died in prison.",
+        "summary": "\u2022 A Canadian vlogger has been accused of sedition in Trinidad.\n\u2022 The charges relate to their online activities.\n\u2022 This is an international incident involving a Canadian citizen.",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -9,7 +17,7 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 A Chinese spacecraft has successfully landed on the far side of the moon.\n\u2022 The mission aims to collect rare lunar samples from the unexplored region known as the \"dark\" side of the moon.\n\u2022 This achievement marks a significant milestone in China's ambitious space exploration program.",
+        "summary": "\u2022 Chinese young people enjoy praise from Americans.\n\u2022 A Chinese spacecraft landed on the far side of the moon to collect rare samples.",
         "coordinates": [
             35.000074,
             104.999927
@@ -17,7 +25,7 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 Kylian Mbapp\u00e9 signs with Real Madrid\n\u2022 A significant transfer between European football clubs",
+        "summary": "\u2022 A mysterious metal coffin discovered at the base of the Eiffel Tower has sparked speculation about its origin.\n\u2022 Investigators suspect Russian involvement due to a suspicious symbol on the coffin's lid resembling a Russian iconography motif.\n\u2022 Authorities are working to uncover the truth behind the enigmatic discovery.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -25,7 +33,7 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 A police officer was stabbed in Mannheim.\n\u2022 The officer later died from their injuries.\n\u2022 This incident occurred on an unspecified date.",
+        "summary": "\u2022 At least four people have been killed in floods that hit southern Germany.\n\u2022 The region experienced severe flooding due to heavy rainfall.\n\u2022 Emergency services worked together to rescue those affected by the disaster.",
         "coordinates": [
             51.1638175,
             10.4478313
@@ -33,7 +41,7 @@
     },
     {
         "location": "Iceland",
-        "summary": "\u2022 An Icelandic volcano has erupted, producing mesmerizing lava rivers.\n\u2022 The eruption is causing widespread damage to the surrounding area.\n\u2022 The exact location of the eruption has not been disclosed by authorities.",
+        "summary": "\u2022 Iceland's volcanic eruption features mesmerizing lava rivers.\n\u2022 The event sparks discussions about film adaptations with Steven Spielberg.\n\u2022 Hollywood is showing increased interest in the volcano's thrilling scene.",
         "coordinates": [
             64.9841821,
             -18.1059013
@@ -41,55 +49,79 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 India's general elections saw arrests and allegations surrounding the process.\n\u2022 The country held the largest democratic event in the world.\n\u2022 Reports emerged of electoral irregularities despite the conclusion of voting.",
+        "summary": "\u2022 A recent election in India has led to arrests and accusations against various individuals.\n\u2022 The election saw the use of AI technology for surveillance and data analysis.\n\u2022 The outcome of the election is being scrutinized by various parties due to allegations of irregularities.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
+        "location": "Ireland",
+        "summary": "\u2022 The Fastnet Rock Lighthouse played a crucial role in guiding Allied forces during the D-Day landings.\n\u2022 Its powerful beam illuminated the rocky outcrop, allowing troops to navigate safely through treacherous waters.\n\u2022 This vital contribution earned it recognition as a key factor in the success of the invasion.",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
         "location": "Israel",
-        "summary": "\u2022 The US expects Israel to accept a Gaza ceasefire plan if Hamas agrees.\n\u2022 Biden's ceasefire plan increases pressure on Netanyahu within Israel.\n\u2022 Israeli reservists question their role after fighting in Gaza.",
+        "summary": "\u2022 Four more hostages die in Gaza, according to Israel\n\u2022 No ceasefire agreed upon despite efforts from both sides\n\u2022 US President Biden announces cease-fire plan for the conflict between Israel and Gaza",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Italy",
-        "summary": "\u2022 Gay conversion therapy is being practiced in Italy.\n\u2022 Many people have undergone this therapy, which aims to change their sexual orientation.\n\u2022 Participants describe it as the \"darkest period\" of their lives.",
+        "location": "Japan",
+        "summary": "\u2022 Japan's UK state visit will proceed as planned.\n\u2022 The decision comes despite the upcoming UK general elections.\n\u2022 The visit aims to strengthen bilateral ties between the two nations.",
         "coordinates": [
-            42.6384261,
-            12.674297
+            36.5748441,
+            139.2394179
         ]
     },
     {
         "location": "Mexico",
-        "summary": "\u2022 Mexico holds historic presidential election, with a strong possibility of electing its first female president.\n\u2022 The election marks a significant milestone in Mexican politics.\n\u2022 Three main candidates are vying for the top spot: Andr\u00e9s Manuel L\u00f3pez Obrador, Ricardo Anaya, and Jos\u00e9 Antonio Meade.",
+        "summary": "\u2022 Mexico has its first female president with the election of Claudia Sheinbaum.\n\u2022 She broke the glass ceiling in Mexican politics by becoming the country's first female leader.\n\u2022 The question remains whether this democratic milestone could lead to a return to a one-party state.",
         "coordinates": [
             19.4326296,
             -99.1331785
         ]
     },
     {
+        "location": "Myanmar",
+        "summary": "\u2022 In Myanmar, young men are fleeing in panic due to a military draft.\n\u2022 The country's military has started conscripting citizens.\n\u2022 This has caused widespread fear among the population.",
+        "coordinates": [
+            17.1750495,
+            95.9999652
+        ]
+    },
+    {
+        "location": "Pakistan",
+        "summary": "\u2022 Imran Khan acquitted in state secrets case.\n\u2022 He was accused of revealing sensitive information to foreign entities during his tenure as prime minister.\n\u2022 This acquittal comes after a lengthy investigation and legal proceedings.",
+        "coordinates": [
+            30.3308401,
+            71.247499
+        ]
+    },
+    {
+        "location": "Poland",
+        "summary": "\u2022 Polish Prime Minister issues a stern warning to citizens: \"Vote or face war\" before the upcoming European Union election.\n\u2022 The prime minister emphasizes the importance of participating in the electoral process to avoid potential conflict.\n\u2022 The warning aims to encourage citizen engagement and awareness about the significance of their vote.",
+        "coordinates": [
+            52.215933,
+            19.134422
+        ]
+    },
+    {
         "location": "South Africa",
-        "summary": "\u2022 South Africa's president faces a challenging period due to a disappointing electoral performance.\n\u2022 The African National Congress (ANC) must reassess its strategy after receiving a low vote count in recent elections.\n\u2022 The party needs to revamp its approach to regain voter trust and secure better outcomes in future polls.",
+        "summary": "\u2022 The African National Congress (ANC) faces a crucial decision that will shape South Africa's future.\n\u2022 The party's leadership is torn between pursuing reform or maintaining its dominant position in power.\n\u2022 This internal conflict may lead to significant changes in the country's political landscape.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Sri Lanka",
-        "summary": "\u2022 At least seven people have been killed in Sri Lanka due to monsoon floods.\n\u2022 Heavy rainfall has caused widespread flooding across the country.\n\u2022 The exact number of fatalities may increase as rescue efforts continue.",
-        "coordinates": [
-            7.5554942,
-            80.7137847
-        ]
-    },
-    {
         "location": "Ukraine",
-        "summary": "\u2022 Zelensky accuses Russia and China of undermining the summit.\n\u2022 Ukrainian military commanders criticize basic training as inadequate.\n\u2022 Russian and Chinese interference hampers peace efforts in Ukraine.",
+        "summary": "\u2022 Zelensky visits Asia and criticizes China.\n\u2022 Ukrainian military basic training falls short, according to commanders.\n\u2022 No additional information provided about the nature or impact of these issues.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -97,7 +129,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 Media tycoon Rupert Murdoch has married for the fifth time.\n\u2022 This is his fourth marriage since he lost his previous wife in 2016.\n\u2022 His new wife, Ann Lesley Sharp, is an English actress.",
+        "summary": "\u2022 A UK-based bank faces accusations of funding terrorism through its transactions.\n\u2022 The allegations have sparked widespread concern about money laundering and financial security in the country.\n\u2022 An investigation has been launched to determine the extent of the bank's involvement with terrorist organizations.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -105,7 +137,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Donald Trump says hush-money trial is \"very hard\" on his wife Melania.\n\u2022 One person was killed and many others were injured in an Ohio mass shooting.\n\u2022 The United States has proposed a ceasefire plan for the conflict in Gaza.",
+        "summary": "\u2022 A jury has been seated in Hunter Biden's federal gun trial.\n\u2022 Thousands of acres have burned in wildfires across California.\n\u2022 The US and China have laid out their competing security visions for the Asia-Pacific region.",
         "coordinates": [
             39.7837304,
             -100.445882
