@@ -1,23 +1,15 @@
 [
     {
-        "location": "Bulgaria",
-        "summary": "\u2022 The \"Cryptoqueen\" is linked to the Bulgarian underworld\n\u2022 Her connections to organized crime remain unclear\n\u2022 Investigations continue into her activities",
+        "location": "Australia",
+        "summary": "\u2022 Australia aims to become a renewable energy leader.\n\u2022 Its current energy mix is dominated by fossil fuels.\n\u2022 Transitioning to renewables requires significant investment in infrastructure and technology.",
         "coordinates": [
-            42.6073975,
-            25.4856617
-        ]
-    },
-    {
-        "location": "Canada",
-        "summary": "\u2022 A Canadian vlogger has been accused of sedition in Trinidad.\n\u2022 The charges relate to their online activities.\n\u2022 This is an international incident involving a Canadian citizen.",
-        "coordinates": [
-            61.0666922,
-            -107.991707
+            -24.7761086,
+            134.755
         ]
     },
     {
         "location": "China",
-        "summary": "\u2022 Chinese young people enjoy praise from Americans.\n\u2022 A Chinese spacecraft landed on the far side of the moon to collect rare samples.",
+        "summary": "\u2022 Praise culture is popular among young Chinese.\n\u2022 They appreciate compliments on their appearance.\n\u2022 This phenomenon is related to American influence.",
         "coordinates": [
             35.000074,
             104.999927
@@ -25,7 +17,7 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 A mysterious metal coffin discovered at the base of the Eiffel Tower has sparked speculation about its origin.\n\u2022 Investigators suspect Russian involvement due to a suspicious symbol on the coffin's lid resembling a Russian iconography motif.\n\u2022 Authorities are working to uncover the truth behind the enigmatic discovery.",
+        "summary": "\u2022 \"Mansplaining\" French Prime Minister accused of sidelining female colleague.\n\u2022 Novak Djokovic pulls out of French Open due to injury.\n\u2022 French PM faces accusations of sexism after allegedly marginalizing female colleague.\n\u2022 Tennis star Novak Djokovic exits French Open tournament due to physical limitations.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -33,23 +25,23 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 At least four people have been killed in floods that hit southern Germany.\n\u2022 The region experienced severe flooding due to heavy rainfall.\n\u2022 Emergency services worked together to rescue those affected by the disaster.",
+        "summary": "\u2022 Heavy rainfall causes devastating floods in Germany.\n\u2022 The Danube River is severely affected, causing widespread destruction.\n\u2022 At least [insert number] people have been killed or injured due to the disaster.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "Iceland",
-        "summary": "\u2022 Iceland's volcanic eruption features mesmerizing lava rivers.\n\u2022 The event sparks discussions about film adaptations with Steven Spielberg.\n\u2022 Hollywood is showing increased interest in the volcano's thrilling scene.",
+        "location": "Ghana",
+        "summary": "\u2022 A boy was involved in a car accident with a well-known Ghanaian actor.\n\u2022 The boy's family is seeking justice and compensation for their loss.\n\u2022 The incident has sparked widespread concern about road safety in Ghana.",
         "coordinates": [
-            64.9841821,
-            -18.1059013
+            8.0300284,
+            -1.0800271
         ]
     },
     {
         "location": "India",
-        "summary": "\u2022 A recent election in India has led to arrests and accusations against various individuals.\n\u2022 The election saw the use of AI technology for surveillance and data analysis.\n\u2022 The outcome of the election is being scrutinized by various parties due to allegations of irregularities.",
+        "summary": "\u2022 Prime Minister Narendra Modi claims victory despite falling short of a majority.\n\u2022 Factors contributing to Modi's reduced majority remain unclear.\n\u2022 India's election outcome has significant implications for politics and democracy.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -57,7 +49,7 @@
     },
     {
         "location": "Ireland",
-        "summary": "\u2022 The Fastnet Rock Lighthouse played a crucial role in guiding Allied forces during the D-Day landings.\n\u2022 Its powerful beam illuminated the rocky outcrop, allowing troops to navigate safely through treacherous waters.\n\u2022 This vital contribution earned it recognition as a key factor in the success of the invasion.",
+        "summary": "\u2022 Filming Saving Private Ryan at Kinsale Beach in Ireland caused widespread disruption to local businesses and residents.\n\u2022 The production company paid compensation to affected parties but refused to disclose the exact amount.\n\u2022 The incident highlighted concerns about the impact of large-scale film productions on small communities.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -65,23 +57,15 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Four more hostages die in Gaza, according to Israel\n\u2022 No ceasefire agreed upon despite efforts from both sides\n\u2022 US President Biden announces cease-fire plan for the conflict between Israel and Gaza",
+        "summary": "\u2022 Fierce fires in northern Israel have escalated tensions, prompting calls for decisive action against Hezbollah.\n\u2022 US President Joe Biden has raised concerns over potential Israeli war crimes amid reports of human rights abuses.\n\u2022 Despite ongoing talks, Israeli Prime Minister Benjamin Netanyahu remains non-committal about accepting a ceasefire proposal.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Japan",
-        "summary": "\u2022 Japan's UK state visit will proceed as planned.\n\u2022 The decision comes despite the upcoming UK general elections.\n\u2022 The visit aims to strengthen bilateral ties between the two nations.",
-        "coordinates": [
-            36.5748441,
-            139.2394179
-        ]
-    },
-    {
         "location": "Mexico",
-        "summary": "\u2022 Mexico has its first female president with the election of Claudia Sheinbaum.\n\u2022 She broke the glass ceiling in Mexican politics by becoming the country's first female leader.\n\u2022 The question remains whether this democratic milestone could lead to a return to a one-party state.",
+        "summary": "\u2022 Claudia Sheinbaum was elected as Mexico's first female president on July 1st.\n\u2022 The election marked a significant shift away from traditional gender norms in Mexico.\n\u2022 Mexico has become the third country in Latin America where a woman holds the top leadership position.",
         "coordinates": [
             19.4326296,
             -99.1331785
@@ -89,47 +73,23 @@
     },
     {
         "location": "Myanmar",
-        "summary": "\u2022 In Myanmar, young men are fleeing in panic due to a military draft.\n\u2022 The country's military has started conscripting citizens.\n\u2022 This has caused widespread fear among the population.",
+        "summary": "1. Zelensky visits Asia\n2. He condemns China's actions in Ukraine conflict\n3. He seeks international support against Russia",
         "coordinates": [
             17.1750495,
             95.9999652
         ]
     },
     {
-        "location": "Pakistan",
-        "summary": "\u2022 Imran Khan acquitted in state secrets case.\n\u2022 He was accused of revealing sensitive information to foreign entities during his tenure as prime minister.\n\u2022 This acquittal comes after a lengthy investigation and legal proceedings.",
-        "coordinates": [
-            30.3308401,
-            71.247499
-        ]
-    },
-    {
-        "location": "Poland",
-        "summary": "\u2022 Polish Prime Minister issues a stern warning to citizens: \"Vote or face war\" before the upcoming European Union election.\n\u2022 The prime minister emphasizes the importance of participating in the electoral process to avoid potential conflict.\n\u2022 The warning aims to encourage citizen engagement and awareness about the significance of their vote.",
-        "coordinates": [
-            52.215933,
-            19.134422
-        ]
-    },
-    {
         "location": "South Africa",
-        "summary": "\u2022 The African National Congress (ANC) faces a crucial decision that will shape South Africa's future.\n\u2022 The party's leadership is torn between pursuing reform or maintaining its dominant position in power.\n\u2022 This internal conflict may lead to significant changes in the country's political landscape.",
+        "summary": "\u2022 A tornado-like storm hit a town in South Africa.\n\u2022 The storm caused significant damage to properties and infrastructure.\n\u2022 Residents were left dealing with the aftermath and recovery efforts began.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 Zelensky visits Asia and criticizes China.\n\u2022 Ukrainian military basic training falls short, according to commanders.\n\u2022 No additional information provided about the nature or impact of these issues.",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
         "location": "United Kingdom",
-        "summary": "\u2022 A UK-based bank faces accusations of funding terrorism through its transactions.\n\u2022 The allegations have sparked widespread concern about money laundering and financial security in the country.\n\u2022 An investigation has been launched to determine the extent of the bank's involvement with terrorist organizations.",
+        "summary": "\u2022 The UK's Royal Air Force honored D-Day veterans with a commemorative flypast over the English Channel.\n\u2022 Uri Geller returned a borrowed library book 47 years after initially borrowing it.\n\u2022 In their first major election debate, Keir Starmer and Rishi Sunak clashed on key policy issues.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -137,7 +97,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 A jury has been seated in Hunter Biden's federal gun trial.\n\u2022 Thousands of acres have burned in wildfires across California.\n\u2022 The US and China have laid out their competing security visions for the Asia-Pacific region.",
+        "summary": "\u2022 Biden announces asylum restrictions to control border\n\u2022 Hunter Biden is accused of buying a gun during a trial\n\u2022 A Grammy-winning producer is accused of rape",
         "coordinates": [
             39.7837304,
             -100.445882
