@@ -1,62 +1,66 @@
 [
     {
-        "headline": "Biden announces asylum restrictions to \u2018control border\u2019",
-        "location": "United States"
-    },
-    {
-        "headline": "India's Modi claims victory as he heads for reduced majority",
-        "location": "India"
-    },
-    {
-        "headline": "Grammy-winning producer accused of raping woman in van",
-        "location": "United States"
-    },
-    {
-        "headline": "'Tornado-like' storm devastates town in South Africa",
-        "location": "South Africa"
-    },
-    {
-        "headline": "'Mansplaining' French PM accused of sidelining colleague",
-        "location": "France"
-    },
-    {
-        "headline": "India's Modi claims victory as he heads for reduced majority",
-        "location": "India"
-    },
-    {
-        "headline": "Fires in northern Israel fuel demands to tackle escalation with Hezbollah",
+        "headline": "Israel launches new military operation in central Gaza",
         "location": "Israel"
     },
     {
-        "headline": "Hunter Biden 'crossed line' when he bought gun, trial hears",
-        "location": "United States"
+        "headline": "Ban fossil fuel ads to save climate, says UN chief",
+        "location": "United Nations"
     },
     {
-        "headline": "Grammy-winning producer accused of raping woman in van",
-        "location": "United States"
+        "headline": "Nvidia value surges past $3tn and overtakes Apple",
+        "location": "None (Nvidia is an American company)"
     },
     {
-        "headline": "What worked for India's Modi - and what didn\u2019t?",
-        "location": "India"
-    },
-    {
-        "headline": "Germany's deadly floods spread along Danube",
-        "location": "Germany"
-    },
-    {
-        "headline": "Injured Djokovic withdraws from French Open",
+        "headline": "French police arrest Russian-Ukrainian man on bomb-making charges",
         "location": "France"
     },
     {
-        "headline": "Mexican mayor killed hours after first woman elected president",
-        "location": "Mexico"
+        "headline": "Boeing launches long-delayed astronaut capsule",
+        "location": "United States"
     },
     {
-        "headline": "Boy's family seek justice after crash with Ghana actor",
-        "location": "Ghana"
+        "headline": "Ban fossil fuel ads to save climate, says UN chief",
+        "location": "United Nations"
+    },
+    {
+        "headline": "Putin warns Russia could provide weapons to strike West",
+        "location": "Russia"
+    },
+    {
+        "headline": "Allies back Modi for third term after election setback",
+        "location": "India"
+    },
+    {
+        "headline": "Nvidia value surges past $3tn and overtakes Apple",
+        "location": "None (Nvidia is an American company)"
+    },
+    {
+        "headline": "Slovak PM blames shooting on opposition's 'hatred'",
+        "location": "Slovakia"
+    },
+    {
+        "headline": "UN nuclear watchdog urges Iran to cooperate",
+        "location": "Iran"
+    },
+    {
+        "headline": "Man arrested in Qatar Grindr 'sting' sentenced",
+        "location": "Qatar"
+    },
+    {
+        "headline": "Israeli nationalists march through Jerusalem's Old City",
+        "location": "Israel"
+    },
+    {
+        "headline": "Biden border plan attacked by Republican rivals",
+        "location": "United States"
     },
     {
         "headline": "Watch/Listen",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "What worked for India's Modi - and what didn\u2019t?",
         "location": "India"
     },
     {
@@ -69,79 +73,119 @@
     },
     {
         "headline": "First images of Hawaii's Kilauea volcano erupting",
-        "location": "Hawaii"
+        "location": "United States"
     },
     {
         "headline": "Video shows air rescue after man falls from cliff in LA",
         "location": "United States"
     },
     {
-        "headline": "Son's funny faces overshadow lawmaker's House speech",
-        "location": "United States"
-    },
-    {
         "headline": "Features",
-        "location": "Australia"
+        "location": "Not applicable"
     },
     {
-        "headline": "Australia wants to become a renewable energy superpower. Can it?",
-        "location": "Australia"
+        "headline": "'They gave us our freedom' - Veterans celebrated in Normandy",
+        "location": "United Kingdom"
     },
     {
-        "headline": "Why India's Modi failed to win outright majority",
-        "location": "India"
-    },
-    {
-        "headline": "Cost of going green sparks backlash from Europe's voters",
+        "headline": "Europe\u2019s centre left struggles to hold back surge from right",
         "location": "Europe"
     },
     {
-        "headline": "Gaza ceasefire plan turns into deadly game of survival",
-        "location": "Gaza Strip"
+        "headline": "Israelis using gardening tools to fight wildfires sparked by Hezbollah rockets",
+        "location": "Israel"
     },
     {
-        "headline": "'Russia now is like 1984': Inside a Russian dystopian library",
-        "location": "Russia"
+        "headline": "How Japan's biggest brewer aims to attract sober Gen Z",
+        "location": "Japan"
+    },
+    {
+        "headline": "'I've lost many friends' - Hunter Biden jury pool lay bare drug epidemic",
+        "location": "United States"
     },
     {
         "headline": "Latest updates",
-        "location": "None"
+        "location": "Not applicable"
     },
     {
-        "headline": "Hunter Biden 'crossed line' when he bought gun, trial hears",
+        "headline": "Endometriosis tormented her every month - and killed her aged 38",
         "location": "United States"
     },
     {
-        "headline": "Cost of going green sparks backlash from Europe's voters",
+        "headline": "Key family players at Hunter Biden's gun trial",
+        "location": "United States"
+    },
+    {
+        "headline": "'They gave us our freedom' - Veterans celebrated in Normandy",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Californians deal with heat dome's high temperatures",
+        "location": "United States"
+    },
+    {
+        "headline": "Europe\u2019s centre left struggles to hold back surge from right",
         "location": "Europe"
     },
     {
-        "headline": "Democratic lawmakers criticise Biden's border plan",
+        "headline": "Trump's Georgia election fraud case delayed for months",
         "location": "United States"
     },
     {
-        "headline": "US woman declared dead found alive at funeral home",
+        "headline": "Putin warns Russia could provide weapons to strike West",
+        "location": "Russia"
+    },
+    {
+        "headline": "Hunter Biden used crack 'every 20 minutes or so', court hears",
         "location": "United States"
     },
     {
-        "headline": "How filming Saving Private Ryan shook an Irish beach",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Grammy-winning producer accused of raping woman in van",
+        "headline": "Heat dome's triple-digit temperatures fry US south-west",
         "location": "United States"
     },
     {
-        "headline": "What effect do heatwaves have on the body?",
-        "location": "None"
+        "headline": "Border agents begin turning back migrants under new Biden restrictions",
+        "location": "United States"
     },
     {
-        "headline": "'Tornado-like' storm devastates town in South Africa",
-        "location": "South Africa"
+        "headline": "Israeli detention center faces legal challenge after \u2018unimaginable abuses\u2019",
+        "location": "Israel"
     },
     {
-        "headline": "Uri Geller returns library book 47 years late",
+        "headline": "Israel to soon decide on Lebanon offensive as fighting with Hezbollah flares",
+        "location": "Israel"
+    },
+    {
+        "headline": "Here are the countries that recognize a Palestinian state",
+        "location": "Palestine"
+    },
+    {
+        "headline": "India\u2019s low-caste voters humbled its powerful prime minister",
+        "location": "India"
+    },
+    {
+        "headline": "Gunman opens fire at U.S. Embassy in Lebanon and is shot by army",
+        "location": "Lebanon"
+    },
+    {
+        "headline": "Biden, in France for D-Day anniversary, to stress contrast with Trump",
+        "location": "United States"
+    },
+    {
+        "headline": "Tallest waterfall in China is fed by pipes, officials admit",
         "location": "United Kingdom"
+    },
+    {
+        "headline": "King Charles III\u2019s face arrives on Britain\u2019s banknotes",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Here\u2019s what to know about Modi and the Indian election",
+        "location": "India"
+    },
+    {
+        "headline": "The war in Gaza looms over Asia\u2019s geopolitics",
+        "location": "Asia"
     },
     {
         "headline": "Keir Starmer and Rishi Sunak clash in first U.K. election debate",
@@ -160,16 +204,12 @@
         "location": "India"
     },
     {
-        "headline": "Who is Modi and what happened in the Indian election?",
-        "location": "India"
-    },
-    {
         "headline": "What to know about India\u2019s election, the world\u2019s biggest democratic event",
         "location": "India"
     },
     {
         "headline": "Why Mexico City\u2019s thirst is causing it to sink",
-        "location": "Mexico City"
+        "location": "India"
     },
     {
         "headline": "Netanyahu strains to keep government together amid spreading rebellions",
@@ -182,45 +222,5 @@
     {
         "headline": "Biden expected to announce new asylum restrictions at border",
         "location": "United States"
-    },
-    {
-        "headline": "How Mexico, bastion of machismo, got a female president before the U.S.",
-        "location": "Mexico"
-    },
-    {
-        "headline": "Mexico fought for democracy. Could it slide back to a one-party state?",
-        "location": "Mexico"
-    },
-    {
-        "headline": "U.S. and China lay out competing security visions for Asia-Pacific",
-        "location": "United States and China"
-    },
-    {
-        "headline": "OMG your hair looks so cute! Young Chinese love American \u2018praise culture.\u2019",
-        "location": "China"
-    },
-    {
-        "headline": "Russia co-opts far-right politicians in Europe with cash, officials say",
-        "location": "Europe"
-    },
-    {
-        "headline": "Claudia Sheinbaum elected Mexico\u2019s first female president",
-        "location": "Mexico"
-    },
-    {
-        "headline": "Who is Claudia Sheinbaum, Mexico\u2019s next president?",
-        "location": "Mexico"
-    },
-    {
-        "headline": "Young men flee Myanmar in panic after struggling military starts draft",
-        "location": "Mexico"
-    },
-    {
-        "headline": "Zelensky comes to Asia and scolds China",
-        "location": "Myanmar"
-    },
-    {
-        "headline": "Biden\u2019s cease-fire plan tightens political squeeze for Netanyahu in Israel",
-        "location": "Ukraine and Asia"
     }
 ]

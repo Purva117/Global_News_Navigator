@@ -1,30 +1,6 @@
 [
     {
-        "headline": "Features",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Australia wants to become a renewable energy superpower. Can it?",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "OMG your hair looks so cute! Young Chinese love American \u2018praise culture.\u2019",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "headline": "'Mansplaining' French PM accused of sidelining colleague",
+        "headline": "French police arrest Russian-Ukrainian man on bomb-making charges",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,39 +8,7 @@
         ]
     },
     {
-        "headline": "Injured Djokovic withdraws from French Open",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Germany's deadly floods spread along Danube",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "Boy's family seek justice after crash with Ghana actor",
-        "location": "Ghana",
-        "coordinates": [
-            8.0300284,
-            -1.0800271
-        ]
-    },
-    {
-        "headline": "India's Modi claims victory as he heads for reduced majority",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "India's Modi claims victory as he heads for reduced majority",
+        "headline": "Allies back Modi for third term after election setback",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -80,14 +24,6 @@
         ]
     },
     {
-        "headline": "Watch/Listen",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
         "headline": "Arrests, accusations and AI: India\u2019s election unpacked",
         "location": "India",
         "coordinates": [
@@ -96,7 +32,15 @@
         ]
     },
     {
-        "headline": "Why India's Modi failed to win outright majority",
+        "headline": "India\u2019s low-caste voters humbled its powerful prime minister",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Here\u2019s what to know about Modi and the Indian election",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -112,14 +56,6 @@
         ]
     },
     {
-        "headline": "Who is Modi and what happened in the Indian election?",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
         "headline": "What to know about India\u2019s election, the world\u2019s biggest democratic event",
         "location": "India",
         "coordinates": [
@@ -128,15 +64,55 @@
         ]
     },
     {
-        "headline": "How filming Saving Private Ryan shook an Irish beach",
-        "location": "Ireland",
+        "headline": "Why Mexico City\u2019s thirst is causing it to sink",
+        "location": "India",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Fires in northern Israel fuel demands to tackle escalation with Hezbollah",
+        "headline": "UN nuclear watchdog urges Iran to cooperate",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Israel launches new military operation in central Gaza",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli nationalists march through Jerusalem's Old City",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israelis using gardening tools to fight wildfires sparked by Hezbollah rockets",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli detention center faces legal challenge after \u2018unimaginable abuses\u2019",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel to soon decide on Lebanon offensive as fighting with Hezbollah flares",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -160,11 +136,19 @@
         ]
     },
     {
-        "headline": "Mexican mayor killed hours after first woman elected president",
-        "location": "Mexico",
+        "headline": "How Japan's biggest brewer aims to attract sober Gen Z",
+        "location": "Japan",
         "coordinates": [
-            19.4326296,
-            -99.1331785
+            36.5748441,
+            139.2394179
+        ]
+    },
+    {
+        "headline": "Gunman opens fire at U.S. Embassy in Lebanon and is shot by army",
+        "location": "Lebanon",
+        "coordinates": [
+            40.375713,
+            -76.4626118
         ]
     },
     {
@@ -176,67 +160,19 @@
         ]
     },
     {
-        "headline": "How Mexico, bastion of machismo, got a female president before the U.S.",
-        "location": "Mexico",
+        "headline": "Man arrested in Qatar Grindr 'sting' sentenced",
+        "location": "Qatar",
         "coordinates": [
-            19.4326296,
-            -99.1331785
+            25.3336984,
+            51.2295295
         ]
     },
     {
-        "headline": "Mexico fought for democracy. Could it slide back to a one-party state?",
-        "location": "Mexico",
+        "headline": "Slovak PM blames shooting on opposition's 'hatred'",
+        "location": "Slovakia",
         "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Claudia Sheinbaum elected Mexico\u2019s first female president",
-        "location": "Mexico",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Who is Claudia Sheinbaum, Mexico\u2019s next president?",
-        "location": "Mexico",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Young men flee Myanmar in panic after struggling military starts draft",
-        "location": "Mexico",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Zelensky comes to Asia and scolds China",
-        "location": "Myanmar",
-        "coordinates": [
-            17.1750495,
-            95.9999652
-        ]
-    },
-    {
-        "headline": "'Tornado-like' storm devastates town in South Africa",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "'Tornado-like' storm devastates town in South Africa",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
+            48.7411522,
+            19.4528646
         ]
     },
     {
@@ -248,7 +184,31 @@
         ]
     },
     {
-        "headline": "Uri Geller returns library book 47 years late",
+        "headline": "'They gave us our freedom' - Veterans celebrated in Normandy",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "'They gave us our freedom' - Veterans celebrated in Normandy",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Tallest waterfall in China is fed by pipes, officials admit",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "King Charles III\u2019s face arrives on Britain\u2019s banknotes",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -264,7 +224,7 @@
         ]
     },
     {
-        "headline": "Biden announces asylum restrictions to \u2018control border\u2019",
+        "headline": "Boeing launches long-delayed astronaut capsule",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +232,7 @@
         ]
     },
     {
-        "headline": "Grammy-winning producer accused of raping woman in van",
+        "headline": "Biden border plan attacked by Republican rivals",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,15 +240,7 @@
         ]
     },
     {
-        "headline": "Hunter Biden 'crossed line' when he bought gun, trial hears",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Grammy-winning producer accused of raping woman in van",
+        "headline": "First images of Hawaii's Kilauea volcano erupting",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +256,7 @@
         ]
     },
     {
-        "headline": "Son's funny faces overshadow lawmaker's House speech",
+        "headline": "'I've lost many friends' - Hunter Biden jury pool lay bare drug epidemic",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +264,7 @@
         ]
     },
     {
-        "headline": "Hunter Biden 'crossed line' when he bought gun, trial hears",
+        "headline": "Endometriosis tormented her every month - and killed her aged 38",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +272,7 @@
         ]
     },
     {
-        "headline": "Democratic lawmakers criticise Biden's border plan",
+        "headline": "Key family players at Hunter Biden's gun trial",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +280,7 @@
         ]
     },
     {
-        "headline": "US woman declared dead found alive at funeral home",
+        "headline": "Californians deal with heat dome's high temperatures",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -336,7 +288,39 @@
         ]
     },
     {
-        "headline": "Grammy-winning producer accused of raping woman in van",
+        "headline": "Trump's Georgia election fraud case delayed for months",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Hunter Biden used crack 'every 20 minutes or so', court hears",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Heat dome's triple-digit temperatures fry US south-west",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Border agents begin turning back migrants under new Biden restrictions",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden, in France for D-Day anniversary, to stress contrast with Trump",
         "location": "United States",
         "coordinates": [
             39.7837304,

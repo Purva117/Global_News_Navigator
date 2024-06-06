@@ -1,95 +1,79 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Australia aims to become a renewable energy leader.\n\u2022 Its current energy mix is dominated by fossil fuels.\n\u2022 Transitioning to renewables requires significant investment in infrastructure and technology.",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "location": "China",
-        "summary": "\u2022 Praise culture is popular among young Chinese.\n\u2022 They appreciate compliments on their appearance.\n\u2022 This phenomenon is related to American influence.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 \"Mansplaining\" French Prime Minister accused of sidelining female colleague.\n\u2022 Novak Djokovic pulls out of French Open due to injury.\n\u2022 French PM faces accusations of sexism after allegedly marginalizing female colleague.\n\u2022 Tennis star Novak Djokovic exits French Open tournament due to physical limitations.",
+        "summary": "\u2022 French authorities have arrested a Russian-Ukrainian individual accused of manufacturing explosive devices.\n\u2022 The suspect was detained by law enforcement officials in connection with alleged bomb-making activities.\n\u2022 Further details regarding the investigation and potential motivations behind the suspect's actions remain unclear at this time.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Germany",
-        "summary": "\u2022 Heavy rainfall causes devastating floods in Germany.\n\u2022 The Danube River is severely affected, causing widespread destruction.\n\u2022 At least [insert number] people have been killed or injured due to the disaster.",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "location": "Ghana",
-        "summary": "\u2022 A boy was involved in a car accident with a well-known Ghanaian actor.\n\u2022 The boy's family is seeking justice and compensation for their loss.\n\u2022 The incident has sparked widespread concern about road safety in Ghana.",
-        "coordinates": [
-            8.0300284,
-            -1.0800271
-        ]
-    },
-    {
         "location": "India",
-        "summary": "\u2022 Prime Minister Narendra Modi claims victory despite falling short of a majority.\n\u2022 Factors contributing to Modi's reduced majority remain unclear.\n\u2022 India's election outcome has significant implications for politics and democracy.",
+        "summary": "\u2022 Allies support PM Modi despite electoral losses.\n\u2022 India has faced setbacks in its election process.\n\u2022 The country's low caste groups have influenced the outcome.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Ireland",
-        "summary": "\u2022 Filming Saving Private Ryan at Kinsale Beach in Ireland caused widespread disruption to local businesses and residents.\n\u2022 The production company paid compensation to affected parties but refused to disclose the exact amount.\n\u2022 The incident highlighted concerns about the impact of large-scale film productions on small communities.",
+        "location": "Iran",
+        "summary": "\u2022 The United Nations' nuclear watchdog agency is urging Iran to collaborate on its nuclear program.\n\u2022 Iran has been accused of pursuing illicit nuclear activities, sparking concerns about regional stability.\n\u2022 International pressure is mounting on Iran to comply with international standards regarding nuclear development.",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            32.6475314,
+            54.5643516
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Fierce fires in northern Israel have escalated tensions, prompting calls for decisive action against Hezbollah.\n\u2022 US President Joe Biden has raised concerns over potential Israeli war crimes amid reports of human rights abuses.\n\u2022 Despite ongoing talks, Israeli Prime Minister Benjamin Netanyahu remains non-committal about accepting a ceasefire proposal.",
+        "summary": "\u2022 Israel launches military operation in central Gaza amid escalating tensions.\n\u2022 Israeli nationalists march through Jerusalem's Old City amidst rising nationalism.\n\u2022 Biden questions whether Israel is committing war crimes in conflict with Hezbollah.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
+        "location": "Japan",
+        "summary": "\u2022 Asahi Group Holdings plans to increase its sales in Japan by targeting young people aged 18 to 24 with new products such as low-alcohol beverages.\n\u2022 The company will launch \"Asahi Brew Works\" to appeal to younger generations who prefer healthier lifestyles.\n\u2022 To reach this demographic, Asahi will focus on digital marketing strategies like social media campaigns and influencer partnerships.",
+        "coordinates": [
+            36.5748441,
+            139.2394179
+        ]
+    },
+    {
+        "location": "Lebanon",
+        "summary": "\u2022 A gunman opened fire on the US embassy in Beirut.\n\u2022 The attack was met with swift response from the Lebanese military.\n\u2022 Both the gunman and the soldier were killed in the ensuing exchange of gunfire.",
+        "coordinates": [
+            40.375713,
+            -76.4626118
+        ]
+    },
+    {
         "location": "Mexico",
-        "summary": "\u2022 Claudia Sheinbaum was elected as Mexico's first female president on July 1st.\n\u2022 The election marked a significant shift away from traditional gender norms in Mexico.\n\u2022 Mexico has become the third country in Latin America where a woman holds the top leadership position.",
+        "summary": "\u2022 Israel faces internal conflicts amid growing dissent from lawmakers.\n\u2022 Prime Minister struggles to maintain unity in the government amidst these challenges.\n\u2022 The situation may lead to instability and potential changes within the administration.",
         "coordinates": [
             19.4326296,
             -99.1331785
         ]
     },
     {
-        "location": "Myanmar",
-        "summary": "1. Zelensky visits Asia\n2. He condemns China's actions in Ukraine conflict\n3. He seeks international support against Russia",
+        "location": "Qatar",
+        "summary": "\u2022 A man was arrested in Qatar as part of a \"Grindr sting\" operation.\n\u2022 He has been sentenced for his involvement in the incident.\n\u2022 The details of the case remain unclear at this time.",
         "coordinates": [
-            17.1750495,
-            95.9999652
+            25.3336984,
+            51.2295295
         ]
     },
     {
-        "location": "South Africa",
-        "summary": "\u2022 A tornado-like storm hit a town in South Africa.\n\u2022 The storm caused significant damage to properties and infrastructure.\n\u2022 Residents were left dealing with the aftermath and recovery efforts began.",
+        "location": "Slovakia",
+        "summary": "\u2022 Slovak PM accuses opposition of spreading hatred\n\u2022 Shooting incident blamed by PM on opposition's actions\n\u2022 No further details provided",
         "coordinates": [
-            -28.8166236,
-            24.991639
+            48.7411522,
+            19.4528646
         ]
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 The UK's Royal Air Force honored D-Day veterans with a commemorative flypast over the English Channel.\n\u2022 Uri Geller returned a borrowed library book 47 years after initially borrowing it.\n\u2022 In their first major election debate, Keir Starmer and Rishi Sunak clashed on key policy issues.",
+        "summary": "- Royal Air Force flypast honors D-Day veterans during their trip to France.\n- British veterans celebrate being freed from Nazi occupation in Normandy.\n- The tallest waterfall in China is secretly maintained through hidden pipes, officials reveal.\n- The King's portrait appears on UK currency, marking his reign as monarch.\n- Labour leader Keir Starmer and Conservative politician Rishi Sunak engage in their first televised debate ahead of the UK general elections.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -97,7 +81,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Biden announces asylum restrictions to control border\n\u2022 Hunter Biden is accused of buying a gun during a trial\n\u2022 A Grammy-winning producer is accused of rape",
+        "summary": "\u2022\tBoeing launches long-delayed astronaut capsule.\n\u2022\tBiden faces criticism from Republicans over his border policy.\n\u2022\tAir rescue team saves man who fell off a cliff in Los Angeles.",
         "coordinates": [
             39.7837304,
             -100.445882
