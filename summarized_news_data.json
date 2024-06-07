@@ -1,79 +1,103 @@
 [
     {
+        "location": "Australia",
+        "summary": "\u2022 Australia's renowned \"Space Gandalf\" astronomer passes away at 62.\n\u2022 The late scientist was known for his groundbreaking discoveries in space exploration and astronomy.\n\u2022 His legacy continues to inspire new generations of scientists and explorers.",
+        "coordinates": [
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
         "location": "France",
-        "summary": "\u2022 French authorities have arrested a Russian-Ukrainian individual accused of manufacturing explosive devices.\n\u2022 The suspect was detained by law enforcement officials in connection with alleged bomb-making activities.\n\u2022 Further details regarding the investigation and potential motivations behind the suspect's actions remain unclear at this time.",
+        "summary": "\u2022 Joe Biden is set to deliver a speech in France, emphasizing his commitment to defending democracy.\n\u2022 He will participate in commemorating the 80th anniversary of D-Day alongside world leaders and veterans.\n\u2022 This event highlights Biden's stance on democracy, contrasting with that of former President Donald Trump.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
+        "location": "Greece",
+        "summary": "\u2022 Dr. Michael Mosley is missing in Greece\n\u2022 He is known for popularizing the 5:2 diet\n\u2022 Authorities are searching for him",
+        "coordinates": [
+            39.0742,
+            21.8243
+        ]
+    },
+    {
         "location": "India",
-        "summary": "\u2022 Allies support PM Modi despite electoral losses.\n\u2022 India has faced setbacks in its election process.\n\u2022 The country's low caste groups have influenced the outcome.",
+        "summary": "* Modi will be sworn in as India's Prime Minister on Sunday.\n* The opposition accuses Modi of being involved in a stock market scam.\n* A gunman opened fire at the US Embassy in Lebanon, but was shot by the army before any harm was done.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Iran",
-        "summary": "\u2022 The United Nations' nuclear watchdog agency is urging Iran to collaborate on its nuclear program.\n\u2022 Iran has been accused of pursuing illicit nuclear activities, sparking concerns about regional stability.\n\u2022 International pressure is mounting on Iran to comply with international standards regarding nuclear development.",
+        "location": "Ireland",
+        "summary": "\u2022 Irish economy returns to growth\n\u2022 Pit bull terrier shot by Irish police after two injured\n\u2022 Irish polls open for local and EU elections",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            52.865196,
+            -7.9794599
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israel launches military operation in central Gaza amid escalating tensions.\n\u2022 Israeli nationalists march through Jerusalem's Old City amidst rising nationalism.\n\u2022 Biden questions whether Israel is committing war crimes in conflict with Hezbollah.",
+        "summary": "\u2022 The United States is urging Israel to be more transparent about its actions regarding the recent strike on a school in Gaza.\n\u2022 Prime Minister Benjamin Netanyahu will speak before a joint meeting of both houses of Congress in July.\n\u2022 The UN has accused Israel of using American-made ammunition in the attack on a UN school that resulted in the deaths of many innocent children.\n\u2022 A deadline has been set for Israel to improve their treatment of detained Palestinians or face international consequences.\n\u2022 Detention centers in Israel have been reported as having committed human rights violations, including torture, abuse, and mistreatment of prisoners.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Japan",
-        "summary": "\u2022 Asahi Group Holdings plans to increase its sales in Japan by targeting young people aged 18 to 24 with new products such as low-alcohol beverages.\n\u2022 The company will launch \"Asahi Brew Works\" to appeal to younger generations who prefer healthier lifestyles.\n\u2022 To reach this demographic, Asahi will focus on digital marketing strategies like social media campaigns and influencer partnerships.",
-        "coordinates": [
-            36.5748441,
-            139.2394179
-        ]
-    },
-    {
         "location": "Lebanon",
-        "summary": "\u2022 A gunman opened fire on the US embassy in Beirut.\n\u2022 The attack was met with swift response from the Lebanese military.\n\u2022 Both the gunman and the soldier were killed in the ensuing exchange of gunfire.",
+        "summary": "\u2022 Israel may launch an attack on Lebanon amid escalating violence with Hezbollah.\n\u2022 US President Joe Biden visits France to commemorate D-Day, highlighting differences from predecessor Donald Trump.\n\u2022 Tensions between Israel and Hezbollah escalate, threatening regional stability.",
         "coordinates": [
             40.375713,
             -76.4626118
         ]
     },
     {
-        "location": "Mexico",
-        "summary": "\u2022 Israel faces internal conflicts amid growing dissent from lawmakers.\n\u2022 Prime Minister struggles to maintain unity in the government amidst these challenges.\n\u2022 The situation may lead to instability and potential changes within the administration.",
+        "location": "Myanmar",
+        "summary": "\u2022 The military junta has inflicted widespread human rights abuses and political repression on its citizens.\n\u2022 The economic sanctions imposed by international governments have led to a significant decline in trade and investment.\n\u2022 The ongoing violence and instability have resulted in the displacement of thousands of people and the destruction of infrastructure.",
         "coordinates": [
-            19.4326296,
-            -99.1331785
+            17.1750495,
+            95.9999652
         ]
     },
     {
-        "location": "Qatar",
-        "summary": "\u2022 A man was arrested in Qatar as part of a \"Grindr sting\" operation.\n\u2022 He has been sentenced for his involvement in the incident.\n\u2022 The details of the case remain unclear at this time.",
+        "location": "Netherlands",
+        "summary": "\u2022 The European Union parliamentary election has commenced in the Netherlands.\n\u2022 A recent exit poll indicates a close competition between parties vying for leadership.\n\u2022 The outcome remains uncertain due to the unpredictable nature of the contest.",
         "coordinates": [
-            25.3336984,
-            51.2295295
+            52.2434979,
+            5.6343227
         ]
     },
     {
-        "location": "Slovakia",
-        "summary": "\u2022 Slovak PM accuses opposition of spreading hatred\n\u2022 Shooting incident blamed by PM on opposition's actions\n\u2022 No further details provided",
+        "location": "South Africa",
+        "summary": "\u2022 Cyril Ramaphosa believes unity government is SA's best option.\n\u2022 He advocates for unity among political parties to address challenges.\n\u2022 A unified government would benefit the country economically and socially.",
         "coordinates": [
-            48.7411522,
-            19.4528646
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "location": "South Korea",
+        "summary": "\u2022 North Korea launched balloons carrying propaganda materials into South Korea.\n\u2022 Activists in South Korea responded by sending K-pop music to counter the propaganda.\n\u2022 The balloon incident highlights tensions between the two nations.",
+        "coordinates": [
+            36.638392,
+            127.6961188
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 Ukrainian President Zelensky calls D-Day veteran a hero\n\u2022 Zelensky honors D-Day veteran as a hero\n\u2022 Power outages in Ukraine due to Russian airstrikes on energy facilities",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
         "location": "United Kingdom",
-        "summary": "- Royal Air Force flypast honors D-Day veterans during their trip to France.\n- British veterans celebrate being freed from Nazi occupation in Normandy.\n- The tallest waterfall in China is secretly maintained through hidden pipes, officials reveal.\n- The King's portrait appears on UK currency, marking his reign as monarch.\n- Labour leader Keir Starmer and Conservative politician Rishi Sunak engage in their first televised debate ahead of the UK general elections.",
+        "summary": "\u2022 Refugees on a remote UK island discuss their experiences in interviews with the BBC.\n\u2022 Two UK judges severed ties with Hong Kong's judicial system due to political reasons.\n\u2022 World War II veterans commemorate the 80th anniversary of D-Day.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -81,7 +105,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022\tBoeing launches long-delayed astronaut capsule.\n\u2022\tBiden faces criticism from Republicans over his border policy.\n\u2022\tAir rescue team saves man who fell off a cliff in Los Angeles.",
+        "summary": "\u2022 Hunter Biden's ex-girlfriend found a gun and panicked.\n\u2022 Eleven people were sent to the hospital due to extreme heat during an Arizona Trump rally.\n\u2022 Israeli Prime Minister Benjamin Netanyahu will be addressing the U.S. Congress on July 24th.",
         "coordinates": [
             39.7837304,
             -100.445882
