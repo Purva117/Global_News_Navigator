@@ -1,59 +1,59 @@
 [
     {
+        "headline": "Danish PM attacked by man in Copenhagen",
+        "location": "Denmark"
+    },
+    {
+        "headline": "Confident Putin warns Europe is \u2018defenceless\u2019",
+        "location": "Russia"
+    },
+    {
+        "headline": "UN confirms 11 staff detained by Houthis in Yemen",
+        "location": "Yemen"
+    },
+    {
+        "headline": "UK's Sunak apologises for leaving D-Day commemorations early",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Fatal black bear attack a first in California history",
+        "location": "United States"
+    },
+    {
+        "headline": "Confident Putin warns Europe is \u2018defenceless\u2019",
+        "location": "Russia"
+    },
+    {
+        "headline": "Biden apologises for delay in Ukraine military aid",
+        "location": "United States"
+    },
+    {
+        "headline": "UN adds Israel to list of militaries committing violations against children",
+        "location": "Israel"
+    },
+    {
+        "headline": "UN confirms 11 staff detained by Houthis in Yemen",
+        "location": "Yemen"
+    },
+    {
         "headline": "Refugees sent to Rwanda from remote UK island speak to BBC",
         "location": "United Kingdom"
     },
     {
-        "headline": "Hunter Biden's ex-girlfriend 'panicked' after finding gun",
+        "headline": "US jobs surge casts doubt over interest rate cuts",
         "location": "United States"
     },
     {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa"
-    },
-    {
-        "headline": "Modi to be sworn in as India's PM on Sunday",
-        "location": "India"
-    },
-    {
-        "headline": "The devastating cost of fighting Myanmar's military dictatorship",
-        "location": "Myanmar"
-    },
-    {
-        "headline": "Hunter Biden's ex-girlfriend 'panicked' after finding gun",
+        "headline": "Hunter Biden's daughter gives surprise testimony at trial",
         "location": "United States"
-    },
-    {
-        "headline": "The right could win big in Europe \u2013 thanks to young people",
-        "location": "Europe"
-    },
-    {
-        "headline": "US urges Israel to be transparent over Gaza school strike",
-        "location": "Israel"
-    },
-    {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa"
     },
     {
         "headline": "EU elections start with tight Dutch race - exit poll",
         "location": "Netherlands"
     },
     {
-        "headline": "Australia's 'Space Gandalf' astronomer dies aged 62",
-        "location": "Australia"
-    },
-    {
-        "headline": "Extreme heat sends 11 to hospital at Arizona Trump rally",
-        "location": "United States"
-    },
-    {
-        "headline": "Zelensky and D-Day veteran call each other 'hero'",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Netanyahu to address US Congress on 24 July",
-        "location": "United States"
+        "headline": "The right could win big in Europe \u2013 thanks to young people",
+        "location": "Europe"
     },
     {
         "headline": "Watch/Listen",
@@ -61,7 +61,7 @@
     },
     {
         "headline": "Zelensky and D-Day veteran call each other 'hero'",
-        "location": "Ukraine"
+        "location": "United States"
     },
     {
         "headline": "Watch: Moving and spectacular D-Day commemorations",
@@ -69,7 +69,7 @@
     },
     {
         "headline": "'Wanna feed the giraffe?' Moment toddler grabbed from truck",
-        "location": "Not applicable"
+        "location": "United States"
     },
     {
         "headline": "Astronauts in Boeing capsule arrive at space station",
@@ -84,6 +84,18 @@
         "location": "Not applicable"
     },
     {
+        "headline": "'My 17-year-old was brutally killed, but I'm glad she fought for freedom'",
+        "location": "United States"
+    },
+    {
+        "headline": "On the coastal path near where Michael Mosley was last seen",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Why two UK judges cut ties with Hong Kong's courts",
+        "location": "United Kingdom"
+    },
+    {
         "headline": "Witnesses tell of 'unimaginable' Gaza shelter air strike",
         "location": "Palestine"
     },
@@ -92,76 +104,76 @@
         "location": "Africa"
     },
     {
-        "headline": "Concern rises over AI in adult entertainment",
-        "location": "United States"
-    },
-    {
-        "headline": "Why is Nvidia boss the 'Taylor Swift of tech'?",
-        "location": "United States"
-    },
-    {
-        "headline": "Will the UK and US cut interest rates like Europe?",
-        "location": "United States"
-    },
-    {
         "headline": "Latest updates",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
-        "headline": "Why two UK judges cut ties with Hong Kong's courts",
+        "headline": "Why Kenya's president wants people to love the taxman",
+        "location": "Kenya"
+    },
+    {
+        "headline": "I married the love of my life in a Ukrainian bunker. Two days later he was killed",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Giorgia Meloni gets personal as Italy votes in EU poll",
+        "location": "Italy"
+    },
+    {
+        "headline": "Danish PM attacked by man in Copenhagen",
+        "location": "Denmark"
+    },
+    {
+        "headline": "Irish polls close in local and EU elections",
+        "location": "Ireland"
+    },
+    {
+        "headline": "David Cameron falls victim to hoax video call",
         "location": "United Kingdom"
     },
     {
-        "headline": "Irish economy returns to growth",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Pit bull terrier shot by Irish police after two injured",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Modi to be sworn in as India's PM on Sunday",
-        "location": "India"
-    },
-    {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa"
-    },
-    {
-        "headline": "India opposition accuses Modi of 'stock market scam'",
-        "location": "India"
-    },
-    {
-        "headline": "Australia's 'Space Gandalf' astronomer dies aged 62",
-        "location": "Australia"
-    },
-    {
-        "headline": "Extreme heat sends 11 to hospital at Arizona Trump rally",
+        "headline": "Beyonc\u00e9 tickets, Bali trips and book deals: Here's how Supreme Court justices earned money this year",
         "location": "United States"
     },
     {
-        "headline": "Irish polls open for local and EU elections",
-        "location": "Ireland"
+        "headline": "Pat Sajak leaves Wheel of Fortune with these final words",
+        "location": "United States"
     },
     {
-        "headline": "TV doctor Michael Mosley, who made the 5:2 diet famous, missing in Greece",
-        "location": "Greece"
+        "headline": "California police find 2,800 stolen Lego sets",
+        "location": "United States"
     },
     {
-        "headline": "Israel\u2019s Netanyahu to address joint session of Congress in July",
+        "headline": "Israeli official poised to resign as postwar plan fails to materialize",
         "location": "Israel"
     },
     {
-        "headline": "North Korea sent trash balloons. Activists in the South sent K-pop.",
-        "location": "South Korea"
+        "headline": "Gaza pier repaired, U.S. ready to resume aid mission, Pentagon says",
+        "location": "Palestine"
     },
     {
-        "headline": "Biden to defend democracy in speech in France, drawing contrast with Trump",
+        "headline": "Denmark PM hit on street in Copenhagen; suspect arrested",
+        "location": "Denmark"
+    },
+    {
+        "headline": "France, allies to \u2018finalize\u2019 plan to send military trainers to Ukraine",
         "location": "France"
     },
     {
+        "headline": "Biden defends democracy in France, drawing implied contrast with Trump",
+        "location": "United States"
+    },
+    {
+        "headline": "TV doctor Michael Mosley, who made the 5:2 diet famous, missing in Greece",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "North Korea sent trash balloons. Activists in the South sent K-pop.",
+        "location": "North Korea and South Korea"
+    },
+    {
         "headline": "The West\u2019s liberal establishment clings to D-Day\u2019s legacy",
-        "location": "Western countries"
+        "location": "United States"
     },
     {
         "headline": "Israel used U.S. munition in deadly strike on U.N. school, experts say",
@@ -181,11 +193,11 @@
     },
     {
         "headline": "Gaza aid pier suffered at least $22 million in damage, Pentagon assesses",
-        "location": "Gaza Strip"
+        "location": "Ukraine"
     },
     {
         "headline": "In photos: The last WWII veterans mark the 80th anniversary of D-Day",
-        "location": "United Kingdom"
+        "location": "United States"
     },
     {
         "headline": "European Parliament elections 2024: How far right will the E.U. shift?",
@@ -193,7 +205,7 @@
     },
     {
         "headline": "As Gaza cease-fire is debated, a vital aid route hangs in the balance",
-        "location": "Gaza Strip"
+        "location": "Palestine"
     },
     {
         "headline": "Border agents begin turning back migrants under new Biden restrictions",
@@ -201,26 +213,14 @@
     },
     {
         "headline": "Israeli detention center faces legal challenge after \u2018unimaginable abuses\u2019",
-        "location": "Israel"
+        "location": "United States"
     },
     {
         "headline": "Israel to soon decide on Lebanon offensive as fighting with Hezbollah flares",
-        "location": "Lebanon"
+        "location": "Israel"
     },
     {
         "headline": "Here are the countries that recognize a Palestinian state",
-        "location": "Various countries"
-    },
-    {
-        "headline": "India\u2019s low-caste voters humbled its powerful prime minister",
-        "location": "Multiple countries"
-    },
-    {
-        "headline": "Gunman opens fire at U.S. Embassy in Lebanon and is shot by army",
-        "location": "India"
-    },
-    {
-        "headline": "Biden, in France for D-Day anniversary, to stress contrast with Trump",
-        "location": "Lebanon"
+        "location": "Israel"
     }
 ]

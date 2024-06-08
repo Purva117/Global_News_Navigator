@@ -1,39 +1,23 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Australia's renowned \"Space Gandalf\" astronomer passes away at 62.\n\u2022 The late scientist was known for his groundbreaking discoveries in space exploration and astronomy.\n\u2022 His legacy continues to inspire new generations of scientists and explorers.",
+        "location": "Denmark",
+        "summary": "\u2022 The Danish Prime Minister was attacked by a man in Copenhagen.\n\u2022 A suspect has been arrested in connection with the incident.\n\u2022 The attack occurred on the street in Copenhagen.",
         "coordinates": [
-            -24.7761086,
-            134.755
+            55.670249,
+            10.3333283
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 Joe Biden is set to deliver a speech in France, emphasizing his commitment to defending democracy.\n\u2022 He will participate in commemorating the 80th anniversary of D-Day alongside world leaders and veterans.\n\u2022 This event highlights Biden's stance on democracy, contrasting with that of former President Donald Trump.",
+        "summary": "\u2022 France and its allies will finalize a plan to deploy military trainers to Ukraine.\n\u2022 US President Joe Biden, other global leaders, and war veterans gather in France to commemorate the 80th anniversary of D-Day.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Greece",
-        "summary": "\u2022 Dr. Michael Mosley is missing in Greece\n\u2022 He is known for popularizing the 5:2 diet\n\u2022 Authorities are searching for him",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "location": "India",
-        "summary": "* Modi will be sworn in as India's Prime Minister on Sunday.\n* The opposition accuses Modi of being involved in a stock market scam.\n* A gunman opened fire at the US Embassy in Lebanon, but was shot by the army before any harm was done.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
         "location": "Ireland",
-        "summary": "\u2022 Irish economy returns to growth\n\u2022 Pit bull terrier shot by Irish police after two injured\n\u2022 Irish polls open for local and EU elections",
+        "summary": "\u2022 The Irish polls have closed for both local and European Union elections.\n\u2022 This marks the end of voting for these crucial elections.\n\u2022 Results will be announced soon, determining the outcome of the contests.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -41,55 +25,39 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 The United States is urging Israel to be more transparent about its actions regarding the recent strike on a school in Gaza.\n\u2022 Prime Minister Benjamin Netanyahu will speak before a joint meeting of both houses of Congress in July.\n\u2022 The UN has accused Israel of using American-made ammunition in the attack on a UN school that resulted in the deaths of many innocent children.\n\u2022 A deadline has been set for Israel to improve their treatment of detained Palestinians or face international consequences.\n\u2022 Detention centers in Israel have been reported as having committed human rights violations, including torture, abuse, and mistreatment of prisoners.",
+        "summary": "\u2022 The United Nations has added Israel to its list of militaries committing violations against children.\n\u2022 An Israeli official is poised to resign due to a failed post-war plan.\n\u2022 Israel may launch an attack on Lebanon amid growing tensions with Hezbollah.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Lebanon",
-        "summary": "\u2022 Israel may launch an attack on Lebanon amid escalating violence with Hezbollah.\n\u2022 US President Joe Biden visits France to commemorate D-Day, highlighting differences from predecessor Donald Trump.\n\u2022 Tensions between Israel and Hezbollah escalate, threatening regional stability.",
+        "location": "Italy",
+        "summary": "\u2022 Giorgia Meloni has taken a personal approach to campaigning for the European Parliament elections in Italy.\n\u2022 The election will decide which party will hold the presidency of the European Commission, with significant implications for Italy's role in the EU.\n\u2022 Meloni is emphasizing her leadership experience and commitment to promoting Italian interests within the EU.",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "location": "Myanmar",
-        "summary": "\u2022 The military junta has inflicted widespread human rights abuses and political repression on its citizens.\n\u2022 The economic sanctions imposed by international governments have led to a significant decline in trade and investment.\n\u2022 The ongoing violence and instability have resulted in the displacement of thousands of people and the destruction of infrastructure.",
+        "location": "Kenya",
+        "summary": "\u2022 Kenyan President Uhuru Kenyatta has urged citizens to pay their taxes promptly and honestly.\n\u2022 The government aims to use tax revenue to fund essential public services such as healthcare, education, and infrastructure development.\n\u2022 By paying taxes, individuals contribute to the country's growth and prosperity.",
         "coordinates": [
-            17.1750495,
-            95.9999652
+            1.4419683,
+            38.4313975
         ]
     },
     {
         "location": "Netherlands",
-        "summary": "\u2022 The European Union parliamentary election has commenced in the Netherlands.\n\u2022 A recent exit poll indicates a close competition between parties vying for leadership.\n\u2022 The outcome remains uncertain due to the unpredictable nature of the contest.",
+        "summary": "\u2022 The European Union's election campaign has begun in the Netherlands, with an exit poll indicating a close race.\n\u2022 A recent survey suggests that the outcome is too close to call at this stage.\n\u2022 The result will have significant implications for the country's direction and policies moving forward.",
         "coordinates": [
             52.2434979,
             5.6343227
         ]
     },
     {
-        "location": "South Africa",
-        "summary": "\u2022 Cyril Ramaphosa believes unity government is SA's best option.\n\u2022 He advocates for unity among political parties to address challenges.\n\u2022 A unified government would benefit the country economically and socially.",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "location": "South Korea",
-        "summary": "\u2022 North Korea launched balloons carrying propaganda materials into South Korea.\n\u2022 Activists in South Korea responded by sending K-pop music to counter the propaganda.\n\u2022 The balloon incident highlights tensions between the two nations.",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
         "location": "Ukraine",
-        "summary": "\u2022 Ukrainian President Zelensky calls D-Day veteran a hero\n\u2022 Zelensky honors D-Day veteran as a hero\n\u2022 Power outages in Ukraine due to Russian airstrikes on energy facilities",
+        "summary": "\u2022 A couple got married in a Ukrainian bunker but the groom died two days later.\n\u2022 Russia's attacks have caused widespread blackouts in Ukraine due to damage to power plants.\n\u2022 The Gaza aid pier has been severely damaged by Russian airstrikes, resulting in estimated losses of at least $22 million.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -97,7 +65,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 Refugees on a remote UK island discuss their experiences in interviews with the BBC.\n\u2022 Two UK judges severed ties with Hong Kong's judicial system due to political reasons.\n\u2022 World War II veterans commemorate the 80th anniversary of D-Day.",
+        "summary": "\u2022 UK Prime Minister Rishi Sunak has apologized for leaving the D-Day commemorations early.\n\u2022 Refugees on a remote UK island have spoken to the BBC about their experiences.\n\u2022 Two British judges have left the Hong Kong court system due to political reasons.\n\u2022 Former UK Prime Minister David Cameron fell victim to a prank phone call.\n\u2022 TV personality Michael Mosley is currently missing while vacationing in Greece.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -105,10 +73,18 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Hunter Biden's ex-girlfriend found a gun and panicked.\n\u2022 Eleven people were sent to the hospital due to extreme heat during an Arizona Trump rally.\n\u2022 Israeli Prime Minister Benjamin Netanyahu will be addressing the U.S. Congress on July 24th.",
+        "summary": "\u2022 Fatal black bear attack a first in California history\n\u2022 Biden apologizes for delay in Ukraine military aid\n\u2022 US jobs surge casts doubt over interest rate cuts",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "location": "Yemen",
+        "summary": "\u2022 The United Nations has confirmed that 11 of its personnel were detained by Houthi rebels in Yemen.\n\u2022 The individuals involved work for the United Nations Assistance Mission to Yemen (UNHRC).\n\u2022 The organization is working to secure their release and ensure their safety.",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     }
 ]

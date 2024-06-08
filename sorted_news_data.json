@@ -1,22 +1,30 @@
 [
     {
-        "headline": "Australia's 'Space Gandalf' astronomer dies aged 62",
-        "location": "Australia",
+        "headline": "Danish PM attacked by man in Copenhagen",
+        "location": "Denmark",
         "coordinates": [
-            -24.7761086,
-            134.755
+            55.670249,
+            10.3333283
         ]
     },
     {
-        "headline": "Australia's 'Space Gandalf' astronomer dies aged 62",
-        "location": "Australia",
+        "headline": "Danish PM attacked by man in Copenhagen",
+        "location": "Denmark",
         "coordinates": [
-            -24.7761086,
-            134.755
+            55.670249,
+            10.3333283
         ]
     },
     {
-        "headline": "Biden to defend democracy in speech in France, drawing contrast with Trump",
+        "headline": "Denmark PM hit on street in Copenhagen; suspect arrested",
+        "location": "Denmark",
+        "coordinates": [
+            55.670249,
+            10.3333283
+        ]
+    },
+    {
+        "headline": "France, allies to \u2018finalize\u2019 plan to send military trainers to Ukraine",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,47 +40,7 @@
         ]
     },
     {
-        "headline": "TV doctor Michael Mosley, who made the 5:2 diet famous, missing in Greece",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "Modi to be sworn in as India's PM on Sunday",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Modi to be sworn in as India's PM on Sunday",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "India opposition accuses Modi of 'stock market scam'",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Gunman opens fire at U.S. Embassy in Lebanon and is shot by army",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Irish economy returns to growth",
+        "headline": "Irish polls close in local and EU elections",
         "location": "Ireland",
         "coordinates": [
             52.865196,
@@ -80,23 +48,7 @@
         ]
     },
     {
-        "headline": "Pit bull terrier shot by Irish police after two injured",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "Irish polls open for local and EU elections",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "US urges Israel to be transparent over Gaza school strike",
+        "headline": "UN adds Israel to list of militaries committing violations against children",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -104,7 +56,7 @@
         ]
     },
     {
-        "headline": "Israel\u2019s Netanyahu to address joint session of Congress in July",
+        "headline": "Israeli official poised to resign as postwar plan fails to materialize",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -128,7 +80,7 @@
         ]
     },
     {
-        "headline": "Israeli detention center faces legal challenge after \u2018unimaginable abuses\u2019",
+        "headline": "Israel to soon decide on Lebanon offensive as fighting with Hezbollah flares",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -136,27 +88,27 @@
         ]
     },
     {
-        "headline": "Israel to soon decide on Lebanon offensive as fighting with Hezbollah flares",
-        "location": "Lebanon",
+        "headline": "Here are the countries that recognize a Palestinian state",
+        "location": "Israel",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "Biden, in France for D-Day anniversary, to stress contrast with Trump",
-        "location": "Lebanon",
+        "headline": "Giorgia Meloni gets personal as Italy votes in EU poll",
+        "location": "Italy",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "The devastating cost of fighting Myanmar's military dictatorship",
-        "location": "Myanmar",
+        "headline": "Why Kenya's president wants people to love the taxman",
+        "location": "Kenya",
         "coordinates": [
-            17.1750495,
-            95.9999652
+            1.4419683,
+            38.4313975
         ]
     },
     {
@@ -168,47 +120,7 @@
         ]
     },
     {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "Unity government is S Africa's best option - Ramaphosa",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "North Korea sent trash balloons. Activists in the South sent K-pop.",
-        "location": "South Korea",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
-        "headline": "Zelensky and D-Day veteran call each other 'hero'",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Zelensky and D-Day veteran call each other 'hero'",
+        "headline": "I married the love of my life in a Ukrainian bunker. Two days later he was killed",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -224,7 +136,31 @@
         ]
     },
     {
+        "headline": "Gaza aid pier suffered at least $22 million in damage, Pentagon assesses",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "UK's Sunak apologises for leaving D-Day commemorations early",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
         "headline": "Refugees sent to Rwanda from remote UK island speak to BBC",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "On the coastal path near where Michael Mosley was last seen",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -240,7 +176,7 @@
         ]
     },
     {
-        "headline": "In photos: The last WWII veterans mark the 80th anniversary of D-Day",
+        "headline": "David Cameron falls victim to hoax video call",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -248,7 +184,15 @@
         ]
     },
     {
-        "headline": "Hunter Biden's ex-girlfriend 'panicked' after finding gun",
+        "headline": "TV doctor Michael Mosley, who made the 5:2 diet famous, missing in Greece",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Fatal black bear attack a first in California history",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +200,7 @@
         ]
     },
     {
-        "headline": "Hunter Biden's ex-girlfriend 'panicked' after finding gun",
+        "headline": "Biden apologises for delay in Ukraine military aid",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +208,7 @@
         ]
     },
     {
-        "headline": "Extreme heat sends 11 to hospital at Arizona Trump rally",
+        "headline": "US jobs surge casts doubt over interest rate cuts",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +216,15 @@
         ]
     },
     {
-        "headline": "Netanyahu to address US Congress on 24 July",
+        "headline": "Hunter Biden's daughter gives surprise testimony at trial",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Zelensky and D-Day veteran call each other 'hero'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -281,6 +233,14 @@
     },
     {
         "headline": "Watch: Moving and spectacular D-Day commemorations",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "'Wanna feed the giraffe?' Moment toddler grabbed from truck",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +264,7 @@
         ]
     },
     {
-        "headline": "Concern rises over AI in adult entertainment",
+        "headline": "'My 17-year-old was brutally killed, but I'm glad she fought for freedom'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +272,7 @@
         ]
     },
     {
-        "headline": "Why is Nvidia boss the 'Taylor Swift of tech'?",
+        "headline": "Beyonc\u00e9 tickets, Bali trips and book deals: Here's how Supreme Court justices earned money this year",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +280,7 @@
         ]
     },
     {
-        "headline": "Will the UK and US cut interest rates like Europe?",
+        "headline": "Pat Sajak leaves Wheel of Fortune with these final words",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +288,7 @@
         ]
     },
     {
-        "headline": "Latest updates",
+        "headline": "California police find 2,800 stolen Lego sets",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -336,7 +296,23 @@
         ]
     },
     {
-        "headline": "Extreme heat sends 11 to hospital at Arizona Trump rally",
+        "headline": "Biden defends democracy in France, drawing implied contrast with Trump",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "The West\u2019s liberal establishment clings to D-Day\u2019s legacy",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "In photos: The last WWII veterans mark the 80th anniversary of D-Day",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -349,6 +325,30 @@
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "headline": "Israeli detention center faces legal challenge after \u2018unimaginable abuses\u2019",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "UN confirms 11 staff detained by Houthis in Yemen",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "UN confirms 11 staff detained by Houthis in Yemen",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     }
 ]
