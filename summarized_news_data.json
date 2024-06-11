@@ -1,39 +1,23 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 The graduation ceremony takes place after a 50-year delay.\n\u2022 A milestone event occurs 50 years late to its original schedule.\n\u2022 Historic moment marks a significant occasion in Australian history.",
+        "location": "Argentina",
+        "summary": "\u2022 The IMF predicts that Argentina's economy will grow by 4% in 2021 due to improved policies.\n\u2022 The peso has appreciated against the US dollar since October 2019.\n\u2022 Inflation remains high at around 45%.",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -34.9964963,
+            -64.9672817
         ]
     },
     {
-        "location": "Canada",
-        "summary": "\u2022 British Columbia has become the first Canadian province to decriminalize hard drugs in 2017\n\u2022 However, the government is now considering reversing this decision\n\u2022 The reversal comes after concerns were raised about the impact on public health and safety",
+        "location": "Cyprus",
+        "summary": "\u2022 A YouTuber who gained fame through his prank videos has been elected as a Member of European Parliament (MEP) from Cyprus.\n\u2022 This unexpected election win highlights the power of social media influence on politics.\n\u2022 As an MEP, he will represent the people of Cyprus in the European Parliament.",
         "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "location": "China",
-        "summary": "\u2022 The cartoon cat is a popular character in China.\n\u2022 It has been criticized by Chinese authorities due to its humor.\n\u2022 As a result, the cartoonist is being targeted by censors.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "location": "Denmark",
-        "summary": "\u2022 Police rule out political motive behind attack on Danish PM.\n\u2022 Authorities investigate incident to ensure safety and security.\n\u2022 Prime Minister's office confirms no political motivations were found.",
-        "coordinates": [
-            55.670249,
-            10.3333283
+            34.9174159,
+            32.889902651331866
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 French President Emmanuel Macron is considering calling a snap election after suffering defeats in recent European polls.\n\u2022 Macron views snap elections as an \"act of trust\" to regain public confidence.\n\u2022 The European Parliament has shifted towards the right wing, leading to Macron's consideration of early elections.",
+        "summary": "\u2022 French President Emmanuel Macron calls a snap election after the EU vote.\n\u2022 A French police officer is detained over the alleged murder of a 19-year-old woman.\n\u2022 The far-right party has made significant gains in the European Parliament elections.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -41,7 +25,7 @@
     },
     {
         "location": "Iceland",
-        "summary": "\u2022 A massive lava flow has engulfed a road in Iceland.\n\u2022 The volcanic eruption caused widespread destruction along the affected area.\n\u2022 Emergency services were deployed to rescue stranded motorists and aid those impacted by the disaster.",
+        "summary": "\u2022 A massive lava flow has engulfed a major road in Iceland\n\u2022 The eruption occurred at the Fagradalsfjall volcano near Krysuvik, a popular tourist destination\n\u2022 Emergency responders and scientists have been deployed to monitor the situation and ensure public safety",
         "coordinates": [
             64.9841821,
             -18.1059013
@@ -49,7 +33,7 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 Narendra Modi sworn in for third term at grand ceremony in Delhi \n\u2022 Coalition to make Prime Minister Modi humble\n\u2022 Sworn in as PM for third term with familiar allies",
+        "summary": "\u2022 Benny Gantz, former Israeli Defense Minister, has resigned from his position in the war cabinet.\n\u2022 His resignation comes amid controversies surrounding Israel's handling of COVID-19 pandemic and national security issues.\n\u2022 The move may impact Israel's military strategy and regional alliances, potentially leading to changes in government policies.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -57,7 +41,7 @@
     },
     {
         "location": "Ireland",
-        "summary": "\u2022 The Irish government is fighting for dominance in local elections.\n\u2022 Parties are competing to take the lead in these elections.\n\u2022 The outcome will determine who controls the country's government.",
+        "summary": "\u2022 The European Parliament is shifting towards the right.\n\u2022 Fine Gael and Fianna F\u00e1il are leading in the Irish elections.\n\u2022 These developments occurred on a dramatic night in Europe.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -65,31 +49,39 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 A father of an Israeli hostage was tragically killed the day before his son was rescued.\n\u2022 Benny Gantz has quit the Israeli war cabinet due to disagreements with Prime Minister Benjamin Netanyahu.\n\u2022 Four Israeli hostages were successfully rescued after being held captive in Gaza.",
+        "summary": "\u2022 Four Israeli hostages were rescued alive.\n\u2022 The death toll in the conflict has risen to over 200.\n\u2022 Gantz is leaving the emergency government in response to Netanyahu's leadership.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Nigeria",
-        "summary": "\u2022 The tragic death of a popular Nigerian actor has raised concerns about safety protocols in the entertainment industry.\n\u2022 A Nigerian teenager was allegedly abducted by sextortion scammers who demanded a ransom from his family within six hours before he was found dead.\n\u2022 As a result, the film industry is now reviewing its safety measures to prevent similar incidents in the future.",
+        "location": "Malawi",
+        "summary": "\u2022 An aircraft carrying Malawi's Vice President has gone missing.\n\u2022 The plane was reportedly en route to Lilongwe from Mzuzu when it vanished.\n\u2022 Authorities are working to locate the missing aircraft and its passengers.",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            -13.2687204,
+            33.9301963
         ]
     },
     {
-        "location": "United Kingdom",
-        "summary": "\u2022 The centre-right party is set to increase its majority in the European Union election.\n\u2022 Far-right parties have made significant gains in the election.\n\u2022 Michael Mosley's wife has paid tribute to her late husband, describing him as kind.",
+        "location": "Spain",
+        "summary": "\u2022 Three people were found guilty and sentenced for racially abusing a Real Madrid player.\n\u2022 The incident occurred during a football match in Spain.\n\u2022 The trio received punishment for their actions.",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 The US has lifted its ban on providing weapons to certain Ukrainian military units.\n\u2022 This decision allows these units to receive essential military aid.\n\u2022 The move aims to support Ukraine in its ongoing conflict against Russia.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
         "location": "United States",
-        "summary": "\u2022 Former President Trump will appear for a probation interview on Monday.\n\u2022 A 100-year-old World War II veteran married his 96-year-old bride near the beaches where he fought during the war.\n\u2022 The US has started sending aid back to Gaza again after fixing its damaged military pier.",
+        "summary": "\u2022 The UN Security Council backs a US Israel-Gaza ceasefire plan.\n\u2022 US civil rights hero James Lawson dies at 95.\n\u2022 A jury begins deliberating in the historic Hunter Biden case.",
         "coordinates": [
             39.7837304,
             -100.445882

@@ -1,63 +1,75 @@
 [
     {
-        "headline": "Centre-right on course to strengthen majority in EU election, as far-right makes gains",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Macron gambles on snap election after European defeat",
-        "location": "France"
-    },
-    {
-        "headline": "Widow of IS leader reveals details of their life together",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Father of Israeli hostage died day before son's rescue, relative says",
-        "location": "Israel"
-    },
-    {
-        "headline": "Nigerian star's drowning forces Nollywood to look at safety",
-        "location": "Nigeria"
-    },
-    {
-        "headline": "Macron gambles on snap election after European defeat",
-        "location": "France"
-    },
-    {
-        "headline": "Israeli war cabinet minister Benny Gantz quits emergency government",
-        "location": "Israel"
-    },
-    {
-        "headline": "Gaza health ministry says Israeli hostage rescue killed 274 Palestinians",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "Widow of IS leader reveals details of their life together",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Michael Mosley's wife pays tribute to 'kind' husband",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Trump to sit for probation interview on Monday",
+        "headline": "UN Security Council backs US Israel-Gaza ceasefire plan",
         "location": "United States"
     },
     {
-        "headline": "Narendra Modi sworn in for third term at grand ceremony in Delhi",
-        "location": "India"
+        "headline": "Jeremy Bowen: Netanyahu walks tightrope as US urges Gaza ceasefire deal",
+        "location": "United States"
     },
     {
-        "headline": "Graduation ceremony finally happens, 50 years later",
-        "location": "Australia"
+        "headline": "US civil rights hero James Lawson dies at 95",
+        "location": "United States"
     },
     {
-        "headline": "Attack on Danish PM not politically motivated, police say",
-        "location": "Denmark"
+        "headline": "Macron snap election leaves rivals stunned after EU vote",
+        "location": "France"
+    },
+    {
+        "headline": "French officer held after 19-year-old allegedly shot dead",
+        "location": "France"
+    },
+    {
+        "headline": "Jeremy Bowen: Netanyahu walks tightrope as US urges Gaza ceasefire deal",
+        "location": "United States"
+    },
+    {
+        "headline": "Apple brings ChatGPT to iPhones in AI overhaul",
+        "location": "United States"
+    },
+    {
+        "headline": "Aircraft carrying Malawi vice-president goes missing",
+        "location": "Malawi"
+    },
+    {
+        "headline": "US civil rights hero James Lawson dies at 95",
+        "location": "United States"
+    },
+    {
+        "headline": "Jury begins deliberating in historic Hunter Biden case",
+        "location": "United States"
+    },
+    {
+        "headline": "YouTube prankster voted in as Cyprus MEP",
+        "location": "Cyprus"
+    },
+    {
+        "headline": "Blinken in Middle East pushes Gaza ceasefire deal",
+        "location": "United States"
+    },
+    {
+        "headline": "Three sentenced for racial abuse of Real Madrid star",
+        "location": "Spain"
+    },
+    {
+        "headline": "Trump has interview with New York probation officer",
+        "location": "United States"
     },
     {
         "headline": "Watch/Listen",
         "location": "Not applicable"
+    },
+    {
+        "headline": "Drugs, alcohol and a gun: Inside Hunter Biden's trial",
+        "location": "United States"
+    },
+    {
+        "headline": "Snap elections are an 'act of trust', says Macron",
+        "location": "France"
+    },
+    {
+        "headline": "Rodeo bull escapes and hurls bystander into the air",
+        "location": "Not specified"
     },
     {
         "headline": "Watch as rescued Israeli hostages are reunited with families",
@@ -68,80 +80,100 @@
         "location": "Iceland"
     },
     {
-        "headline": "'Love isn't just for young people': D-Day veteran, 100, weds bride, 96",
-        "location": "United States"
-    },
-    {
-        "headline": "What two US presidents said at D-Day, 40 years apart",
-        "location": "United States"
-    },
-    {
-        "headline": "What are Joro spiders and should you be scared of them?",
-        "location": "United States"
-    },
-    {
         "headline": "Features",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
-        "headline": "A cartoon cat has been vexing China\u2019s censors \u2013 now he says they are on his tail",
-        "location": "China"
+        "headline": "Why voters fall out of love with liberation movements",
+        "location": "Global"
     },
     {
-        "headline": "Dead in 6 hours: How Nigerian sextortion scammers targeted my son",
-        "location": "Nigeria"
+        "headline": "Why the EU might be about to make Chinese electric cars more expensive",
+        "location": "Not applicable"
     },
     {
-        "headline": "Will coalition turn domineering Modi into a humbler leader?",
-        "location": "India"
+        "headline": "Widow of IS leader reveals details of their life together",
+        "location": "Not specified"
     },
     {
-        "headline": "How Israel's hostage rescue in Gaza unfolded",
-        "location": "Israel"
+        "headline": "Have Milei's first six months improved the Argentine economy?",
+        "location": "Argentina"
     },
     {
-        "headline": "Price hikes and boycotts: Is trouble brewing at Starbucks?",
-        "location": "United States"
+        "headline": "A night of drama in Europe as EU parliament moves to right",
+        "location": "Ireland"
     },
     {
         "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "A cartoon cat has been vexing China\u2019s censors \u2013 now he says they are on his tail",
-        "location": "China"
-    },
-    {
-        "headline": "Nigerian star's drowning forces Nollywood to look at safety",
-        "location": "Nigeria"
-    },
-    {
-        "headline": "Widow of IS leader reveals details of their life together",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Government parties fight for lead in Irish local elections",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Trump to sit for probation interview on Monday",
+        "headline": "UN Security Council backs US Israel-Gaza ceasefire plan",
         "location": "United States"
     },
     {
-        "headline": "Graduation ceremony finally happens, 50 years later",
-        "location": "Australia"
+        "headline": "US civil rights hero James Lawson dies at 95",
+        "location": "United States"
     },
     {
-        "headline": "Macron gambles on snap election after European defeat",
+        "headline": "Why voters fall out of love with liberation movements",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "French officer held after 19-year-old allegedly shot dead",
         "location": "France"
     },
     {
-        "headline": "Michael Mosley's wife pays tribute to 'kind' husband",
-        "location": "United Kingdom"
+        "headline": "Trump has interview with New York probation officer",
+        "location": "United States"
     },
     {
-        "headline": "Snap elections are an 'act of trust', says Macron",
+        "headline": "Why the EU might be about to make Chinese electric cars more expensive",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Fine Gael and Fianna F\u00e1il lead Irish elections",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Political gains in fight for crumbling homes redress",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Aircraft carrying Malawi vice-president goes missing",
+        "location": "Malawi"
+    },
+    {
+        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "U.N. Security Council adopts resolution on permanent Gaza cease-fire",
+        "location": "United Nations"
+    },
+    {
+        "headline": "Death toll from Israeli hostage rescue adds to legal scrutiny of Gaza war",
+        "location": "Israel"
+    },
+    {
+        "headline": "Blinken ramps up pressure on Hamas amid doubts about cease-fire deal",
+        "location": "United States"
+    },
+    {
+        "headline": "Aid groups warn they face looting, danger in Gaza after Israeli raid",
+        "location": "Gaza Strip"
+    },
+    {
+        "headline": "Battered by far right, France\u2019s Macron bets big on risky snap election",
         "location": "France"
+    },
+    {
+        "headline": "5 key takeaways after far right surges in European Parliament elections",
+        "location": "France"
+    },
+    {
+        "headline": "In Putin\u2019s wartime Russia, military corruption is suddenly taboo",
+        "location": "European Union"
     },
     {
         "headline": "European Parliament tilts right; Macron calls snap elections in France",
@@ -157,11 +189,11 @@
     },
     {
         "headline": "Modi sworn in as prime minister for third term alongside familiar allies",
-        "location": "India"
+        "location": "Israel"
     },
     {
         "headline": "Who is Benny Gantz, Israeli official who resigned from war cabinet?",
-        "location": "Israel"
+        "location": "India"
     },
     {
         "headline": "Inside Israel\u2019s hostage rescue: Secret plans and a deadly \u2018wall of fire\u2019",
@@ -173,11 +205,11 @@
     },
     {
         "headline": "Biden visits U.S. cemetery in France in latest bid to combat \u2018Trump amnesia\u2019",
-        "location": "United States"
+        "location": "France"
     },
     {
         "headline": "100-year-old vet returns to Normandy and marries bride, 96, near D-Day beaches",
-        "location": "United States"
+        "location": "France"
     },
     {
         "headline": "Four Israeli hostages rescued alive; at least 210 people killed in Gaza, officials say",
@@ -190,37 +222,5 @@
     {
         "headline": "For Israel, a rare day of joy amid bloodshed as 4 hostages are rescued alive",
         "location": "Israel"
-    },
-    {
-        "headline": "More than 200 Palestinians killed in Israeli hostage raid in Gaza",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "Despite Biden\u2019s urging, cease-fire deal shows no progress",
-        "location": "Israel"
-    },
-    {
-        "headline": "U.S. intelligence aided Israeli hostage rescue",
-        "location": "Israel"
-    },
-    {
-        "headline": "Macron hosts Biden for a state visit heavy on pomp, circumstance and war",
-        "location": "France"
-    },
-    {
-        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Biden marks D-Day by channeling Reagan and contrasting with Trump",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Legacy of America\u2019s past battles looms over Israel-Gaza crisis",
-        "location": "United States"
-    },
-    {
-        "headline": "A Canadian province decriminalized hard drugs. Now it\u2019s reversing course.",
-        "location": "Canada"
     }
 ]
