@@ -1,31 +1,47 @@
 [
     {
         "location": "Argentina",
-        "summary": "\u2022 The IMF predicts that Argentina's economy will grow by 4% in 2021 due to improved policies.\n\u2022 The peso has appreciated against the US dollar since October 2019.\n\u2022 Inflation remains high at around 45%.",
+        "summary": "\u2022 The IMF has reported that Argentina's economic growth rate has accelerated to 2.5% in Q1 2021, exceeding expectations.\n\u2022 Inflation remains under control at 12.7%, down from 30% last year, thanks to strict fiscal discipline.\n\u2022 Despite a strong dollar appreciation, exports have grown by 13.4%, contributing to the country's economic recovery.",
         "coordinates": [
             -34.9964963,
             -64.9672817
         ]
     },
     {
-        "location": "Cyprus",
-        "summary": "\u2022 A YouTuber who gained fame through his prank videos has been elected as a Member of European Parliament (MEP) from Cyprus.\n\u2022 This unexpected election win highlights the power of social media influence on politics.\n\u2022 As an MEP, he will represent the people of Cyprus in the European Parliament.",
+        "location": "China",
+        "summary": "\u2022 Four US college educators were stabbed by an unknown assailant in a Chinese park.\n\u2022 The incident occurred without any clear motive or warning signs.\n\u2022 Authorities are investigating the attack, which has sparked concerns about safety in China.",
         "coordinates": [
-            34.9174159,
-            32.889902651331866
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "location": "Denmark",
+        "summary": "\u2022 The Danish Prime Minister is still recovering from a recent street attack.\n\u2022 They have been unable to return to work due to ongoing health issues.\n\u2022 The incident has sparked concerns about their safety in public spaces.",
+        "coordinates": [
+            55.670249,
+            10.3333283
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 French President Emmanuel Macron calls a snap election after the EU vote.\n\u2022 A French police officer is detained over the alleged murder of a 19-year-old woman.\n\u2022 The far-right party has made significant gains in the European Parliament elections.",
+        "summary": "\u2022 The French right is up in arms over demands for a far-right alliance.\n\u2022 The IOC has been urged to intervene to lift France's hijab ban.\n\u2022 Macron sees snap elections as a sign of trust, while Europe swings rightward in EP polls.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
+        "location": "Haiti",
+        "summary": "\u2022 Haiti has formed a new government amid ongoing gang violence.\n\u2022 The formation of a new government is seen as a crucial step in addressing the country's security challenges.\n\u2022 Despite this development, gang violence remains a significant concern in Haiti.",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
+        ]
+    },
+    {
         "location": "Iceland",
-        "summary": "\u2022 A massive lava flow has engulfed a major road in Iceland\n\u2022 The eruption occurred at the Fagradalsfjall volcano near Krysuvik, a popular tourist destination\n\u2022 Emergency responders and scientists have been deployed to monitor the situation and ensure public safety",
+        "summary": "\u2022 Iceland has granted a whale hunting permit, sparking controversy over animal welfare concerns.\n\u2022 Critics argue that the permit is a step backwards in protecting marine life.\n\u2022 The decision could set a negative precedent for future permits and impact Iceland's international reputation.",
         "coordinates": [
             64.9841821,
             -18.1059013
@@ -33,7 +49,7 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 Benny Gantz, former Israeli Defense Minister, has resigned from his position in the war cabinet.\n\u2022 His resignation comes amid controversies surrounding Israel's handling of COVID-19 pandemic and national security issues.\n\u2022 The move may impact Israel's military strategy and regional alliances, potentially leading to changes in government policies.",
+        "summary": "\u2022 Two Indian nationals have been killed while working in Ukraine.\n\u2022 Indian Americans in the DMV area were shocked to see Prime Minister Narendra Modi's electoral performance was less successful than expected.\n\u2022 The deaths of the two Indian workers in Ukraine occurred under unclear circumstances.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -41,7 +57,7 @@
     },
     {
         "location": "Ireland",
-        "summary": "\u2022 The European Parliament is shifting towards the right.\n\u2022 Fine Gael and Fianna F\u00e1il are leading in the Irish elections.\n\u2022 These developments occurred on a dramatic night in Europe.",
+        "summary": "\u2022 A crypt in Dublin was set on fire.\n\u2022 The incident occurred at a church.\n\u2022 Authorities are investigating the cause of the blaze.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -49,7 +65,7 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Four Israeli hostages were rescued alive.\n\u2022 The death toll in the conflict has risen to over 200.\n\u2022 Gantz is leaving the emergency government in response to Netanyahu's leadership.",
+        "summary": "1. Rescued Israeli hostages reunite with their families.\n2. US pushes for Gaza ceasefire deal while Netanyahu faces conflicting demands.\n3. Blinken warns that Hamas' cooperation is crucial for a successful ceasefire.",
         "coordinates": [
             30.8124247,
             34.8594762
@@ -57,23 +73,47 @@
     },
     {
         "location": "Malawi",
-        "summary": "\u2022 An aircraft carrying Malawi's Vice President has gone missing.\n\u2022 The plane was reportedly en route to Lilongwe from Mzuzu when it vanished.\n\u2022 Authorities are working to locate the missing aircraft and its passengers.",
+        "summary": "\u2022 Malawi's Vice President dies in a plane crash with nine other people.\n\u2022 He had been removed from his business background to take up the role.\n\u2022 His death leaves a significant leadership vacuum in the country.",
         "coordinates": [
             -13.2687204,
             33.9301963
         ]
     },
     {
+        "location": "South Africa",
+        "summary": "\u2022 Many people in South Africa have lost faith in their liberation movement due to corruption and inequality.\n\u2022 The government's failure to address these issues has led to widespread disillusionment among citizens.\n\u2022 As a result, many South Africans feel let down by their leaders and are seeking alternative solutions.",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
         "location": "Spain",
-        "summary": "\u2022 Three people were found guilty and sentenced for racially abusing a Real Madrid player.\n\u2022 The incident occurred during a football match in Spain.\n\u2022 The trio received punishment for their actions.",
+        "summary": "\u2022 A furious bull at a Spanish rodeo escaped from its enclosure\n\u2022 The out-of-control bull hurled a spectator into the air\n\u2022 No one was seriously injured in the incident",
         "coordinates": [
             39.3260685,
             -4.8379791
         ]
     },
     {
+        "location": "Sudan",
+        "summary": "\u2022 The US warns that a key Sudanese city is at risk of falling to rebels.\n\u2022 This development has significant implications for regional stability.\n\u2022 The potential loss of the city would have far-reaching consequences for the region.",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "location": "Thailand",
+        "summary": "\u2022 A fire broke out at a famous Thai market, killing hundreds of caged animals.\n\u2022 The cause of the blaze is under investigation by local authorities.\n\u2022 Many pet owners are now left to mourn the loss of their beloved pets.",
+        "coordinates": [
+            7.4931858,
+            124.724704
+        ]
+    },
+    {
         "location": "Ukraine",
-        "summary": "\u2022 The US has lifted its ban on providing weapons to certain Ukrainian military units.\n\u2022 This decision allows these units to receive essential military aid.\n\u2022 The move aims to support Ukraine in its ongoing conflict against Russia.",
+        "summary": "\u2022 Most Ukrainians still support fighting against Russia despite seeing the conflict as a stalemate.\n\u2022 A low-intensity conflict has been ongoing on the Israel-Lebanon border.\n\u2022 The situation in both regions remains volatile with no clear resolution in sight.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -81,7 +121,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 The UN Security Council backs a US Israel-Gaza ceasefire plan.\n\u2022 US civil rights hero James Lawson dies at 95.\n\u2022 A jury begins deliberating in the historic Hunter Biden case.",
+        "summary": "\u2022 Hunter Biden found guilty on all counts in gun trial.\n\u2022 US lifts weapon ban on Ukraine's Azov Brigade.\n\u2022 President Biden's son faces potential consequences after guilty verdict.",
         "coordinates": [
             39.7837304,
             -100.445882

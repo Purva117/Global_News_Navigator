@@ -8,15 +8,31 @@
         ]
     },
     {
-        "headline": "YouTube prankster voted in as Cyprus MEP",
-        "location": "Cyprus",
+        "headline": "Four U.S. college educators stabbed in park in China, officials say",
+        "location": "China",
         "coordinates": [
-            34.9174159,
-            32.889902651331866
+            35.000074,
+            104.999927
         ]
     },
     {
-        "headline": "Macron snap election leaves rivals stunned after EU vote",
+        "headline": "Danish PM still not feeling well after street attack",
+        "location": "Denmark",
+        "coordinates": [
+            55.670249,
+            10.3333283
+        ]
+    },
+    {
+        "headline": "Danish PM still not feeling well after street attack",
+        "location": "Denmark",
+        "coordinates": [
+            55.670249,
+            10.3333283
+        ]
+    },
+    {
+        "headline": "French right uproar over call for far-right alliance",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -24,7 +40,7 @@
         ]
     },
     {
-        "headline": "French officer held after 19-year-old allegedly shot dead",
+        "headline": "IOC urged to help overturn France's hijab ban",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -33,22 +49,6 @@
     },
     {
         "headline": "Snap elections are an 'act of trust', says Macron",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "French officer held after 19-year-old allegedly shot dead",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Battered by far right, France\u2019s Macron bets big on risky snap election",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -72,23 +72,15 @@
         ]
     },
     {
-        "headline": "Biden visits U.S. cemetery in France in latest bid to combat \u2018Trump amnesia\u2019",
-        "location": "France",
+        "headline": "Haiti forms new government as gang violence persists",
+        "location": "Haiti",
         "coordinates": [
-            46.603354,
-            1.8883335
+            19.1399952,
+            -72.3570972
         ]
     },
     {
-        "headline": "100-year-old vet returns to Normandy and marries bride, 96, near D-Day beaches",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Watch: Lava engulfs road in Iceland",
+        "headline": "Iceland grants whale hunting permit despite animal welfare concerns",
         "location": "Iceland",
         "coordinates": [
             64.9841821,
@@ -96,7 +88,7 @@
         ]
     },
     {
-        "headline": "Who is Benny Gantz, Israeli official who resigned from war cabinet?",
+        "headline": "Two Indians recruited by Russia killed in Ukraine",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -104,15 +96,15 @@
         ]
     },
     {
-        "headline": "A night of drama in Europe as EU parliament moves to right",
-        "location": "Ireland",
+        "headline": "Modi\u2019s election setback surprises Indian Americans in the DMV",
+        "location": "India",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Fine Gael and Fianna F\u00e1il lead Irish elections",
+        "headline": "Crypt at Dublin church set on fire",
         "location": "Ireland",
         "coordinates": [
             52.865196,
@@ -128,7 +120,7 @@
         ]
     },
     {
-        "headline": "Death toll from Israeli hostage rescue adds to legal scrutiny of Gaza war",
+        "headline": "Netanyahu walks tightrope as US urges Gaza ceasefire deal",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -136,7 +128,7 @@
         ]
     },
     {
-        "headline": "Gantz to leave emergency government in rebuke of Netanyahu",
+        "headline": "Blinken says fate of ceasefire plan down to Hamas",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -144,7 +136,7 @@
         ]
     },
     {
-        "headline": "Moderates quit Netanyahu\u2019s emergency government, call for elections",
+        "headline": "Legacy of America\u2019s past battles looms over Israel-Gaza crisis",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -152,7 +144,7 @@
         ]
     },
     {
-        "headline": "Modi sworn in as prime minister for third term alongside familiar allies",
+        "headline": "Blinken ramps up pressure on Hamas amid doubts about cease-fire deal",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -160,7 +152,7 @@
         ]
     },
     {
-        "headline": "Inside Israel\u2019s hostage rescue: Secret plans and a deadly \u2018wall of fire\u2019",
+        "headline": "Aid groups warn they face looting, danger in Gaza after Israeli raid",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -168,23 +160,7 @@
         ]
     },
     {
-        "headline": "Four Israeli hostages rescued alive; at least 210 people killed in Gaza, officials say",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "For Israel, a rare day of joy amid bloodshed as 4 hostages are rescued alive",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Aircraft carrying Malawi vice-president goes missing",
+        "headline": "The Malawi vice-president who was plucked from business",
         "location": "Malawi",
         "coordinates": [
             -13.2687204,
@@ -192,7 +168,7 @@
         ]
     },
     {
-        "headline": "Aircraft carrying Malawi vice-president goes missing",
+        "headline": "Malawi\u2019s vice president dies in plane crash with nine others",
         "location": "Malawi",
         "coordinates": [
             -13.2687204,
@@ -200,7 +176,15 @@
         ]
     },
     {
-        "headline": "Three sentenced for racial abuse of Real Madrid star",
+        "headline": "Why voters fall out of love with liberation movements",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "Rodeo bull escapes and hurls bystander into the air",
         "location": "Spain",
         "coordinates": [
             39.3260685,
@@ -208,7 +192,23 @@
         ]
     },
     {
-        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
+        "headline": "Key Sudanese city could fall to rebels imminently - US",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "Fire at famous Thai market kills hundreds of caged pets, officials say",
+        "location": "Thailand",
+        "coordinates": [
+            7.4931858,
+            124.724704
+        ]
+    },
+    {
+        "headline": "Poll: Many Ukrainians see war as stalemate but most back fight vs. Russia",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -216,7 +216,15 @@
         ]
     },
     {
-        "headline": "UN Security Council backs US Israel-Gaza ceasefire plan",
+        "headline": "On the Israel-Lebanon border, a war is unfolding in slow motion",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Hunter Biden guilty of all charges in  gun trial",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +232,7 @@
         ]
     },
     {
-        "headline": "Jeremy Bowen: Netanyahu walks tightrope as US urges Gaza ceasefire deal",
+        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,55 +240,7 @@
         ]
     },
     {
-        "headline": "US civil rights hero James Lawson dies at 95",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Jeremy Bowen: Netanyahu walks tightrope as US urges Gaza ceasefire deal",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Apple brings ChatGPT to iPhones in AI overhaul",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US civil rights hero James Lawson dies at 95",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Jury begins deliberating in historic Hunter Biden case",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Blinken in Middle East pushes Gaza ceasefire deal",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Trump has interview with New York probation officer",
+        "headline": "Hunter Biden guilty of all charges in  gun trial",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +256,7 @@
         ]
     },
     {
-        "headline": "UN Security Council backs US Israel-Gaza ceasefire plan",
+        "headline": "Hunter Biden jurors say politics did not impact decision",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +264,7 @@
         ]
     },
     {
-        "headline": "US civil rights hero James Lawson dies at 95",
+        "headline": "Hunter Biden guilty of all charges in  gun trial",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +272,7 @@
         ]
     },
     {
-        "headline": "Trump has interview with New York probation officer",
+        "headline": "US hot dog contest can't stomach champ's vegan deal",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +280,7 @@
         ]
     },
     {
-        "headline": "Blinken ramps up pressure on Hamas amid doubts about cease-fire deal",
+        "headline": "New Yorkers react to Hunter Biden's guilty verdict",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +288,31 @@
         ]
     },
     {
-        "headline": "Aid to Gaza restarted after repairs to U.S. military pier, Pentagon says",
+        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "What son's conviction means for President Biden",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Death toll from Israeli hostage rescue adds to legal scrutiny of Gaza war",
         "location": "United States",
         "coordinates": [
             39.7837304,
