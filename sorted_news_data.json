@@ -1,6 +1,6 @@
 [
     {
-        "headline": "Have Milei's first six months improved the Argentine economy?",
+        "headline": "Buenos Aires rocked by clashes over Milei reforms",
         "location": "Argentina",
         "coordinates": [
             -34.9964963,
@@ -8,15 +8,23 @@
         ]
     },
     {
-        "headline": "Four U.S. college educators stabbed in park in China, officials say",
-        "location": "China",
+        "headline": "Stranded surfer rescued after spelling out 'HELP'",
+        "location": "Australia",
         "coordinates": [
-            35.000074,
-            104.999927
+            -24.7761086,
+            134.755
         ]
     },
     {
-        "headline": "Danish PM still not feeling well after street attack",
+        "headline": "Holly Valance: From Aussie pop star to Trump cheerleader",
+        "location": "Australia",
+        "coordinates": [
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "headline": "\u2018I am not quite myself,\u2019 Danish prime minister says following attack",
         "location": "Denmark",
         "coordinates": [
             55.670249,
@@ -24,23 +32,7 @@
         ]
     },
     {
-        "headline": "Danish PM still not feeling well after street attack",
-        "location": "Denmark",
-        "coordinates": [
-            55.670249,
-            10.3333283
-        ]
-    },
-    {
-        "headline": "French right uproar over call for far-right alliance",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "IOC urged to help overturn France's hijab ban",
+        "headline": "French right ditch leader over far-right alliance deal",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -56,7 +48,7 @@
         ]
     },
     {
-        "headline": "5 key takeaways after far right surges in European Parliament elections",
+        "headline": "Macron defends decision to call elections, slams possible alliance on the right",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,7 +56,7 @@
         ]
     },
     {
-        "headline": "European Parliament tilts right; Macron calls snap elections in France",
+        "headline": "A 28-year-old is the face of France\u2019s far right: Who is Jordan Bardella?",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -72,47 +64,15 @@
         ]
     },
     {
-        "headline": "Haiti forms new government as gang violence persists",
-        "location": "Haiti",
+        "headline": "As Europe faces war, Germany looks to restore national service",
+        "location": "Germany",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            51.1638175,
+            10.4478313
         ]
     },
     {
-        "headline": "Iceland grants whale hunting permit despite animal welfare concerns",
-        "location": "Iceland",
-        "coordinates": [
-            64.9841821,
-            -18.1059013
-        ]
-    },
-    {
-        "headline": "Two Indians recruited by Russia killed in Ukraine",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Modi\u2019s election setback surprises Indian Americans in the DMV",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Crypt at Dublin church set on fire",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "Watch as rescued Israeli hostages are reunited with families",
+        "headline": "Israel shrugs at Palestinian civilian casualties. So does Hamas.",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -120,67 +80,51 @@
         ]
     },
     {
-        "headline": "Netanyahu walks tightrope as US urges Gaza ceasefire deal",
-        "location": "Israel",
+        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "location": "Italy",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "Blinken says fate of ceasefire plan down to Hamas",
-        "location": "Israel",
+        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "location": "Italy",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "Legacy of America\u2019s past battles looms over Israel-Gaza crisis",
-        "location": "Israel",
+        "headline": "Hezbollah fires dozens of rockets into Israel after strike kills commander",
+        "location": "Lebanon",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            40.375713,
+            -76.4626118
         ]
     },
     {
-        "headline": "Blinken ramps up pressure on Hamas amid doubts about cease-fire deal",
-        "location": "Israel",
+        "headline": "Hezbollah lobs rockets at Israel as U.S. accuses Hamas of prolonging Gaza war",
+        "location": "Lebanon",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            40.375713,
+            -76.4626118
         ]
     },
     {
-        "headline": "Aid groups warn they face looting, danger in Gaza after Israeli raid",
-        "location": "Israel",
+        "headline": "Why another coup is so unlikely in Nigeria",
+        "location": "Nigeria",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            9.6000359,
+            7.9999721
         ]
     },
     {
-        "headline": "The Malawi vice-president who was plucked from business",
-        "location": "Malawi",
+        "headline": "First BTS member finishes military service, pledges hugs for 1,000 fans",
+        "location": "South Korea",
         "coordinates": [
-            -13.2687204,
-            33.9301963
-        ]
-    },
-    {
-        "headline": "Malawi\u2019s vice president dies in plane crash with nine others",
-        "location": "Malawi",
-        "coordinates": [
-            -13.2687204,
-            33.9301963
-        ]
-    },
-    {
-        "headline": "Why voters fall out of love with liberation movements",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
+            36.638392,
+            127.6961188
         ]
     },
     {
@@ -192,15 +136,7 @@
         ]
     },
     {
-        "headline": "Key Sudanese city could fall to rebels imminently - US",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "Fire at famous Thai market kills hundreds of caged pets, officials say",
+        "headline": "The hit Thai film moving TikTokers to tears",
         "location": "Thailand",
         "coordinates": [
             7.4931858,
@@ -208,40 +144,32 @@
         ]
     },
     {
-        "headline": "Poll: Many Ukrainians see war as stalemate but most back fight vs. Russia",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "On the Israel-Lebanon border, a war is unfolding in slow motion",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States",
+        "headline": "Gaza ceasefire plan in balance as US says Hamas proposed 'changes'",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
-        "location": "United States",
+        "headline": "US widens Russia sanctions in banking crackdown",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States",
+        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Transgender swimmer Thomas' legal case over ban dismissed",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -249,55 +177,95 @@
     },
     {
         "headline": "Drugs, alcohol and a gun: Inside Hunter Biden's trial",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Hunter Biden jurors say politics did not impact decision",
-        "location": "United States",
+        "headline": "'Hunter Biden\u2019s story is a story that all too many Americans know'",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States",
+        "headline": "'I've been stabbed': US teacher recounts China attack",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "US hot dog contest can't stomach champ's vegan deal",
-        "location": "United States",
+        "headline": "White House does not rule out Hunter Biden commutation",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "New Yorkers react to Hunter Biden's guilty verdict",
-        "location": "United States",
+        "headline": "Sandy Hook survivors to graduate high school",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
-        "location": "United States",
+        "headline": "Sandy Hook survivors graduate: 'Chunk of our class missing'",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "What son's conviction means for President Biden",
-        "location": "United States",
+        "headline": "Merrick Garland held in contempt of US Congress",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Georgia gunman hijacks commuter bus, leaves one dead",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden\u2019s new measures to stem illegal border crossings draw legal challenge",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. will send Ukraine a second Patriot air defense battery",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "What is Biden\u2019s proposed cease-fire deal? Here\u2019s the plan to end war in Gaza.",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -305,18 +273,50 @@
     },
     {
         "headline": "U.S. lifts weapons ban on Ukrainian military unit",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Death toll from Israeli hostage rescue adds to legal scrutiny of Gaza war",
-        "location": "United States",
+        "headline": "Global poll finds Biden more popular than Trump",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "headline": "Russian missile strike kills 9 in Zelensky's hometown - officials",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "\u2018Ram him\u2019: How Ukraine is pushing U.S. combat gear to the extreme",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     }
 ]

@@ -1,71 +1,75 @@
 [
     {
-        "headline": "Hamas seeks 'complete halt' to war in Gaza proposal response",
-        "location": "Palestine"
+        "headline": "Gaza ceasefire plan in balance as US says Hamas proposed 'changes'",
+        "location": "USA"
     },
     {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States"
+        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "location": "Italy"
     },
     {
-        "headline": "Danish PM still not feeling well after street attack",
-        "location": "Denmark"
+        "headline": "Russian warships arrive in Cuba in show of force",
+        "location": "Russia"
     },
     {
-        "headline": "Kevin Spacey says he was 'too handsy\u2019 in the past",
-        "location": "None (Note: This headline does not specify a particular country)"
+        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "location": "Yemen"
     },
     {
-        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
-        "location": "United States"
+        "headline": "US widens Russia sanctions in banking crackdown",
+        "location": "USA"
     },
     {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States"
+        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "location": "Italy"
     },
     {
-        "headline": "Tiger mosquitoes behind dengue fever rise in Europe",
-        "location": "Europe"
+        "headline": "Hezbollah fires dozens of rockets into Israel after strike kills commander",
+        "location": "Lebanon"
     },
     {
-        "headline": "Haiti forms new government as gang violence persists",
-        "location": "Haiti"
+        "headline": "Buenos Aires rocked by clashes over Milei reforms",
+        "location": "Argentina"
     },
     {
-        "headline": "Danish PM still not feeling well after street attack",
-        "location": "Denmark"
+        "headline": "Russian warships arrive in Cuba in show of force",
+        "location": "Russia"
     },
     {
-        "headline": "Key Sudanese city could fall to rebels imminently - US",
-        "location": "Sudan"
+        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
+        "location": "USA"
     },
     {
-        "headline": "French right uproar over call for far-right alliance",
-        "location": "France"
+        "headline": "Russian missile strike kills 9 in Zelensky's hometown - officials",
+        "location": "Ukraine"
     },
     {
-        "headline": "Two Indians recruited by Russia killed in Ukraine",
-        "location": "India"
+        "headline": "Valance and Wintour host rival Trump-Biden London events",
+        "location": "UK"
     },
     {
-        "headline": "Iceland grants whale hunting permit despite animal welfare concerns",
-        "location": "Iceland"
+        "headline": "Transgender swimmer Thomas' legal case over ban dismissed",
+        "location": "USA"
     },
     {
-        "headline": "IOC urged to help overturn France's hijab ban",
+        "headline": "French right ditch leader over far-right alliance deal",
         "location": "France"
     },
     {
         "headline": "Watch/Listen",
+        "location": "No country specified"
+    },
+    {
+        "headline": "Parents of ex-hostage tell BBC of his 'miracle' return",
         "location": "Not applicable"
     },
     {
         "headline": "Drugs, alcohol and a gun: Inside Hunter Biden's trial",
-        "location": "United States"
+        "location": "USA"
     },
     {
         "headline": "Stranded surfer rescued after spelling out 'HELP'",
-        "location": "Hawaii"
+        "location": "Australia"
     },
     {
         "headline": "Snap elections are an 'act of trust', says Macron",
@@ -76,80 +80,128 @@
         "location": "Spain"
     },
     {
-        "headline": "Watch as rescued Israeli hostages are reunited with families",
-        "location": "Israel"
-    },
-    {
         "headline": "Features",
         "location": "Not applicable"
     },
     {
-        "headline": "The Malawi vice-president who was plucked from business",
-        "location": "Malawi"
+        "headline": "'Forced to speak in a whisper' - Hamas hostage's 'miracle' rescue",
+        "location": "Palestine"
     },
     {
-        "headline": "Netanyahu walks tightrope as US urges Gaza ceasefire deal",
-        "location": "Israel"
+        "headline": "'Hunter Biden\u2019s story is a story that all too many Americans know'",
+        "location": "USA"
     },
     {
-        "headline": "Why voters fall out of love with liberation movements",
-        "location": "South Africa"
+        "headline": "The hit Thai film moving TikTokers to tears",
+        "location": "Thailand"
     },
     {
-        "headline": "Have Milei's first six months improved the Argentine economy?",
-        "location": "Argentina"
+        "headline": "'I've been stabbed': US teacher recounts China attack",
+        "location": "USA"
     },
     {
-        "headline": "Why the EU might be about to make Chinese electric cars more expensive",
-        "location": "European Union"
+        "headline": "Why another coup is so unlikely in Nigeria",
+        "location": "Nigeria"
     },
     {
         "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "Hunter Biden jurors say politics did not impact decision",
-        "location": "United States"
+        "headline": "White House does not rule out Hunter Biden commutation",
+        "location": "USA"
     },
     {
-        "headline": "Hunter Biden guilty of all charges in  gun trial",
-        "location": "United States"
+        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "location": "Yemen"
     },
     {
-        "headline": "Crypt at Dublin church set on fire",
-        "location": "Ireland"
+        "headline": "Sandy Hook survivors to graduate high school",
+        "location": "USA"
     },
     {
-        "headline": "US hot dog contest can't stomach champ's vegan deal",
-        "location": "United States"
+        "headline": "Sandy Hook survivors graduate: 'Chunk of our class missing'",
+        "location": "USA"
     },
     {
-        "headline": "New Yorkers react to Hunter Biden's guilty verdict",
-        "location": "United States"
+        "headline": "Holly Valance: From Aussie pop star to Trump cheerleader",
+        "location": "Australia"
     },
     {
-        "headline": "US lifts weapons ban on Ukraine's Azov brigade",
-        "location": "United States"
+        "headline": "Merrick Garland held in contempt of US Congress",
+        "location": "USA"
     },
     {
-        "headline": "Hamas seeks 'complete halt' to war in Gaza proposal response",
+        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
+        "location": "USA"
+    },
+    {
+        "headline": "Georgia gunman hijacks commuter bus, leaves one dead",
+        "location": "USA"
+    },
+    {
+        "headline": "Man bailed over firearms offences in RUC murder probe",
+        "location": "Northern Ireland"
+    },
+    {
+        "headline": "Biden\u2019s new measures to stem illegal border crossings draw legal challenge",
+        "location": "USA"
+    },
+    {
+        "headline": "Hezbollah lobs rockets at Israel as U.S. accuses Hamas of prolonging Gaza war",
+        "location": "Lebanon"
+    },
+    {
+        "headline": "U.S. will send Ukraine a second Patriot air defense battery",
+        "location": "USA"
+    },
+    {
+        "headline": "As rescued hostages return to changed lives, families push for cease-fire",
         "location": "Palestine"
     },
     {
-        "headline": "What son's conviction means for President Biden",
-        "location": "United States"
+        "headline": "\u2018Ram him\u2019: How Ukraine is pushing U.S. combat gear to the extreme",
+        "location": "Ukraine"
     },
     {
-        "headline": "Blinken says fate of ceasefire plan down to Hamas",
+        "headline": "As Europe faces war, Germany looks to restore national service",
+        "location": "Germany"
+    },
+    {
+        "headline": "\u2018I am not quite myself,\u2019 Danish prime minister says following attack",
+        "location": "Denmark"
+    },
+    {
+        "headline": "Macron defends decision to call elections, slams possible alliance on the right",
+        "location": "France"
+    },
+    {
+        "headline": "What is Biden\u2019s proposed cease-fire deal? Here\u2019s the plan to end war in Gaza.",
+        "location": "USA"
+    },
+    {
+        "headline": "A 28-year-old is the face of France\u2019s far right: Who is Jordan Bardella?",
+        "location": "France"
+    },
+    {
+        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
+        "location": "USA"
+    },
+    {
+        "headline": "First BTS member finishes military service, pledges hugs for 1,000 fans",
+        "location": "South Korea"
+    },
+    {
+        "headline": "Nigel Farage hopes this Brexit town will finally elect him to Parliament",
+        "location": "UK"
+    },
+    {
+        "headline": "Israel shrugs at Palestinian civilian casualties. So does Hamas.",
         "location": "Israel"
     },
     {
         "headline": "Hamas responds to cease-fire proposal, seeks timeline for end of war",
         "location": "Palestine"
-    },
-    {
-        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
-        "location": "United States"
     },
     {
         "headline": "Pope Francis allegedly repeats gay slur, opposes gay men in priesthood",
@@ -161,66 +213,14 @@
     },
     {
         "headline": "Global poll finds Biden more popular than Trump",
-        "location": "Global"
+        "location": "USA"
     },
     {
         "headline": "Death toll from Israeli hostage rescue adds to legal scrutiny of Gaza war",
-        "location": "United States"
+        "location": "Global (Note: This headline refers to a global poll, but it doesn't specify a particular country.)"
     },
     {
         "headline": "Legacy of America\u2019s past battles looms over Israel-Gaza crisis",
-        "location": "Israel"
-    },
-    {
-        "headline": "Malawi\u2019s vice president dies in plane crash with nine others",
-        "location": "Malawi"
-    },
-    {
-        "headline": "Fire at famous Thai market kills hundreds of caged pets, officials say",
-        "location": "Thailand"
-    },
-    {
-        "headline": "Four U.S. college educators stabbed in park in China, officials say",
-        "location": "China"
-    },
-    {
-        "headline": "Poll: Many Ukrainians see war as stalemate but most back fight vs. Russia",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "On the Israel-Lebanon border, a war is unfolding in slow motion",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Modi\u2019s election setback surprises Indian Americans in the DMV",
-        "location": "India"
-    },
-    {
-        "headline": "U.N. Security Council adopts resolution on permanent Gaza cease-fire",
-        "location": "United Nations"
-    },
-    {
-        "headline": "Blinken ramps up pressure on Hamas amid doubts about cease-fire deal",
-        "location": "Israel"
-    },
-    {
-        "headline": "Aid groups warn they face looting, danger in Gaza after Israeli raid",
-        "location": "Israel"
-    },
-    {
-        "headline": "Battered by far right, France\u2019s Macron bets big on risky snap election",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "5 key takeaways after far right surges in European Parliament elections",
-        "location": "France"
-    },
-    {
-        "headline": "In Putin\u2019s wartime Russia, military corruption is suddenly taboo",
-        "location": "Russia"
-    },
-    {
-        "headline": "European Parliament tilts right; Macron calls snap elections in France",
-        "location": "France"
+        "location": "Location not found"
     }
 ]
