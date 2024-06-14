@@ -1,14 +1,6 @@
 [
     {
-        "headline": "Buenos Aires rocked by clashes over Milei reforms",
-        "location": "Argentina",
-        "coordinates": [
-            -34.9964963,
-            -64.9672817
-        ]
-    },
-    {
-        "headline": "Stranded surfer rescued after spelling out 'HELP'",
+        "headline": "Shark attacks are rising in Australia. Technology is helping stop them.",
         "location": "Australia",
         "coordinates": [
             -24.7761086,
@@ -16,51 +8,35 @@
         ]
     },
     {
-        "headline": "Holly Valance: From Aussie pop star to Trump cheerleader",
-        "location": "Australia",
+        "headline": "Researchers in Canada find ship where Shackleton died",
+        "location": "Canada",
         "coordinates": [
-            -24.7761086,
-            134.755
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "\u2018I am not quite myself,\u2019 Danish prime minister says following attack",
-        "location": "Denmark",
+        "headline": "Celine Dion says 'I'm back' after health struggles",
+        "location": "Canada",
         "coordinates": [
-            55.670249,
-            10.3333283
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "French right ditch leader over far-right alliance deal",
-        "location": "France",
+        "headline": "Dan's the man: Why Chinese women are looking to ChatGPT for love",
+        "location": "China",
         "coordinates": [
-            46.603354,
-            1.8883335
+            35.000074,
+            104.999927
         ]
     },
     {
-        "headline": "Snap elections are an 'act of trust', says Macron",
-        "location": "France",
+        "headline": "Cuba welcomes Russian military ships to Havana",
+        "location": "Cuba",
         "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Macron defends decision to call elections, slams possible alliance on the right",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "A 28-year-old is the face of France\u2019s far right: Who is Jordan Bardella?",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
+            23.0131338,
+            -80.8328748
         ]
     },
     {
@@ -72,15 +48,31 @@
         ]
     },
     {
-        "headline": "Israel shrugs at Palestinian civilian casualties. So does Hamas.",
-        "location": "Israel",
+        "headline": "US tourist missing for days on Greek island",
+        "location": "Greece",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            39.0742,
+            21.8243
         ]
     },
     {
-        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "headline": "EU court fines Hungary \u20ac200m over its asylum policy",
+        "location": "Hungary",
+        "coordinates": [
+            47.1817585,
+            19.5060937
+        ]
+    },
+    {
+        "headline": "Watch: Huge fire erupts at oil refinery in Iraq",
+        "location": "Iraq",
+        "coordinates": [
+            33.0955793,
+            44.1749775
+        ]
+    },
+    {
+        "headline": "Italy's Meloni basks in G7 limelight with Western leaders",
         "location": "Italy",
         "coordinates": [
             42.6384261,
@@ -88,7 +80,7 @@
         ]
     },
     {
-        "headline": "Seven new ice cream flavours and the Pope: Italy prepares to host G7",
+        "headline": "Italy\u2019s Meloni, boosted by far-right election gains, hosts G-7 leaders",
         "location": "Italy",
         "coordinates": [
             42.6384261,
@@ -96,11 +88,19 @@
         ]
     },
     {
-        "headline": "Hezbollah fires dozens of rockets into Israel after strike kills commander",
-        "location": "Lebanon",
+        "headline": "Brawl breaks out in Italian Parliament ahead of G-7 summit",
+        "location": "Italy",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "Kenyan policeman shoots magistrate in open court",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
         ]
     },
     {
@@ -112,15 +112,47 @@
         ]
     },
     {
-        "headline": "Why another coup is so unlikely in Nigeria",
-        "location": "Nigeria",
+        "headline": "DNA reveals surprise about the children ancient Mayans chose to sacrifice",
+        "location": "Mexico",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "First BTS member finishes military service, pledges hugs for 1,000 fans",
+        "headline": "S Africa's ANC edging closer to forming unity government",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "S Africa's ANC edging closer to forming unity government",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "Second person dies from mpox in South Africa",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "S Africa's ANC edging closer to forming unity government",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "'Only elegant women allowed': S Korea gym draws flak for sign",
         "location": "South Korea",
         "coordinates": [
             36.638392,
@@ -128,167 +160,23 @@
         ]
     },
     {
-        "headline": "Rodeo bull escapes and hurls bystander into the air",
-        "location": "Spain",
+        "headline": "Evidence of Iran and UAE drones used in Sudan war",
+        "location": "Sudan",
         "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "headline": "The hit Thai film moving TikTokers to tears",
-        "location": "Thailand",
-        "coordinates": [
-            7.4931858,
-            124.724704
-        ]
-    },
-    {
-        "headline": "Gaza ceasefire plan in balance as US says Hamas proposed 'changes'",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US widens Russia sanctions in banking crackdown",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Transgender swimmer Thomas' legal case over ban dismissed",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Drugs, alcohol and a gun: Inside Hunter Biden's trial",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'Hunter Biden\u2019s story is a story that all too many Americans know'",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'I've been stabbed': US teacher recounts China attack",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "White House does not rule out Hunter Biden commutation",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Sandy Hook survivors to graduate high school",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Sandy Hook survivors graduate: 'Chunk of our class missing'",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Merrick Garland held in contempt of US Congress",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Oklahoma court rejects Tulsa Massacre survivors suit",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Georgia gunman hijacks commuter bus, leaves one dead",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden\u2019s new measures to stem illegal border crossings draw legal challenge",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
+            10.9,
+            6.5
         ]
     },
     {
         "headline": "U.S. will send Ukraine a second Patriot air defense battery",
-        "location": "USA",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     },
     {
-        "headline": "What is Biden\u2019s proposed cease-fire deal? Here\u2019s the plan to end war in Gaza.",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "U.S. lifts weapons ban on Ukrainian military unit",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Global poll finds Biden more popular than Trump",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Russian missile strike kills 9 in Zelensky's hometown - officials",
+        "headline": "Biden, Zelensky to sign 10-year U.S.-Ukraine security deal at G-7 summit",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -304,7 +192,119 @@
         ]
     },
     {
-        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "headline": "U.K.\u2019s Keir Starmer tones down the socialism in \u2018changed Labour Party\u2019",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Tesla investors back record-breaking Musk pay deal",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Supreme Court rejects challenge to restrict abortion drug access",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump visits Capitol Hill for first time since Jan 6 riot",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Nasa astronaut distress message broadcast in error",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Phoenix police used excessive force, justice department says",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump visits Capitol Hill for first time since Jan 6 riot",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden says he will not reduce son's sentence",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Supreme Court rejects challenge to abortion drug mifepristone",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Aerial footage shows extent of flooding in Florida",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Path to cease-fire deal possible, U.S. says, as Israel targets Rafah anew",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Swifties set off earthquake sensors again. These songs made the biggest stir.",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "An account of Jesus as a boy is decoded from an ancient papyrus scrap",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden\u2019s new measures to stem illegal border crossings draw legal challenge",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Houthi missile attack severely injures sailor, US says",
         "location": "Yemen",
         "coordinates": [
             16.3471243,
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "headline": "Houthis claim attack on merchant ship in Red Sea",
+        "headline": "Houthi missile attack severely injures sailor, US says",
         "location": "Yemen",
         "coordinates": [
             16.3471243,

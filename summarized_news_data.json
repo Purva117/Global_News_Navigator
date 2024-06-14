@@ -1,119 +1,151 @@
 [
     {
-        "location": "Argentina",
-        "summary": "\u2022 Clashes erupted in Buenos Aires over proposed economic reforms\n\u2022 Protesters clashed with police in response to the government's plans\n\u2022 The demonstrations highlighted divisions within Argentine society",
-        "coordinates": [
-            -34.9964963,
-            -64.9672817
-        ]
-    },
-    {
         "location": "Australia",
-        "summary": "\u2022 Stranded surfer rescued after spelling out 'HELP' \n\u2022 Holly Valance: From Aussie pop star to Trump cheerleader",
+        "summary": "\u2022 Shark attacks are increasing in Australia.\n\u2022 Technology plays a significant role in stopping shark attacks.\n\u2022 The use of technology helps reduce the risk of shark encounters.",
         "coordinates": [
             -24.7761086,
             134.755
         ]
     },
     {
-        "location": "Denmark",
-        "summary": "\u2022 The Danish Prime Minister feels like they're not themselves after an attack.\n\u2022 They admit to feeling different since the incident.\n\u2022 This admission may impact their ability to lead effectively.",
+        "location": "Canada",
+        "summary": "\u2022 Researchers in Canada find ship where Shackleton died\n\u2022 Celine Dion says 'I'm back' after health struggles",
         "coordinates": [
-            55.670249,
-            10.3333283
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "location": "France",
-        "summary": "\u2022 The far-right has lost its leader due to disagreements with their alliance.\n\u2022 President Macron claims snap elections show he trusts in democracy.\n\u2022 Macron criticizes potential alliances between right-wing parties.\n\u2022 Jordan Bardella, aged 28, represents the French far-right movement.",
+        "location": "China",
+        "summary": "\u2022 Chinese women are using AI chatbots like ChatGPT for dating due to their convenience and efficiency.\n\u2022 These platforms offer an alternative to traditional dating methods, providing users with a sense of control over potential matches.\n\u2022 The use of AI in relationships raises questions about the nature of human connection and intimacy in the digital age.",
         "coordinates": [
-            46.603354,
-            1.8883335
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "location": "Cuba",
+        "summary": "\u2022 Russia's military presence in Cuba has grown significantly with the arrival of multiple warships.\n\u2022 The ships will be docked at Havana's port and are expected to stay for an extended period.\n\u2022 This move is seen as a strategic shift by both nations amid growing global tensions.",
+        "coordinates": [
+            23.0131338,
+            -80.8328748
         ]
     },
     {
         "location": "Germany",
-        "summary": "\u2022 Germany considers reinstating mandatory military service amid rising global tensions.\n\u2022 Reintroduction aims to boost military capabilities in response to European security concerns.\n\u2022 Potential move seen as crucial step towards strengthening Germany's defense posture in the face of escalating regional conflicts.",
+        "summary": "\u2022 Germany is considering reinstating mandatory national service amidst growing concerns about European security\n\u2022 The move aims to strengthen military capabilities and contribute to NATO's defense efforts\n\u2022 National service would require citizens to serve in the armed forces or participate in civilian defense programs",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "Israel",
-        "summary": "\u2022 Israel denies responsibility for civilian casualties in Gaza\n\u2022 Hamas claims Israeli airstrikes killed civilians in Gaza\n\u2022 Tensions remain high between Israel and Palestine",
+        "location": "Greece",
+        "summary": "\u2022 A US tourist has gone missing on a Greek island\n\u2022 The individual was last seen several days ago \n\u2022 Authorities have launched an investigation to locate them safely",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            39.0742,
+            21.8243
+        ]
+    },
+    {
+        "location": "Hungary",
+        "summary": "\u2022 EU court imposes \u20ac200 million fine on Hungary\n\u2022 Fine is related to Hungary's asylum policy \n\u2022 Asylum seekers will likely face more challenges in Hungary due to this decision",
+        "coordinates": [
+            47.1817585,
+            19.5060937
+        ]
+    },
+    {
+        "location": "Iraq",
+        "summary": "\u2022 A massive fire broke out at an oil refinery in Iraq.\n\u2022 The blaze is currently being contained by firefighters and emergency responders.\n\u2022 There are no reports of casualties or injuries so far.",
+        "coordinates": [
+            33.0955793,
+            44.1749775
         ]
     },
     {
         "location": "Italy",
-        "summary": "\u2022 The G7 summit is coming to Italy.\n\u2022 The event will feature seven new ice cream flavors.\n\u2022 The Pope will also attend the summit.",
+        "summary": "\u2022 Italy's Meloni is being hosted at the G-7 meeting by Western leaders.\n\u2022 She was elected as Prime Minister after having a successful campaign based on her right-wing policies.\n\u2022 There were fights going on in the Italian Parliament before the meeting started.",
         "coordinates": [
             42.6384261,
             12.674297
         ]
     },
     {
+        "location": "Kenya",
+        "summary": "\u2022 A police officer shot a magistrate in an open court in Kenya.\n\u2022 The incident occurred at a local courthouse in Nairobi, capital city of Kenya.\n\u2022 The motive behind the shooting is still unknown as investigations continue to determine if it was an isolated act or part of a larger conspiracy.",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
         "location": "Lebanon",
-        "summary": "\u2022 Hezbollah launches rocket attacks on Israel in retaliation for killing of senior commander.\n\u2022 US blames Hamas for prolonging the conflict in Gaza.\n\u2022 Tensions escalate between Lebanon, Israel, and Palestine over recent violence.",
+        "summary": "\u2022 Hezbollah launches rocket attacks on Israel\n\u2022 US blames Hamas for prolonging Gaza conflict\n\u2022 Rocket attacks by Hezbollah target Israeli positions",
         "coordinates": [
             40.375713,
             -76.4626118
         ]
     },
     {
-        "location": "Nigeria",
-        "summary": "\u2022 The military has maintained its professional detachment from politics since 1999.\n\u2022 A stable government with President Muhammadu Buhari has reduced political instability.\n\u2022 Democratic institutions have strengthened, making coups less likely.",
+        "location": "Mexico",
+        "summary": "\u2022 New research on ancient Mayan child sacrifices\n\u2022 DNA analysis reveals surprising details about chosen victims\n\u2022 Insights into Mayan culture and traditions",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "location": "South Africa",
+        "summary": "\u2022 South Africa's ANC is close to forming a unity government.\n\u2022 The party aims to strengthen its position in the country.\n\u2022 Mpox has caused two deaths in South Africa.",
+        "coordinates": [
+            -28.8166236,
+            24.991639
         ]
     },
     {
         "location": "South Korea",
-        "summary": "\u2022 The first member of K-pop group BTS has completed their military service.\n\u2022 They have expressed gratitude to fans by promising 1,000 hugs upon release from duty.\n\u2022 This marks a milestone in the band's career as they transition back to music after military commitments.",
+        "summary": "\u2022 A gym in South Korea has sparked controversy with its sign stating that only \"elegant\" women are allowed to enter.\n\u2022 The sign's wording has been criticized as discriminatory towards those who do not meet traditional beauty standards.\n\u2022 Many have called for the gym to remove or modify the sign to ensure equal access to fitness facilities regardless of appearance.",
         "coordinates": [
             36.638392,
             127.6961188
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 A bull escaped from a rodeo in Spain.\n\u2022 The loose bull threw a bystander into the air.\n\u2022 No serious injuries were reported.",
+        "location": "Sudan",
+        "summary": "\u2022 Evidence suggests that Iran and UAE have supplied drones to Sudan\n\u2022 This could escalate tensions between Sudanese factions and foreign actors\n\u2022 Drones may be used for surveillance, intelligence gathering, or even combat",
         "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "location": "Thailand",
-        "summary": "\u2022 A heartwarming Thai film is trending on TikTok\n\u2022 It's leaving viewers emotional and tearful\n\u2022 Its popularity continues to grow",
-        "coordinates": [
-            7.4931858,
-            124.724704
-        ]
-    },
-    {
-        "location": "USA",
-        "summary": "\u2022 The Gaza ceasefire plan is in jeopardy after US claims Hamas has proposed changes.\n\u2022 The US expands its banking sanctions against Russia amid ongoing tensions.\n\u2022 A judge dismisses the lawsuit filed by survivors of the Tulsa Massacre.\n\u2022 The US government considers commuting Hunter Biden's prison sentence.\n\u2022 US President Biden introduces stricter border control measures, sparking controversy.\n\u2022 The country sends additional military aid to Ukraine.\n\u2022 A global survey reveals Joe Biden enjoys higher popularity ratings than Donald Trump.",
-        "coordinates": [
-            39.7837304,
-            -100.445882
+            10.9,
+            6.5
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 A Russian missile attack killed 9 people in Ukrainian President Volodymyr Zelensky's hometown.\n\u2022 The US is supplying Ukraine with advanced military equipment, including drones and artillery systems.\n\u2022 Ukraine is using American weapons to counter Russian aggression in eastern regions.",
+        "summary": "\u2022 The US will provide a second Patriot air defense battery to Ukraine.\n\u2022 A 10-year US-Ukraine security deal will be signed by Biden and Zelensky during the G-7 summit.\n\u2022 Ukraine pushes the US to supply combat gear despite concerns about its effectiveness.",
         "coordinates": [
             49.4871968,
             31.2718321
         ]
     },
     {
+        "location": "United Kingdom",
+        "summary": "\u2022 UK's Labour leader Keir Starmer has toned down his socialist stance.\n\u2022 He aims to create a \"changed\" party.\n\u2022 This shift marks a departure from traditional Labour values.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "location": "United States",
+        "summary": "\u2022\tTrump visits Capitol Hill for first time since January 6 riot\n\u2022\tSupreme Court rejects challenge to restrict abortion drug access\n\u2022\tBiden refuses to reduce son's sentence",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
         "location": "Yemen",
-        "summary": "\u2022 Houthis claim responsibility for attacking a merchant ship in the Red Sea.\n\u2022 The incident has raised concerns about maritime security in the region.\n\u2022 The conflict between the Houthi rebels and Saudi-led coalition continues to escalate.",
+        "summary": "\u2022 A Houthi missile attack severely injured a sailor.\n\u2022 The US is aware of this incident.\n\u2022 The attacker was from the Houthi group.",
         "coordinates": [
             16.3471243,
             47.8915271
