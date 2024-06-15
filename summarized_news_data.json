@@ -1,15 +1,31 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Shark attacks are increasing in Australia.\n\u2022 Technology plays a significant role in stopping shark attacks.\n\u2022 The use of technology helps reduce the risk of shark encounters.",
+        "location": "Antarctica",
+        "summary": "\u2022 Drones capture stunning footage of Antarctic whales performing impressive acrobatic stunts.\n\u2022 The aerial views provide unprecedented insight into the whales' behavior and habitat.\n\u2022 Researchers hope to use this data to better understand and protect these unique marine creatures.",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -72.8438691,
+            0.0
+        ]
+    },
+    {
+        "location": "Brazil",
+        "summary": "\u2022 Protests erupt in Brazil amid controversy surrounding new abortion laws\n\u2022 The legislation has sparked widespread outrage among pro-choice advocates and religious groups alike\n\u2022 Demonstrations continue to spread across the country as tensions remain high",
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
+        "location": "Burkina Faso",
+        "summary": "\u2022 A US embassy employee was charged with sexually abusing girls at their residence.\n\u2022 The alleged abuse occurred within the confines of the US embassy compound.\n\u2022 Authorities have taken swift action against the accused individual.",
+        "coordinates": [
+            12.0753083,
+            -1.6880314
         ]
     },
     {
         "location": "Canada",
-        "summary": "\u2022 Researchers in Canada find ship where Shackleton died\n\u2022 Celine Dion says 'I'm back' after health struggles",
+        "summary": "\u2022 Researchers in Canada have found the ship where Ernest Shackleton died.\n\u2022 The ship is believed to be his final resting place.\n\u2022 This discovery provides insight into Shackleton's life and legacy.",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -17,7 +33,7 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 Chinese women are using AI chatbots like ChatGPT for dating due to their convenience and efficiency.\n\u2022 These platforms offer an alternative to traditional dating methods, providing users with a sense of control over potential matches.\n\u2022 The use of AI in relationships raises questions about the nature of human connection and intimacy in the digital age.",
+        "summary": "\u2022 A prominent Chinese journalist and women's rights advocate has been imprisoned in a government-led crackdown on civil society.\n\u2022 The arrest is part of a broader effort to suppress dissenting voices and maintain control over the narrative.\n\u2022 The move has sparked widespread outrage among supporters of press freedom and human rights worldwide.",
         "coordinates": [
             35.000074,
             104.999927
@@ -25,15 +41,23 @@
     },
     {
         "location": "Cuba",
-        "summary": "\u2022 Russia's military presence in Cuba has grown significantly with the arrival of multiple warships.\n\u2022 The ships will be docked at Havana's port and are expected to stay for an extended period.\n\u2022 This move is seen as a strategic shift by both nations amid growing global tensions.",
+        "summary": "\u2022 Russia sends warships to Havana.\n\u2022 This is a gesture of friendship between Russia and Cuba.\n\u2022 The visit aims to strengthen ties between both countries.",
         "coordinates": [
             23.0131338,
             -80.8328748
         ]
     },
     {
+        "location": "France",
+        "summary": "\u2022 The French Left has formed a new coalition called \"Popular Front\" to combat the growing influence of the far-right political movement.\n\u2022 This move aims to strengthen unity among progressive forces in order to counterbalance the rise of extremist ideologies.\n\u2022 By pooling their resources, the Popular Front hopes to increase its electoral prospects and promote a more inclusive and tolerant society.",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
         "location": "Germany",
-        "summary": "\u2022 Germany is considering reinstating mandatory national service amidst growing concerns about European security\n\u2022 The move aims to strengthen military capabilities and contribute to NATO's defense efforts\n\u2022 National service would require citizens to serve in the armed forces or participate in civilian defense programs",
+        "summary": "\u2022 Euro 2024 may bring back Germany's successful football team from the past.\n\u2022 The tournament could become a \"summer fairytale\" for Germany.\n\u2022 There is potential for Germany to relive its past successes during Euro 2024.",
         "coordinates": [
             51.1638175,
             10.4478313
@@ -41,79 +65,71 @@
     },
     {
         "location": "Greece",
-        "summary": "\u2022 A US tourist has gone missing on a Greek island\n\u2022 The individual was last seen several days ago \n\u2022 Authorities have launched an investigation to locate them safely",
+        "summary": "\u2022 Heatwave affects tourists on Greek islands\n\u2022 Tips provided for staying safe during heatwaves",
         "coordinates": [
             39.0742,
             21.8243
         ]
     },
     {
-        "location": "Hungary",
-        "summary": "\u2022 EU court imposes \u20ac200 million fine on Hungary\n\u2022 Fine is related to Hungary's asylum policy \n\u2022 Asylum seekers will likely face more challenges in Hungary due to this decision",
-        "coordinates": [
-            47.1817585,
-            19.5060937
-        ]
-    },
-    {
         "location": "Iraq",
-        "summary": "\u2022 A massive fire broke out at an oil refinery in Iraq.\n\u2022 The blaze is currently being contained by firefighters and emergency responders.\n\u2022 There are no reports of casualties or injuries so far.",
+        "summary": "\u2022 A massive fire broke out at an oil refinery in Iraq.\n\u2022 The blaze was so intense that it could be seen from afar, causing concern among locals.\n\u2022 Emergency services were quickly deployed to contain the fire and prevent further damage.",
         "coordinates": [
             33.0955793,
             44.1749775
         ]
     },
     {
+        "location": "Israel",
+        "summary": "\u2022 US suggests ceasefire path\n\u2022 Israeli strikes target Rafah\n\u2022 Ceasefire possibility emerges",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
         "location": "Italy",
-        "summary": "\u2022 Italy's Meloni is being hosted at the G-7 meeting by Western leaders.\n\u2022 She was elected as Prime Minister after having a successful campaign based on her right-wing policies.\n\u2022 There were fights going on in the Italian Parliament before the meeting started.",
+        "summary": "\u2022 Italy's PM Meloni hosts G-7 leaders amid far-right election wins.\n\u2022 A brawl erupts in Italian Parliament before G-7 summit.",
         "coordinates": [
             42.6384261,
             12.674297
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 A police officer shot a magistrate in an open court in Kenya.\n\u2022 The incident occurred at a local courthouse in Nairobi, capital city of Kenya.\n\u2022 The motive behind the shooting is still unknown as investigations continue to determine if it was an isolated act or part of a larger conspiracy.",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "location": "Lebanon",
-        "summary": "\u2022 Hezbollah launches rocket attacks on Israel\n\u2022 US blames Hamas for prolonging Gaza conflict\n\u2022 Rocket attacks by Hezbollah target Israeli positions",
-        "coordinates": [
-            40.375713,
-            -76.4626118
-        ]
-    },
-    {
         "location": "Mexico",
-        "summary": "\u2022 New research on ancient Mayan child sacrifices\n\u2022 DNA analysis reveals surprising details about chosen victims\n\u2022 Insights into Mayan culture and traditions",
+        "summary": "\u2022 DNA analysis reveals surprising insights into the lives of ancient Mayan children who were sacrificed.\n\u2022 The research challenges previous assumptions about the selection process of these children for ritual sacrifices.\n\u2022 This discovery sheds new light on the social dynamics of pre-Columbian Mesoamerica.",
         "coordinates": [
             19.4326296,
             -99.1331785
         ]
     },
     {
+        "location": "Niger",
+        "summary": "\u2022 The President of Niger has been ousted in a military coup.\n\u2022 He is no longer protected by immunity as a result.\n\u2022 This development raises questions about the future of Niger's government.",
+        "coordinates": [
+            17.7356214,
+            9.3238432
+        ]
+    },
+    {
+        "location": "Philippines",
+        "summary": "\u2022 The Philippines is intensifying its stance on the disputed South China Sea.\n\u2022 This comes amid concerns over Chinese aggression in the region.\n\u2022 The country faces significant challenges in asserting its claims against powerful rivals.",
+        "coordinates": [
+            12.7503486,
+            122.7312101
+        ]
+    },
+    {
         "location": "South Africa",
-        "summary": "\u2022 South Africa's ANC is close to forming a unity government.\n\u2022 The party aims to strengthen its position in the country.\n\u2022 Mpox has caused two deaths in South Africa.",
+        "summary": "\u2022 Cyril Ramaphosa is re-elected as President of South Africa.\n\u2022 The election marks a significant milestone for the African National Congress (ANC).\n\u2022 The outcome signals hope for positive change within the ANC.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "South Korea",
-        "summary": "\u2022 A gym in South Korea has sparked controversy with its sign stating that only \"elegant\" women are allowed to enter.\n\u2022 The sign's wording has been criticized as discriminatory towards those who do not meet traditional beauty standards.\n\u2022 Many have called for the gym to remove or modify the sign to ensure equal access to fitness facilities regardless of appearance.",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
         "location": "Sudan",
-        "summary": "\u2022 Evidence suggests that Iran and UAE have supplied drones to Sudan\n\u2022 This could escalate tensions between Sudanese factions and foreign actors\n\u2022 Drones may be used for surveillance, intelligence gathering, or even combat",
+        "summary": "\u2022 Millions in Sudan face daily struggles to find food due to ongoing war.\n\u2022 The UN has called for an end to the siege of Darfur city during the Sudanese civil war.\n\u2022 The conflict in Sudan continues to affect civilians, with millions struggling to access basic necessities like food.",
         "coordinates": [
             10.9,
             6.5
@@ -121,7 +137,7 @@
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 The US will provide a second Patriot air defense battery to Ukraine.\n\u2022 A 10-year US-Ukraine security deal will be signed by Biden and Zelensky during the G-7 summit.\n\u2022 Ukraine pushes the US to supply combat gear despite concerns about its effectiveness.",
+        "summary": "\u2022 Putin outlines conditions for ceasefire \n\u2022 Demands Ukraine surrender four regions to end conflict",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -129,7 +145,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 UK's Labour leader Keir Starmer has toned down his socialist stance.\n\u2022 He aims to create a \"changed\" party.\n\u2022 This shift marks a departure from traditional Labour values.",
+        "summary": "\u2022 Princess Kate shares positive updates on her ongoing battle with cancer.\n\u2022 UK's opposition leader, Keir Starmer, moderates his stance on socialism within the party.\n\u2022 Both leaders provide reassurances about their respective health and political directions.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -137,18 +153,10 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022\tTrump visits Capitol Hill for first time since January 6 riot\n\u2022\tSupreme Court rejects challenge to restrict abortion drug access\n\u2022\tBiden refuses to reduce son's sentence",
+        "summary": "\u2022 The Supreme Court's gun ruling has shocked Las Vegas shooting survivors.\n\u2022 Demolition began at the Parkland school shooting site amid mixed emotions.\n\u2022 Tesla investors approved Elon Musk's $56 billion compensation package despite controversy.",
         "coordinates": [
             39.7837304,
             -100.445882
-        ]
-    },
-    {
-        "location": "Yemen",
-        "summary": "\u2022 A Houthi missile attack severely injured a sailor.\n\u2022 The US is aware of this incident.\n\u2022 The attacker was from the Houthi group.",
-        "coordinates": [
-            16.3471243,
-            47.8915271
         ]
     }
 ]

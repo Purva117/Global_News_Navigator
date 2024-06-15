@@ -1,10 +1,34 @@
 [
     {
-        "headline": "Shark attacks are rising in Australia. Technology is helping stop them.",
-        "location": "Australia",
+        "headline": "Drones reveal Antarctic whale 'acrobatics'",
+        "location": "Antarctica",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -72.8438691,
+            0.0
+        ]
+    },
+    {
+        "headline": "Drones reveal Antarctic whale 'acrobatics'",
+        "location": "Antarctica",
+        "coordinates": [
+            -72.8438691,
+            0.0
+        ]
+    },
+    {
+        "headline": "Protests across Brazil over divisive abortion law",
+        "location": "Brazil",
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
+        "headline": "U.S. Embassy employee charged with sexually abusing girls in Burkina Faso home",
+        "location": "Burkina Faso",
+        "coordinates": [
+            12.0753083,
+            -1.6880314
         ]
     },
     {
@@ -16,15 +40,7 @@
         ]
     },
     {
-        "headline": "Celine Dion says 'I'm back' after health struggles",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "headline": "Dan's the man: Why Chinese women are looking to ChatGPT for love",
+        "headline": "Chinese #MeToo journalist, activist jailed in crackdown on civil society",
         "location": "China",
         "coordinates": [
             35.000074,
@@ -40,7 +56,15 @@
         ]
     },
     {
-        "headline": "As Europe faces war, Germany looks to restore national service",
+        "headline": "French left forms 'Popular Front' to fight far right",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Will Euro 2024 give Germany another summer fairytale?",
         "location": "Germany",
         "coordinates": [
             51.1638175,
@@ -48,19 +72,11 @@
         ]
     },
     {
-        "headline": "US tourist missing for days on Greek island",
+        "headline": "Tourists are missing on Greek islands in the heat. Here\u2019s how to stay safe.",
         "location": "Greece",
         "coordinates": [
             39.0742,
             21.8243
-        ]
-    },
-    {
-        "headline": "EU court fines Hungary \u20ac200m over its asylum policy",
-        "location": "Hungary",
-        "coordinates": [
-            47.1817585,
-            19.5060937
         ]
     },
     {
@@ -72,11 +88,11 @@
         ]
     },
     {
-        "headline": "Italy's Meloni basks in G7 limelight with Western leaders",
-        "location": "Italy",
+        "headline": "Path to cease-fire deal possible, U.S. says, as Israel targets Rafah anew",
+        "location": "Israel",
         "coordinates": [
-            42.6384261,
-            12.674297
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -96,22 +112,6 @@
         ]
     },
     {
-        "headline": "Kenyan policeman shoots magistrate in open court",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "Hezbollah lobs rockets at Israel as U.S. accuses Hamas of prolonging Gaza war",
-        "location": "Lebanon",
-        "coordinates": [
-            40.375713,
-            -76.4626118
-        ]
-    },
-    {
         "headline": "DNA reveals surprise about the children ancient Mayans chose to sacrifice",
         "location": "Mexico",
         "coordinates": [
@@ -120,7 +120,23 @@
         ]
     },
     {
-        "headline": "S Africa's ANC edging closer to forming unity government",
+        "headline": "President toppled in Niger coup loses immunity",
+        "location": "Niger",
+        "coordinates": [
+            17.7356214,
+            9.3238432
+        ]
+    },
+    {
+        "headline": "Philippines turns up heat over disputed sea but confronts formidable foe",
+        "location": "Philippines",
+        "coordinates": [
+            12.7503486,
+            122.7312101
+        ]
+    },
+    {
+        "headline": "Cyril Ramaphosa re-elected South African president",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -128,7 +144,7 @@
         ]
     },
     {
-        "headline": "S Africa's ANC edging closer to forming unity government",
+        "headline": "A landmark moment in South Africa for a humbled ANC",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -136,7 +152,7 @@
         ]
     },
     {
-        "headline": "Second person dies from mpox in South Africa",
+        "headline": "Cyril Ramaphosa re-elected South African president",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -144,23 +160,7 @@
         ]
     },
     {
-        "headline": "S Africa's ANC edging closer to forming unity government",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "'Only elegant women allowed': S Korea gym draws flak for sign",
-        "location": "South Korea",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
-        "headline": "Evidence of Iran and UAE drones used in Sudan war",
+        "headline": "Millions in daily struggle to find food as Sudan war rages",
         "location": "Sudan",
         "coordinates": [
             10.9,
@@ -168,7 +168,23 @@
         ]
     },
     {
-        "headline": "U.S. will send Ukraine a second Patriot air defense battery",
+        "headline": "Millions in daily struggle to find food as Sudan war rages",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "U.N. calls for end to siege of Darfur city amid Sudan civil war",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "Putin lays out his terms for ceasefire in Ukraine",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -176,7 +192,7 @@
         ]
     },
     {
-        "headline": "Biden, Zelensky to sign 10-year U.S.-Ukraine security deal at G-7 summit",
+        "headline": "Putin demands Ukraine surrender four regions to stop war",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -184,11 +200,11 @@
         ]
     },
     {
-        "headline": "\u2018Ram him\u2019: How Ukraine is pushing U.S. combat gear to the extreme",
-        "location": "Ukraine",
+        "headline": "Princess Kate says she\u2019s \u2018making good progress\u2019 in update on cancer fight",
+        "location": "United Kingdom",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            54.7023545,
+            -3.2765753
         ]
     },
     {
@@ -200,7 +216,7 @@
         ]
     },
     {
-        "headline": "Tesla investors back record-breaking Musk pay deal",
+        "headline": "Supreme Court gun ruling stuns Las Vegas shooting survivors",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -208,7 +224,7 @@
         ]
     },
     {
-        "headline": "Supreme Court rejects challenge to restrict abortion drug access",
+        "headline": "Demolition begins at Parkland school shooting site",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -216,7 +232,7 @@
         ]
     },
     {
-        "headline": "Trump visits Capitol Hill for first time since Jan 6 riot",
+        "headline": "Tesla investors back $56bn Musk pay deal",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +240,7 @@
         ]
     },
     {
-        "headline": "Nasa astronaut distress message broadcast in error",
+        "headline": "Watch/Listen",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +248,7 @@
         ]
     },
     {
-        "headline": "Phoenix police used excessive force, justice department says",
+        "headline": "Six swing states set to decide the US election",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +256,7 @@
         ]
     },
     {
-        "headline": "Trump visits Capitol Hill for first time since Jan 6 riot",
+        "headline": "Is Elon Musk worth his $56bn Tesla pay package?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +264,7 @@
         ]
     },
     {
-        "headline": "Biden says he will not reduce son's sentence",
+        "headline": "US declines to charge Merrick Garland for contempt",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +272,7 @@
         ]
     },
     {
-        "headline": "Supreme Court rejects challenge to abortion drug mifepristone",
+        "headline": "Alex Jones assets liquidated to pay Sandy Hook debt",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +280,7 @@
         ]
     },
     {
-        "headline": "Aerial footage shows extent of flooding in Florida",
+        "headline": "Two New York men die falling into a manure tanker",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +288,7 @@
         ]
     },
     {
-        "headline": "Path to cease-fire deal possible, U.S. says, as Israel targets Rafah anew",
+        "headline": "Demolition begins at Parkland school shooting site",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +296,7 @@
         ]
     },
     {
-        "headline": "Swifties set off earthquake sensors again. These songs made the biggest stir.",
+        "headline": "Mixed emotions over demolition of Parkland shooting site",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +304,7 @@
         ]
     },
     {
-        "headline": "An account of Jesus as a boy is decoded from an ancient papyrus scrap",
+        "headline": "Biden meets Pope Francis as G-7 wraps up strongly pro-Ukraine summit",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +312,7 @@
         ]
     },
     {
-        "headline": "Biden\u2019s new measures to stem illegal border crossings draw legal challenge",
+        "headline": "In the search for hostages, U.S. is Israel\u2019s key intelligence partner",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,19 +320,11 @@
         ]
     },
     {
-        "headline": "Houthi missile attack severely injures sailor, US says",
-        "location": "Yemen",
+        "headline": "At the G-7 summit, here are the key issues Biden and world leaders will discuss",
+        "location": "United States",
         "coordinates": [
-            16.3471243,
-            47.8915271
-        ]
-    },
-    {
-        "headline": "Houthi missile attack severely injures sailor, US says",
-        "location": "Yemen",
-        "coordinates": [
-            16.3471243,
-            47.8915271
+            39.7837304,
+            -100.445882
         ]
     }
 ]
