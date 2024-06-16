@@ -1,23 +1,51 @@
 [
     {
+        "headline": "Putin peace terms slammed at Ukraine summit",
+        "location": "Russia"
+    },
+    {
+        "headline": "Iranian convicted of war crimes freed in Swedish swap",
+        "location": "Sweden"
+    },
+    {
+        "headline": "Are animals conscious? How new research is changing minds",
+        "location": "USA"
+    },
+    {
+        "headline": "Why 800 people fled a sun-kissed Mediterranean village",
+        "location": "Greece"
+    },
+    {
+        "headline": "Susannah's grandad ran Bengal when famine killed millions",
+        "location": "India"
+    },
+    {
+        "headline": "Iranian convicted of war crimes freed in Swedish swap",
+        "location": "Sweden"
+    },
+    {
+        "headline": "Eight Israeli soldiers killed in Rafah operation, IDF says",
+        "location": "Israel"
+    },
+    {
+        "headline": "Museum removes Monet and Van Gogh paintings over Nazi looting fears",
+        "location": "France"
+    },
+    {
+        "headline": "Are animals conscious? How new research is changing minds",
+        "location": "USA"
+    },
+    {
+        "headline": "People left dangling upside down on amusement park ride",
+        "location": "USA"
+    },
+    {
         "headline": "Cyril Ramaphosa re-elected South African president",
         "location": "South Africa"
     },
     {
-        "headline": "Drones reveal Antarctic whale 'acrobatics'",
-        "location": "Antarctica"
-    },
-    {
-        "headline": "Pope jokes around as he hosts famous comedians",
-        "location": "Vatican City"
-    },
-    {
-        "headline": "Supreme Court gun ruling stuns Las Vegas shooting survivors",
-        "location": "United States"
-    },
-    {
-        "headline": "Demolition begins at Parkland school shooting site",
-        "location": "United States"
+        "headline": "Going down the 'rabbit hole' of wearable blood-sugar monitors",
+        "location": "Canada"
     },
     {
         "headline": "Drones reveal Antarctic whale 'acrobatics'",
@@ -28,36 +56,8 @@
         "location": "Sudan"
     },
     {
-        "headline": "Putin lays out his terms for ceasefire in Ukraine",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Pope jokes around as he hosts famous comedians",
-        "location": "Vatican City"
-    },
-    {
-        "headline": "Aid convoy denied entry to northern Gaza, UN says",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "French left forms 'Popular Front' to fight far right",
-        "location": "France"
-    },
-    {
-        "headline": "Protests across Brazil over divisive abortion law",
-        "location": "Brazil"
-    },
-    {
-        "headline": "Tesla investors back $56bn Musk pay deal",
-        "location": "United States"
-    },
-    {
-        "headline": "President toppled in Niger coup loses immunity",
-        "location": "Niger"
-    },
-    {
         "headline": "Watch/Listen",
-        "location": "United States"
+        "location": "Argentina"
     },
     {
         "headline": "Researchers in Canada find ship where Shackleton died",
@@ -73,75 +73,107 @@
     },
     {
         "headline": "Parents of ex-hostage tell BBC of his 'miracle' return",
-        "location": "Unknown"
+        "location": "USA"
     },
     {
         "headline": "Underwater video shows likely 1971 plane wreckage",
-        "location": "Unknown"
+        "location": "Australia"
     },
     {
         "headline": "Features",
-        "location": "Unknown"
-    },
-    {
-        "headline": "Six swing states set to decide the US election",
-        "location": "United States"
-    },
-    {
-        "headline": "A landmark moment in South Africa for a humbled ANC",
-        "location": "South Africa"
-    },
-    {
-        "headline": "Is Elon Musk worth his $56bn Tesla pay package?",
-        "location": "United States"
-    },
-    {
-        "headline": "Will Euro 2024 give Germany another summer fairytale?",
-        "location": "Germany"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Unknown"
-    },
-    {
-        "headline": "Millions in daily struggle to find food as Sudan war rages",
-        "location": "Sudan"
-    },
-    {
-        "headline": "US declines to charge Merrick Garland for contempt",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "Naked, alone and living on dog food \u2013 all for a TV show that gripped a nation",
-        "location": "Unknown"
+        "location": "UK"
     },
     {
-        "headline": "Alex Jones assets liquidated to pay Sandy Hook debt",
-        "location": "United States"
+        "headline": "Zelensky seeks show of support at giant Ukraine peace summit",
+        "location": "Ukraine"
     },
     {
-        "headline": "Two New York men die falling into a manure tanker",
-        "location": "United States"
+        "headline": "What happened to the women who took on the Taliban?",
+        "location": "Afghanistan"
     },
     {
-        "headline": "Cyril Ramaphosa re-elected South African president",
-        "location": "South Africa"
+        "headline": "Why a hit show is calling it quits after two series",
+        "location": "USA"
     },
     {
-        "headline": "Pope jokes around as he hosts famous comedians",
-        "location": "Vatican City"
+        "headline": "Six swing states set to decide the US election",
+        "location": "USA"
     },
     {
-        "headline": "Demolition begins at Parkland school shooting site",
-        "location": "United States"
+        "headline": "Latest updates",
+        "location": "Not applicable"
     },
     {
-        "headline": "Mixed emotions over demolition of Parkland shooting site",
-        "location": "United States"
+        "headline": "Putin peace terms slammed at Ukraine summit",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "How a Kenyan farmer became a champion of climate change denial",
+        "location": "Kenya"
+    },
+    {
+        "headline": "Why 800 people fled a sun-kissed Mediterranean village",
+        "location": "Italy"
+    },
+    {
+        "headline": "Susannah's grandad ran Bengal when famine killed millions",
+        "location": "India"
+    },
+    {
+        "headline": "'I feel broken': Inside the mind of the woman who ran 1,000km in 12 days",
+        "location": "Australia"
+    },
+    {
+        "headline": "Eight Israeli soldiers killed in Rafah operation, IDF says",
+        "location": "Israel"
+    },
+    {
+        "headline": "Italy's Meloni plays down G7 abortion row",
+        "location": "Italy"
+    },
+    {
+        "headline": "Going down the 'rabbit hole' of wearable blood-sugar monitors",
+        "location": "USA"
+    },
+    {
+        "headline": "Kenyan magistrate dies after shooting by policeman",
+        "location": "Kenya"
+    },
+    {
+        "headline": "8 Israeli troops killed in Rafah; Gazans prepare for somber Eid holiday",
+        "location": "Israel"
+    },
+    {
+        "headline": "French protesters decry far-right shift as snap election looms",
+        "location": "France"
+    },
+    {
+        "headline": "India says novelist Arundhati Roy could be tried under anti-terrorism law",
+        "location": "India"
+    },
+    {
+        "headline": "Iran and Sweden announce prisoner swap involving convicted war criminal",
+        "location": "Iran/Sweden"
+    },
+    {
+        "headline": "Princess Kate attends king\u2019s parade in first public event since cancer news",
+        "location": "UK"
+    },
+    {
+        "headline": "Panel says lawmakers colluded with foreign powers but won\u2019t name names",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "With Rafah crossing closed by Israel, Gazans have no way out",
+        "location": "Gaza Strip"
     },
     {
         "headline": "Biden meets Pope Francis as G-7 wraps up strongly pro-Ukraine summit",
-        "location": "United States"
+        "location": "USA/Ukraine/G-7 countries"
     },
     {
         "headline": "U.S. Embassy employee charged with sexually abusing girls in Burkina Faso home",
@@ -157,11 +189,11 @@
     },
     {
         "headline": "Princess Kate says she\u2019s \u2018making good progress\u2019 in update on cancer fight",
-        "location": "United Kingdom"
+        "location": "UK"
     },
     {
         "headline": "Putin demands Ukraine surrender four regions to stop war",
-        "location": "Ukraine"
+        "location": "Russia"
     },
     {
         "headline": "Tourists are missing on Greek islands in the heat. Here\u2019s how to stay safe.",
@@ -169,7 +201,7 @@
     },
     {
         "headline": "U.N. calls for end to siege of Darfur city amid Sudan civil war",
-        "location": "Sudan"
+        "location": "Sudan/Darfur"
     },
     {
         "headline": "Chinese #MeToo journalist, activist jailed in crackdown on civil society",
@@ -177,11 +209,11 @@
     },
     {
         "headline": "DNA reveals surprise about the children ancient Mayans chose to sacrifice",
-        "location": "Mexico"
+        "location": "Not applicable"
     },
     {
         "headline": "In the search for hostages, U.S. is Israel\u2019s key intelligence partner",
-        "location": "United States"
+        "location": "Mexico/Ancient Mesoamerica"
     },
     {
         "headline": "Philippines turns up heat over disputed sea but confronts formidable foe",
@@ -189,34 +221,6 @@
     },
     {
         "headline": "The small country in the middle of the world\u2019s crises",
-        "location": "Unknown"
-    },
-    {
-        "headline": "Path to cease-fire deal possible, U.S. says, as Israel targets Rafah anew",
-        "location": "Israel/Palestine"
-    },
-    {
-        "headline": "U.K.\u2019s Keir Starmer tones down the socialism in \u2018changed Labour Party\u2019",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Italy\u2019s Meloni, boosted by far-right election gains, hosts G-7 leaders",
-        "location": "Italy"
-    },
-    {
-        "headline": "Brawl breaks out in Italian Parliament ahead of G-7 summit",
-        "location": "Italy"
-    },
-    {
-        "headline": "Number of global displaced hits record high at 120 million, U.N. says",
-        "location": "Global"
-    },
-    {
-        "headline": "At the G-7 summit, here are the key issues Biden and world leaders will discuss",
-        "location": "United States/G7 Summit"
-    },
-    {
-        "headline": "Russia financial system shaken after U.S. imposes new sanctions",
-        "location": "Russia"
+        "location": "Switzerland"
     }
 ]

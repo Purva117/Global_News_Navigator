@@ -1,10 +1,10 @@
 [
     {
-        "headline": "Drones reveal Antarctic whale 'acrobatics'",
-        "location": "Antarctica",
+        "headline": "What happened to the women who took on the Taliban?",
+        "location": "Afghanistan",
         "coordinates": [
-            -72.8438691,
-            0.0
+            33.7680065,
+            66.2385139
         ]
     },
     {
@@ -16,11 +16,27 @@
         ]
     },
     {
-        "headline": "Protests across Brazil over divisive abortion law",
-        "location": "Brazil",
+        "headline": "Watch/Listen",
+        "location": "Argentina",
         "coordinates": [
-            -10.3333333,
-            -53.2
+            -34.9964963,
+            -64.9672817
+        ]
+    },
+    {
+        "headline": "Underwater video shows likely 1971 plane wreckage",
+        "location": "Australia",
+        "coordinates": [
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "headline": "'I feel broken': Inside the mind of the woman who ran 1,000km in 12 days",
+        "location": "Australia",
+        "coordinates": [
+            -24.7761086,
+            134.755
         ]
     },
     {
@@ -29,6 +45,14 @@
         "coordinates": [
             12.0753083,
             -1.6880314
+        ]
+    },
+    {
+        "headline": "Going down the 'rabbit hole' of wearable blood-sugar monitors",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
         ]
     },
     {
@@ -56,7 +80,7 @@
         ]
     },
     {
-        "headline": "French left forms 'Popular Front' to fight far right",
+        "headline": "Museum removes Monet and Van Gogh paintings over Nazi looting fears",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,11 +88,19 @@
         ]
     },
     {
-        "headline": "Will Euro 2024 give Germany another summer fairytale?",
-        "location": "Germany",
+        "headline": "French protesters decry far-right shift as snap election looms",
+        "location": "France",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Why 800 people fled a sun-kissed Mediterranean village",
+        "location": "Greece",
+        "coordinates": [
+            39.0742,
+            21.8243
         ]
     },
     {
@@ -80,6 +112,38 @@
         ]
     },
     {
+        "headline": "Susannah's grandad ran Bengal when famine killed millions",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Susannah's grandad ran Bengal when famine killed millions",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "India says novelist Arundhati Roy could be tried under anti-terrorism law",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Iran and Sweden announce prisoner swap involving convicted war criminal",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
         "headline": "Watch: Huge fire erupts at oil refinery in Iraq",
         "location": "Iraq",
         "coordinates": [
@@ -88,7 +152,7 @@
         ]
     },
     {
-        "headline": "Path to cease-fire deal possible, U.S. says, as Israel targets Rafah anew",
+        "headline": "Eight Israeli soldiers killed in Rafah operation, IDF says",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -96,7 +160,23 @@
         ]
     },
     {
-        "headline": "Italy\u2019s Meloni, boosted by far-right election gains, hosts G-7 leaders",
+        "headline": "Eight Israeli soldiers killed in Rafah operation, IDF says",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "8 Israeli troops killed in Rafah; Gazans prepare for somber Eid holiday",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Why 800 people fled a sun-kissed Mediterranean village",
         "location": "Italy",
         "coordinates": [
             42.6384261,
@@ -104,7 +184,7 @@
         ]
     },
     {
-        "headline": "Brawl breaks out in Italian Parliament ahead of G-7 summit",
+        "headline": "Italy's Meloni plays down G7 abortion row",
         "location": "Italy",
         "coordinates": [
             42.6384261,
@@ -112,19 +192,27 @@
         ]
     },
     {
-        "headline": "DNA reveals surprise about the children ancient Mayans chose to sacrifice",
+        "headline": "How a Kenyan farmer became a champion of climate change denial",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "Kenyan magistrate dies after shooting by policeman",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "In the search for hostages, U.S. is Israel\u2019s key intelligence partner",
         "location": "Mexico",
         "coordinates": [
             19.4326296,
             -99.1331785
-        ]
-    },
-    {
-        "headline": "President toppled in Niger coup loses immunity",
-        "location": "Niger",
-        "coordinates": [
-            17.7356214,
-            9.3238432
         ]
     },
     {
@@ -144,30 +232,6 @@
         ]
     },
     {
-        "headline": "A landmark moment in South Africa for a humbled ANC",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "Cyril Ramaphosa re-elected South African president",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "Millions in daily struggle to find food as Sudan war rages",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
         "headline": "Millions in daily struggle to find food as Sudan war rages",
         "location": "Sudan",
         "coordinates": [
@@ -184,64 +248,64 @@
         ]
     },
     {
-        "headline": "Putin lays out his terms for ceasefire in Ukraine",
-        "location": "Ukraine",
+        "headline": "Iranian convicted of war crimes freed in Swedish swap",
+        "location": "Sweden",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            59.6749712,
+            14.5208584
         ]
     },
     {
-        "headline": "Putin demands Ukraine surrender four regions to stop war",
-        "location": "Ukraine",
+        "headline": "Iranian convicted of war crimes freed in Swedish swap",
+        "location": "Sweden",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            59.6749712,
+            14.5208584
         ]
     },
     {
-        "headline": "Princess Kate says she\u2019s \u2018making good progress\u2019 in update on cancer fight",
-        "location": "United Kingdom",
+        "headline": "The small country in the middle of the world\u2019s crises",
+        "location": "Switzerland",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            46.7985624,
+            8.2319736
         ]
     },
     {
-        "headline": "U.K.\u2019s Keir Starmer tones down the socialism in \u2018changed Labour Party\u2019",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Supreme Court gun ruling stuns Las Vegas shooting survivors",
-        "location": "United States",
+        "headline": "Are animals conscious? How new research is changing minds",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Demolition begins at Parkland school shooting site",
-        "location": "United States",
+        "headline": "Are animals conscious? How new research is changing minds",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Tesla investors back $56bn Musk pay deal",
-        "location": "United States",
+        "headline": "People left dangling upside down on amusement park ride",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Watch/Listen",
-        "location": "United States",
+        "headline": "Parents of ex-hostage tell BBC of his 'miracle' return",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Why a hit show is calling it quits after two series",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -249,55 +313,15 @@
     },
     {
         "headline": "Six swing states set to decide the US election",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Is Elon Musk worth his $56bn Tesla pay package?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US declines to charge Merrick Garland for contempt",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Alex Jones assets liquidated to pay Sandy Hook debt",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Two New York men die falling into a manure tanker",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Demolition begins at Parkland school shooting site",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Mixed emotions over demolition of Parkland shooting site",
-        "location": "United States",
+        "headline": "Going down the 'rabbit hole' of wearable blood-sugar monitors",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -305,26 +329,26 @@
     },
     {
         "headline": "Biden meets Pope Francis as G-7 wraps up strongly pro-Ukraine summit",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "In the search for hostages, U.S. is Israel\u2019s key intelligence partner",
-        "location": "United States",
+        "headline": "Zelensky seeks show of support at giant Ukraine peace summit",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     },
     {
-        "headline": "At the G-7 summit, here are the key issues Biden and world leaders will discuss",
-        "location": "United States",
+        "headline": "Putin peace terms slammed at Ukraine summit",
+        "location": "Ukraine",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            49.4871968,
+            31.2718321
         ]
     }
 ]
