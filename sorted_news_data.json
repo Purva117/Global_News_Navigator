@@ -1,18 +1,10 @@
 [
     {
-        "headline": "Susannah's grandad ran Bengal when famine killed millions",
-        "location": "Bangladesh",
+        "headline": "Scooter Braun retires as music manager after 23 years",
+        "location": "Canada",
         "coordinates": [
-            -0.2864982,
-            36.0514231
-        ]
-    },
-    {
-        "headline": "U.S. Embassy employee charged with sexually abusing girls in Burkina Faso home",
-        "location": "Burkina Faso",
-        "coordinates": [
-            12.0753083,
-            -1.6880314
+            61.0666922,
+            -107.991707
         ]
     },
     {
@@ -21,14 +13,6 @@
         "coordinates": [
             61.0666922,
             -107.991707
-        ]
-    },
-    {
-        "headline": "Beijing offers pandas as ties with Australia thaw",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
         ]
     },
     {
@@ -48,6 +32,22 @@
         ]
     },
     {
+        "headline": "Torrential rains trigger deadly landslides in Ecuador",
+        "location": "Ecuador",
+        "coordinates": [
+            -1.3397668,
+            -79.3666965
+        ]
+    },
+    {
+        "headline": "Kylian Mbapp\u00e9 urges youth vote to counter 'extremists'",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
         "headline": "Jordan Bardella could soon be French PM at 28. But for many he remains an enigma",
         "location": "France",
         "coordinates": [
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "headline": "French protesters decry far-right shift as snap election looms",
+        "headline": "Paris tests Olympics readiness with Opening Ceremonies rehearsal on Seine",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,22 +64,6 @@
         ]
     },
     {
-        "headline": "Hamburg police shoot man with axe ahead of Euros match",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "Hamburg police shoot man with axe ahead of Euros match",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
         "headline": "Alarm in Hamburg as man with axe shot by police",
         "location": "Germany",
         "coordinates": [
@@ -88,23 +72,31 @@
         ]
     },
     {
-        "headline": "Alarm in Hamburg as man with axe shot by police",
-        "location": "Germany",
+        "headline": "Greek opposition urges investigation after BBC migrant deaths report",
+        "location": "Greece",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            39.0742,
+            21.8243
         ]
     },
     {
-        "headline": "Hamburg police shoot man with axe ahead of Euros match",
-        "location": "Germany",
+        "headline": "Greek opposition urges investigation after BBC migrant deaths report",
+        "location": "Greece",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            39.0742,
+            21.8243
         ]
     },
     {
-        "headline": "Indian national accused of murder-for-hire plot arrives in New York",
+        "headline": "Will India's Booker Prize-winning author face jail for 14-year-old remark?",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Will India's Booker Prize-winning author face jail for 14-year-old remark?",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -120,38 +112,6 @@
         ]
     },
     {
-        "headline": "India says novelist Arundhati Roy could be tried under anti-terrorism law",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Iranian convicted of war crimes freed in Swedish swap",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Iran and Sweden announce prisoner swap involving convicted war criminal",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Watch: Huge fire erupts at oil refinery in Iraq",
-        "location": "Iraq",
-        "coordinates": [
-            33.0955793,
-            44.1749775
-        ]
-    },
-    {
         "headline": "Iraqi militias target KFC, other U.S. businesses to protest Gaza war",
         "location": "Iraq",
         "coordinates": [
@@ -160,7 +120,7 @@
         ]
     },
     {
-        "headline": "Military \u2018pause\u2019 on Gaza road inflames divisions in Israeli government",
+        "headline": "Israeli PM scraps war cabinet after key departures",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -168,7 +128,7 @@
         ]
     },
     {
-        "headline": "Military \u2018pause\u2019 on Gaza road inflames divisions in Israeli government",
+        "headline": "Key Democrats approve major arms sale to Israel, including F-15s",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -176,15 +136,7 @@
         ]
     },
     {
-        "headline": "Military \u2018pause\u2019 on Gaza road inflames divisions in Israeli government",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israel announces military pause on Gaza road to let in aid",
+        "headline": "Netanyahu dissolves war cabinet but plans to keep far right sidelined",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -208,55 +160,31 @@
         ]
     },
     {
-        "headline": "With Rafah crossing closed by Israel, Gazans have no way out",
-        "location": "Israel",
+        "headline": "'I would be beheaded': Islamist insurgency flares in Mozambique",
+        "location": "Mozambique",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            -19.302233,
+            34.9144977
         ]
     },
     {
-        "headline": "Burns hits century for Italy in 2026 T20 World Cup qualifier",
-        "location": "Italy",
+        "headline": "In photos: Scenes from the extreme hot weather around the world",
+        "location": "Philippines",
         "coordinates": [
-            42.6384261,
-            12.674297
+            12.7503486,
+            122.7312101
         ]
     },
     {
-        "headline": "How a Kenyan farmer became a champion of climate change denial",
-        "location": "Kenya",
+        "headline": "Extreme heat takes withering toll in teeming Philippine jails",
+        "location": "Philippines",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            12.7503486,
+            122.7312101
         ]
     },
     {
-        "headline": "Malawians pay tribute to vice-president killed in plane crash",
-        "location": "Malawi",
-        "coordinates": [
-            -13.2687204,
-            33.9301963
-        ]
-    },
-    {
-        "headline": "Malawians pay tribute to vice-president killed in plane crash",
-        "location": "Malawi",
-        "coordinates": [
-            -13.2687204,
-            33.9301963
-        ]
-    },
-    {
-        "headline": "Weghorst scores late Netherlands winner against Poland",
-        "location": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "At least 14 Hajj pilgrims die in intense heat",
+        "headline": "In photos, video: Muslims around the world celebrate Eid al-Adha",
         "location": "Saudi Arabia",
         "coordinates": [
             25.6242618,
@@ -264,7 +192,7 @@
         ]
     },
     {
-        "headline": "At least 14 Hajj pilgrims die in intense heat",
+        "headline": "Hajj pilgrims die of heatstroke as Mecca temperatures hit 120 degrees",
         "location": "Saudi Arabia",
         "coordinates": [
             25.6242618,
@@ -272,31 +200,23 @@
         ]
     },
     {
-        "headline": "Features",
-        "location": "Spain",
+        "headline": "Huge oil spill blackens Singapore\u2019s picturesque beaches",
+        "location": "Singapore",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            1.357107,
+            103.8194992
         ]
     },
     {
-        "headline": "Too much of a good thing? Spain's green energy can exceed demand",
-        "location": "Spain",
+        "headline": "Zuma's MK party to join South Africa's opposition alliance",
+        "location": "South Africa",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            -28.8166236,
+            24.991639
         ]
     },
     {
-        "headline": "Avicii\u2019s dad: 'I miss him every minute, but I get angry at him for leaving'",
-        "location": "Sweden",
-        "coordinates": [
-            59.6749712,
-            14.5208584
-        ]
-    },
-    {
-        "headline": "Peace talks tomorrow if Russia leaves Ukraine - Zelensky",
+        "headline": "Conscription squads send Ukrainian men into hiding",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -304,7 +224,7 @@
         ]
     },
     {
-        "headline": "Peace talks tomorrow if Russia leaves Ukraine - Zelensky",
+        "headline": "Away from war, Ukraine\u2019s soccer stars ready for battle",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -320,15 +240,7 @@
         ]
     },
     {
-        "headline": "Putin demands Ukraine surrender four regions to stop war",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "'I feel broken': Inside the mind of the woman who ran 1,000km in 12 days",
+        "headline": "Rod Stewart defends support for Ukraine after jeers",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -344,15 +256,7 @@
         ]
     },
     {
-        "headline": "Princess Kate says she\u2019s \u2018making good progress\u2019 in update on cancer fight",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "More people turning away from news, report says",
+        "headline": "Maryland pardons 175,000 people of cannabis convictions",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -360,7 +264,79 @@
         ]
     },
     {
-        "headline": "Biden meets Pope Francis as G-7 wraps up strongly pro-Ukraine summit",
+        "headline": "'Bling bishop' US pastor sentenced to 9 years",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Maryland pardons 175,000 people of cannabis convictions",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Prison dance has 'profound' impact on dads and daughters",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "White House slams 'bad faith' viral clips of Biden",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "'Bling bishop' US pastor sentenced to 9 years",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Who will be Donald Trump's pick for vice-president?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "One in five Americans under extreme weather alerts",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "US storm: 'There goes the trampoline, goodbye'",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden to waive penalties for undocumented spouses of U.S. citizens",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Indian national accused of murder-for-hire plot in New York pleads not guilty",
         "location": "United States",
         "coordinates": [
             39.7837304,

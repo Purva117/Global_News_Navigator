@@ -1,23 +1,7 @@
 [
     {
-        "location": "Bangladesh",
-        "summary": "\u2022 Susannah's grandad was the Governor-General of Bengal during the famine.\n\u2022 The famine led to an estimated death toll of millions in Bengal.\n\u2022 This historical event has had a lasting impact on Bangladesh's politics and society.",
-        "coordinates": [
-            -0.2864982,
-            36.0514231
-        ]
-    },
-    {
-        "location": "Burkina Faso",
-        "summary": "\u2022 A US embassy worker faces charges for sexually abusing young girls at their residence.\n\u2022 The allegations involve exploitation of vulnerable individuals in a diplomatic setting.\n\u2022 International pressure is mounting on the US government to address these serious claims.",
-        "coordinates": [
-            12.0753083,
-            -1.6880314
-        ]
-    },
-    {
         "location": "Canada",
-        "summary": "\u2022 Researchers in Canada have discovered the wreckage of the Endurance, the ship on which Sir Ernest Shackleton's Imperial Trans-Antarctic Expedition ended.\n\u2022 The expedition was attempting to cross Antarctica from west to east but became stranded when the ship sank during a storm.\n\u2022 This discovery is significant as it sheds light on one of the most infamous maritime disasters in history.",
+        "summary": "\u2022 Scooter Braun retires from music management after 23 years.\n\u2022 Researchers discover the ship where Ernest Shackleton died in Canada.\n\u2022 A famous musician's manager has retired after 23 years. \n\u2022 Canadian researchers have found a historic ship that was involved in an important event.",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -25,7 +9,7 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 Beijing offers pandas as ties with Australia thaw\n\u2022 China pursues significant expansion of nuclear arsenal, report says",
+        "summary": "\u2022 China is reportedly planning to significantly expand its nuclear arsenal.\n\u2022 This move comes amid rising tensions with other nations in the region.\n\u2022 The expansion could lead to increased instability in the Asia-Pacific area.",
         "coordinates": [
             35.000074,
             104.999927
@@ -33,15 +17,23 @@
     },
     {
         "location": "Cuba",
-        "summary": "\u2022 Russia sends naval fleet to Havana\n\u2022 Fleet arrives in Cuba for diplomatic visit\n\u2022 Ships will remain in Cuban waters until September 27th",
+        "summary": "\u2022 Russia sends warships to Cuba amid growing tensions with US\n\u2022 Ships arrive in Havana as part of joint naval exercise between countries\n\u2022 Presence seen as challenge to US dominance in Caribbean region",
         "coordinates": [
             23.0131338,
             -80.8328748
         ]
     },
     {
+        "location": "Ecuador",
+        "summary": "\u2022 Torrential rains cause widespread destruction and loss of life due to deadly landslides in Ecuador\n\u2022 Heavy rainfall leads to devastating consequences across the country\n\u2022 Authorities work tirelessly to rescue those trapped under debris and provide aid to affected communities",
+        "coordinates": [
+            -1.3397668,
+            -79.3666965
+        ]
+    },
+    {
         "location": "France",
-        "summary": "\u2022 Jordan Bardella, 28, may become French Prime Minister.\n\u2022 French protests express concern over growing far-right influence ahead of elections.\n\u2022 Protests emphasize need for social justice amid perceived right-wing shift in politics.",
+        "summary": "\u2022 Kylian Mbapp\u00e9 urges young people to vote against extremists.\n\u2022 Jordan Bardella may become Prime Minister of France at 28 years old.\n\u2022 The city of Paris rehearsed its Olympic opening ceremony in preparation for the games.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -49,31 +41,31 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 Police shot a man wielding an axe ahead of the Euros match.\n\u2022 The incident sparked alarm among locals.\n\u2022 No one was injured during the confrontation.",
+        "summary": "\u2022 A man was shot by police while carrying an axe in Hamburg.\n\u2022 The incident sparked alarm among residents, raising concerns about public safety.\n\u2022 Police responded promptly to neutralize the threat, but details of the motive remain unclear.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
+        "location": "Greece",
+        "summary": "\u2022 The Greek opposition demands an investigation into reports of migrant deaths, citing concerns over humanitarian treatment.\n\u2022 They urge action to prevent similar incidents in the future.\n\u2022 The opposition's call comes amid growing scrutiny of Greece's handling of migration policies.",
+        "coordinates": [
+            39.0742,
+            21.8243
+        ]
+    },
+    {
         "location": "India",
-        "summary": "\u2022 An Indian national accused of a murder-for-hire plot has arrived in New York.\n\u2022 India's Prime Minister, Narendra Modi, faces questions about his leadership style following recent electoral setbacks.\n\u2022 The government is considering prosecuting author Arundhati Roy under anti-terrorism laws.",
+        "summary": "\u2022 India's Booker Prize-winning author may be jailed for an offensive remark made in 2008.\n\u2022 The author faces up to two years in prison under the National Security Act.\n\u2022 Prime Minister Narendra Modi is facing criticism over his handling of the COVID-19 crisis.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Iran",
-        "summary": "\u2022 An Iranian national convicted of war crimes has been released from prison as part of a prisoner exchange with Sweden.\n\u2022 The prisoner was exchanged by Iran and Sweden as part of a diplomatic agreement.\n\u2022 The individual had been serving time for their involvement in wartime atrocities.",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
         "location": "Iraq",
-        "summary": "\u2022 A massive fire broke out at an Iraqi oil refinery.\n\u2022 Militants targeted US businesses like KFC due to their involvement in the Gaza conflict.\n\u2022 The attacks were meant to express opposition to the US's role in supporting Israel during the Gaza crisis.",
+        "summary": "\u2022 Iraqi militias protest against US involvement in Gaza conflict by targeting American businesses\n\u2022 Militias attack KFC and other US companies to express their discontent with US role in Gaza conflict\n\u2022 Protests escalate as militia groups target US-owned businesses in response to Gaza situation",
         "coordinates": [
             33.0955793,
             44.1749775
@@ -81,71 +73,55 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli military 'pauses' operations on Gaza road amid political tensions.\n\u2022 Israel permits aid delivery through the Gaza border via a temporary ceasefire.\n\u2022 Eight Israeli soldiers die in an attack near Rafah during Eid celebrations, while Gazans face restricted exit routes due to the closure of the Rafah crossing.",
+        "summary": "\u2022 Netanyahu dissolves war cabinet due to key departures.\n\u2022 Key Democrats approve major arms sale to Israel, including F-15s.\n\u2022 Eight Israeli soldiers die in Rafah amid preparations for somber Eid holiday.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Italy",
-        "summary": "\u2022 Burns hits century for Italy\n\u2022 In the 2026 T20 World Cup qualifier\n\u2022 He scored his first century for Italy",
+        "location": "Mozambique",
+        "summary": "\u2022 Islamist insurgency spreads in Mozambique\n\u2022 Insurgents threaten to kill civilians\n\u2022 Violence escalates across the country",
         "coordinates": [
-            42.6384261,
-            12.674297
+            -19.302233,
+            34.9144977
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 A Kenyan farmer has emerged as a prominent advocate against climate change, despite its devastating impact on his own livelihood.\n\u2022 The farmer's skepticism towards climate change stems from his reliance on traditional farming practices that have been passed down through generations.\n\u2022 As a result, he remains unconvinced by scientific evidence linking human activities to rising global temperatures.",
+        "location": "Philippines",
+        "summary": "\u2022 Extreme heat causes dehydration issues in crowded prisons.\n\u2022 Heatwave affects Philippine cities, making daily life challenging.\n\u2022 Scorching temperatures threaten public health due to overcrowding in prisons.",
         "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "location": "Malawi",
-        "summary": "\u2022 Vice President killed in plane crash.\n\u2022 Tributes paid by Malawians.",
-        "coordinates": [
-            -13.2687204,
-            33.9301963
-        ]
-    },
-    {
-        "location": "Netherlands",
-        "summary": "\u2022 Weghorst scores late Netherlands winner\n\u2022 Match was against Poland\n\u2022 Netherlands wins",
-        "coordinates": [
-            52.2434979,
-            5.6343227
+            12.7503486,
+            122.7312101
         ]
     },
     {
         "location": "Saudi Arabia",
-        "summary": "\u2022 At least 14 Hajj pilgrims died due to intense heat.\n\u2022 The incident occurred during the annual pilgrimage to Mecca.\n\u2022 Authorities are investigating the cause of the deaths.",
+        "summary": "\u2022 Muslims worldwide mark Eid al-Adha with festivities.\n\u2022 Severe heat in Mecca claims lives during Hajj pilgrimage.\n\u2022 Temperature records broken at Mecca's hottest spot.",
         "coordinates": [
             25.6242618,
             42.3528328
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 Green energy in Spain exceeds demand.\n\u2022 Excessive green energy can lead to problems.\n\u2022 There may be too much of a good thing with Spain's green energy.",
+        "location": "Singapore",
+        "summary": "\u2022 A massive oil spill has left Singapore's popular beaches covered in blackened oil slicks.\n\u2022 The environmental disaster threatens to harm marine life and disrupt tourist activities.\n\u2022 Cleanup efforts are underway to mitigate the damage and restore affected areas.",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            1.357107,
+            103.8194992
         ]
     },
     {
-        "location": "Sweden",
-        "summary": "\u2022 Avicii's dad misses his son every minute\n\u2022 He gets angry with Avicii for leaving \n\u2022 He feels sadness and anger simultaneously",
+        "location": "South Africa",
+        "summary": "\u2022 Zuma's MK party will join South Africa's opposition alliance.\n\u2022 The move is expected to strengthen the opposition against President Ramaphosa's ruling ANC party.\n\u2022 This development comes after years of political instability in South Africa.",
         "coordinates": [
-            59.6749712,
-            14.5208584
+            -28.8166236,
+            24.991639
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 Peace talks scheduled with conditions of Russian withdrawal from Ukraine.\n\u2022 Ukraine faces military challenges, including shortages of troops.\n\u2022 Russia demands Ukraine's surrender of four regions to end the conflict.",
+        "summary": "\u2022 Ukraine's conscription squads are forcing Ukrainian men to hide, evading military service.\n\u2022 Despite being away from war, some Ukrainian soccer players are willing to participate in combat.\n\u2022 Due to insufficient troop numbers, Ukraine is releasing prisoners to take up arms.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -153,7 +129,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 A woman completed a 1,000km run in 12 days despite feeling broken.\n\u2022 Princess Kate attended her first public event since receiving cancer news.\n\u2022 She has made good progress in her cancer fight according to an update from Princess Kate.",
+        "summary": "\u2022 Rod Stewart defended his support for Ukraine amidst jeers.\n\u2022 Princess Kate attended the king's parade, her first public event since cancer news.\n\u2022 The Queen hosted a reception for Ukrainian refugees at Windsor Castle.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -161,7 +137,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 More people turning away from news, report says\n\u2022 Biden meets Pope Francis as G-7 wraps up strongly pro-Ukraine summit",
+        "summary": "\u2022 Maryland pardons 175,000 people with cannabis-related convictions.\n\u2022 A US pastor gets 9-year sentence for financial crimes.\n\u2022 The President waives penalties for some immigrants who entered the country illegally as spouses of American citizens.",
         "coordinates": [
             39.7837304,
             -100.445882
