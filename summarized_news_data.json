@@ -1,39 +1,23 @@
 [
     {
         "location": "Canada",
-        "summary": "\u2022 Scooter Braun retires from music management after 23 years.\n\u2022 Researchers discover the ship where Ernest Shackleton died in Canada.\n\u2022 A famous musician's manager has retired after 23 years. \n\u2022 Canadian researchers have found a historic ship that was involved in an important event.",
+        "summary": "\u2022 Canadian researchers discover wreckage of Sir Ernest Shackleton's ship.\n\u2022 The discovery sheds light on the famous Antarctic explorer's final moments.\n\u2022 The finding provides valuable insights into Shackleton's tragic demise.",
         "coordinates": [
             61.0666922,
             -107.991707
         ]
     },
     {
-        "location": "China",
-        "summary": "\u2022 China is reportedly planning to significantly expand its nuclear arsenal.\n\u2022 This move comes amid rising tensions with other nations in the region.\n\u2022 The expansion could lead to increased instability in the Asia-Pacific area.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
         "location": "Cuba",
-        "summary": "\u2022 Russia sends warships to Cuba amid growing tensions with US\n\u2022 Ships arrive in Havana as part of joint naval exercise between countries\n\u2022 Presence seen as challenge to US dominance in Caribbean region",
+        "summary": "\u2022 Cuban officials welcome Russian naval fleet in Havana\n\u2022 Russian warships arrive in Havana\n\u2022 Strengthening ties between Russia and Cuba",
         "coordinates": [
             23.0131338,
             -80.8328748
         ]
     },
     {
-        "location": "Ecuador",
-        "summary": "\u2022 Torrential rains cause widespread destruction and loss of life due to deadly landslides in Ecuador\n\u2022 Heavy rainfall leads to devastating consequences across the country\n\u2022 Authorities work tirelessly to rescue those trapped under debris and provide aid to affected communities",
-        "coordinates": [
-            -1.3397668,
-            -79.3666965
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 Kylian Mbapp\u00e9 urges young people to vote against extremists.\n\u2022 Jordan Bardella may become Prime Minister of France at 28 years old.\n\u2022 The city of Paris rehearsed its Olympic opening ceremony in preparation for the games.",
+        "summary": "\u2022 Kylian Mbapp\u00e9 encourages young people to vote against extremism.\n\u2022 Paris rehearses its Olympic opening ceremony on the Seine River.\n\u2022 The city prepares for the upcoming event by practicing the opening ceremonies.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -41,71 +25,87 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 A man was shot by police while carrying an axe in Hamburg.\n\u2022 The incident sparked alarm among residents, raising concerns about public safety.\n\u2022 Police responded promptly to neutralize the threat, but details of the motive remain unclear.",
+        "summary": "\u2022 A man wielding an axe was shot by police in Hamburg.\n\u2022 The incident sparked alarm among residents and authorities alike.\n\u2022 The motive behind the attack remains unknown at this time.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "Greece",
-        "summary": "\u2022 The Greek opposition demands an investigation into reports of migrant deaths, citing concerns over humanitarian treatment.\n\u2022 They urge action to prevent similar incidents in the future.\n\u2022 The opposition's call comes amid growing scrutiny of Greece's handling of migration policies.",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
         "location": "India",
-        "summary": "\u2022 India's Booker Prize-winning author may be jailed for an offensive remark made in 2008.\n\u2022 The author faces up to two years in prison under the National Security Act.\n\u2022 Prime Minister Narendra Modi is facing criticism over his handling of the COVID-19 crisis.",
+        "summary": "\u2022 An exam sparks national outrage due to alleged cheating.\n\u2022 The incident is widely condemned by Indian citizens.\n\u2022 Authorities investigate the matter.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Iraq",
-        "summary": "\u2022 Iraqi militias protest against US involvement in Gaza conflict by targeting American businesses\n\u2022 Militias attack KFC and other US companies to express their discontent with US role in Gaza conflict\n\u2022 Protests escalate as militia groups target US-owned businesses in response to Gaza situation",
+        "location": "Iran",
+        "summary": "\u2022 Iran has given a Nobel laureate a new prison sentence\n\u2022 The sentence was imposed by an Iranian court\n\u2022 The exact duration of the sentence is unknown",
         "coordinates": [
-            33.0955793,
-            44.1749775
+            32.6475314,
+            54.5643516
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Netanyahu dissolves war cabinet due to key departures.\n\u2022 Key Democrats approve major arms sale to Israel, including F-15s.\n\u2022 Eight Israeli soldiers die in Rafah amid preparations for somber Eid holiday.",
+        "summary": "\u2022 Israel claims that the Rafah attack is nearing completion, potentially shifting the dynamics of the ongoing conflict.\n\u2022 In a show of force, Jerusalem police have violently dispersed protesters calling for Prime Minister Benjamin Netanyahu's resignation.\n\u2022 Despite dissolving the war cabinet, Netanyahu has stated his intention to exclude the far-right factions from any subsequent decision-making processes.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Mozambique",
-        "summary": "\u2022 Islamist insurgency spreads in Mozambique\n\u2022 Insurgents threaten to kill civilians\n\u2022 Violence escalates across the country",
+        "location": "Italy",
+        "summary": "\u2022 A parkour group's attempted stunt damaged an historic Italian building.\n\u2022 The incident occurred during their practice session at the site.\n\u2022 Authorities have launched an investigation to determine responsibility for the damage.",
         "coordinates": [
-            -19.302233,
-            34.9144977
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "location": "Kenya",
+        "summary": "\u2022 Kenya has scrapped its controversial bread tax amidst widespread protests.\n\u2022 The decision comes after demonstrators were teargassed by security forces during clashes with authorities.\n\u2022 The move is seen as a major concession to anti-government sentiment in the country.",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "location": "Mexico",
+        "summary": "\u2022 The United States Department of Agriculture (USDA) has suspended avocado inspections in a specific Mexican state due to security concerns.\n\u2022 This decision was made to address potential threats related to food safety or other issues that could impact public health.\n\u2022 As a result, the quality control process for avocados will be temporarily halted until further notice.",
+        "coordinates": [
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "location": "North Korea",
+        "summary": "\u2022 NK soldiers cross border\n\u2022 Warning shots fired by South Korean military\n\u2022 Tensions escalate between two nations",
+        "coordinates": [
+            40.3736611,
+            127.0870417
         ]
     },
     {
         "location": "Philippines",
-        "summary": "\u2022 Extreme heat causes dehydration issues in crowded prisons.\n\u2022 Heatwave affects Philippine cities, making daily life challenging.\n\u2022 Scorching temperatures threaten public health due to overcrowding in prisons.",
+        "summary": "\u2022 Extreme heat is taking a devastating toll on overcrowded prisons in the Philippines.\n\u2022 The sweltering conditions are exacerbating existing health issues among inmates, who often lack access to proper healthcare.\n\u2022 As temperatures soar, authorities face growing pressure to address the crisis and find solutions to mitigate its impact on prisoners' well-being.",
         "coordinates": [
             12.7503486,
             122.7312101
         ]
     },
     {
-        "location": "Saudi Arabia",
-        "summary": "\u2022 Muslims worldwide mark Eid al-Adha with festivities.\n\u2022 Severe heat in Mecca claims lives during Hajj pilgrimage.\n\u2022 Temperature records broken at Mecca's hottest spot.",
+        "location": "Portugal",
+        "summary": "\u2022 Portugal secures last-minute victory over Czech Republic\n\u2022 The match ended with a dramatic turnaround in favor of Portugal\n\u2022 This win marks a significant boost to Portugal's morale ahead of future competitions",
         "coordinates": [
-            25.6242618,
-            42.3528328
+            39.6621648,
+            -8.1353519
         ]
     },
     {
         "location": "Singapore",
-        "summary": "\u2022 A massive oil spill has left Singapore's popular beaches covered in blackened oil slicks.\n\u2022 The environmental disaster threatens to harm marine life and disrupt tourist activities.\n\u2022 Cleanup efforts are underway to mitigate the damage and restore affected areas.",
+        "summary": "\u2022 A huge oil spill has blackened Singapore's picturesque beaches.\n\u2022 The incident has affected the environment and tourism in the area.\n\u2022 Efforts are underway to clean up the spill and minimize its impact on local ecosystems.",
         "coordinates": [
             1.357107,
             103.8194992
@@ -113,34 +113,34 @@
     },
     {
         "location": "South Africa",
-        "summary": "\u2022 Zuma's MK party will join South Africa's opposition alliance.\n\u2022 The move is expected to strengthen the opposition against President Ramaphosa's ruling ANC party.\n\u2022 This development comes after years of political instability in South Africa.",
+        "summary": "\u2022 South African walls feature artwork depicting the \"Big Five\" wildlife species.\n\u2022 The artworks showcase the country's rich cultural heritage through its love for nature.\n\u2022 This unique blend of culture and conservation promotes appreciation for South Africa's natural beauty.",
         "coordinates": [
             -28.8166236,
             24.991639
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 Ukraine's conscription squads are forcing Ukrainian men to hide, evading military service.\n\u2022 Despite being away from war, some Ukrainian soccer players are willing to participate in combat.\n\u2022 Due to insufficient troop numbers, Ukraine is releasing prisoners to take up arms.",
+        "location": "Thailand",
+        "summary": "\u2022 Thailand passes landmark bill legalizing same-sex marriage\n\u2022 The legislation marks a significant step forward in LGBTQ+ rights\n\u2022 Same-sex couples can now legally marry and access equal rights and benefits",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            7.4931858,
+            124.724704
         ]
     },
     {
-        "location": "United Kingdom",
-        "summary": "\u2022 Rod Stewart defended his support for Ukraine amidst jeers.\n\u2022 Princess Kate attended the king's parade, her first public event since cancer news.\n\u2022 The Queen hosted a reception for Ukrainian refugees at Windsor Castle.",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "location": "United States",
-        "summary": "\u2022 Maryland pardons 175,000 people with cannabis-related convictions.\n\u2022 A US pastor gets 9-year sentence for financial crimes.\n\u2022 The President waives penalties for some immigrants who entered the country illegally as spouses of American citizens.",
+        "location": "USA",
+        "summary": "\u2022 Biden faces backlash regardless of his approach to immigration policy.\n\u2022 The CEO of Boeing faced questioning from lawmakers and victims.\n\u2022 A secret service agent was robbed during a fundraiser for Biden.",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 Kyiv celebrated its first Pride parade since the invasion, with LGBTQ+ soldiers demanding equal rights.\n\u2022 Despite being away from war zones, Ukrainian soccer players prepare to face challenges on the field.\n\u2022 The country's athletes continue to perform under difficult circumstances.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     }
 ]

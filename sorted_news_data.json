@@ -1,26 +1,10 @@
 [
     {
-        "headline": "Scooter Braun retires as music manager after 23 years",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
         "headline": "Researchers in Canada find ship where Shackleton died",
         "location": "Canada",
         "coordinates": [
             61.0666922,
             -107.991707
-        ]
-    },
-    {
-        "headline": "China pursuing \u2018significant\u2019 expansion of nuclear arsenal, report says",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
         ]
     },
     {
@@ -32,23 +16,7 @@
         ]
     },
     {
-        "headline": "Torrential rains trigger deadly landslides in Ecuador",
-        "location": "Ecuador",
-        "coordinates": [
-            -1.3397668,
-            -79.3666965
-        ]
-    },
-    {
         "headline": "Kylian Mbapp\u00e9 urges youth vote to counter 'extremists'",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Jordan Bardella could soon be French PM at 28. But for many he remains an enigma",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -72,23 +40,7 @@
         ]
     },
     {
-        "headline": "Greek opposition urges investigation after BBC migrant deaths report",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "Greek opposition urges investigation after BBC migrant deaths report",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "Will India's Booker Prize-winning author face jail for 14-year-old remark?",
+        "headline": "Why an exam has sparked national outrage in India",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -96,7 +48,7 @@
         ]
     },
     {
-        "headline": "Will India's Booker Prize-winning author face jail for 14-year-old remark?",
+        "headline": "Why an exam has sparked national outrage in India",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -104,23 +56,15 @@
         ]
     },
     {
-        "headline": "Will India\u2019s powerful Modi change his ways after the election setback?",
-        "location": "India",
+        "headline": "Iran hands Nobel winner fresh jail term - lawyer",
+        "location": "Iran",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            32.6475314,
+            54.5643516
         ]
     },
     {
-        "headline": "Iraqi militias target KFC, other U.S. businesses to protest Gaza war",
-        "location": "Iraq",
-        "coordinates": [
-            33.0955793,
-            44.1749775
-        ]
-    },
-    {
-        "headline": "Israeli PM scraps war cabinet after key departures",
+        "headline": "Israel says Rafah attack near completion, in potential shift for war",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -128,7 +72,7 @@
         ]
     },
     {
-        "headline": "Key Democrats approve major arms sale to Israel, including F-15s",
+        "headline": "Jerusalem police forcefully disperse protesters demanding Netanyahu\u2019s departure",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -144,35 +88,35 @@
         ]
     },
     {
-        "headline": "Israeli military announces daily \u2018tactical pause\u2019 along aid corridor in Gaza",
-        "location": "Israel",
+        "headline": "Parkour group damages historic Italian building in failed stunt",
+        "location": "Italy",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "8 Israeli troops killed in Rafah; Gazans prepare for somber Eid holiday",
-        "location": "Israel",
+        "headline": "Kenya scraps bread tax as protesters tear-gassed",
+        "location": "Kenya",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "'I would be beheaded': Islamist insurgency flares in Mozambique",
-        "location": "Mozambique",
+        "headline": "USDA suspends avocado inspections in Mexican state over security fears",
+        "location": "Mexico",
         "coordinates": [
-            -19.302233,
-            34.9144977
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "In photos: Scenes from the extreme hot weather around the world",
-        "location": "Philippines",
+        "headline": "NK soldiers cross border prompting warning shots",
+        "location": "North Korea",
         "coordinates": [
-            12.7503486,
-            122.7312101
+            40.3736611,
+            127.0870417
         ]
     },
     {
@@ -184,19 +128,11 @@
         ]
     },
     {
-        "headline": "In photos, video: Muslims around the world celebrate Eid al-Adha",
-        "location": "Saudi Arabia",
+        "headline": "Portugal snatch last-gasp win against Czech Republic",
+        "location": "Portugal",
         "coordinates": [
-            25.6242618,
-            42.3528328
-        ]
-    },
-    {
-        "headline": "Hajj pilgrims die of heatstroke as Mecca temperatures hit 120 degrees",
-        "location": "Saudi Arabia",
-        "coordinates": [
-            25.6242618,
-            42.3528328
+            39.6621648,
+            -8.1353519
         ]
     },
     {
@@ -208,7 +144,7 @@
         ]
     },
     {
-        "headline": "Zuma's MK party to join South Africa's opposition alliance",
+        "headline": "Hunting the 'Big Five' on South Africa's walls",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -216,7 +152,167 @@
         ]
     },
     {
-        "headline": "Conscription squads send Ukrainian men into hiding",
+        "headline": "Hunting the 'Big Five' on South Africa's walls",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "Thailand passes landmark bill legalizing same-sex marriage",
+        "location": "Thailand",
+        "coordinates": [
+            7.4931858,
+            124.724704
+        ]
+    },
+    {
+        "headline": "Biden is walking immigration tightrope - but he's under fire no matter what",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Boeing boss grilled by US lawmakers and victims",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Citizens group decides fate of heiress' fortune",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden is walking immigration tightrope - but he's under fire no matter what",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Nvidia becomes world's most valuable company",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Justin Timberlake arrested on driving while intoxicated charge",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Boeing boss grilled by US lawmakers and victims",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Colorado LGBTQ nightclub gunman sentenced to 55 life terms in prison",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Who will be Donald Trump's pick for vice-president?",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Boeing boss grilled by US lawmakers and victims",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "'Pretty spectacular' discovery in George Washington's cellar",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Club Q shooter sentenced to 55 life terms in prison",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "White House questions Netanyahu\u2019s criticism over weapons delay",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Secret Service agent robbed near Biden LA fundraiser",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "White House announces plan to aid longtime undocumented immigrants",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden to waive penalties for undocumented spouses of U.S. citizens",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Key Democrats approve major arms sale to Israel, including F-15s",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Indian national accused of murder-for-hire plot in New York pleads not guilty",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "As Kyiv celebrates first Pride since invasion, LGBTQ+ troops demand\u00a0equality",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -229,118 +325,6 @@
         "coordinates": [
             49.4871968,
             31.2718321
-        ]
-    },
-    {
-        "headline": "Short on troops, Ukraine is freeing criminals to fight",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Rod Stewart defends support for Ukraine after jeers",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Princess Kate attends king\u2019s parade in first public event since cancer news",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Maryland pardons 175,000 people of cannabis convictions",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'Bling bishop' US pastor sentenced to 9 years",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Maryland pardons 175,000 people of cannabis convictions",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Prison dance has 'profound' impact on dads and daughters",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "White House slams 'bad faith' viral clips of Biden",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'Bling bishop' US pastor sentenced to 9 years",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Who will be Donald Trump's pick for vice-president?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "One in five Americans under extreme weather alerts",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US storm: 'There goes the trampoline, goodbye'",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden to waive penalties for undocumented spouses of U.S. citizens",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Indian national accused of murder-for-hire plot in New York pleads not guilty",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
         ]
     }
 ]
