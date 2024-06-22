@@ -1,79 +1,71 @@
 [
     {
+        "location": "Afghanistan",
+        "summary": "\u2022 Climate change affects the Taliban's shift away from opium production.\n\u2022 This has global implications due to the Taliban's influence on the illegal drug trade.\n\u2022 The resulting consequences will likely be felt globally.",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
+        "location": "Australia",
+        "summary": "\u2022 Naked swimmers gather to mark Australia's winter solstice.\n\u2022 This annual event takes place on the shortest day of the year.\n\u2022 Participants celebrate with swimming events in natural settings.",
+        "coordinates": [
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
         "location": "Burkina Faso",
-        "summary": "\u2022 An attack on an army base in Burkina Faso has sparked rumors of a potential military coup or mutiny.\n\u2022 The incident has heightened tensions between the government and the military in the West African country.\n\u2022 International observers are closely monitoring the situation to prevent further unrest.",
+        "summary": "\u2022 The Taiwanese government has introduced a new law that is sparking widespread criticism among citizens.\n\u2022 Protesters are planning to take to the streets in large numbers to express their discontent with the legislation.\n\u2022 The situation remains tense as authorities struggle to contain the growing unrest.",
         "coordinates": [
             12.0753083,
             -1.6880314
         ]
     },
     {
-        "location": "Canada",
-        "summary": "\u2022 Actor Donald Sutherland has passed away at the age of 88.\n\u2022 A video is available featuring Donald Sutherland discussing his acting career.",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
         "location": "China",
-        "summary": "\u2022 Tensions in the South China Sea have led to increased communication between the United States and Beijing.\n\u2022 A recent clash occurred between the Chinese Coast Guard and the Filipino Navy.\n\u2022 Despite efforts to crack down on fentanyl sales, Chinese vendors continue to operate openly.",
+        "summary": "\u2022 Chinese coast guards clash with Filipino navy over disputed islands in South China Sea.\n\u2022 High-ranking officials from powerful criminal organizations were secretly cultivated by China as part of an intelligence gathering operation.",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
-        "location": "Egypt",
-        "summary": "\u2022 Egyptian pilgrims have been left stranded due to the scorching heat during the Hajj pilgrimage.\n\u2022 They were forced to wait in long queues and endure extreme temperatures with limited access to water.\n\u2022 The situation has sparked concerns about their well-being and safety amidst the harsh conditions.",
+        "location": "Colombia",
+        "summary": "\u2022 President Ivan Duque has signed an agreement with the US to strengthen their security cooperation.\n\u2022 The government is investing $1 billion in infrastructure projects to boost economic growth.\n\u2022 Human rights organizations have criticized the government's handling of protests and violence against protesters.",
         "coordinates": [
-            26.2540493,
-            29.2675469
-        ]
-    },
-    {
-        "location": "Finland",
-        "summary": "\u2022 Suspected racist stabbings shock Finland\n\u2022 Stabbings spark outrage in Finland over alleged racism",
-        "coordinates": [
-            63.2467777,
-            25.9209164
+            4.099917,
+            -72.9088133
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 The reported rape of a Jewish girl is linked to rising antisemitism in France.\n\u2022 A recent incident highlights concerns over growing intolerance towards Jews in the country.\n\u2022 This event is part of a broader trend of increased hatred towards Jews in France.",
+        "summary": "\u2022 Guerrilla fighters use social media to lure Colombian children.\n\u2022 Antisemitic incidents rise in France amid reported rape case.\n\u2022 Social media platforms face scrutiny over hate speech spread.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Germany",
-        "summary": "\u2022 The song \"Loch Lomond\" is sung by German football fans because it shares similar lyrics with the traditional German folk song \"Wacht am Rhein\", which was written during World War I.\n\u2022 However, this connection has been denied by many German football fans, who claim that they simply like the melody and sing along with the crowd.\n\u2022 Despite these claims, some argue that the song's association with Scottish culture is problematic due to historical conflicts between Scotland and Germany.",
+        "location": "Greece",
+        "summary": "\u2022 A volunteer firefighter has died while fighting a fire in Greece.\n\u2022 The incident highlights the risks faced by volunteers who participate in firefighting efforts.\n\u2022 The community mourns the loss of their fellow citizen who made the ultimate sacrifice to protect others.",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            39.0742,
+            21.8243
         ]
     },
     {
-        "location": "Hungary",
-        "summary": "\u2022 The Hungarian government has been criticized for its handling of COVID-19\n\u2022 The country's economy is struggling due to the pandemic\n\u2022 There have been protests against the government's policies",
+        "location": "India",
+        "summary": "\u2022 Macron's popularity is expected to decline in his home region.\n\u2022 Regional polls suggest he may lose support in his hometown.\n\u2022 The outcome will impact national politics.",
         "coordinates": [
-            47.1817585,
-            19.5060937
-        ]
-    },
-    {
-        "location": "Iran",
-        "summary": "\u2022 Iran has announced significant upgrades to its nuclear program.\n\u2022 The improvements will be implemented at a crucial facility within the country.\n\u2022 This move is expected to have far-reaching implications for global nuclear policies.",
-        "coordinates": [
-            32.6475314,
-            54.5643516
+            22.3511148,
+            78.6677428
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 The rift between Netanyahu and the Israeli military has grown.\n\u2022 The UN claims that Israel's use of bombs in civilian areas might be against the laws of war.\n\u2022 Israel is unprepared for low-tech drones used by Hezbollah.",
+        "summary": "\u2022 Netanyahu faces multiple challenges.\n\u2022 He has conflicts with various groups.\n\u2022 There's tension between him and the military about eliminating Hamas.",
         "coordinates": [
             30.8124247,
             34.8594762
@@ -81,39 +73,79 @@
     },
     {
         "location": "Italy",
-        "summary": "\u2022 A beach near Naples was reopened after being buried by Mount Vesuvius's eruption 2,000 years ago.\n\u2022 The parkour group damaged a historic Italian building during an unsuccessful stunt.",
+        "summary": "\u2022 The ancient Roman beach that was buried by the Mount Vesuvius eruption 2,000 years ago has been reopened\n\u2022 Archaeologists have uncovered many artifacts and mementos from daily life in Pompeii and Herculaneum during the excavation process\n\u2022 The newly opened beach provides a unique insight into the lives of people who lived during the time of the eruption",
         "coordinates": [
             42.6384261,
             12.674297
         ]
     },
     {
+        "location": "Japan",
+        "summary": "\u2022 A man is killed in a suspected bear attack\n\u2022 The incident occurs in Japan \n\u2022 Authorities investigate the event",
+        "coordinates": [
+            36.5748441,
+            139.2394179
+        ]
+    },
+    {
         "location": "Lebanon",
-        "summary": "\u2022 Conflict in Lebanon affects vulnerable Syrian refugees\n\u2022 Displacement occurs due to conflict\n\u2022 Vulnerable populations affected",
+        "summary": "\u2022 Conflict in Lebanon causes displacement of vulnerable Syrian refugees.\n\u2022 The conflict is causing serious hardship for these refugee communities.\n\u2022 They require urgent assistance to meet their basic needs.",
         "coordinates": [
             40.375713,
             -76.4626118
         ]
     },
     {
+        "location": "Mexico",
+        "summary": "\u2022 Chinese drug traffickers continue to sell fentanyl in Mexico despite the Mexican government's efforts to crack down on the drug.\n\u2022 The Mexican authorities have made several attempts to disrupt the supply chain of fentanyl coming from China but have been unsuccessful so far.\n\u2022 As a result, the fentanyl crisis persists in Mexico, causing widespread harm and addiction among its citizens.",
+        "coordinates": [
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "location": "Namibia",
+        "summary": "\u2022 A court has declared the ban on gay sex as unconstitutional.\n\u2022 The ruling means that same-sex relationships will no longer be criminalized in Namibia.\n\u2022 This decision marks a significant step towards greater equality and protection for LGBTQ+ individuals in the country.",
+        "coordinates": [
+            -23.2335499,
+            17.3231107
+        ]
+    },
+    {
         "location": "Netherlands",
-        "summary": "\u2022 Mark Rutte is set to become NATO chief after his rival dropped out.\n\u2022 He will take over as NATO chief soon.",
+        "summary": "\u2022 Outgoing Dutch leader Mark Rutte is likely to be appointed as the next NATO chief\n\u2022 He will succeed Jens Stoltenberg in the role\n\u2022 His appointment could bring stability to the alliance amidst global tensions",
         "coordinates": [
             52.2434979,
             5.6343227
         ]
     },
     {
+        "location": "New Zealand",
+        "summary": "\u2022 A New Zealand woman is suing her partner for failing to take her to the airport\n\u2022 She claims he breached their agreement by not fulfilling his obligation\n\u2022 The lawsuit seeks compensation for her resulting financial losses",
+        "coordinates": [
+            -41.5000831,
+            172.8344077
+        ]
+    },
+    {
         "location": "North Korea",
-        "summary": "\u2022 North Korea is constructing a border 'wall'\n\u2022 Satellite images have revealed the construction of the wall.\n\u2022 Vladimir Putin has visited North Korea, where he was treated to grandeur, gifts, and performances.",
+        "summary": "\u2022 Russian President Vladimir Putin visited North Korea\n\u2022 He was greeted with grandeur, gifts, and performances during his visit\n\u2022 The trip marked a significant diplomatic milestone between Russia and North Korea",
         "coordinates": [
             40.3736611,
             127.0870417
         ]
     },
     {
+        "location": "Pakistan",
+        "summary": "\u2022 A tourist was accused of blasphemy.\n\u2022 He was attacked by a mob in Pakistan.\n\u2022 The man died as a result of the attack.",
+        "coordinates": [
+            30.3308401,
+            71.247499
+        ]
+    },
+    {
         "location": "Philippines",
-        "summary": "\u2022 Sailor loses finger in sea clash\n\u2022 Accuses China of 'piracy'\n\u2022 Philippines-China dispute escalates",
+        "summary": "\u2022 A Philippine sailor lost his finger during a sea clash with Chinese vessels.\n\u2022 The incident has sparked accusations from the Philippines that China engaged in \"piracy\".\n\u2022 The dispute highlights tensions between the two nations over their maritime boundaries.",
         "coordinates": [
             12.7503486,
             122.7312101
@@ -121,42 +153,58 @@
     },
     {
         "location": "Saudi Arabia",
-        "summary": "\u2022 Hundreds of Hajj pilgrims have died due to extreme heat.\n\u2022 The high temperatures pose significant health risks during the pilgrimage.\n\u2022 Authorities have taken steps to address the situation and ensure pilgrims' safety.",
+        "summary": "\u2022 At least 2,000 pilgrims died during the 2021 Hajj pilgrimage due to heatstroke, dehydration, and overcrowding.\n\u2022 The Saudi government was criticized for its inadequate response to the crisis, leading to calls for reforms to improve safety measures.\n\u2022 Despite these challenges, millions of Muslims from around the world continue to participate in the annual pilgrimage, highlighting its significance in Islamic tradition.",
         "coordinates": [
             25.6242618,
             42.3528328
         ]
     },
     {
-        "location": "Serbia",
-        "summary": "\u2022 Serbia threatens to withdraw from Euro 2024 due to chants.\n\u2022 The chanting is deemed offensive by European soccer authorities.\n\u2022 UEFA has not yet confirmed whether they will allow Serbia to participate in the tournament.",
+        "location": "Spain",
+        "summary": "\u2022 Barcelona mayor vows to abolish holiday lets\n\u2022 Mayor promises end to short-term rentals in city\n\u2022 Move aimed at reducing strain on housing market",
         "coordinates": [
-            44.024322850000004,
-            21.07657433209902
+            39.3260685,
+            -4.8379791
         ]
     },
     {
-        "location": "South Korea",
-        "summary": "\u2022 A popular Korean noodle brand is going viral.\n\u2022 It's making millions due to its popularity.\n\u2022 The brand is called Samyang.",
+        "location": "Taiwan",
+        "summary": "\u2022 Aid depot in Gaza suffers from lack of food due to conflict between Israel and UN.\n\u2022 Both parties exchange blame for the crisis.\n\u2022 The situation remains unresolved.",
         "coordinates": [
-            36.638392,
-            127.6961188
+            23.5983227,
+            120.83537694479215
         ]
     },
     {
-        "location": "USA",
-        "summary": "\u2022 A US airline suspended staff after two black men were removed from a flight.\n\u2022 U.S. bans Kaspersky software due to suspected ties with Russia.\n\u2022 Baby moose was rescued from an Alaskan lake.",
+        "location": "Ukraine",
+        "summary": "\u2022 Ukrainian unit faces difficult frontline fighting.\n\u2022 US boosts Ukraine's air defenses by halting exports to allies.\n\u2022 Frontline fighting is challenging for Ukrainian forces; US increases support with paused exports.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "location": "United Kingdom",
+        "summary": "\u2022 The UK's richest family has been found guilty of exploiting their servants.\n\u2022 Sir Donald Sutherland shares his unconventional journey in the entertainment industry.\n\u2022 The same wealthy British family faces charges related to mistreating their employees.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "location": "United States",
+        "summary": "\u2022 Top US court bans guns for domestic abuse suspects\n\u2022 Pet donkey escapes and finds freedom with elk\n\u2022 Suspect named in 1996 couple's murder case",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 Ukraine says it's winning anti-corruption efforts.\n\u2022 Western countries say that isn't enough.\n\u2022 They urge further action.",
+        "location": "Vietnam",
+        "summary": "\u2022 Putin seeks support from Vietnam amid Russia's growing isolation\n\u2022 Russian President Vladimir Putin is looking to strengthen ties with Vietnam \n\u2022 This move comes as Russia faces increased international pressure and criticism over its actions in Ukraine",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            15.9266657,
+            107.9650855
         ]
     }
 ]
