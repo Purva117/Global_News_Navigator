@@ -8,14 +8,6 @@
         ]
     },
     {
-        "headline": "Watch/Listen",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
         "headline": "Naked swimmers mark Australia's winter solstice",
         "location": "Australia",
         "coordinates": [
@@ -24,15 +16,23 @@
         ]
     },
     {
-        "headline": "Taiwan braces for fresh protests over controversial new law",
-        "location": "Burkina Faso",
+        "headline": "Bangladesh reels from surge in snake bites",
+        "location": "Bangladesh",
         "coordinates": [
-            12.0753083,
-            -1.6880314
+            -0.2864982,
+            36.0514231
         ]
     },
     {
-        "headline": "Watch: Chinese coast guard clashes with Filipino navy",
+        "headline": "Watch: Donald Sutherland on a career that defied convention",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
+        "headline": "Weapons of choice in China\u2019s territorial disputes? Axes, knives, \u2018jostling.\u2019",
         "location": "China",
         "coordinates": [
             35.000074,
@@ -48,15 +48,7 @@
         ]
     },
     {
-        "headline": "Features",
-        "location": "Colombia",
-        "coordinates": [
-            4.099917,
-            -72.9088133
-        ]
-    },
-    {
-        "headline": "Guerrilla fighters luring Colombian schoolchildren on TikTok",
+        "headline": "French election this month rattles financial markets as debt woes mount",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,15 +56,7 @@
         ]
     },
     {
-        "headline": "Reported rape of Jewish girl linked to rising antisemitism in France",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "Volunteer firefighter dies battling Greece blaze",
+        "headline": "Arrests after yacht fireworks spark Greece forest blaze",
         "location": "Greece",
         "coordinates": [
             39.0742,
@@ -80,7 +64,7 @@
         ]
     },
     {
-        "headline": "Volunteer firefighter dies battling Greece blaze",
+        "headline": "Stunning video shows Strawberry Moon rising over ancient Greek temple",
         "location": "Greece",
         "coordinates": [
             39.0742,
@@ -88,7 +72,7 @@
         ]
     },
     {
-        "headline": "Macron's hometown voters look set to shun the president",
+        "headline": "India exam chief sacked after outcry over marks",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -96,11 +80,99 @@
         ]
     },
     {
-        "headline": "Latest updates",
+        "headline": "India exam chief sacked after outcry over marks",
         "location": "India",
         "coordinates": [
             22.3511148,
             78.6677428
+        ]
+    },
+    {
+        "headline": "Iranian rapper's death sentence overturned",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Ireland protests over suspended term for assault by soldier",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Israeli army strapped wounded Palestinian to jeep",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Giant anti-government protest rally grips Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli army strapped wounded Palestinian to jeep",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Giant anti-government protest rally grips Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli strikes on Gaza City kill dozens, Hamas says",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Unable to back down, Israel and Hezbollah move closer to all-out war",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Giant anti-government protest rally grips Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Unable to back down, Israel and Hezbollah move closer to all-out war",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli airstrikes kill dozens in Gaza City, authorities say",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -128,62 +200,6 @@
         ]
     },
     {
-        "headline": "A beach buried by the Mount Vesuvius eruption 2,000 years ago just reopened",
-        "location": "Italy",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
-        "headline": "Man killed in suspected bear attack in Japan",
-        "location": "Japan",
-        "coordinates": [
-            36.5748441,
-            139.2394179
-        ]
-    },
-    {
-        "headline": "Conflict in Lebanon displaces vulnerable Syrian refugee communities",
-        "location": "Lebanon",
-        "coordinates": [
-            40.375713,
-            -76.4626118
-        ]
-    },
-    {
-        "headline": "Despite fentanyl crackdown, Chinese sellers are open for business",
-        "location": "Mexico",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Gay sex ban in Namibia ruled unconstitutional",
-        "location": "Namibia",
-        "coordinates": [
-            -23.2335499,
-            17.3231107
-        ]
-    },
-    {
-        "headline": "Outgoing Dutch leader Mark Rutte looks set to become NATO chief",
-        "location": "Netherlands",
-        "coordinates": [
-            52.2434979,
-            5.6343227
-        ]
-    },
-    {
-        "headline": "NZ woman sues partner for not taking her to airport",
-        "location": "New Zealand",
-        "coordinates": [
-            -41.5000831,
-            172.8344077
-        ]
-    },
-    {
         "headline": "Grandeur, gifts and performances as Putin visits North Korea",
         "location": "North Korea",
         "coordinates": [
@@ -192,15 +208,7 @@
         ]
     },
     {
-        "headline": "Tourist accused of blasphemy killed by mob in Pakistan",
-        "location": "Pakistan",
-        "coordinates": [
-            30.3308401,
-            71.247499
-        ]
-    },
-    {
-        "headline": "Philippines says sailor lost finger in sea clash, accuses China of \u2018piracy\u2019",
+        "headline": "Watch: Chinese coast guard clashes with Filipino navy",
         "location": "Philippines",
         "coordinates": [
             12.7503486,
@@ -208,11 +216,27 @@
         ]
     },
     {
-        "headline": "What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?",
-        "location": "Saudi Arabia",
+        "headline": "Features",
+        "location": "Romania",
         "coordinates": [
-            25.6242618,
-            42.3528328
+            45.9852129,
+            24.6859225
+        ]
+    },
+    {
+        "headline": "Romanian village set to become Nato's biggest airbase in Europe",
+        "location": "Romania",
+        "coordinates": [
+            45.9852129,
+            24.6859225
+        ]
+    },
+    {
+        "headline": "Romanian village set to become Nato's biggest airbase in Europe",
+        "location": "Romania",
+        "coordinates": [
+            45.9852129,
+            24.6859225
         ]
     },
     {
@@ -224,128 +248,56 @@
         ]
     },
     {
-        "headline": "Barcelona mayor vows to abolish holiday lets",
-        "location": "Spain",
+        "headline": "Hajj heat wave deaths underscore climate threat for most vulnerable",
+        "location": "Saudi Arabia",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            25.6242618,
+            42.3528328
         ]
     },
     {
-        "headline": "Barcelona mayor vows to abolish holiday lets",
-        "location": "Spain",
+        "headline": "Scuba diving event cancelled after man dies",
+        "location": "South Africa",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            -28.8166236,
+            24.991639
         ]
     },
     {
-        "headline": "Inside Gaza aid depot: Food waits as Israel and UN trade blame",
-        "location": "Taiwan",
+        "headline": "Three missing in Swiss floods as Alpine resort Zermatt cut off",
+        "location": "Switzerland",
         "coordinates": [
-            23.5983227,
-            120.83537694479215
+            46.7985624,
+            8.2319736
         ]
     },
     {
-        "headline": "Ukrainian unit says frontline fighting 'difficult'",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "U.S. will boost Ukraine\u2019s air defense by pausing exports to allies",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "UK's richest family convicted of exploiting servants",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Watch: Donald Sutherland on a career that defied convention",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "UK's richest family convicted of exploiting servants",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "No guns for domestic abuse suspects, top US court rules",
-        "location": "United States",
+        "headline": "Justin Timberlake admits 'tough week' after arrest",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Escaped pet donkey found 'living best life' with elk",
-        "location": "United States",
+        "headline": "Watch: Wild Thang is officially the world's ugliest dog",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Attack on army base fuels Burkina Faso mutiny rumours",
-        "location": "United States",
+        "headline": "US states want to ban phones in schools. It might be a challenge",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "The Indian film star arrested in fan\u2019s murder case",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Escaped pet donkey found 'living best life' with elk",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "FBI names suspect in 1996 campsite murders of couple",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Who is Trump's new mega-donor, Timothy Mellon?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Follow BBC on:",
-        "location": "United States",
+        "headline": "He thought a cow ate his Rolex. It turned up five decades later.",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -353,26 +305,50 @@
     },
     {
         "headline": "State Dept. expert on Israeli-Palestinian affairs resigns amid Gaza crisis",
-        "location": "United States",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "U.S. lawmakers support Dalai Lama amid questions over Tibet\u2019s future",
-        "location": "United States",
+        "headline": "U.S. will boost Ukraine\u2019s air defense by pausing exports to allies",
+        "location": "USA",
         "coordinates": [
             39.7837304,
             -100.445882
         ]
     },
     {
-        "headline": "Putin seeks support from old ally Vietnam amid Russia\u2019s growing isolation",
-        "location": "Vietnam",
+        "headline": "Latest updates",
+        "location": "Ukraine",
         "coordinates": [
-            15.9266657,
-            107.9650855
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Ukraine says it destroyed Russian drone base",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Follow BBC on:",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Yemen\u2019s Houthis undeterred by U.S. campaign to halt Red Sea attacks",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     }
 ]
