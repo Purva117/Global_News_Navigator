@@ -1,5 +1,13 @@
 [
     {
+        "headline": "'Cricket is the only source of happiness back home': Afghans celebrate big win",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
         "headline": "As climate change imperils Taliban\u2019s shift from opium, impact could be felt worldwide",
         "location": "Afghanistan",
         "coordinates": [
@@ -16,19 +24,27 @@
         ]
     },
     {
-        "headline": "Bangladesh reels from surge in snake bites",
-        "location": "Bangladesh",
+        "headline": "Belarus opposition leader warns Poland over borders",
+        "location": "Belarus",
         "coordinates": [
-            -0.2864982,
-            36.0514231
+            53.4250605,
+            27.6971358
         ]
     },
     {
-        "headline": "Watch: Donald Sutherland on a career that defied convention",
+        "headline": "Edmonton Oilers thrill ice hockey fans with historic comeback",
         "location": "Canada",
         "coordinates": [
             61.0666922,
             -107.991707
+        ]
+    },
+    {
+        "headline": "China and EU to hold talks on electric car tariffs",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
         ]
     },
     {
@@ -48,6 +64,30 @@
         ]
     },
     {
+        "headline": "Woman attacked by wolves in safari park near Paris",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Stars take over Paris for sporty Vogue fashion show",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Stars take over Paris for sporty Vogue fashion show",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
         "headline": "French election this month rattles financial markets as debt woes mount",
         "location": "France",
         "coordinates": [
@@ -56,23 +96,7 @@
         ]
     },
     {
-        "headline": "Arrests after yacht fireworks spark Greece forest blaze",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "Stunning video shows Strawberry Moon rising over ancient Greek temple",
-        "location": "Greece",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
-        "headline": "India exam chief sacked after outcry over marks",
+        "headline": "How exam scandals threaten the future of India's young people",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -80,7 +104,7 @@
         ]
     },
     {
-        "headline": "India exam chief sacked after outcry over marks",
+        "headline": "How exam scandals threaten the future of India's young people",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -88,7 +112,7 @@
         ]
     },
     {
-        "headline": "Iranian rapper's death sentence overturned",
+        "headline": "Iran\u2019s top court overturns death sentence of anti-regime rapper",
         "location": "Iran",
         "coordinates": [
             32.6475314,
@@ -96,14 +120,6 @@
         ]
     },
     {
-        "headline": "Ireland protests over suspended term for assault by soldier",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "headline": "Israeli army strapped wounded Palestinian to jeep",
         "location": "Israel",
         "coordinates": [
@@ -112,63 +128,7 @@
         ]
     },
     {
-        "headline": "Giant anti-government protest rally grips Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israeli army strapped wounded Palestinian to jeep",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Giant anti-government protest rally grips Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israeli strikes on Gaza City kill dozens, Hamas says",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Unable to back down, Israel and Hezbollah move closer to all-out war",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Giant anti-government protest rally grips Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Unable to back down, Israel and Hezbollah move closer to all-out war",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israeli airstrikes kill dozens in Gaza City, authorities say",
+        "headline": "Israeli defense chief heads to D.C. as Hezbollah escalates threats",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -192,14 +152,6 @@
         ]
     },
     {
-        "headline": "Rift grows between Netanyahu and Israeli military over Hamas elimination",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
         "headline": "Grandeur, gifts and performances as Putin visits North Korea",
         "location": "North Korea",
         "coordinates": [
@@ -208,22 +160,6 @@
         ]
     },
     {
-        "headline": "Watch: Chinese coast guard clashes with Filipino navy",
-        "location": "Philippines",
-        "coordinates": [
-            12.7503486,
-            122.7312101
-        ]
-    },
-    {
-        "headline": "Features",
-        "location": "Romania",
-        "coordinates": [
-            45.9852129,
-            24.6859225
-        ]
-    },
-    {
         "headline": "Romanian village set to become Nato's biggest airbase in Europe",
         "location": "Romania",
         "coordinates": [
@@ -232,15 +168,31 @@
         ]
     },
     {
-        "headline": "Romanian village set to become Nato's biggest airbase in Europe",
-        "location": "Romania",
+        "headline": "At least 1,301 people died during Hajj - Saudi Arabia",
+        "location": "Saudi Arabia",
         "coordinates": [
-            45.9852129,
-            24.6859225
+            25.6242618,
+            42.3528328
         ]
     },
     {
-        "headline": "What's behind deaths at this year's Hajj pilgrimage in Saudi Arabia?",
+        "headline": "At least 1,301 people died during Hajj - Saudi Arabia",
+        "location": "Saudi Arabia",
+        "coordinates": [
+            25.6242618,
+            42.3528328
+        ]
+    },
+    {
+        "headline": "Huge Saudi construction projects 'might get scaled down'",
+        "location": "Saudi Arabia",
+        "coordinates": [
+            25.6242618,
+            42.3528328
+        ]
+    },
+    {
+        "headline": "Huge Saudi construction projects 'might get scaled down'",
         "location": "Saudi Arabia",
         "coordinates": [
             25.6242618,
@@ -256,71 +208,15 @@
         ]
     },
     {
-        "headline": "Scuba diving event cancelled after man dies",
-        "location": "South Africa",
+        "headline": "Seventeen: The K-pop band about to make history at UK festival",
+        "location": "South Korea",
         "coordinates": [
-            -28.8166236,
-            24.991639
+            36.638392,
+            127.6961188
         ]
     },
     {
-        "headline": "Three missing in Swiss floods as Alpine resort Zermatt cut off",
-        "location": "Switzerland",
-        "coordinates": [
-            46.7985624,
-            8.2319736
-        ]
-    },
-    {
-        "headline": "Justin Timberlake admits 'tough week' after arrest",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch: Wild Thang is officially the world's ugliest dog",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US states want to ban phones in schools. It might be a challenge",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "He thought a cow ate his Rolex. It turned up five decades later.",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "State Dept. expert on Israeli-Palestinian affairs resigns amid Gaza crisis",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "U.S. will boost Ukraine\u2019s air defense by pausing exports to allies",
-        "location": "USA",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Latest updates",
+        "headline": "Ukraine says it destroyed Russian drone base",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -336,7 +232,79 @@
         ]
     },
     {
-        "headline": "Follow BBC on:",
+        "headline": "Taylor Swift fever sweeps London, reaches royal family",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Trump and Biden sharpen lines ahead of debate showdown",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump and Biden sharpen lines ahead of debate showdown",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "One million under flood warnings as heavy rain hits US Midwest",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "One million under flood warnings as heavy rain hits US Midwest",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Missing hiker survives by drinking gallon of water a day",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "When is the first debate between Biden and Trump?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "State Dept. expert on Israeli-Palestinian affairs resigns amid Gaza crisis",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. restrictions put key Russian air bases out of firing range, officials say",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "He thought a cow ate his Rolex. It turned up five decades later.",
         "location": "Yemen",
         "coordinates": [
             16.3471243,

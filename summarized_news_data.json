@@ -1,7 +1,7 @@
 [
     {
         "location": "Afghanistan",
-        "summary": "\u2022 Climate change threatens the Taliban's shift away from opium production.\n\u2022 This has significant implications for global drug markets and supply chains.\n\u2022 The shift in focus could lead to new conflicts or instability in Afghanistan.",
+        "summary": "\u2022 Cricket brings happiness to Afghans.\n\u2022 Climate change threatens the Taliban's shift away from opium.\n\u2022 This could have a global impact.",
         "coordinates": [
             33.7680065,
             66.2385139
@@ -9,15 +9,23 @@
     },
     {
         "location": "Australia",
-        "summary": "\u2022 A group of naked swimmers gathered at Bondi Beach to celebrate the winter solstice.\n\u2022 The event aimed to promote body positivity and self-acceptance among participants.\n\u2022 The swim took place on the shortest day of the year in Australia, marking the beginning of summer.",
+        "summary": "\u2022 Hundreds of naked swimmers gather at Sydney's Bondi Beach\n\u2022 They participate in the annual Winter Solstice Swim event\n\u2022 The event marks the shortest day of the year in Australia",
         "coordinates": [
             -24.7761086,
             134.755
         ]
     },
     {
+        "location": "Belarus",
+        "summary": "\u2022 Belarus opposition leader warns Poland over border tensions\n\u2022 Tensions rise between Belarus and Poland due to border dispute\n\u2022 Belarus opposition leader urges calm in face of escalating conflict",
+        "coordinates": [
+            53.4250605,
+            27.6971358
+        ]
+    },
+    {
         "location": "Canada",
-        "summary": "\u2022 \n\u2022 \n\u2022",
+        "summary": "\u2022 Edmonton Oilers make a historic comeback in ice hockey\n\u2022 The team turned things around to thrill their fans\n\u2022 A remarkable win for the Edmonton Oilers in ice hockey history",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -25,7 +33,7 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 Axes, knives, 'jostling' are being used as weapons during China's territorial disputes.\n\u2022 Crime families have been cultivated by China but were later turned against them.\n\u2022 The Chinese government has chosen to utilize certain tools during their territorial disputes with other countries.",
+        "summary": "\u2022 China and EU will discuss electric car tariffs.\n\u2022 China uses axes and knives during territorial disputes.\n\u2022 China previously supported wealthy criminal families.",
         "coordinates": [
             35.000074,
             104.999927
@@ -33,23 +41,15 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 French election causes uncertainty in financial markets\n\u2022 Debt worries are growing in France ahead of the elections\n\u2022 The upcoming elections are expected to have an impact on France's economic situation",
+        "summary": "\u2022 A woman was attacked by wolves at a safari park near Paris.\n\u2022 Celebrities attended a Vogue fashion event in Paris.\n\u2022 The upcoming French presidential election is causing uncertainty in financial markets due to concerns about national debt.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Greece",
-        "summary": "\u2022 A yacht's fireworks started a forest fire in Greece, leading to arrests.\n\u2022 The Strawberry Moon rose above an ancient Greek temple in a stunning display.\n\u2022 Fireworks on a yacht sparked a forest fire in Greece, resulting in arrests.\n\u2022 A rare lunar event featured the Strawberry Moon shining over an ancient Greek landmark.",
-        "coordinates": [
-            39.0742,
-            21.8243
-        ]
-    },
-    {
         "location": "India",
-        "summary": "\u2022 India's examination board chairman is removed due to controversy surrounding student scores.\n\u2022 The decision comes after widespread protests and criticism from students, teachers, and parents.\n\u2022 A new leader will be appointed to oversee the country's educational assessment system.",
+        "summary": "\u2022 Exam scandals undermine the credibility of India's education system.\n\u2022 The impact on young Indians' futures is severe due to lost opportunities and mistrust.\n\u2022 Reforms are urgently needed to prevent further damage and restore faith in the system.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -57,87 +57,71 @@
     },
     {
         "location": "Iran",
-        "summary": "\u2022 Iranian authorities have overturned the death sentence of an imprisoned rapper.\n\u2022 The decision comes after years of protests calling for his release.\n\u2022 The overturned sentence marks a rare victory for human rights activists in Iran.",
+        "summary": "\u2022 Iran's supreme court has overturned the death sentence of an anti-regime rapper.\n\u2022 The decision comes after multiple appeals by the musician's supporters.\n\u2022 The move is seen as a significant blow to the Iranian regime's hardline stance on dissent.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
-        "location": "Ireland",
-        "summary": "\u2022 Protests in Ireland against suspended sentence for military assault\n\u2022 Suspended sentence sparks outrage among Irish people\n\u2022 Military personnel accused of assault face backlash from public",
+        "location": "Israel",
+        "summary": "\u2022 Israeli soldiers tied up an injured Palestinian to a jeep.\n\u2022 Defense Chief visits DC amid rising Hezbollah threats.\n\u2022 Netanyahu faces numerous conflicts in his career.\n\u2022 Netanyahu fights with nearly all groups.",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            30.8124247,
+            34.8594762
         ]
     },
     {
         "location": "North Korea",
-        "summary": "\u2022 Putin's visit to North Korea is marked by grandeur, gifts, and performances.\n\u2022 The Russian president meets with Kim Jong-un, strengthening ties between their nations.\n\u2022 This high-profile visit highlights the growing influence of Russia in North Korean affairs.",
+        "summary": "\u2022 Russian President Vladimir Putin visited North Korea\n\u2022 He was greeted with grandeur, gifts, and performances \n\u2022 The visit highlights diplomatic efforts between Russia and North Korea",
         "coordinates": [
             40.3736611,
             127.0870417
         ]
     },
     {
-        "location": "Philippines",
-        "summary": "\u2022 Chinese coast guard clashes with Filipino navy\n\u2022 Conflict occurs in disputed waters\n\u2022 Naval ships exchange fire",
-        "coordinates": [
-            12.7503486,
-            122.7312101
-        ]
-    },
-    {
-        "location": "Romania",
-        "summary": "\u2022 A Romanian village is set to become NATO's largest airbase in Europe.\n\u2022 The base will provide strategic military support in Eastern Europe.\n\u2022 Its location allows for effective defense against potential threats from Russia.",
-        "coordinates": [
-            45.9852129,
-            24.6859225
-        ]
-    },
-    {
         "location": "Saudi Arabia",
-        "summary": "\u2022 The number of pilgrims killed during this year\u2019s Hajj pilgrimage has increased due to extreme heat conditions.\n\u2022 Climate change poses a significant threat to the lives of the most vulnerable individuals participating in the pilgrimage.\n\u2022 Increased measures will be taken by the authorities to address concerns related to safety, health, and environmental impact during future events.",
+        "summary": "\u2022 At least 1,301 people died during Hajj in Saudi Arabia.\n\u2022 Huge Saudi construction projects may be scaled back due to funding issues.\n\u2022 Climate change poses a significant threat to vulnerable populations during hot weather events like Hajj.",
         "coordinates": [
             25.6242618,
             42.3528328
         ]
     },
     {
-        "location": "South Africa",
-        "summary": "\u2022 A scuba diving event in South Africa has been cancelled due to a fatal accident.\n\u2022 The incident resulted in one person's death.\n\u2022 Authorities have suspended the event pending further investigation.",
+        "location": "South Korea",
+        "summary": "* K-pop band Seventeen is set to perform at a UK festival\n* They will become one of the first K-pop groups to headline a major international event in Europe\n* Their performance is expected to attract attention from new fans and showcase their global appeal",
         "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "location": "Switzerland",
-        "summary": "\u2022 Three people have gone missing in Swiss floods\n\u2022 The Alpine resort of Zermatt has been cut off due to flooding",
-        "coordinates": [
-            46.7985624,
-            8.2319736
-        ]
-    },
-    {
-        "location": "USA",
-        "summary": "\u2022 Justin Timberlake has admitted he had a tough week due to an arrest.\n\u2022 A dog named Wild Thang was officially declared the world's ugliest dog.\n\u2022 The United States may consider banning mobile phones from schools as it could be challenging to enforce.\n\u2022 A man found his Rolex watch which he lost fifty years ago when he thought a cow ate it.\n\u2022 An American diplomat resigned due to the conflict between Israel and Palestine.\n\u2022 The US plans to strengthen Ukraine's air defenses by stopping arms shipments to other countries.",
-        "coordinates": [
-            39.7837304,
-            -100.445882
+            36.638392,
+            127.6961188
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 Ukraine claims to have destroyed a Russian drone base.\n\u2022 This incident may impact ongoing military operations in the region.\n\u2022 Further details about the attack or its consequences are awaited.",
+        "summary": "\u2022 Ukraine claims to have destroyed a Russian drone base.\n\u2022 The incident occurred during ongoing hostilities between Ukraine and Russia.\n\u2022 The strike may have had significant military implications for both sides.",
         "coordinates": [
             49.4871968,
             31.2718321
         ]
     },
     {
+        "location": "United Kingdom",
+        "summary": "\u2022 Taylor Swift's popularity reaches new heights in the UK.\n\u2022 Her music is now a favorite among both ordinary citizens and the royal family.\n\u2022 The singer-songwriter has brought people together across different social classes through her music.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "location": "United States",
+        "summary": "\u2022 Trump and Biden prepare for their debate.\n\u2022 Heavy rain causes floods in the US Midwest.\n\u2022 A missing hiker survived by drinking a gallon of water daily.\n\u2022 The first Biden-Trump debate will be held on September 29th.\n\u2022 An Israeli-Palestine expert resigned due to the Gaza crisis.\n\u2022 US restrictions put Russian airbases outside of firing range.",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
         "location": "Yemen",
-        "summary": "\u2022 Yemen's Houthis remain defiant despite US efforts to curb Red Sea attacks\n\u2022 Houthi rebels refuse to be intimidated by US sanctions and military pressure\n\u2022 The conflict in Yemen continues with no end in sight",
+        "summary": "\u2022 A man's Rolex watch was found after being lost in a cow's stomach 50 years ago.\n\u2022 Despite US efforts to stop them, Yemen's Houthi rebels continue to attack ships in the Red Sea.",
         "coordinates": [
             16.3471243,
             47.8915271
