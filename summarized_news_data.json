@@ -1,130 +1,34 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Naked swimmers mark Australia's winter solstice\n\u2022 The long saga of WikiLeaks\u2019 Julian Assange may finally be over\n\u2022 Timeline: Key moments for Wikiles and Julian Assange",
+        "location": "Haiti",
+        "summary": "\u2022 A Kenya-led security force has arrived in Haiti after receiving UN approval.\n\u2022 The arrival marks an effort to improve security conditions in the country.\n\u2022 The security force aims to stabilize the situation in Haiti under the guidance of the United Nations.",
         "coordinates": [
-            -24.7761086,
-            134.755
+            19.1399952,
+            -72.3570972
         ]
     },
     {
-        "location": "Canada",
-        "summary": "\u2022 The Toronto Maple Leafs have made it to the playoffs for the first time in seven years.\n\u2022 They will face off against the Tampa Bay Lightning in the second round of the playoffs.\n\u2022 If they win, it would be their first trip to the Stanley Cup Finals since 1967.",
+        "location": "Ireland",
+        "summary": "\u2022 Aer Lingus pilots have begun taking industrial action due to a pay dispute.\n\u2022 The strike is in response to disagreements over salaries with airline management.\n\u2022 This development may lead to disruptions in flight schedules, causing inconvenience to passengers.",
         "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "location": "China",
-        "summary": "\u2022 China's territorial disputes involve weapons like axes and knives.\n\u2022 The conflicts feature 'jostling' as a key tactic.\n\u2022 These actions aim to resolve disputes over territory.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "location": "France",
-        "summary": "\u2022 Protests break out in New Caledonia over French detention of local activists.\n\u2022 Far-right groups gear up to take power in France, pledging to curb immigration.\n\u2022 The upcoming French election sparks financial market jitters due to rising debt concerns.",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "location": "Germany",
-        "summary": "\u2022 A German podcast tracked down a fugitive militant who had been on the run for 30 years.\n\u2022 The podcast's investigation led to the capture of the militant.\n\u2022 This marks a significant achievement in crime-solving through innovative methods.",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "location": "India",
-        "summary": "\u2022 Island communities are taking action to protect their coral reefs.\n\u2022 They are using sustainable fishing practices to preserve the ecosystem.\n\u2022 This effort is crucial for maintaining biodiversity in the region.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "location": "Iran",
-        "summary": "\u2022 Iran's Supreme Court has overturned the death sentence of an Iranian musician known as an anti-regime rapper\n\u2022 The rapper was sentenced to death after being convicted on charges related to blasphemy and insulting Islamic values\n\u2022 This ruling comes at a time when many other high-profile figures have also been arrested or imprisoned by the regime in Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
+            52.865196,
+            -7.9794599
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli Prime Minister Netanyahu announces plans to deploy troops to Lebanon's border.\n\u2022 Netanyahu rejects ceasefire proposals, sparking outrage from hostage families.\n\u2022 The Israeli Defense Chief travels to Washington amid escalating tensions with Hezbollah.\n\u2022 Yemeni Houthi rebels defy US efforts to curb Red Sea naval assaults.",
+        "summary": "\u2022 The Israeli Supreme Court has ruled that all ultra-Orthodox students must be drafted to serve in the military.\n\u2022 Prime Minister Benjamin Netanyahu has rejected a ceasefire proposal, causing outrage among hostages' families.\n\u2022 A recent ruling by the Israeli Supreme Court requires ultra-Orthodox students to join the military.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Italy",
-        "summary": "\u2022 Florence elects its first female mayor\n\u2022 This historic milestone marks a significant step towards gender equality in Italian politics\n\u2022 The new mayor will play a crucial role in shaping the city's future development",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
-        "location": "Philippines",
-        "summary": "\u2022 The Philippines faces a crisis as its population ages and fewer young people take up farming.\n\u2022 Young Filipinos prefer urban life over rural agriculture due to lack of opportunities and education.\n\u2022 This shift threatens the country's food security, which relies heavily on domestic rice production.",
-        "coordinates": [
-            12.7503486,
-            122.7312101
-        ]
-    },
-    {
-        "location": "South Korea",
-        "summary": "\u2022 Deadly factory fire breaks out in South Korea due to exploding batteries\n\u2022 The blaze is believed to have originated from an electrical malfunction at the factory\n\u2022 Authorities investigate the cause of the explosion and its impact on workers and the environment",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
-        "location": "Sudan",
-        "summary": "\u2022 Millions of children face hunger crisis in Sudan.\n\u2022 Hunger crisis is attributed to factors such as conflict and lack of resources.\n\u2022 UNICEF is working with local organizations to address the issue.",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "location": "Taiwan",
-        "summary": "\u2022 Taiwan has seen an increase in openly gay politicians\n\u2022 However, these politicians still face challenges in their roles\n\u2022 The fight for LGBTQ+ rights is ongoing",
-        "coordinates": [
-            23.5983227,
-            120.83537694479215
-        ]
-    },
-    {
-        "location": "United Kingdom",
-        "summary": "\u2022 The \"World's Ugliest Dog\" has been crowned.\n\u2022 Legendary actor Donald Sutherland talks about his unconventional career path.\n\u2022 Princess Anne was hospitalized due to a horse accident resulting in a concussion.",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
         "location": "United States",
-        "summary": "\u2022 Julian Assange was released in the US as part of a plea deal.\n\u2022 The floods broke through several dams in the US, causing significant damage.\n\u2022 A heat warning has been issued for US hikers due to high temperatures, resulting in multiple rescues and deaths.",
+        "summary": "\u2022 Julian Assange pleaded guilty to an unspecified charge in US court.\n\u2022 A partial gag order in a Trump-related case was lifted by a NY judge.\n\u2022 Volkswagen will invest up to $5 billion in Tesla rival Rivian.",
         "coordinates": [
             39.7837304,
             -100.445882
-        ]
-    },
-    {
-        "location": "Yemen",
-        "summary": "\u2022 A man lost his Rolex watch when it was eaten by a cow.\n\u2022 The watch remained in the cow's stomach for over five decades.\n\u2022 Recently, the watch was recovered from the cow's remains after its death.",
-        "coordinates": [
-            16.3471243,
-            47.8915271
         ]
     }
 ]

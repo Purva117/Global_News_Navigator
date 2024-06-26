@@ -1,6 +1,6 @@
 [
     {
-        "headline": "Naked swimmers mark Australia's winter solstice",
+        "headline": "Australian rugby star Hayne will not face new rape trial",
         "location": "Australia",
         "coordinates": [
             -24.7761086,
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "headline": "The long saga of WikiLeaks\u2019 Julian Assange may finally be over",
+        "headline": "Australian rugby star Hayne will not face new rape trial",
         "location": "Australia",
         "coordinates": [
             -24.7761086,
@@ -16,11 +16,11 @@
         ]
     },
     {
-        "headline": "Timeline: Key moments for Wikileaks and Julian Assange",
-        "location": "Australia",
+        "headline": "Conservatives heap pressure on Trudeau with by-election win",
+        "location": "Canada",
         "coordinates": [
-            -24.7761086,
-            134.755
+            61.0666922,
+            -107.991707
         ]
     },
     {
@@ -32,15 +32,7 @@
         ]
     },
     {
-        "headline": "Weapons of choice in China\u2019s territorial disputes? Axes, knives, \u2018jostling.\u2019",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "headline": "Protests flare up in New Caledonia as France detains activists",
+        "headline": "Macron's election gamble puts French democracy on the table",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -48,7 +40,7 @@
         ]
     },
     {
-        "headline": "French far-right 'ready' to rule and fight immigration",
+        "headline": "Macron's election gamble puts French democracy on the table",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -56,55 +48,23 @@
         ]
     },
     {
-        "headline": "Champagne, caffeine and chaos: Fashion week descends on Paris",
-        "location": "France",
+        "headline": "U.N.-approved, Kenya-led security force finally arrives in Haiti",
+        "location": "Haiti",
         "coordinates": [
-            46.603354,
-            1.8883335
+            19.1399952,
+            -72.3570972
         ]
     },
     {
-        "headline": "French election this month rattles financial markets as debt woes mount",
-        "location": "France",
+        "headline": "Aer Lingus pilots begin industrial action over pay dispute",
+        "location": "Ireland",
         "coordinates": [
-            46.603354,
-            1.8883335
+            52.865196,
+            -7.9794599
         ]
     },
     {
-        "headline": "How German podcast tracked down fugitive militant after 30 years",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "How German podcast tracked down fugitive militant after 30 years",
-        "location": "Germany",
-        "coordinates": [
-            51.1638175,
-            10.4478313
-        ]
-    },
-    {
-        "headline": "How islanders are saving their Indian Ocean coral reef",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Iran\u2019s top court overturns death sentence of anti-regime rapper",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Netanyahu: Israeli forces will move to Lebanon border as Rafah winds down",
+        "headline": "Ultra-Orthodox students must be drafted, Israel court rules",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -112,7 +72,7 @@
         ]
     },
     {
-        "headline": "Netanyahu: Israeli forces will move to Lebanon border as Rafah winds down",
+        "headline": "Israeli Supreme Court rules ultra-Orthodox must serve in the military",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -128,79 +88,55 @@
         ]
     },
     {
-        "headline": "Israeli defense chief heads to D.C. as Hezbollah escalates threats",
-        "location": "Israel",
+        "headline": "Five killed and parliament ablaze in Kenya tax protests",
+        "location": "Kenya",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Yemen\u2019s Houthis undeterred by U.S. campaign to halt Red Sea attacks",
-        "location": "Israel",
+        "headline": "Five killed and parliament ablaze in Kenya tax protests",
+        "location": "Kenya",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Florence elects first woman mayor",
-        "location": "Italy",
+        "headline": "Protests flare in Nairobi over new tax laws",
+        "location": "Kenya",
         "coordinates": [
-            42.6384261,
-            12.674297
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "The Philippines needs rice \u2014 but young people don\u2019t want to farm it",
-        "location": "Philippines",
+        "headline": "Live BBC report interrupted by man with gun in Nairobi",
+        "location": "Kenya",
         "coordinates": [
-            12.7503486,
-            122.7312101
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Hajj heat wave deaths underscore climate threat for most vulnerable",
-        "location": "Saudi Arabia",
+        "headline": "Kenyan president faces tough choices after day of bloodshed",
+        "location": "Kenya",
         "coordinates": [
-            25.6242618,
-            42.3528328
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Exploding batteries spark deadly S Korea factory fire",
-        "location": "South Korea",
+        "headline": "5 killed as Kenyan police crack down on tax protests; Parliament set afire",
+        "location": "Kenya",
         "coordinates": [
-            36.638392,
-            127.6961188
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Millions of children going hungry in Sudan - Unicef",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "Taiwan's gay politicians have broken ground - but their battle isn't over",
-        "location": "Taiwan",
-        "coordinates": [
-            23.5983227,
-            120.83537694479215
-        ]
-    },
-    {
-        "headline": "Watch: Wild Thang is officially the world's ugliest dog",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Watch: Donald Sutherland on a career that defied convention",
+        "headline": "Count Binface challenges U.K. Prime Minister Rishi Sunak for Parliament seat",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -216,7 +152,7 @@
         ]
     },
     {
-        "headline": "Wikileaks: Julian Assange freed in US plea deal",
+        "headline": "Julian Assange pleads guilty in US court in deal to end legal battle over leaks",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +160,7 @@
         ]
     },
     {
-        "headline": "Floods break through US dam causing major damage",
+        "headline": "How the deal to free Julian Assange was agreed",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +168,7 @@
         ]
     },
     {
-        "headline": "US family seeks damages from Nasa after space debris hits home",
+        "headline": "New York judge partially lifts Trump gag order in hush-money case",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +176,7 @@
         ]
     },
     {
-        "headline": "Floods break through US dam causing major damage",
+        "headline": "VW to invest up to $5bn in Tesla rival Rivian",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +184,7 @@
         ]
     },
     {
-        "headline": "Heat warning for US hikers amid rescues and deaths",
+        "headline": "Abe Lincoln wax sculpture melts in brutal DC heat",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +192,7 @@
         ]
     },
     {
-        "headline": "Bankruptcy trustee plans to shut down Alex Jones' Infowars",
+        "headline": "Watch: Julian Assange arrives at US court in Saipan",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +200,7 @@
         ]
     },
     {
-        "headline": "Floods break through US dam causing major damage",
+        "headline": "Watch: Julian Assange freed and starts journey home",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +208,7 @@
         ]
     },
     {
-        "headline": "Hunter Biden files for new gun trial on a technicality",
+        "headline": "Why are the Boeing Starliner astronauts still in space?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +216,7 @@
         ]
     },
     {
-        "headline": "Heat warning for US hikers amid rescues and deaths",
+        "headline": "Tackling US gun violence as a public health crisis. Will it help?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +224,7 @@
         ]
     },
     {
-        "headline": "Florence elects first woman mayor",
+        "headline": "Watch: Julian Assange arrives at US court in Saipan",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +232,7 @@
         ]
     },
     {
-        "headline": "Sailors head home months after Baltimore bridge crash",
+        "headline": "Follow BBC on:",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +240,7 @@
         ]
     },
     {
-        "headline": "Travis Kelce carries Taylor Swift across stage, sending fans into frenzy",
+        "headline": "Live updates: Julian Assange pleads guilty to espionage charge, ending years of legal deadlock",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +248,7 @@
         ]
     },
     {
-        "headline": "Taylor Swift fever sweeps London, reaches royal family",
+        "headline": "Julian Assange\u2019s plea deal sparks global celebration, condemnation",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,11 +256,51 @@
         ]
     },
     {
-        "headline": "He thought a cow ate his Rolex. It turned up five decades later.",
-        "location": "Yemen",
+        "headline": "Even among world leaders, Biden and Trump are old",
+        "location": "United States",
         "coordinates": [
-            16.3471243,
-            47.8915271
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "For this U.S. airman, the Gaza war hit too close to home",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "What to know about WikiLeaks\u2019 Julian Assange and the deal set to free him",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "This art museum has a new home for its Picassos: The women\u2019s bathroom",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "The long saga of WikiLeaks\u2019 Julian Assange may finally be over",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Timeline: Key moments for WikiLeaks and Julian Assange",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
         ]
     }
 ]
