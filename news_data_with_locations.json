@@ -1,67 +1,71 @@
 [
     {
-        "headline": "Julian Assange pleads guilty in US court in deal to end legal battle over leaks",
+        "headline": "Bolivian police arrest leader of coup attempt",
+        "location": "Bolivia"
+    },
+    {
+        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
         "location": "United States"
     },
     {
-        "headline": "How the deal to free Julian Assange was agreed",
-        "location": "United States"
-    },
-    {
-        "headline": "Five killed and parliament ablaze in Kenya tax protests",
-        "location": "Kenya"
-    },
-    {
-        "headline": "Australian rugby star Hayne will not face new rape trial",
-        "location": "Australia"
-    },
-    {
-        "headline": "New York judge partially lifts Trump gag order in hush-money case",
-        "location": "United States"
-    },
-    {
-        "headline": "How the deal to free Julian Assange was agreed",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Macron's election gamble puts French democracy on the table",
+        "headline": "French court confirms Bashar al-Assad arrest warrant over Syria chemical attack",
         "location": "France"
     },
     {
-        "headline": "VW to invest up to $5bn in Tesla rival Rivian",
+        "headline": "Evan Gershkovich in court as spy trial starts in Russia",
+        "location": "Russia"
+    },
+    {
+        "headline": "$100m assets linked to 1MDB to be returned to Malaysia",
+        "location": "Malaysia"
+    },
+    {
+        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
         "location": "United States"
     },
     {
-        "headline": "Five killed and parliament ablaze in Kenya tax protests",
+        "headline": "Julian Assange lands in Australia a free man",
+        "location": "Australia"
+    },
+    {
+        "headline": "Kenya's president withdraws tax plan after deadly protest",
         "location": "Kenya"
     },
     {
-        "headline": "War crimes arrest warrants issued for top Russian officials",
-        "location": "Russia"
+        "headline": "French court confirms Bashar al-Assad arrest warrant over Syria chemical attack",
+        "location": "France"
     },
     {
-        "headline": "'High risk' of famine in Gaza persists, new UN-backed report says",
-        "location": "Palestine/Gaza Strip"
-    },
-    {
-        "headline": "Abe Lincoln wax sculpture melts in brutal DC heat",
+        "headline": "Police run into burning house to rescue disabled man",
         "location": "United States"
     },
     {
-        "headline": "Ultra-Orthodox students must be drafted, Israel court rules",
-        "location": "Israel"
+        "headline": "Super-strength opioids spreading across Europe and North America - UN",
+        "location": "Global/Europe/North America"
     },
     {
-        "headline": "Russia blocks dozens of independent media outlets",
-        "location": "Russia"
+        "headline": "Pardoned former officer says military gay sex conviction 'hangs over me'",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Honduras ex-president gets 45 years for drug crimes",
+        "location": "Honduras"
+    },
+    {
+        "headline": "One killed after Colombia cable car falls from station",
+        "location": "Colombia"
     },
     {
         "headline": "Watch/Listen",
         "location": "Not applicable"
     },
     {
-        "headline": "Watch: Julian Assange arrives at US court in Saipan",
-        "location": "United States"
+        "headline": "Assange 'needs time... to recuperate', wife tells reporters",
+        "location": "Australia"
+    },
+    {
+        "headline": "Watch: Moment Julian Assange walks free from court",
+        "location": "Australia"
     },
     {
         "headline": "Protests flare in Nairobi over new tax laws",
@@ -73,91 +77,135 @@
     },
     {
         "headline": "Watch: Julian Assange's decade of fighting extradition",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Watch: Julian Assange freed and starts journey home",
-        "location": "United States"
-    },
-    {
-        "headline": "Features",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Brave, inspiring, crazy - the joy of managing Fela Kuti",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Why are the Boeing Starliner astronauts still in space?",
-        "location": "United States"
-    },
-    {
-        "headline": "Kenyan president faces tough choices after day of bloodshed",
-        "location": "Kenya"
-    },
-    {
-        "headline": "Who is Wikileaks' Julian Assange and what did he do?",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Wikileaks' document dumps that shook world",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Brave, inspiring, crazy - the joy of managing Fela Kuti",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Macron's election gamble puts French democracy on the table",
-        "location": "France"
-    },
-    {
-        "headline": "Tackling US gun violence as a public health crisis. Will it help?",
-        "location": "United States"
-    },
-    {
-        "headline": "Watch: Julian Assange arrives at US court in Saipan",
-        "location": "United States"
-    },
-    {
-        "headline": "Aer Lingus pilots begin industrial action over pay dispute",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Australian rugby star Hayne will not face new rape trial",
         "location": "Australia"
     },
     {
-        "headline": "Conservatives heap pressure on Trudeau with by-election win",
-        "location": "Canada"
+        "headline": "Features",
+        "location": "India"
     },
     {
-        "headline": "'High risk' of famine in Gaza persists, new UN-backed report says",
-        "location": "Palestine/Gaza Strip"
+        "headline": "Could the World Cup signal goodbye for India's batting legends?",
+        "location": "India"
+    },
+    {
+        "headline": "Australia turned its back on Assange. Time made him a martyr",
+        "location": "Australia"
+    },
+    {
+        "headline": "Kenyan president's humbling shows power of African youth",
+        "location": "Kenya"
     },
     {
         "headline": "How the deal to free Julian Assange was agreed",
-        "location": "Not applicable"
+        "location": "Australia"
+    },
+    {
+        "headline": "Sleepy Saipan witnesses end of Julian Assange legal saga",
+        "location": "Saipan/Australia"
+    },
+    {
+        "headline": "Latest updates",
+        "location": "Various"
+    },
+    {
+        "headline": "Pardoned former officer says military gay sex conviction 'hangs over me'",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "What to watch for at Biden and Trump's first debate",
+        "location": "United States"
+    },
+    {
+        "headline": "Supreme Court briefly leaks opinion allowing Idaho abortions",
+        "location": "United States"
+    },
+    {
+        "headline": "Could the World Cup signal goodbye for India's batting legends?",
+        "location": "India"
+    },
+    {
+        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
+        "location": "United States"
+    },
+    {
+        "headline": "Paris Hilton testifies to US Congress about childhood abuse",
+        "location": "United States"
+    },
+    {
+        "headline": "Kenyan president's humbling shows power of African youth",
+        "location": "Kenya"
+    },
+    {
+        "headline": "Moment home tumbles into river as dam fails in US",
+        "location": "United States"
+    },
+    {
+        "headline": "Kenya's president withdraws tax plan after deadly protest",
+        "location": "Kenya"
     },
     {
         "headline": "Follow BBC on:",
+        "location": "Bolivia"
+    },
+    {
+        "headline": "Bolivian soldiers storm plaza; former general accused of coup attempt",
+        "location": "Bolivia"
+    },
+    {
+        "headline": "Ex-Honduran president sentenced to 45 years for trafficking drugs to U.S.",
+        "location": "Honduras"
+    },
+    {
+        "headline": "After protests, Kenya\u2019s president backs down on controversial tax bill",
+        "location": "Kenya"
+    },
+    {
+        "headline": "Biden border restrictions bring sharp drop in illegal crossings",
         "location": "United States"
     },
     {
-        "headline": "Live updates: Julian Assange pleads guilty to espionage charge, ending years of legal deadlock",
-        "location": "United States"
+        "headline": "Israel blames U.N. for Gaza aid crisis amid fresh reports of starvation",
+        "location": "Israel/Gaza Strip"
     },
     {
-        "headline": "Half-million Gazans face \u2018catastrophic\u2019 hunger levels, U.N.-backed report says",
-        "location": "Palestine/Gaza Strip"
+        "headline": "What an election betting scandal says about British politics and culture",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Closed-door espionage trial of U.S. journalist kicks off in Russia",
+        "location": "Russia"
     },
     {
         "headline": "U.N.-approved, Kenya-led security force finally arrives in Haiti",
-        "location": "Haiti"
+        "location": "Kenya/Haiti"
+    },
+    {
+        "headline": "Australia welcomes Julian Assange home amid warnings about press freedom",
+        "location": "Australia"
+    },
+    {
+        "headline": "Amid war setbacks and complaints, Ukraine changes another top general",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Iran is picking a new president. Here\u2019s what to know.",
+        "location": "Iran"
+    },
+    {
+        "headline": "Julian Assange pleads guilty to espionage charge, ending years of legal deadlock",
+        "location": "United States"
+    },
+    {
+        "headline": "The joy and rage over Assange\u2019s release",
+        "location": "Australia"
+    },
+    {
+        "headline": "Julian Assange, free after pleading guilty, set to return to Australia",
+        "location": "Australia"
+    },
+    {
+        "headline": "Half-million Gazans face \u2018catastrophic\u2019 hunger levels, U.N.-backed report says",
+        "location": "Gaza Strip"
     },
     {
         "headline": "5 killed as Kenyan police crack down on tax protests; Parliament set afire",
@@ -165,7 +213,7 @@
     },
     {
         "headline": "U.S. and Philippines seek to de-escalate after sea skirmish with China",
-        "location": "United States and Philippines"
+        "location": "Philippines/China"
     },
     {
         "headline": "Israeli Supreme Court rules ultra-Orthodox must serve in the military",
@@ -173,58 +221,10 @@
     },
     {
         "headline": "International Court issues warrants for top Russian military officials",
-        "location": "International Court/Russia"
+        "location": "Russia"
     },
     {
         "headline": "Microsoft broke antitrust rules by bundling Teams, E.U. says",
-        "location": "European Union/Microsoft"
-    },
-    {
-        "headline": "Julian Assange\u2019s plea deal sparks global celebration, condemnation",
-        "location": "United States"
-    },
-    {
-        "headline": "Even among world leaders, Biden and Trump are old",
-        "location": "United States"
-    },
-    {
-        "headline": "Count Binface challenges U.K. Prime Minister Rishi Sunak for Parliament seat",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "For this U.S. airman, the Gaza war hit too close to home",
-        "location": "United States"
-    },
-    {
-        "headline": "What to know about WikiLeaks\u2019 Julian Assange and the deal set to free him",
-        "location": "United States"
-    },
-    {
-        "headline": "This art museum has a new home for its Picassos: The women\u2019s bathroom",
-        "location": "United States"
-    },
-    {
-        "headline": "The long saga of WikiLeaks\u2019 Julian Assange may finally be over",
-        "location": "United States"
-    },
-    {
-        "headline": "Timeline: Key moments for WikiLeaks and Julian Assange",
-        "location": "United States"
-    },
-    {
-        "headline": "O Canada! Is this the year the Stanley Cup drought ends?",
-        "location": "Canada"
-    },
-    {
-        "headline": "Netanyahu dismisses cease-fire proposal, angering hostage families",
-        "location": "Israel"
-    },
-    {
-        "headline": "Princess Anne hospitalized with concussion after apparent horse incident",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "After attack in Dagestan, Russian officials minimize Islamic State claim",
-        "location": "Russia"
+        "location": "European Union"
     }
 ]
