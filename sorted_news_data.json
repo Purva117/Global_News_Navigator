@@ -1,78 +1,6 @@
 [
     {
-        "headline": "Julian Assange lands in Australia a free man",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Assange 'needs time... to recuperate', wife tells reporters",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Watch: Moment Julian Assange walks free from court",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Watch: Julian Assange's decade of fighting extradition",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Australia turned its back on Assange. Time made him a martyr",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "How the deal to free Julian Assange was agreed",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Australia welcomes Julian Assange home amid warnings about press freedom",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "The joy and rage over Assange\u2019s release",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Julian Assange, free after pleading guilty, set to return to Australia",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Bolivian police arrest leader of coup attempt",
+        "headline": "Bolivia's failed coup attempt... in 75 seconds",
         "location": "Bolivia",
         "coordinates": [
             -17.0568696,
@@ -80,31 +8,23 @@
         ]
     },
     {
-        "headline": "Follow BBC on:",
-        "location": "Bolivia",
+        "headline": "Why China\u2019s Communist Party expelled two former defense ministers",
+        "location": "China",
         "coordinates": [
-            -17.0568696,
-            -64.9912286
+            35.000074,
+            104.999927
         ]
     },
     {
-        "headline": "Bolivian soldiers storm plaza; former general accused of coup attempt",
-        "location": "Bolivia",
+        "headline": "In Egypt, Gaza evacuees live in the shadows: \u2018Everything is closing in\u2019",
+        "location": "Egypt",
         "coordinates": [
-            -17.0568696,
-            -64.9912286
+            26.2540493,
+            29.2675469
         ]
     },
     {
-        "headline": "One killed after Colombia cable car falls from station",
-        "location": "Colombia",
-        "coordinates": [
-            4.099917,
-            -72.9088133
-        ]
-    },
-    {
-        "headline": "French court confirms Bashar al-Assad arrest warrant over Syria chemical attack",
+        "headline": "Far right hopes to make history in snap French poll",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -112,7 +32,7 @@
         ]
     },
     {
-        "headline": "French court confirms Bashar al-Assad arrest warrant over Syria chemical attack",
+        "headline": "Far right hopes to make history in snap French poll",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -120,23 +40,79 @@
         ]
     },
     {
-        "headline": "Honduras ex-president gets 45 years for drug crimes",
-        "location": "Honduras",
+        "headline": "Far right hopes to make history in snap French poll",
+        "location": "France",
         "coordinates": [
-            15.2572432,
-            -86.0755145
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Ex-Honduran president sentenced to 45 years for trafficking drugs to U.S.",
-        "location": "Honduras",
+        "headline": "The far right was humiliated in this city. Its return bodes ill for Macron.",
+        "location": "France",
         "coordinates": [
-            15.2572432,
-            -86.0755145
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Features",
+        "headline": "In France\u2019s rebranded far right, flashes of antisemitism and racism persist",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "The French far right is leading in election polls. Here\u2019s what to know.",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "The twilight of Macronism",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Musiala scores again as Germany beat Denmark to reach quarters",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Clashes break out near German far-right conference",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Clashes break out near German far-right conference",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Homeland Security extends temporary protected status for Haitians",
+        "location": "Haiti",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
+        ]
+    },
+    {
+        "headline": "India beat South Africa in thriller to win T20 title",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -144,7 +120,7 @@
         ]
     },
     {
-        "headline": "Could the World Cup signal goodbye for India's batting legends?",
+        "headline": "Monsoon rains collapse roof at New Delhi airport, crushing cars and killing 1",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -152,15 +128,7 @@
         ]
     },
     {
-        "headline": "Could the World Cup signal goodbye for India's batting legends?",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Iran is picking a new president. Here\u2019s what to know.",
+        "headline": "Iran's presidential election moves to run-off after low turnout",
         "location": "Iran",
         "coordinates": [
             32.6475314,
@@ -168,23 +136,39 @@
         ]
     },
     {
-        "headline": "Israel blames U.N. for Gaza aid crisis amid fresh reports of starvation",
-        "location": "Israel",
+        "headline": "Iran heads to presidential runoff pitting reformist against conservative",
+        "location": "Iran",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            32.6475314,
+            54.5643516
         ]
     },
     {
-        "headline": "Israeli Supreme Court rules ultra-Orthodox must serve in the military",
-        "location": "Israel",
+        "headline": "Iran extends voting hours in snap election for a new president",
+        "location": "Iran",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            32.6475314,
+            54.5643516
         ]
     },
     {
-        "headline": "Kenya's president withdraws tax plan after deadly protest",
+        "headline": "What to know about the Karen Read murder trial",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Funeral for veteran RT\u00c9 journalist held in County Sligo",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Was there a massacre after Kenya's anti-tax protests?",
         "location": "Kenya",
         "coordinates": [
             1.4419683,
@@ -192,87 +176,63 @@
         ]
     },
     {
-        "headline": "Protests flare in Nairobi over new tax laws",
-        "location": "Kenya",
+        "headline": "At least 18 killed in northern Nigeria blasts",
+        "location": "Nigeria",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            9.6000359,
+            7.9999721
         ]
     },
     {
-        "headline": "Live BBC report interrupted by man with gun in Nairobi",
-        "location": "Kenya",
+        "headline": "Serbian officer shot with crossbow outside Israeli embassy",
+        "location": "Serbia",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            44.024322850000004,
+            21.07657433209902
         ]
     },
     {
-        "headline": "Kenyan president's humbling shows power of African youth",
-        "location": "Kenya",
+        "headline": "Serbian officer shot with crossbow outside embassy",
+        "location": "Serbia",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            44.024322850000004,
+            21.07657433209902
         ]
     },
     {
-        "headline": "Kenyan president's humbling shows power of African youth",
-        "location": "Kenya",
+        "headline": "Four die after drinking from bottles found in sea",
+        "location": "Sri Lanka",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            7.5554942,
+            80.7137847
         ]
     },
     {
-        "headline": "Kenya's president withdraws tax plan after deadly protest",
-        "location": "Kenya",
+        "headline": "Switzerland stun Italy to reach Euro 2024 quarter-finals",
+        "location": "Switzerland",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            46.7985624,
+            8.2319736
         ]
     },
     {
-        "headline": "After protests, Kenya\u2019s president backs down on controversial tax bill",
-        "location": "Kenya",
+        "headline": "Young women fear return to a broken land of rubble and brutality",
+        "location": "Syria",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            34.815353599999995,
+            38.42307447267531
         ]
     },
     {
-        "headline": "U.N.-approved, Kenya-led security force finally arrives in Haiti",
-        "location": "Kenya",
+        "headline": "Orphaned as babies, these elephants returned to the wild amid bittersweet tears",
+        "location": "Thailand",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            7.4931858,
+            124.724704
         ]
     },
     {
-        "headline": "5 killed as Kenyan police crack down on tax protests; Parliament set afire",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "$100m assets linked to 1MDB to be returned to Malaysia",
-        "location": "Malaysia",
-        "coordinates": [
-            4.5693754,
-            102.2656823
-        ]
-    },
-    {
-        "headline": "U.S. and Philippines seek to de-escalate after sea skirmish with China",
-        "location": "Philippines",
-        "coordinates": [
-            12.7503486,
-            122.7312101
-        ]
-    },
-    {
-        "headline": "Amid war setbacks and complaints, Ukraine changes another top general",
+        "headline": "Zelensky renews long-range arms call after attack",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -280,7 +240,31 @@
         ]
     },
     {
-        "headline": "Pardoned former officer says military gay sex conviction 'hangs over me'",
+        "headline": "'There was no preparation': One marine's story of defending Kharkiv",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Zelensky renews long-range arms call after attack",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "A weekend in Kharkiv: Beach, ping-pong, poetry jams, Russian bombs",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Dying together: Why a happily married couple decided to stop living",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -288,23 +272,7 @@
         ]
     },
     {
-        "headline": "Pardoned former officer says military gay sex conviction 'hangs over me'",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "What an election betting scandal says about British politics and culture",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
+        "headline": "Biden vows to fight on, rejecting calls to step aside",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +280,7 @@
         ]
     },
     {
-        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
+        "headline": "Biden vows to fight on, rejecting calls to step aside",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +288,7 @@
         ]
     },
     {
-        "headline": "Police run into burning house to rescue disabled man",
+        "headline": "Watch/Listen",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +296,7 @@
         ]
     },
     {
-        "headline": "What to watch for at Biden and Trump's first debate",
+        "headline": "Watch key moments from Biden and Trump's first debate",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -336,15 +304,7 @@
         ]
     },
     {
-        "headline": "Supreme Court briefly leaks opinion allowing Idaho abortions",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden v Trump: What are they thinking in Moscow, Beijing and Delhi?",
+        "headline": "US voters' verdicts on debate performances",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -360,7 +320,7 @@
         ]
     },
     {
-        "headline": "Moment home tumbles into river as dam fails in US",
+        "headline": "Features",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -368,7 +328,7 @@
         ]
     },
     {
-        "headline": "Biden border restrictions bring sharp drop in illegal crossings",
+        "headline": "Katty Kay: Panic and confusion as Democrats weigh Biden's future",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -376,7 +336,23 @@
         ]
     },
     {
-        "headline": "Julian Assange pleads guilty to espionage charge, ending years of legal deadlock",
+        "headline": "Tropical Storm Beryl tracker: Map and projected storm path",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Airline apologizes after plane left passengers in wheelchairs on tarmac",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "How the world reacted to Biden\u2019s \u2018disastrous\u2019 debate performance",
         "location": "United States",
         "coordinates": [
             39.7837304,

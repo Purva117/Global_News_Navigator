@@ -1,95 +1,79 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Julian Assange has landed in Australia as a free man.\n\u2022 His wife says he needs time to recuperate.\n\u2022 He had been fighting extradition for a decade.",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "location": "Bolivia",
-        "summary": "\u2022 Bolivian police arrest leader of coup attempt\n\u2022 Bolivian soldiers storm plaza; former general accused of coup attempt",
-        "coordinates": [
-            -17.0568696,
-            -64.9912286
-        ]
-    },
-    {
-        "location": "Colombia",
-        "summary": "\u2022 A cable car fell from its station in Colombia.\n\u2022 One person was killed as a result.\n\u2022 An investigation is underway to determine cause of incident.",
-        "coordinates": [
-            4.099917,
-            -72.9088133
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 A French court has confirmed an arrest warrant for Syrian President Bashar al-Assad in connection with the 2013 Syria chemical attack.\n\u2022 The court's decision comes after allegations that Assad was responsible for the attack, which killed hundreds of people, including many civilians and children.\n\u2022 This move marks a significant step towards holding those accountable for human rights abuses during the Syrian conflict.",
+        "summary": "\u2022 The far-right party is expected to perform well in upcoming French elections.\n\u2022 Antisemitic and racist sentiments remain present within the rebranded far-right movement in France.\n\u2022 The far-right party is currently leading in French election polls.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Honduras",
-        "summary": "\u2022 Former Honduran president convicted of drug trafficking.\n\u2022 Sentenced to 45 years in prison.\n\u2022 Crime involved smuggling drugs from Honduras to the US.",
+        "location": "Haiti",
+        "summary": "\u2022 The US Department of Homeland Security has extended Temporary Protected Status (TPS) to Haitian nationals due to ongoing political instability in their home country.\n\u2022 This decision will allow eligible Haitians to remain in the United States temporarily without fear of deportation or becoming undocumented immigrants.\n\u2022 The extension aims to provide relief and support to those affected by the crisis until conditions improve back in Haiti.",
         "coordinates": [
-            15.2572432,
-            -86.0755145
-        ]
-    },
-    {
-        "location": "India",
-        "summary": "\u2022 The Indian cricket team's performance in the World Cup may mark the end of an era for their aging batting lineup.\n\u2022 The tournament could be a farewell event for some of India's most experienced players.\n\u2022 This speculation is fueled by concerns about the team's ability to adapt to changing circumstances without its veteran leaders.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
+            19.1399952,
+            -72.3570972
         ]
     },
     {
         "location": "Iran",
-        "summary": "\u2022 Iran selects its new president.\n\u2022 The election process determines who will hold the office.\n\u2022 The chosen candidate will be responsible for leading the country.",
+        "summary": "\u2022 Iran's presidential election has moved to a run-off due to low voter turnout.\n\u2022 The run-off will feature a reformist candidate against a conservative one.\n\u2022 Iran extended its voting hours in the snap election for a new president.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
-        "location": "Israel",
-        "summary": "\u2022 Israel accuses UN of contributing to Gaza's aid crisis due to fresh reports of severe food shortages.\n\u2022 The Israeli Supreme Court has ruled that ultra-Orthodox individuals must participate in military service.\n\u2022 The Israeli government faces criticism from the international community regarding its handling of the Gaza Strip conflict.",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
         "location": "Kenya",
-        "summary": "\u2022 Kenya's President withdrew his tax plan due to violent protests.\n\u2022 Protesters in Nairobi set fire to Parliament amid clashes with police.\n\u2022 A live BBC report was briefly disrupted by a gunman in Nairobi.",
+        "summary": "\u2022 A possible massacre occurred during anti-tax protests in Kenya.\n\u2022 The exact number of deaths is unknown due to conflicting reports.\n\u2022 Authorities have launched an investigation into the incident.",
         "coordinates": [
             1.4419683,
             38.4313975
         ]
     },
     {
-        "location": "Malaysia",
-        "summary": "\u2022 $100 million worth of assets linked to the Malaysian Development Bank (1MDB) will be repatriated back to the country.\n\u2022 This move marks a significant step towards addressing corruption allegations surrounding 1MDB's management of public funds.\n\u2022 The return of these assets is expected to have a positive impact on Malaysia's economy and financial stability.",
+        "location": "Nigeria",
+        "summary": "\u2022 At least 18 people were killed in explosions in northern Nigeria.\n\u2022 The incident occurred in multiple locations across the region.\n\u2022 Authorities are investigating the cause behind the attacks.",
         "coordinates": [
-            4.5693754,
-            102.2656823
+            9.6000359,
+            7.9999721
         ]
     },
     {
-        "location": "Philippines",
-        "summary": "\u2022 The US and the Philippines aim to calm tensions\n\u2022 A recent incident involving China sparked the need for diplomacy\n\u2022 Both nations want to reduce hostilities in the disputed area",
+        "location": "Serbia",
+        "summary": "\u2022 A Serbian officer was shot with a crossbow outside an embassy.\n\u2022 The incident occurred near an Israeli embassy in Serbia.\n\u2022 The motives behind the attack remain unclear.",
         "coordinates": [
-            12.7503486,
-            122.7312101
+            44.024322850000004,
+            21.07657433209902
+        ]
+    },
+    {
+        "location": "Sri Lanka",
+        "summary": "\u2022 Four people died\n\u2022 From bottles found in the sea \n\u2022 They drank from these bottles",
+        "coordinates": [
+            7.5554942,
+            80.7137847
+        ]
+    },
+    {
+        "location": "Switzerland",
+        "summary": "\u2022 Switzerland defeated Italy in the quarterfinals.\n\u2022 They reached the Euro 2024 quarterfinals.\n\u2022 This was an upset win for Switzerland over Italy.",
+        "coordinates": [
+            46.7985624,
+            8.2319736
+        ]
+    },
+    {
+        "location": "Syria",
+        "summary": "\u2022 Young Syrian women face an uncertain future upon returning home due to widespread destruction and violence.\n\u2022 The devastating impact of conflict on their communities has left them anxious about their safety and well-being.\n\u2022 Their fears are exacerbated by the lack of basic necessities like shelter, food, and healthcare in post-conflict zones.",
+        "coordinates": [
+            34.815353599999995,
+            38.42307447267531
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 Ukraine replaces top general amid war setbacks.\n\u2022 General's departure sparks speculation about new military strategy.\n\u2022 Government seeks to revamp its leadership team amidst criticism over performance.",
+        "summary": "\u2022 Zelensky requests long-range weapons due to attacks.\n\u2022 Marines defend Kharkiv despite lack of preparation.\n\u2022 Civilians enjoy leisure activities amidst bombing threats.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -97,7 +81,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Russia, China, and India's reactions to the US presidential election.\n\u2022 The first debate between Joe Biden and Donald Trump is imminent.\n\u2022 A disabled man was rescued from a burning house by police.\n\u2022 The Supreme Court has allowed abortion services in Idaho.\n\u2022 Paris Hilton testified to the US Congress about her experiences with child abuse.\n\u2022 A house fell into a river due to a dam failure in the US.\n\u2022 Illegal border crossing have decreased since Biden implemented stricter rules.\n\u2022 Julian Assange pleaded guilty to an espionage charge.",
+        "summary": "\u2022 Joe Biden rejects calls to step down amid criticism over his debate performance.\n\u2022 The public reacts to the outcome of the presidential debate between Biden and Donald Trump.\n\u2022 Tropical Storm Beryl is expected to cause disruptions across the eastern seaboard.",
         "coordinates": [
             39.7837304,
             -100.445882
