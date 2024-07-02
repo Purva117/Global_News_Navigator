@@ -1,23 +1,23 @@
 [
     {
         "location": "Bolivia",
-        "summary": "\u2022 A failed coup attempt occurred in Bolivia.\n\u2022 The event lasted approximately 75 seconds.\n\u2022 Details surrounding the incident remain unclear.",
+        "summary": "\u2022 A group attempted to stage a coup in Bolivia.\n\u2022 The attempt was unsuccessful within just 75 seconds.\n\u2022 This highlights the resilience of the country's government and institutions during times of political unrest.",
         "coordinates": [
             -17.0568696,
             -64.9912286
         ]
     },
     {
-        "location": "China",
-        "summary": "\u2022 Two former Chinese defense ministers were expelled from the Communist Party due to corruption and abuse of power.\n\u2022 The expulsion is seen as a significant move by the party against high-ranking officials accused of wrongdoing.\n\u2022 The decision highlights the ongoing efforts to root out corruption within the government and military ranks in China.",
+        "location": "Brazil",
+        "summary": "\u2022 A plane was diverted to Brazil due to severe turbulence that injured 30 people on board.\n\u2022 The incident highlights concerns about air travel safety in turbulent weather conditions.\n\u2022 An investigation is underway to determine the cause of the turbulence and ensure passenger safety in future flights.",
         "coordinates": [
-            35.000074,
-            104.999927
+            -10.3333333,
+            -53.2
         ]
     },
     {
         "location": "Egypt",
-        "summary": "\u2022 Gaza evacuees in Egypt live in difficult conditions\n\u2022 They face uncertainty about their future and lack support from authorities\n\u2022 Their living situation is precarious and uncertain",
+        "summary": "\u2022 An Egyptian airline has apologized for leaving passengers in wheelchairs on the tarmac.\n\u2022 The incident occurred when an airplane departed without the passengers being properly seated.\n\u2022 The apology acknowledges the inconvenience caused to those affected.",
         "coordinates": [
             26.2540493,
             29.2675469
@@ -25,23 +25,31 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 The far-right party is leading in the elections and aiming for a majority\n\u2022 Armed men stormed a wedding killing one person\n\u2022 Voters punished Macron's centrists and boosted the far-right party in polls",
+        "summary": "\u2022 French political parties have launched a new campaign after the success of far-right candidates.\n\u2022 Far-right candidate Jordan Bardella has become the face of the movement at just 28 years old.\n\u2022 Voters are turning against President Macron's centrist policies, giving a boost to far-right candidates.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Haiti",
-        "summary": "\u2022 The US Department of Homeland Security has extended Temporary Protected Status (TPS) for Haitian nationals in the United States.\n\u2022 This decision aims to ensure that Haitians can continue living safely in the US without fear of deportation during ongoing political instability at home.\n\u2022 TPS allows Haitian citizens who were already residing in the US when it was granted to remain legally until conditions improve in their homeland.",
+        "location": "Greece",
+        "summary": "\u2022 A millionaire faces allegations regarding the Greek fires\n\u2022 The individual claims to be surprised by these accusations\n\u2022 Further details about the incident remain unclear",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            39.0742,
+            21.8243
+        ]
+    },
+    {
+        "location": "Hungary",
+        "summary": "\u2022 Hungary is pushing against European Union norms with its \"Make Europe Great Again\" slogan.\n\u2022 The country's hard-right stance contradicts EU values.\n\u2022 This move puts Hungary at odds with its European partners.",
+        "coordinates": [
+            47.1817585,
+            19.5060937
         ]
     },
     {
         "location": "India",
-        "summary": "\u2022 Heavy monsoon rains cause severe damage to New Delhi's airport.\n\u2022 The airport's roof collapses due to excessive rainfall, resulting in structural failure.\n\u2022 At least one person is killed as vehicles beneath the collapsed roof are crushed.",
+        "summary": "\u2022 Medical Council of India to conduct NEET PG 2022 exam\n\u2022 Students protest against the exam pattern\n\u2022 Exam results will determine the future of aspiring Indian doctors",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -49,74 +57,90 @@
     },
     {
         "location": "Iran",
-        "summary": "\u2022 Iran's presidential election proceeds with a runoff due to low voter turnout.\n\u2022 The runoff pits a reformist candidate against a conservative one.\n\u2022 Voting hours have been extended for the snap election due to low participation.",
+        "summary": "\u2022 In Egypt, Gaza evacuees live in the shadows.\n\u2022 Iran has extended voting hours in its presidential elections.\n\u2022 Everything is closing in on Gaza evacuees.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
+        "location": "Ireland",
+        "summary": "\u2022 The Director of Public Prosecutions has lodged an appeal against the leniency of the sentence handed down to an Irish soldier who assaulted another soldier\n\u2022 This move comes after concerns were raised about the fairness of the initial sentence, which was deemed too light by many observers\n\u2022 The appeal aims to ensure that justice is served in this high-profile case, sparking widespread interest among the public",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "location": "Israel",
+        "summary": "\u2022 Israel orders Palestinians to leave southern Gaza area after rocket fire.\n\u2022 Israel releases head of Gaza's al-Shifa hospital after seven months.\n\u2022 Gaza's remaining hospitals will stop working in two days, health officials warn.",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
         "location": "Lebanon",
-        "summary": "\u2022 Tensions escalate between Israel and Lebanon\n\u2022 US pushes for a deal to avoid conflict\n\u2022 Potential for war looms if agreement cannot be reached",
+        "summary": "\u2022 The ongoing conflict between Lebanon and Israel has created an atmosphere of unease among citizens.\n\u2022 Tensions remain high due to unresolved border disputes and military posturing.\n\u2022 Escalation risks further destabilizing the region.",
         "coordinates": [
             40.375713,
             -76.4626118
         ]
     },
     {
-        "location": "Nigeria",
-        "summary": "\u2022 At least 18 people were killed by suspected female suicide bombers in Nigeria.\n\u2022 The bombings occurred in an unspecified location within the country.\n\u2022 No further details on casualties or injuries have been reported.",
+        "location": "Malawi",
+        "summary": "\u2022 Malawi's music industry has lost one of its most influential figures\n\u2022 The musician dedicated his life to uplifting the lives of the marginalized through music\n\u2022 His passing leaves a significant gap in Malawi's cultural landscape",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            -13.2687204,
+            33.9301963
         ]
     },
     {
         "location": "North Korea",
-        "summary": "\u2022 A family escapes North Korea by crossing the open sea in a rickety boat.\n\u2022 The family faces numerous challenges during their perilous journey.\n\u2022 They finally reach safety after overcoming incredible obstacles.",
+        "summary": "\u2022 A North Korean family fled their country by hijacking a small fishing boat.\n\u2022 The escapees were forced to navigate treacherous waters without proper equipment or supplies.\n\u2022 After days at sea, they finally reached safety and shared their harrowing tale with the world.",
         "coordinates": [
             40.3736611,
             127.0870417
         ]
     },
     {
+        "location": "South Africa",
+        "summary": "\u2022 ANC loses majority but remains largest party\n\u2022 Opposition parties gain seats amid dissatisfaction with ANC rule\n\u2022 New government formed through coalition deal between ANC and opposition parties",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
         "location": "South Korea",
-        "summary": "\u2022 Parents lock themselves in cells to help their children overcome anxiety or depression.\n\u2022 This \"happiness factory\" is designed to provide emotional support to young people struggling with mental health issues.\n\u2022 By staying with their children, parents hope to foster a sense of security and comfort during difficult times.",
+        "summary": "\u2022 At least 9 people were killed\n\u2022 A car plowed into a crowd\n\u2022 Incident occurred in Seoul",
         "coordinates": [
             36.638392,
             127.6961188
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 Williams scores stunning goal\n\u2022 Spain defeats Georgia in match\n\u2022 Sets up quarter-final against Germany",
+        "location": "Taiwan",
+        "summary": "\u2022 Taiwan is concerned about China's potential military aggression due to similarities with Russia's actions in Ukraine.\n\u2022 Taiwan is increasing its defense capabilities through arms purchases and training exercises.\n\u2022 Taiwan has strengthened diplomatic ties with countries that support its sovereignty amid rising tensions with China.",
         "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "location": "Sudan",
-        "summary": "\u2022 A woman has identified her sister as one of the refugees captured in a video from Sudan.\n\u2022 The identification was made through a video of refugees caught up in Sudan's conflict.\n\u2022 The reunion brings hope to both women after being separated during the conflict.",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "location": "Ukraine",
-        "summary": "\u2022 President Zelensky has called for increased supplies of long-range weapons.\n\u2022 A weekend was held in Kharkiv with activities including beach, table tennis, and poetry jams despite ongoing bombing by Russia.\n\u2022 The city is still under attack from Russia.",
-        "coordinates": [
-            49.4871968,
-            31.2718321
+            23.5983227,
+            120.83537694479215
         ]
     },
     {
         "location": "United States",
-        "summary": "\u2022 Allies defend Biden against age concerns due to poll results.\n\u2022 The first presidential debate between Biden and Trump has taken place, with various reactions and analysis emerging.\n\u2022 Airlines have apologized for leaving passengers in wheelchairs on the tarmac at an airport terminal.",
+        "summary": "\u2022 Biden criticizes Trump for undermining the rule of law\n\u2022 Biden's family supports his decision to continue in the White House race\n\u2022 A judge releases Epstein transcripts unexpectedly\n\u2022 A mistrial is declared for an American woman accused of murdering her boyfriend \n\u2022 The U.S. suspends aid to Gaza amid ongoing conflict\n\u2022 Iran prepares for a presidential runoff election between a reformer and a conservative\n\u2022 The U.S. seeks a peace agreement with Lebanon to prevent war",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "location": "Venezuela",
+        "summary": "\u2022 Founder of Venezuela's most feared gang arrested",
+        "coordinates": [
+            8.0018709,
+            -66.1109318
         ]
     }
 ]

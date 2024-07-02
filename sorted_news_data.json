@@ -8,15 +8,23 @@
         ]
     },
     {
-        "headline": "Why China\u2019s Communist Party expelled two former defense ministers",
-        "location": "China",
+        "headline": "Plane diverted to Brazil after turbulence injures 30",
+        "location": "Brazil",
         "coordinates": [
-            35.000074,
-            104.999927
+            -10.3333333,
+            -53.2
         ]
     },
     {
-        "headline": "In Egypt, Gaza evacuees live in the shadows: \u2018Everything is closing in\u2019",
+        "headline": "Plane diverted to Brazil after turbulence injures 30",
+        "location": "Brazil",
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
+        "headline": "Airline apologizes after plane left passengers in wheelchairs on tarmac",
         "location": "Egypt",
         "coordinates": [
             26.2540493,
@@ -24,7 +32,7 @@
         ]
     },
     {
-        "headline": "France's far right celebrates lead and seeks majority",
+        "headline": "France's parties launch new push after far-right success",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,7 +40,7 @@
         ]
     },
     {
-        "headline": "Analysis: France's far right now dominant political force",
+        "headline": "French filmmakers held over sex abuse allegations",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -40,7 +48,7 @@
         ]
     },
     {
-        "headline": "Analysis: France's far right now dominant political force",
+        "headline": "France's parties launch new push after far-right success",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -48,7 +56,7 @@
         ]
     },
     {
-        "headline": "One dead after armed gunmen storm French wedding",
+        "headline": "Analysis: Le Pen's party now dominant force in France",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -56,7 +64,7 @@
         ]
     },
     {
-        "headline": "France's far right celebrates lead and seeks majority",
+        "headline": "What happens next in French elections as far right leads in first vote",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,7 +72,7 @@
         ]
     },
     {
-        "headline": "Analysis: France's far right now dominant political force",
+        "headline": "As Macron fades and far right surges, French left senses an opening",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -72,15 +80,7 @@
         ]
     },
     {
-        "headline": "Far right hopes to make history as France votes in high-stakes poll",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "One dead after armed gunmen storm French wedding",
+        "headline": "A 28-year-old is the face of France\u2019s far right: Who is Jordan Bardella?",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -96,7 +96,7 @@
         ]
     },
     {
-        "headline": "The French far right is leading in election polls. Here\u2019s what to know.",
+        "headline": "The far right was humiliated in this city. Its return bodes ill for Macron.",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -104,23 +104,23 @@
         ]
     },
     {
-        "headline": "In France\u2019s rebranded far right, flashes of antisemitism and racism persist",
-        "location": "France",
+        "headline": "Millionaire 'surprised' at allegations over Greek fire",
+        "location": "Greece",
         "coordinates": [
-            46.603354,
-            1.8883335
+            39.0742,
+            21.8243
         ]
     },
     {
-        "headline": "Homeland Security extends temporary protected status for Haitians",
-        "location": "Haiti",
+        "headline": "With \u2018Make Europe Great Again,\u2019 Hungary taunts allies, touts hard right",
+        "location": "Hungary",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            47.1817585,
+            19.5060937
         ]
     },
     {
-        "headline": "Monsoon rains collapse roof at New Delhi airport, crushing cars and killing 1",
+        "headline": "The contentious exam deciding the fate of India\u2019s doctors",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -128,15 +128,7 @@
         ]
     },
     {
-        "headline": "Iran's presidential election moves to run-off after low turnout",
-        "location": "Iran",
-        "coordinates": [
-            32.6475314,
-            54.5643516
-        ]
-    },
-    {
-        "headline": "Iran heads to presidential runoff pitting reformist against conservative",
+        "headline": "In Egypt, Gaza evacuees live in the shadows: \u2018Everything is closing in\u2019",
         "location": "Iran",
         "coordinates": [
             32.6475314,
@@ -152,7 +144,55 @@
         ]
     },
     {
-        "headline": "As tensions soar, U.S. pushes for deal to avert Israel-Lebanon war",
+        "headline": "DPP lodges appeal over Irish soldier assault sentence",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Israel orders Palestinians to leave southern Gaza area after rocket fire",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel releases head of Gaza's al-Shifa hospital after seven months",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel orders Palestinians to leave southern Gaza area after rocket fire",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Head of Gaza\u2019s al-Shifa Hospital released after months of detention",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Gaza\u2019s remaining hospitals will stop working in two days, health officials warn",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Shadow of war with Israel looms over anxious Lebanese",
         "location": "Lebanon",
         "coordinates": [
             40.375713,
@@ -160,19 +200,11 @@
         ]
     },
     {
-        "headline": "Suspected female suicide bombers kill at least 18 in Nigeria",
-        "location": "Nigeria",
+        "headline": "The Malawi music icon who became a 'soldier for the poor'",
+        "location": "Malawi",
         "coordinates": [
-            9.6000359,
-            7.9999721
-        ]
-    },
-    {
-        "headline": "Suspected female suicide bombers kill at least 18 in Nigeria",
-        "location": "Nigeria",
-        "coordinates": [
-            9.6000359,
-            7.9999721
+            -13.2687204,
+            33.9301963
         ]
     },
     {
@@ -184,7 +216,15 @@
         ]
     },
     {
-        "headline": "Why parents are locking themselves in cells at Korean 'happiness factory'",
+        "headline": "The winners and losers in South Africa's historic new government",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "At least nine killed in Seoul as car ploughs into crowd",
         "location": "South Korea",
         "coordinates": [
             36.638392,
@@ -192,47 +232,15 @@
         ]
     },
     {
-        "headline": "Williams scores stunner as Spain beat Georgia to set up Germany quarter- final",
-        "location": "Spain",
+        "headline": "What Taiwan is learning from the war in Ukraine",
+        "location": "Taiwan",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            23.5983227,
+            120.83537694479215
         ]
     },
     {
-        "headline": "I recognised my sister in video of refugees captured in Sudan war",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "I recognised my sister in video of refugees captured in Sudan war",
-        "location": "Sudan",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "headline": "Zelensky renews long-range arms call after attack",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "A weekend in Kharkiv: Beach, table tennis, poetry jams, Russian bombs",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Allies defend Biden as poll suggests growing age concern",
+        "headline": "Biden says ruling on Trump undermines rule of law",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +248,23 @@
         ]
     },
     {
-        "headline": "Allies defend Biden as poll suggests growing age concern",
+        "headline": "Biden's family urges him to stay in White House race",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Steve Bannon says 'Maga army' ready, as he reports to prison",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch/Listen",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +288,7 @@
         ]
     },
     {
-        "headline": "Will Biden's green jobs policy help him win votes?",
+        "headline": "Justice's dissent: 'The President is now a king above the law'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +296,7 @@
         ]
     },
     {
-        "headline": "Allies defend Biden as poll suggests growing age concern",
+        "headline": "Biden says ruling on Trump undermines rule of law",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +304,7 @@
         ]
     },
     {
-        "headline": "Biden assures donors he can still win election",
+        "headline": "Judge orders surprise release of Epstein transcripts",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +312,7 @@
         ]
     },
     {
-        "headline": "Airline apologizes after plane left passengers in wheelchairs on tarmac",
+        "headline": "Mistrial for Karen Read, US woman accused of boyfriend's murder",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +320,7 @@
         ]
     },
     {
-        "headline": "How the world reacted to Biden\u2019s \u2018disastrous\u2019 debate performance",
+        "headline": "Justice's dissent: 'The President is now a king above the law'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,11 +328,51 @@
         ]
     },
     {
-        "headline": "Post publisher\u2019s role in hacking response comes into sharper focus",
+        "headline": "Steve Bannon says 'Maga army' ready, as he reports to prison",
         "location": "United States",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "headline": "Trump has some immunity from prosecution, Supreme Court rules",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. suspends Gaza aid pier again; fighting continues in Shejaiya",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Iran heads to presidential runoff pitting reformist against conservative",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "As tensions soar, U.S. pushes for deal to avert Israel-Lebanon war",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Founder of Venezuela's most feared gang arrested",
+        "location": "Venezuela",
+        "coordinates": [
+            8.0018709,
+            -66.1109318
         ]
     }
 ]
