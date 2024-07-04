@@ -1,15 +1,23 @@
 [
     {
-        "location": "Afghanistan",
-        "summary": "\u2022 Talks between Afghan government representatives and the Taliban have begun.\n\u2022 The talks will exclude female participants due to Taliban restrictions.\n\u2022 The negotiations aim to find a peaceful solution to the conflict in Afghanistan.",
+        "location": "Australia",
+        "summary": "\u2022 Fungus kills frogs.\n\u2022 Scientists suggest homemade saunas may help save them.\n\u2022 Fungus causes frog deaths, with saunas potentially offering solution.",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "location": "Belarus",
+        "summary": "\u2022 Belarus has granted amnesty to five political prisoners\n\u2022 This is a rare occurrence in the country\n\u2022 The move suggests possible improvements in human rights conditions",
+        "coordinates": [
+            53.4250605,
+            27.6971358
         ]
     },
     {
         "location": "Brazil",
-        "summary": "\u2022 Over 30 passengers injured in severe turbulence on Air Europa flight.\n\u2022 Flight diverted to Brazil due to safety concerns.\n\u2022 Passengers receive medical attention upon arrival at Brazilian airport.",
+        "summary": "\u2022 Brazil blocks Meta from using social media posts to train AI.\n\u2022 This move is part of an ongoing effort to regulate tech giants in Brazil.\n\u2022 The ban aims to protect users' privacy rights and prevent misuse of personal data.",
         "coordinates": [
             -10.3333333,
             -53.2
@@ -17,103 +25,111 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 Far-right candidates have withdrawn from the race to prevent them from winning.\n\u2022 The far-right party has taken the lead after the first round of voting.\n\u2022 Many people on the left believe they now have a chance to win due to the decline of centrist candidate Emmanuel Macron.",
+        "summary": "\u2022 French PM says only far-right parties can form a majority in upcoming elections.\n\u2022 P\u00e9tanque event in Marseille hides deep-seated political divisions before Sunday's vote.\n\u2022 Deep-seated political divisions exist in Marseille ahead of Sunday's election.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Hungary",
-        "summary": "\u2022 Viktor Orban urges a ceasefire during his visit to Kyiv.\n\u2022 Viktor Orban visits Ukraine and proposes a ceasefire.\n\u2022 Hungary opposes European Union policies and supports far-right ideology.",
-        "coordinates": [
-            47.1817585,
-            19.5060937
-        ]
-    },
-    {
-        "location": "India",
-        "summary": "\u2022 Over 100 people were killed in a stampede during an Indian religious event.\n\u2022 The incident occurred due to overcrowding and lack of crowd control measures.\n\u2022 Authorities have launched an investigation into the cause of the tragedy.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
         "location": "Iran",
-        "summary": "\u2022 Iran is set to hold its presidential election.\n\u2022 The country's Supreme Leader will appoint the next president from the top four candidates who receive the most votes.\n\u2022 This election marks a significant milestone in Iranian politics as it determines the direction of the country's future governance.",
+        "summary": "\u2022 The election of Iran's new president will take place soon.\n\u2022 The role of the Iranian President includes managing the country's government.\n\u2022 A leader with a strong background in politics or public service is likely to be chosen as the next President.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
-        "location": "Ireland",
-        "summary": "\u2022 Three people were killed in road accidents in Ireland.\n\u2022 Famous Irish celebrities visited the town of Muff.\n\u2022 A woman and her child were among those who died.",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "location": "Israel",
-        "summary": "1. Israel's conscription rule sparks outrage among ultra-Orthodox Jews.\n2. A former Netanyahu supporter turns against him after her son is taken hostage by Hamas.",
+        "summary": "\u2022 Israeli military targets Hezbollah leader in Lebanon.\n\u2022 Hezbollah commander killed in Israeli airstrike.\n\u2022 Conflict escalates between Israel and Hezbollah.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Mexico",
-        "summary": "\u2022 A violent gang fight in Mexico resulted in multiple deaths.\n\u2022 The incident occurred between rival gangs, leaving behind a large number of casualties.\n\u2022 Authorities are investigating the motive behind the brutal conflict.",
+        "location": "Jamaica",
+        "summary": "\u2022 Powerful Hurricane Beryl approaches Jamaica\n\u2022 Hurricane Beryl moves closer to Jamaica\n\u2022 Hurricane Beryl passes near Jamaica",
         "coordinates": [
-            19.4326296,
-            -99.1331785
+            18.1850507,
+            -77.3947693
         ]
     },
     {
-        "location": "Netherlands",
-        "summary": "\u2022 The Dutch government has been sworn in\n\u2022 This follows an election win by Wilders \n\u2022 The new government is led by Wilders",
+        "location": "Japan",
+        "summary": "\u2022 Cup Noodles introduces s'more-flavored ramen\n\u2022 The new flavor combines traditional Japanese ramen with American campfire treats \n\u2022 S'more-flavored ramen is available in stores now",
         "coordinates": [
-            52.2434979,
-            5.6343227
+            36.5748441,
+            139.2394179
         ]
     },
     {
-        "location": "New Zealand",
-        "summary": "\u2022 New Zealand's shift towards conservatism is affecting its political landscape.\n\u2022 The country was previously seen as a safe haven for those fleeing the US under Donald Trump's presidency.\n\u2022 However, recent developments suggest that this perception is no longer accurate.",
+        "location": "Kenya",
+        "summary": "\u2022 Public outcry prompts pay rise freeze for Kenyan Members of Parliament.\n\u2022 Freeze is implemented to address public discontent over perceived high salaries.\n\u2022 Decision aims to restore trust in government's commitment to transparency and accountability.",
         "coordinates": [
-            -41.5000831,
-            172.8344077
+            1.4419683,
+            38.4313975
         ]
     },
     {
         "location": "Panama",
-        "summary": "\u2022 US funds deportation efforts in Panama amid migrant crackdown.\n\u2022 Deportation funding is part of an ongoing campaign to reduce migration numbers.\n\u2022 The expanded migrant crackdown targets people crossing borders without proper documentation.",
+        "summary": "\u2022 The US is funding deportations from Panama\n\u2022 This is part of an effort to crack down on migrants in Panama\n\u2022 The goal is to reduce the number of people entering or staying in Panama illegally",
         "coordinates": [
             8.559559,
             -81.1308434
         ]
     },
     {
-        "location": "Sierra Leone",
-        "summary": "\u2022 Sierra Leone has banned child marriage.\n\u2022 This move aims to protect children from early marriage.\n\u2022 The ban is expected to improve education outcomes for girls.",
+        "location": "Portugal",
+        "summary": "\u2022 Over 30 passengers injured in severe turbulence\n\u2022 Diverted flight from Europe to Brazil\n\u2022 No fatalities reported",
         "coordinates": [
-            8.6400349,
-            -11.8400269
+            39.6621648,
+            -8.1353519
         ]
     },
     {
-        "location": "Taiwan",
-        "summary": "\u2022 Taiwan is studying Ukraine's experiences to better prepare itself for potential military conflicts.\n\u2022 This includes analyzing Ukraine's defense strategies and tactics.\n\u2022 The lessons learned may help Taiwan improve its own national security capabilities.",
+        "location": "Saint Lucia",
+        "summary": "\u2022 Worst hurricane ever described by Union Island resident\n\u2022 Almost entire island left homeless after Hurricane Beryl",
         "coordinates": [
-            23.5983227,
-            120.83537694479215
+            13.8250489,
+            -60.975036
+        ]
+    },
+    {
+        "location": "South Africa",
+        "summary": "\u2022 South African zoos are using in vitro fertilization (IVF) to breed endangered white rhino species.\n\u2022 The goal is to increase their population and reduce poaching threats.\n\u2022 This method allows conservationists to carefully select breeding partners for optimal genetic diversity.",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "location": "Spain",
+        "summary": "\u2022 The world's oldest cave art has been discovered in Spain, featuring depictions of humans and pigs.\n\u2022 This 51,000-year-old painting is believed to be one of the earliest scenes ever depicted using art.\n\u2022 The discovery provides valuable insights into prehistoric human culture and artistic expression.",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "location": "Syria",
+        "summary": "\u2022 Syrian forces clashed with Turkish troops.\n\u2022 The conflict began as a response to anti-migrant riots in Turkey.\n\u2022 The incident highlights rising tensions between the two nations.",
+        "coordinates": [
+            34.815353599999995,
+            38.42307447267531
+        ]
+    },
+    {
+        "location": "Ukraine",
+        "summary": "\u2022 Ukraine accuses Russia of using brutal tactics in its efforts to seize territory.\n\u2022 Public support for Hamas is waning due to the ongoing conflict in Gaza.\n\u2022 In Kyiv, hidden and missing monuments symbolize resistance against war.",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 The UK general election campaign is highlighting concerns over dental healthcare.\n\u2022 DIY dentistry could become a bigger issue due to its potential impact on public health.\n\u2022 Voters may prioritize oral care in their decision-making process during the election.",
+        "summary": "\u2022 The UK's general election is underway amid controversy surrounding the campaign trail.\n\u2022 Jewish voters who previously deserted the Labour party due to anti-Semitism are returning in large numbers.\n\u2022 Meanwhile, the ruling Conservative party faces an existential threat as they struggle to maintain their grip on power.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -121,7 +137,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 The sentencing of former President Trump in his hush-money case has been delayed until September.\n\u2022 Former Mayor Rudy Giuliani has been disbarred due to making false statements about the 2020 election.\n\u2022 A stingray that was found pregnant but did not have a mate has died.\n\u2022 The US paid $176 million to Moderna to help develop a vaccine against the bird flu virus.\n\u2022 Former Vice President Joe Biden believes he performed poorly during a recent debate because he had jet lag and was traveling at the time.\n\u2022 The Supreme Court ruled that former President Trump does not have complete immunity while serving as president.\n\u2022 Some doctors initially dismissed certain women's symptoms as hysteria, but now the women are speaking out against them.",
+        "summary": "\u2022 Biden faces increasing pressure to withdraw from his presidential bid.\n\u2022 Blazing wildfires have led to evacuations in California.\n\u2022 The Supreme Court has granted Trump temporary immunity in several cases.",
         "coordinates": [
             39.7837304,
             -100.445882

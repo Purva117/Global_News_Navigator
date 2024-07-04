@@ -1,82 +1,82 @@
 [
     {
-        "headline": "Trump sentencing in hush-money case delayed until September",
+        "headline": "Biden says he is running as pressure to quit rises",
         "location": "United States"
     },
     {
-        "headline": "Biden blames jet lag and travel for poor debate performance",
+        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
+        "location": "Jamaica"
+    },
+    {
+        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
+        "location": "Israel"
+    },
+    {
+        "headline": "Blazing wildfires force evacuations in California",
         "location": "United States"
     },
     {
-        "headline": "Palestinians flee Khan Younis as Israeli forces strike south Gaza",
-        "location": "Palestine/Gaza Strip"
-    },
-    {
-        "headline": "French election candidates withdraw in bid to block far right",
+        "headline": "Only far right can win majority, warns French PM",
         "location": "France"
     },
     {
-        "headline": "Rudy Giuliani disbarred over false 2020 election claims",
-        "location": "United States"
+        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
+        "location": "Jamaica"
     },
     {
-        "headline": "Biden blames jet lag and travel for poor debate performance",
-        "location": "United States"
+        "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
+        "location": "Ukraine"
     },
     {
-        "headline": "More than 100 killed in crush at India religious event",
-        "location": "India"
+        "headline": "IVF help for wild rhinos from zoo cousins",
+        "location": "South Africa"
     },
     {
-        "headline": "Child marriage ban welcomed in Sierra Leone",
-        "location": "Sierra Leone"
+        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
+        "location": "Israel"
     },
     {
-        "headline": "Palestinians flee Khan Younis as Israeli forces strike south Gaza",
-        "location": "Palestine/Gaza Strip"
+        "headline": "World's oldest cave art found showing humans and pig",
+        "location": "Spain"
     },
     {
-        "headline": "US stingray who became pregnant without mate dies",
-        "location": "United States"
+        "headline": "Belarus frees five political prisoners in rare amnesty",
+        "location": "Belarus"
     },
     {
-        "headline": "Hungary's Orban urges ceasefire on Kyiv visit",
-        "location": "Hungary"
+        "headline": "Pay rise freeze for Kenyan MPs after public anger",
+        "location": "Kenya"
     },
     {
-        "headline": "US pays Moderna $176m to develop bird-flu jab",
-        "location": "United States"
+        "headline": "Gazans seek shelter as Khan Younis exodus continues",
+        "location": "Palestine"
     },
     {
-        "headline": "Dutch government sworn in after Wilders election win",
-        "location": "Netherlands"
-    },
-    {
-        "headline": "Mexican gang fight leaves pile of bodies",
-        "location": "Mexico"
+        "headline": "Brazil blocks Meta from using social media posts to train AI",
+        "location": "Brazil"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Not applicable"
+        "location": "None"
+    },
+    {
+        "headline": "Blazing wildfires force evacuations in California",
+        "location": "United States"
+    },
+    {
+        "headline": "'Worst hurricane ever' - Union Island resident describes Beryl destruction",
+        "location": "Saint Lucia"
     },
     {
         "headline": "Flying in the eye of Hurricane Beryl",
-        "location": "United States"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Syrians attack Turkish troops after anti-migrant riots",
+        "location": "Syria"
     },
     {
         "headline": "What the Supreme Court immunity ruling means for Trump",
-        "location": "United States"
-    },
-    {
-        "headline": "High winds and heavy rain as Caribbean hit by hurricane",
-        "location": "Caribbean"
-    },
-    {
-        "headline": "Watch key moments from Biden and Trump's first debate",
-        "location": "United States"
-    },
-    {
-        "headline": "US voters' verdicts on debate performances",
         "location": "United States"
     },
     {
@@ -84,76 +84,136 @@
         "location": "Not applicable"
     },
     {
-        "headline": "Doctors dismissed these women as hysterical. Now they're fighting back",
-        "location": "United States"
+        "headline": "Hamas faces growing public dissent as Gaza war erodes support",
+        "location": "Gaza Strip"
     },
     {
-        "headline": "How Microsoft and Nvidia bet correctly to leapfrog Apple",
+        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
+        "location": "France"
+    },
+    {
+        "headline": "Rare plants hidden in toys - and other trafficking tactics",
         "location": "Not applicable"
     },
     {
-        "headline": "How the Supreme Court became a political battlefield",
-        "location": "United States"
+        "headline": "'Almost whole island homeless' in Hurricane Beryl's wake",
+        "location": "Saint Lucia"
     },
     {
-        "headline": "Talks with the Taliban - no women allowed",
-        "location": "Afghanistan"
-    },
-    {
-        "headline": "Israel conscription rule stokes ultra-Orthodox fury",
-        "location": "Israel"
+        "headline": "Hurricane Beryl: Record-breaking sign of warming world",
+        "location": "Not applicable"
     },
     {
         "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "Biden blames jet lag and travel for poor debate performance",
+        "headline": "I'm not leaving, Biden says, as pressure to drop out grows",
         "location": "United States"
     },
     {
-        "headline": "Hungary's Orban urges ceasefire on Kyiv visit",
-        "location": "Hungary"
+        "headline": "Rare plants hidden in toys - and other trafficking tactics",
+        "location": "Not applicable"
     },
     {
-        "headline": "Child marriage ban welcomed in Sierra Leone",
-        "location": "Sierra Leone"
-    },
-    {
-        "headline": "Woman and child among three killed on Irish roads",
-        "location": "Ireland"
-    },
-    {
-        "headline": "How the Supreme Court became a political battlefield",
-        "location": "United States"
-    },
-    {
-        "headline": "Trump sentencing in hush-money case delayed until September",
-        "location": "United States"
-    },
-    {
-        "headline": "French election candidates withdraw in bid to block far right",
+        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
         "location": "France"
     },
     {
-        "headline": "Crowe, Keating and Tubridy bring star power to Muff",
-        "location": "Ireland"
+        "headline": "Hamas faces growing public dissent as Gaza war erodes support",
+        "location": "Ukraine"
     },
     {
-        "headline": "Trump sentencing in hush money case could be delayed",
+        "headline": "Biden points to White House record after shaky debate",
+        "location": "United States"
+    },
+    {
+        "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Would having an AI boss be better than your current human one?",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Blazing wildfires force evacuations in California",
+        "location": "United States"
+    },
+    {
+        "headline": "Project 2025: The Trump presidency wish list, explained",
         "location": "United States"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "Not applicable"
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "It\u2019s U.K. election day: A trash can is running, and dogs are everywhere",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Hurricane Beryl is sweeping by Jamaica",
+        "location": "Jamaica"
+    },
+    {
+        "headline": "Gaza hospital \u2018completely empty\u2019 after Israeli order in Khan Younis",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Iran is picking a new president. Here\u2019s what to know.",
+        "location": "Iran"
+    },
+    {
+        "headline": "51,000-year-old cave painting may be earliest scene depicted through art",
+        "location": "Spain"
+    },
+    {
+        "headline": "You didn\u2019t ask for it, but Cup Noodles now has s\u2019more-flavored ramen",
+        "location": "Japan"
+    },
+    {
+        "headline": "Jewish voters who abandoned U.K.\u2019s Labour over antisemitism are returning",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "A fungus is killing frogs. Homemade saunas might save them, scientists say.",
+        "location": "Australia"
+    },
+    {
+        "headline": "Kyiv\u2019s shrouded and absent statues tell a story of war and defiance",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "A sculpture showed Mary giving birth to Jesus. A vandal beheaded it.",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "The rich one, the \u2018boring\u2019 one and Trump\u2019s buddy: Key U.K. election players",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "How 14 years of Conservative government have changed Britain",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Britain\u2019s Conservatives face an \u2018extinction-level\u2019 event",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Severe turbulence injures over 30, diverts Air Europa flight to Brazil",
+        "location": "Portugal"
     },
     {
         "headline": "U.S. will fund deportations from Panama, expanding migrant crackdown",
         "location": "Panama"
     },
     {
+        "headline": "Hurricane Beryl is churning west after hitting Caribbean islands. Where it\u2019s headed next.",
+        "location": "Not applicable"
+    },
+    {
         "headline": "Why Beryl is an early sign of a particularly dangerous hurricane season",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "Hurricane Beryl tracker: Map and projected storm path",
@@ -164,67 +224,7 @@
         "location": "Russia"
     },
     {
-        "headline": "Iran is picking a new president. Here\u2019s what to know.",
-        "location": "Iran"
-    },
-    {
         "headline": "What DIY dentistry has to do with the British election",
         "location": "United Kingdom"
-    },
-    {
-        "headline": "More than 100 killed in Indian religious event stampede, officials say",
-        "location": "India"
-    },
-    {
-        "headline": "Israel orders Palestinians to evacuate parts of Khan Younis once again",
-        "location": "Palestine/Gaza Strip"
-    },
-    {
-        "headline": "Hungarian leader Viktor Orban visits Ukraine and suggests a cease-fire",
-        "location": "Hungary"
-    },
-    {
-        "headline": "New Zealand, once a utopia for Trump-weary exiles, turns to the right",
-        "location": "New Zealand"
-    },
-    {
-        "headline": "Hurricane Beryl at Category 5 strength after making landfall in Caribbean",
-        "location": "Caribbean"
-    },
-    {
-        "headline": "Severe turbulence injures over 30, diverts Air Europa flight to Brazil",
-        "location": "Brazil"
-    },
-    {
-        "headline": "This Israeli hostage mother supported Netanyahu. Now she wants him gone.",
-        "location": "Israel"
-    },
-    {
-        "headline": "What happens next in French elections as far right leads in first vote",
-        "location": "France"
-    },
-    {
-        "headline": "As Macron fades and far right surges, French left senses an opening",
-        "location": "France"
-    },
-    {
-        "headline": "Head of Gaza\u2019s al-Shifa Hospital released after months of detention",
-        "location": "Palestine/Gaza Strip"
-    },
-    {
-        "headline": "E.U. says Meta\u2019s \u2018pay or consent\u2019 ads violate competition law",
-        "location": "European Union"
-    },
-    {
-        "headline": "With \u2018Make Europe Great Again,\u2019 Hungary taunts allies, touts hard right",
-        "location": "Hungary"
-    },
-    {
-        "headline": "A 28-year-old is the face of France\u2019s far right: Who is Jordan Bardella?",
-        "location": "France"
-    },
-    {
-        "headline": "What Taiwan is learning from the war in Ukraine",
-        "location": "Taiwan/Ukraine"
     }
 ]
