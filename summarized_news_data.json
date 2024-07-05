@@ -1,39 +1,47 @@
 [
     {
         "location": "Australia",
-        "summary": "\u2022 Fungus kills frogs.\n\u2022 Scientists suggest homemade saunas may help save them.\n\u2022 Fungus causes frog deaths, with saunas potentially offering solution.",
+        "summary": "\u2022 The Currumbin Wildlife Sanctuary in Queensland has stopped allowing visitors to cuddle with koalas due to concerns about animal welfare.\n\u2022 This move may spark controversy over whether other zoos and wildlife parks should also limit human interaction with animals.\n\u2022 By taking this step, the sanctuary aims to prioritize the health and well-being of its native species.",
         "coordinates": [
             -24.7761086,
             134.755
         ]
     },
     {
-        "location": "Belarus",
-        "summary": "\u2022 Belarus has granted amnesty to five political prisoners\n\u2022 This is a rare occurrence in the country\n\u2022 The move suggests possible improvements in human rights conditions",
+        "location": "China",
+        "summary": "\u2022 The European Union has imposed new tariffs on Chinese electric cars.\n\u2022 This move is likely to increase prices for Chinese car manufacturers.\n\u2022 The tariffs may also affect trade relations between the two regions.",
         "coordinates": [
-            53.4250605,
-            27.6971358
+            35.000074,
+            104.999927
         ]
     },
     {
-        "location": "Brazil",
-        "summary": "\u2022 Brazil blocks Meta from using social media posts to train AI.\n\u2022 This move is part of an ongoing effort to regulate tech giants in Brazil.\n\u2022 The ban aims to protect users' privacy rights and prevent misuse of personal data.",
+        "location": "Ecuador",
+        "summary": "\u2022 Police in Ecuador have freed 49 people from captivity after a gang had taken them.\n\u2022 The hostages were rescued during a raid on the gang's hideout.\n\u2022 Authorities say they will continue to work to dismantle the criminal organization responsible for the kidnapping.",
         "coordinates": [
-            -10.3333333,
-            -53.2
+            -1.3397668,
+            -79.3666965
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 French PM says only far-right parties can form a majority in upcoming elections.\n\u2022 P\u00e9tanque event in Marseille hides deep-seated political divisions before Sunday's vote.\n\u2022 Deep-seated political divisions exist in Marseille ahead of Sunday's election.",
+        "summary": "\u2022 Violent attacks in France before a crucial election.\n\u2022 Attacks have left many people injured or scared.\n\u2022 People fear violence may continue despite efforts to stop it.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
+        "location": "Ghana",
+        "summary": "\u2022 Ghanaian chef accused of faking Guinness World Records award.\n\u2022 Chef allegedly falsified records to gain recognition.\n\u2022 Investigation underway to uncover truth behind accusations.",
+        "coordinates": [
+            8.0300284,
+            -1.0800271
+        ]
+    },
+    {
         "location": "Iran",
-        "summary": "\u2022 The election of Iran's new president will take place soon.\n\u2022 The role of the Iranian President includes managing the country's government.\n\u2022 A leader with a strong background in politics or public service is likely to be chosen as the next President.",
+        "summary": "\u2022 A hardliner and a reformist are competing in Iran's presidential runoff election.\n\u2022 The outcome will determine who becomes Iran's next president.\n\u2022 Iranians choose between these two candidates on election day.",
         "coordinates": [
             32.6475314,
             54.5643516
@@ -41,15 +49,23 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli military targets Hezbollah leader in Lebanon.\n\u2022 Hezbollah commander killed in Israeli airstrike.\n\u2022 Conflict escalates between Israel and Hezbollah.",
+        "summary": "\u2022 Israel instructs Gaza ceasefire negotiators to restart their talks.\n\u2022 The resumption of negotiations aims to reach a lasting peace agreement.\n\u2022 Israeli authorities hope that renewed dialogue will lead to a stable resolution.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
+        "location": "Italy",
+        "summary": "\u2022 Mount Etna erupts with lava at night.\n\u2022 Vandal cuts off Virgin's head from a sculpture.\n\u2022 Both events occur in Italy.",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
         "location": "Jamaica",
-        "summary": "\u2022 Powerful Hurricane Beryl approaches Jamaica\n\u2022 Hurricane Beryl moves closer to Jamaica\n\u2022 Hurricane Beryl passes near Jamaica",
+        "summary": "\u2022 Hurricane Beryl has left many Jamaican homes without power.\n\u2022 The hurricane caused widespread damage to Jamaica's infrastructure.\n\u2022 After passing through Jamaica, the storm is now heading towards the Cayman Islands.",
         "coordinates": [
             18.1850507,
             -77.3947693
@@ -57,71 +73,31 @@
     },
     {
         "location": "Japan",
-        "summary": "\u2022 Cup Noodles introduces s'more-flavored ramen\n\u2022 The new flavor combines traditional Japanese ramen with American campfire treats \n\u2022 S'more-flavored ramen is available in stores now",
+        "summary": "\u2022 Cup Noodles introduces new smores-flavored ramen.\n\u2022 This is an unexpected addition to their product line.\n\u2022 It was not requested by customers.",
         "coordinates": [
             36.5748441,
             139.2394179
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 Public outcry prompts pay rise freeze for Kenyan Members of Parliament.\n\u2022 Freeze is implemented to address public discontent over perceived high salaries.\n\u2022 Decision aims to restore trust in government's commitment to transparency and accountability.",
+        "location": "Lebanon",
+        "summary": "\u2022 Hezbollah launched 200 rockets and drones towards Israel.\n\u2022 The attacks caused damage in some areas.\n\u2022 Israel responded with airstrikes on Hezbollah positions.",
         "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "location": "Panama",
-        "summary": "\u2022 The US is funding deportations from Panama\n\u2022 This is part of an effort to crack down on migrants in Panama\n\u2022 The goal is to reduce the number of people entering or staying in Panama illegally",
-        "coordinates": [
-            8.559559,
-            -81.1308434
-        ]
-    },
-    {
-        "location": "Portugal",
-        "summary": "\u2022 Over 30 passengers injured in severe turbulence\n\u2022 Diverted flight from Europe to Brazil\n\u2022 No fatalities reported",
-        "coordinates": [
-            39.6621648,
-            -8.1353519
-        ]
-    },
-    {
-        "location": "Saint Lucia",
-        "summary": "\u2022 Worst hurricane ever described by Union Island resident\n\u2022 Almost entire island left homeless after Hurricane Beryl",
-        "coordinates": [
-            13.8250489,
-            -60.975036
-        ]
-    },
-    {
-        "location": "South Africa",
-        "summary": "\u2022 South African zoos are using in vitro fertilization (IVF) to breed endangered white rhino species.\n\u2022 The goal is to increase their population and reduce poaching threats.\n\u2022 This method allows conservationists to carefully select breeding partners for optimal genetic diversity.",
-        "coordinates": [
-            -28.8166236,
-            24.991639
+            40.375713,
+            -76.4626118
         ]
     },
     {
         "location": "Spain",
-        "summary": "\u2022 The world's oldest cave art has been discovered in Spain, featuring depictions of humans and pigs.\n\u2022 This 51,000-year-old painting is believed to be one of the earliest scenes ever depicted using art.\n\u2022 The discovery provides valuable insights into prehistoric human culture and artistic expression.",
+        "summary": "\u2022 A 51,000-year-old cave painting has been discovered in Spain.\n\u2022 The painting is believed to be one of the oldest scenes depicted through art.\n\u2022 It dates back an astonishing 51,000 years ago.",
         "coordinates": [
             39.3260685,
             -4.8379791
         ]
     },
     {
-        "location": "Syria",
-        "summary": "\u2022 Syrian forces clashed with Turkish troops.\n\u2022 The conflict began as a response to anti-migrant riots in Turkey.\n\u2022 The incident highlights rising tensions between the two nations.",
-        "coordinates": [
-            34.815353599999995,
-            38.42307447267531
-        ]
-    },
-    {
         "location": "Ukraine",
-        "summary": "\u2022 Ukraine accuses Russia of using brutal tactics in its efforts to seize territory.\n\u2022 Public support for Hamas is waning due to the ongoing conflict in Gaza.\n\u2022 In Kyiv, hidden and missing monuments symbolize resistance against war.",
+        "summary": "\u2022 Ukraine accuses Russia of \"meat assaults\" in its attempts to gain territory.\n\u2022 The city of Kyiv has many statues that represent the impact of war on its residents.\n\u2022 The statues serve as symbols of Ukrainian resistance against the ongoing conflict with Russia.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -129,7 +105,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 The UK's general election is underway amid controversy surrounding the campaign trail.\n\u2022 Jewish voters who previously deserted the Labour party due to anti-Semitism are returning in large numbers.\n\u2022 Meanwhile, the ruling Conservative party faces an existential threat as they struggle to maintain their grip on power.",
+        "summary": "\u2022 U.K. election exit polls predict a significant Labour victory, ending 14 years of Conservative rule.\n\u2022 Keir Starmer is poised to become the new Prime Minister.\n\u2022 Jewish voters who previously left the Labour party due to anti-Semitism concerns are rejoining.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -137,7 +113,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Biden faces increasing pressure to withdraw from his presidential bid.\n\u2022 Blazing wildfires have led to evacuations in California.\n\u2022 The Supreme Court has granted Trump temporary immunity in several cases.",
+        "summary": "\u2022 Nearly 30,000 people have been evacuated due to California wildfires.\n\u2022 Former Vice President Joe Biden has admitted to \"screwing up\" during a recent debate, but vows to continue participating in the election.\n\u2022 An American citizen was imprisoned in Russia for 12 years after being convicted of drug charges.",
         "coordinates": [
             39.7837304,
             -100.445882

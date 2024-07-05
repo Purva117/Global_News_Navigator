@@ -1,6 +1,6 @@
 [
     {
-        "headline": "A fungus is killing frogs. Homemade saunas might save them, scientists say.",
+        "headline": "An iconic wildlife park has banned koala cuddles. Will others follow?",
         "location": "Australia",
         "coordinates": [
             -24.7761086,
@@ -8,23 +8,23 @@
         ]
     },
     {
-        "headline": "Belarus frees five political prisoners in rare amnesty",
-        "location": "Belarus",
+        "headline": "EU hits Chinese electric cars with new tariffs",
+        "location": "China",
         "coordinates": [
-            53.4250605,
-            27.6971358
+            35.000074,
+            104.999927
         ]
     },
     {
-        "headline": "Brazil blocks Meta from using social media posts to train AI",
-        "location": "Brazil",
+        "headline": "Ecuador police free 49 people held by gang",
+        "location": "Ecuador",
         "coordinates": [
-            -10.3333333,
-            -53.2
+            -1.3397668,
+            -79.3666965
         ]
     },
     {
-        "headline": "Only far right can win majority, warns French PM",
+        "headline": "Violent attacks shock France ahead of crunch vote",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,7 +32,7 @@
         ]
     },
     {
-        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
+        "headline": "Violent attacks shock France ahead of crunch vote",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -40,11 +40,35 @@
         ]
     },
     {
-        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
-        "location": "France",
+        "headline": "Ghana chef accused of faking Guinness World Records award",
+        "location": "Ghana",
         "coordinates": [
-            46.603354,
-            1.8883335
+            8.0300284,
+            -1.0800271
+        ]
+    },
+    {
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
         ]
     },
     {
@@ -56,7 +80,7 @@
         ]
     },
     {
-        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
+        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -64,7 +88,7 @@
         ]
     },
     {
-        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
+        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -72,7 +96,23 @@
         ]
     },
     {
-        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
+        "headline": "Watch: Mount Etna spits lava into the night sky",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "A sculpture showed Mary giving birth to Jesus. A vandal beheaded it.",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "Hurricane Beryl leaves Jamaican homes without power",
         "location": "Jamaica",
         "coordinates": [
             18.1850507,
@@ -80,7 +120,7 @@
         ]
     },
     {
-        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
+        "headline": "Hurricane Beryl leaves Jamaican homes without power",
         "location": "Jamaica",
         "coordinates": [
             18.1850507,
@@ -88,7 +128,7 @@
         ]
     },
     {
-        "headline": "Hurricane Beryl is sweeping by Jamaica",
+        "headline": "Hurricane Beryl leaves storm-tossed Jamaica, heads for Cayman Islands",
         "location": "Jamaica",
         "coordinates": [
             18.1850507,
@@ -104,59 +144,19 @@
         ]
     },
     {
-        "headline": "Pay rise freeze for Kenyan MPs after public anger",
-        "location": "Kenya",
+        "headline": "Hezbollah fires 200 rockets and drones into Israel",
+        "location": "Lebanon",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            40.375713,
+            -76.4626118
         ]
     },
     {
-        "headline": "U.S. will fund deportations from Panama, expanding migrant crackdown",
-        "location": "Panama",
+        "headline": "Hezbollah fires 200 rockets and drones into Israel",
+        "location": "Lebanon",
         "coordinates": [
-            8.559559,
-            -81.1308434
-        ]
-    },
-    {
-        "headline": "Severe turbulence injures over 30, diverts Air Europa flight to Brazil",
-        "location": "Portugal",
-        "coordinates": [
-            39.6621648,
-            -8.1353519
-        ]
-    },
-    {
-        "headline": "'Worst hurricane ever' - Union Island resident describes Beryl destruction",
-        "location": "Saint Lucia",
-        "coordinates": [
-            13.8250489,
-            -60.975036
-        ]
-    },
-    {
-        "headline": "'Almost whole island homeless' in Hurricane Beryl's wake",
-        "location": "Saint Lucia",
-        "coordinates": [
-            13.8250489,
-            -60.975036
-        ]
-    },
-    {
-        "headline": "IVF help for wild rhinos from zoo cousins",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "World's oldest cave art found showing humans and pig",
-        "location": "Spain",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
+            40.375713,
+            -76.4626118
         ]
     },
     {
@@ -165,30 +165,6 @@
         "coordinates": [
             39.3260685,
             -4.8379791
-        ]
-    },
-    {
-        "headline": "Syrians attack Turkish troops after anti-migrant riots",
-        "location": "Syria",
-        "coordinates": [
-            34.815353599999995,
-            38.42307447267531
-        ]
-    },
-    {
-        "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Hamas faces growing public dissent as Gaza war erodes support",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
         ]
     },
     {
@@ -216,6 +192,46 @@
         ]
     },
     {
+        "headline": "Live updates: U.K. election exit poll projects big win for Labour, end to 14 years of Conservative rule",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Landslide win for U.K.\u2019s Labour ends 14 years of Conservative rule",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "The intriguing real-life story of Keir Starmer, U.K.'s next prime minister",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Can the king vote, and does he have a role in elections?",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "What to know about U.K. election: Conservative collapse, Labour revival",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
         "headline": "It\u2019s U.K. election day: A trash can is running, and dogs are everywhere",
         "location": "United Kingdom",
         "coordinates": [
@@ -232,14 +248,6 @@
         ]
     },
     {
-        "headline": "A sculpture showed Mary giving birth to Jesus. A vandal beheaded it.",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
         "headline": "The rich one, the \u2018boring\u2019 one and Trump\u2019s buddy: Key U.K. election players",
         "location": "United Kingdom",
         "coordinates": [
@@ -248,31 +256,31 @@
         ]
     },
     {
-        "headline": "How 14 years of Conservative government have changed Britain",
-        "location": "United Kingdom",
+        "headline": "Nearly 30,000 evacuated from California wildfires",
+        "location": "United States",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.7837304,
+            -100.445882
         ]
     },
     {
-        "headline": "Britain\u2019s Conservatives face an \u2018extinction-level\u2019 event",
-        "location": "United Kingdom",
+        "headline": "US man jailed in Russia for 12 years on drug charges",
+        "location": "United States",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.7837304,
+            -100.445882
         ]
     },
     {
-        "headline": "What DIY dentistry has to do with the British election",
-        "location": "United Kingdom",
+        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
+        "location": "United States",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.7837304,
+            -100.445882
         ]
     },
     {
-        "headline": "Biden says he is running as pressure to quit rises",
+        "headline": "Biden: 'I screwed up'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +296,7 @@
         ]
     },
     {
-        "headline": "Blazing wildfires force evacuations in California",
+        "headline": "Amazon at 30: What next for 'The Everything Company'?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +304,7 @@
         ]
     },
     {
-        "headline": "What the Supreme Court immunity ruling means for Trump",
+        "headline": "Nathan's Hot Dog Eating contest crowns new winners",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +312,7 @@
         ]
     },
     {
-        "headline": "I'm not leaving, Biden says, as pressure to drop out grows",
+        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +320,7 @@
         ]
     },
     {
-        "headline": "Biden points to White House record after shaky debate",
+        "headline": "Nearly 30,000 evacuated from California wildfires",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +328,7 @@
         ]
     },
     {
-        "headline": "Blazing wildfires force evacuations in California",
+        "headline": "Jill Biden: The quiet influence of Biden's closest adviser",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +336,31 @@
         ]
     },
     {
-        "headline": "Project 2025: The Trump presidency wish list, explained",
+        "headline": "Man sentenced to prison for carrying 6-inch replica Zelda sword",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden faces a high-stakes summit with his presidency in the spotlight",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Stolen 16th-century painting, found at a bus stop, sells for record $22M",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "A fungus is killing frogs. Homemade saunas might save them, scientists say.",
         "location": "United States",
         "coordinates": [
             39.7837304,

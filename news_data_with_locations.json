@@ -1,63 +1,67 @@
 [
     {
-        "headline": "Biden says he is running as pressure to quit rises",
-        "location": "United States"
-    },
-    {
-        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
-        "location": "Jamaica"
-    },
-    {
-        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
-        "location": "Israel"
-    },
-    {
-        "headline": "Blazing wildfires force evacuations in California",
-        "location": "United States"
-    },
-    {
-        "headline": "Only far right can win majority, warns French PM",
+        "headline": "Violent attacks shock France ahead of crunch vote",
         "location": "France"
     },
     {
-        "headline": "Powerful Hurricane Beryl roars towards Jamaica",
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran"
+    },
+    {
+        "headline": "Hurricane Beryl leaves Jamaican homes without power",
         "location": "Jamaica"
     },
     {
-        "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
-        "location": "Ukraine"
+        "headline": "Nearly 30,000 evacuated from California wildfires",
+        "location": "United States"
     },
     {
-        "headline": "IVF help for wild rhinos from zoo cousins",
-        "location": "South Africa"
+        "headline": "US man jailed in Russia for 12 years on drug charges",
+        "location": "United States"
     },
     {
-        "headline": "Israeli strike kills senior Hezbollah commander in Lebanon",
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran"
+    },
+    {
+        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
+        "location": "United States"
+    },
+    {
+        "headline": "Hezbollah fires 200 rockets and drones into Israel",
+        "location": "Lebanon"
+    },
+    {
+        "headline": "Hurricane Beryl leaves Jamaican homes without power",
+        "location": "Jamaica"
+    },
+    {
+        "headline": "Ecuador police free 49 people held by gang",
+        "location": "Ecuador"
+    },
+    {
+        "headline": "EU hits Chinese electric cars with new tariffs",
+        "location": "China"
+    },
+    {
+        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
         "location": "Israel"
     },
     {
-        "headline": "World's oldest cave art found showing humans and pig",
-        "location": "Spain"
+        "headline": "DR Congo soldiers sentenced to death for desertion",
+        "location": "Democratic Republic of the Congo"
     },
     {
-        "headline": "Belarus frees five political prisoners in rare amnesty",
-        "location": "Belarus"
-    },
-    {
-        "headline": "Pay rise freeze for Kenyan MPs after public anger",
-        "location": "Kenya"
-    },
-    {
-        "headline": "Gazans seek shelter as Khan Younis exodus continues",
-        "location": "Palestine"
-    },
-    {
-        "headline": "Brazil blocks Meta from using social media posts to train AI",
-        "location": "Brazil"
+        "headline": "Ghana chef accused of faking Guinness World Records award",
+        "location": "Ghana"
     },
     {
         "headline": "Watch/Listen",
-        "location": "None"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Biden: 'I screwed up'",
+        "location": "United States"
     },
     {
         "headline": "Blazing wildfires force evacuations in California",
@@ -65,82 +69,78 @@
     },
     {
         "headline": "'Worst hurricane ever' - Union Island resident describes Beryl destruction",
-        "location": "Saint Lucia"
+        "location": "Union Island"
     },
     {
         "headline": "Flying in the eye of Hurricane Beryl",
         "location": "Not applicable"
     },
     {
-        "headline": "Syrians attack Turkish troops after anti-migrant riots",
-        "location": "Syria"
-    },
-    {
-        "headline": "What the Supreme Court immunity ruling means for Trump",
-        "location": "United States"
+        "headline": "Watch: Mount Etna spits lava into the night sky",
+        "location": "Italy"
     },
     {
         "headline": "Features",
         "location": "Not applicable"
     },
     {
-        "headline": "Hamas faces growing public dissent as Gaza war erodes support",
-        "location": "Gaza Strip"
+        "headline": "Flames, chains and grains: Africa's top shots",
+        "location": "Africa"
     },
     {
-        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
-        "location": "France"
-    },
-    {
-        "headline": "Rare plants hidden in toys - and other trafficking tactics",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "'Almost whole island homeless' in Hurricane Beryl's wake",
-        "location": "Saint Lucia"
-    },
-    {
-        "headline": "Hurricane Beryl: Record-breaking sign of warming world",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "I'm not leaving, Biden says, as pressure to drop out grows",
+        "headline": "Amazon at 30: What next for 'The Everything Company'?",
         "location": "United States"
     },
     {
-        "headline": "Rare plants hidden in toys - and other trafficking tactics",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "In Marseille, p\u00e9tanque masks political divides ahead of Sunday's vote",
-        "location": "France"
-    },
-    {
         "headline": "Hamas faces growing public dissent as Gaza war erodes support",
-        "location": "Ukraine"
+        "location": "Palestine"
     },
     {
-        "headline": "Biden points to White House record after shaky debate",
-        "location": "United States"
+        "headline": "An iconic wildlife park has banned koala cuddles. Will others follow?",
+        "location": "Australia"
     },
     {
         "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
         "location": "Ukraine"
     },
     {
-        "headline": "Would having an AI boss be better than your current human one?",
+        "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "Blazing wildfires force evacuations in California",
+        "headline": "Flames, chains and grains: Africa's top shots",
+        "location": "Africa"
+    },
+    {
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran"
+    },
+    {
+        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
+        "location": "Israel"
+    },
+    {
+        "headline": "Nathan's Hot Dog Eating contest crowns new winners",
         "location": "United States"
     },
     {
-        "headline": "Project 2025: The Trump presidency wish list, explained",
+        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
+        "location": "United States"
+    },
+    {
+        "headline": "Violent attacks shock France ahead of crunch vote",
+        "location": "France"
+    },
+    {
+        "headline": "Hezbollah fires 200 rockets and drones into Israel",
+        "location": "Lebanon"
+    },
+    {
+        "headline": "Nearly 30,000 evacuated from California wildfires",
+        "location": "United States"
+    },
+    {
+        "headline": "Jill Biden: The quiet influence of Biden's closest adviser",
         "location": "United States"
     },
     {
@@ -148,12 +148,48 @@
         "location": "United Kingdom"
     },
     {
-        "headline": "It\u2019s U.K. election day: A trash can is running, and dogs are everywhere",
+        "headline": "Live updates: U.K. election exit poll projects big win for Labour, end to 14 years of Conservative rule",
         "location": "United Kingdom"
     },
     {
-        "headline": "Hurricane Beryl is sweeping by Jamaica",
+        "headline": "Landslide win for U.K.\u2019s Labour ends 14 years of Conservative rule",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "The intriguing real-life story of Keir Starmer, U.K.'s next prime minister",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Man sentenced to prison for carrying 6-inch replica Zelda sword",
+        "location": "United States"
+    },
+    {
+        "headline": "Hurricane Beryl tracker: Map and projected storm path",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Can the king vote, and does he have a role in elections?",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Biden faces a high-stakes summit with his presidency in the spotlight",
+        "location": "United States"
+    },
+    {
+        "headline": "Hurricane Beryl leaves storm-tossed Jamaica, heads for Cayman Islands",
         "location": "Jamaica"
+    },
+    {
+        "headline": "Stolen 16th-century painting, found at a bus stop, sells for record $22M",
+        "location": "United States"
+    },
+    {
+        "headline": "What to know about U.K. election: Conservative collapse, Labour revival",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "It\u2019s U.K. election day: A trash can is running, and dogs are everywhere",
+        "location": "United Kingdom"
     },
     {
         "headline": "Gaza hospital \u2018completely empty\u2019 after Israeli order in Khan Younis",
@@ -177,7 +213,7 @@
     },
     {
         "headline": "A fungus is killing frogs. Homemade saunas might save them, scientists say.",
-        "location": "Australia"
+        "location": "United States"
     },
     {
         "headline": "Kyiv\u2019s shrouded and absent statues tell a story of war and defiance",
@@ -185,46 +221,10 @@
     },
     {
         "headline": "A sculpture showed Mary giving birth to Jesus. A vandal beheaded it.",
-        "location": "United Kingdom"
+        "location": "Italy"
     },
     {
         "headline": "The rich one, the \u2018boring\u2019 one and Trump\u2019s buddy: Key U.K. election players",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "How 14 years of Conservative government have changed Britain",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Britain\u2019s Conservatives face an \u2018extinction-level\u2019 event",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Severe turbulence injures over 30, diverts Air Europa flight to Brazil",
-        "location": "Portugal"
-    },
-    {
-        "headline": "U.S. will fund deportations from Panama, expanding migrant crackdown",
-        "location": "Panama"
-    },
-    {
-        "headline": "Hurricane Beryl is churning west after hitting Caribbean islands. Where it\u2019s headed next.",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Why Beryl is an early sign of a particularly dangerous hurricane season",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Hurricane Beryl tracker: Map and projected storm path",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Russia\u2019s devastating glide bombs keep falling on its own territory",
-        "location": "Russia"
-    },
-    {
-        "headline": "What DIY dentistry has to do with the British election",
         "location": "United Kingdom"
     }
 ]
