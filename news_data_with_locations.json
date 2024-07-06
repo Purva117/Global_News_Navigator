@@ -1,63 +1,71 @@
 [
     {
-        "headline": "Violent attacks shock France ahead of crunch vote",
+        "headline": "Biden faces donor pressure as he digs in on re-election bid",
+        "location": "United States"
+    },
+    {
+        "headline": "France ends ugly campaign and draws breath before historic vote",
         "location": "France"
     },
     {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
-        "location": "Iran"
-    },
-    {
-        "headline": "Hurricane Beryl leaves Jamaican homes without power",
-        "location": "Jamaica"
-    },
-    {
-        "headline": "Nearly 30,000 evacuated from California wildfires",
-        "location": "United States"
-    },
-    {
-        "headline": "US man jailed in Russia for 12 years on drug charges",
-        "location": "United States"
-    },
-    {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
-        "location": "Iran"
-    },
-    {
-        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
-        "location": "United States"
-    },
-    {
-        "headline": "Hezbollah fires 200 rockets and drones into Israel",
-        "location": "Lebanon"
-    },
-    {
-        "headline": "Hurricane Beryl leaves Jamaican homes without power",
-        "location": "Jamaica"
-    },
-    {
-        "headline": "Ecuador police free 49 people held by gang",
-        "location": "Ecuador"
-    },
-    {
-        "headline": "EU hits Chinese electric cars with new tariffs",
-        "location": "China"
-    },
-    {
-        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
+        "headline": "Israel settlements drive heightens Palestinian land angst",
         "location": "Israel"
     },
     {
-        "headline": "DR Congo soldiers sentenced to death for desertion",
-        "location": "Democratic Republic of the Congo"
+        "headline": "Pope Francis critic excommunicated by the Vatican",
+        "location": "Vatican City"
     },
     {
-        "headline": "Ghana chef accused of faking Guinness World Records award",
-        "location": "Ghana"
+        "headline": "Jailed Russian dissident moved to prison hospital",
+        "location": "Russia"
+    },
+    {
+        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "location": "France"
+    },
+    {
+        "headline": "Hungary's Russia-friendly PM meets Putin in Moscow",
+        "location": "Hungary"
+    },
+    {
+        "headline": "World media reacts to UK election",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Israel settlements drive heightens Palestinian land angst",
+        "location": "Israel"
+    },
+    {
+        "headline": "Andrew Tate free to leave Romania but not the EU",
+        "location": "Romania"
+    },
+    {
+        "headline": "Mexico's coast and tourist hotspots battered by Hurricane Beryl",
+        "location": "Mexico"
+    },
+    {
+        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "location": "Iran"
+    },
+    {
+        "headline": "Kenyan leader faces furious young people in online debate",
+        "location": "Kenya"
+    },
+    {
+        "headline": "Fifty violent attacks shock France ahead of crunch vote",
+        "location": "France"
     },
     {
         "headline": "Watch/Listen",
         "location": "Not applicable"
+    },
+    {
+        "headline": "Debris flies through air as tornado hits China city",
+        "location": "China"
+    },
+    {
+        "headline": "Watch July 4 fireworks misfire into Utah crowds",
+        "location": "United States"
     },
     {
         "headline": "Biden: 'I screwed up'",
@@ -72,83 +80,131 @@
         "location": "Union Island"
     },
     {
-        "headline": "Flying in the eye of Hurricane Beryl",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Watch: Mount Etna spits lava into the night sky",
-        "location": "Italy"
-    },
-    {
         "headline": "Features",
         "location": "Not applicable"
     },
     {
-        "headline": "Flames, chains and grains: Africa's top shots",
-        "location": "Africa"
-    },
-    {
-        "headline": "Amazon at 30: What next for 'The Everything Company'?",
-        "location": "United States"
-    },
-    {
-        "headline": "Hamas faces growing public dissent as Gaza war erodes support",
-        "location": "Palestine"
-    },
-    {
-        "headline": "An iconic wildlife park has banned koala cuddles. Will others follow?",
-        "location": "Australia"
-    },
-    {
-        "headline": "Ukraine calls them meat assaults: Russia's brutal plan to take ground",
+        "headline": "'We've learnt to do surgery without electricity': Ukraine's power cuts worsen",
         "location": "Ukraine"
+    },
+    {
+        "headline": "Rescue street dogs, or euthanise them? Turks split over its strays",
+        "location": "Turkey"
+    },
+    {
+        "headline": "Celebrating 50 years of marriage in Nigeria\u2019s 'divorce capital'",
+        "location": "Nigeria"
+    },
+    {
+        "headline": "Tennis, flags and fire: Photos of the week",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "'Breakthrough' heightens hopes of Gaza ceasefire deal",
+        "location": "Gaza Strip"
     },
     {
         "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "Flames, chains and grains: Africa's top shots",
-        "location": "Africa"
+        "headline": "Biden vows to stay in race and beat Trump in defiant speech",
+        "location": "United States"
     },
     {
         "headline": "Hardliner faces reformist in Iran presidential run-off",
         "location": "Iran"
     },
     {
-        "headline": "Israel tells Gaza ceasefire negotiators to resume work",
-        "location": "Israel"
+        "headline": "'We've learnt to do surgery without electricity': Ukraine's power cuts worsen",
+        "location": "Ukraine"
     },
     {
-        "headline": "Nathan's Hot Dog Eating contest crowns new winners",
+        "headline": "Democratic voters chime in on Biden's run for office",
         "location": "United States"
     },
     {
-        "headline": "Biden says he 'screwed up' debate but vows to stay in election",
-        "location": "United States"
-    },
-    {
-        "headline": "Violent attacks shock France ahead of crunch vote",
+        "headline": "France ends ugly campaign and draws breath before historic vote",
         "location": "France"
     },
     {
-        "headline": "Hezbollah fires 200 rockets and drones into Israel",
-        "location": "Lebanon"
-    },
-    {
-        "headline": "Nearly 30,000 evacuated from California wildfires",
+        "headline": "'I am running and going to win again', says Biden",
         "location": "United States"
     },
     {
-        "headline": "Jill Biden: The quiet influence of Biden's closest adviser",
+        "headline": "'Breakthrough' heightens hopes of Gaza ceasefire deal",
+        "location": "Gaza Strip"
+    },
+    {
+        "headline": "Watch July 4 fireworks misfire into Utah crowds",
         "location": "United States"
+    },
+    {
+        "headline": "Pope Francis critic excommunicated by the Vatican",
+        "location": "Vatican City"
     },
     {
         "headline": "Follow BBC on:",
         "location": "United Kingdom"
     },
     {
-        "headline": "Live updates: U.K. election exit poll projects big win for Labour, end to 14 years of Conservative rule",
+        "headline": "New U.K. Prime Minister Keir Starmer met the king, gave a speech, got to work",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "U.K. election results: Keir Starmer becomes prime minister after Labour\u2019s historic win",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Who is in Keir Starmer\u2019s new U.K. government?",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Amid muted optimism, Israeli-Hamas talks resume, then adjourn again",
+        "location": "Israel"
+    },
+    {
+        "headline": "Hungarian leader Viktor Orban visits Moscow, angering E.U. allies",
+        "location": "Hungary"
+    },
+    {
+        "headline": "What low voter turnout might reveal about Iran\u2019s presidential election",
+        "location": "Iran"
+    },
+    {
+        "headline": "Vatican excommunicates Archbishop Vigan\u00f2 for refusing to recognize Pope Francis",
+        "location": "Vatican City"
+    },
+    {
+        "headline": "Iran is picking a new president. Here\u2019s what to know.",
+        "location": "Iran"
+    },
+    {
+        "headline": "How 14 years of Conservative government have changed Britain",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Japan won its \u2018war\u2019 on floppy disks, but its love of archaic tech lingers",
+        "location": "Japan"
+    },
+    {
+        "headline": "Hurricane Beryl tracker: Map and projected storm path",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Russia destroyed Ukraine\u2019s energy sector, so it\u2019s being rebuilt green",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "As Taliban limits options for Afghan women, many lead secret lives online",
+        "location": "Afghanistan"
+    },
+    {
+        "headline": "Starmer says \u2018change begins now\u2019 as Labour Party wins U.K. election",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "The intriguing real-life story of Keir Starmer, U.K.\u2019s new prime minister",
         "location": "United Kingdom"
     },
     {
@@ -156,16 +212,8 @@
         "location": "United Kingdom"
     },
     {
-        "headline": "The intriguing real-life story of Keir Starmer, U.K.'s next prime minister",
-        "location": "United Kingdom"
-    },
-    {
         "headline": "Man sentenced to prison for carrying 6-inch replica Zelda sword",
         "location": "United States"
-    },
-    {
-        "headline": "Hurricane Beryl tracker: Map and projected storm path",
-        "location": "Not applicable"
     },
     {
         "headline": "Can the king vote, and does he have a role in elections?",
@@ -178,53 +226,5 @@
     {
         "headline": "Hurricane Beryl leaves storm-tossed Jamaica, heads for Cayman Islands",
         "location": "Jamaica"
-    },
-    {
-        "headline": "Stolen 16th-century painting, found at a bus stop, sells for record $22M",
-        "location": "United States"
-    },
-    {
-        "headline": "What to know about U.K. election: Conservative collapse, Labour revival",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "It\u2019s U.K. election day: A trash can is running, and dogs are everywhere",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Gaza hospital \u2018completely empty\u2019 after Israeli order in Khan Younis",
-        "location": "Palestine"
-    },
-    {
-        "headline": "Iran is picking a new president. Here\u2019s what to know.",
-        "location": "Iran"
-    },
-    {
-        "headline": "51,000-year-old cave painting may be earliest scene depicted through art",
-        "location": "Spain"
-    },
-    {
-        "headline": "You didn\u2019t ask for it, but Cup Noodles now has s\u2019more-flavored ramen",
-        "location": "Japan"
-    },
-    {
-        "headline": "Jewish voters who abandoned U.K.\u2019s Labour over antisemitism are returning",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "A fungus is killing frogs. Homemade saunas might save them, scientists say.",
-        "location": "United States"
-    },
-    {
-        "headline": "Kyiv\u2019s shrouded and absent statues tell a story of war and defiance",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "A sculpture showed Mary giving birth to Jesus. A vandal beheaded it.",
-        "location": "Italy"
-    },
-    {
-        "headline": "The rich one, the \u2018boring\u2019 one and Trump\u2019s buddy: Key U.K. election players",
-        "location": "United Kingdom"
     }
 ]

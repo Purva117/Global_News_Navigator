@@ -1,47 +1,39 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 The Currumbin Wildlife Sanctuary in Queensland has stopped allowing visitors to cuddle with koalas due to concerns about animal welfare.\n\u2022 This move may spark controversy over whether other zoos and wildlife parks should also limit human interaction with animals.\n\u2022 By taking this step, the sanctuary aims to prioritize the health and well-being of its native species.",
+        "location": "Afghanistan",
+        "summary": "\u2022 The Taliban has restricted opportunities for Afghan women in society.\n\u2022 Many Afghan women are leading secret lives online to circumvent these restrictions.\n\u2022 These women use social media platforms to connect with others and access information despite the lack of personal freedom.",
         "coordinates": [
-            -24.7761086,
-            134.755
+            33.7680065,
+            66.2385139
         ]
     },
     {
         "location": "China",
-        "summary": "\u2022 The European Union has imposed new tariffs on Chinese electric cars.\n\u2022 This move is likely to increase prices for Chinese car manufacturers.\n\u2022 The tariffs may also affect trade relations between the two regions.",
+        "summary": "\u2022 A tornado hit a Chinese city, causing debris to fly through the air.\n\u2022 The tornado caused significant damage and disruption in the affected area.\n\u2022 Emergency responders were quickly deployed to assist those affected by the disaster.",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
-        "location": "Ecuador",
-        "summary": "\u2022 Police in Ecuador have freed 49 people from captivity after a gang had taken them.\n\u2022 The hostages were rescued during a raid on the gang's hideout.\n\u2022 Authorities say they will continue to work to dismantle the criminal organization responsible for the kidnapping.",
-        "coordinates": [
-            -1.3397668,
-            -79.3666965
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 Violent attacks in France before a crucial election.\n\u2022 Attacks have left many people injured or scared.\n\u2022 People fear violence may continue despite efforts to stop it.",
+        "summary": "\u2022 France has drawn a line under its troubled election campaign.\n\u2022 The country prepares for a pivotal moment in its history with an upcoming vote.\n\u2022 Fifty violent incidents have shaken France just days from the ballot box.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Ghana",
-        "summary": "\u2022 Ghanaian chef accused of faking Guinness World Records award.\n\u2022 Chef allegedly falsified records to gain recognition.\n\u2022 Investigation underway to uncover truth behind accusations.",
+        "location": "Hungary",
+        "summary": "\u2022 Hungary's Prime Minister meets with Putin in Moscow\n\u2022 Viktor Orban visits Moscow, upsetting EU allies\n\u2022 Hungary's leader visits Moscow, causing tension",
         "coordinates": [
-            8.0300284,
-            -1.0800271
+            47.1817585,
+            19.5060937
         ]
     },
     {
         "location": "Iran",
-        "summary": "\u2022 A hardliner and a reformist are competing in Iran's presidential runoff election.\n\u2022 The outcome will determine who becomes Iran's next president.\n\u2022 Iranians choose between these two candidates on election day.",
+        "summary": "\u2022 A hardliner and a reformist will face each other in the Iranian presidential runoff.\n\u2022 The country is holding an election to choose its next leader.\n\u2022 Low voter turnout could indicate dissatisfaction with the government or other factors affecting participation.",
         "coordinates": [
             32.6475314,
             54.5643516
@@ -49,23 +41,15 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israel instructs Gaza ceasefire negotiators to restart their talks.\n\u2022 The resumption of negotiations aims to reach a lasting peace agreement.\n\u2022 Israeli authorities hope that renewed dialogue will lead to a stable resolution.",
+        "summary": "\u2022 Israel's settlement construction in East Jerusalem sparks tensions with Palestinians over land ownership.\n\u2022 The Israeli-Palestinian conflict is marked by ongoing disputes over territory and resources.\n\u2022 Despite efforts to negotiate a peaceful resolution, talks between Israel and Hamas remain inconclusive.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Italy",
-        "summary": "\u2022 Mount Etna erupts with lava at night.\n\u2022 Vandal cuts off Virgin's head from a sculpture.\n\u2022 Both events occur in Italy.",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
         "location": "Jamaica",
-        "summary": "\u2022 Hurricane Beryl has left many Jamaican homes without power.\n\u2022 The hurricane caused widespread damage to Jamaica's infrastructure.\n\u2022 After passing through Jamaica, the storm is now heading towards the Cayman Islands.",
+        "summary": "\u2022 Hurricane Beryl has left Jamaica after causing damage.\n\u2022 The storm is now heading towards the Cayman Islands.\n\u2022 Jamaica was severely affected by the hurricane's passage.",
         "coordinates": [
             18.1850507,
             -77.3947693
@@ -73,31 +57,47 @@
     },
     {
         "location": "Japan",
-        "summary": "\u2022 Cup Noodles introduces new smores-flavored ramen.\n\u2022 This is an unexpected addition to their product line.\n\u2022 It was not requested by customers.",
+        "summary": "\u2022 Japan has effectively ended its reliance on floppy disks.\n\u2022 Despite this progress, many Japanese companies still use outdated technology.\n\u2022 The country's fondness for legacy systems persists despite efforts to modernize.",
         "coordinates": [
             36.5748441,
             139.2394179
         ]
     },
     {
-        "location": "Lebanon",
-        "summary": "\u2022 Hezbollah launched 200 rockets and drones towards Israel.\n\u2022 The attacks caused damage in some areas.\n\u2022 Israel responded with airstrikes on Hezbollah positions.",
+        "location": "Kenya",
+        "summary": "\u2022 The Kenyan leader faced intense criticism from young people during an online debate\n\u2022 The confrontation highlighted concerns over youth unemployment and lack of opportunities\n\u2022 The exchange sparked widespread discussion about the government's role in addressing these issues",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 A 51,000-year-old cave painting has been discovered in Spain.\n\u2022 The painting is believed to be one of the oldest scenes depicted through art.\n\u2022 It dates back an astonishing 51,000 years ago.",
+        "location": "Mexico",
+        "summary": "\u2022 Hurricane Beryl hits Mexico's coast\n\u2022 Tourist hotspots affected by hurricane",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "location": "Nigeria",
+        "summary": "\u2022 A couple celebrates 50 years of marriage in a city known as \"Nigeria's divorce capital\"\n\u2022 The celebration highlights the rarity of long-lasting marriages in this particular region\n\u2022 Despite being in a place infamous for high rates of marital separation, they have managed to maintain their union for five decades",
+        "coordinates": [
+            9.6000359,
+            7.9999721
+        ]
+    },
+    {
+        "location": "Romania",
+        "summary": "\u2022 Romanian authorities allow Andrew Tate to leave the country\n\u2022 However, he remains banned from entering the European Union due to his controversial past\n\u2022 This decision comes after concerns over his involvement in human trafficking and online harassment cases",
+        "coordinates": [
+            45.9852129,
+            24.6859225
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 Ukraine accuses Russia of \"meat assaults\" in its attempts to gain territory.\n\u2022 The city of Kyiv has many statues that represent the impact of war on its residents.\n\u2022 The statues serve as symbols of Ukrainian resistance against the ongoing conflict with Russia.",
+        "summary": "\u2022 Power outages force medical professionals in Ukraine to perform surgeries by candlelight.\n\u2022 The Russian invasion has severely damaged Ukraine's energy infrastructure, leaving many communities without access to reliable power.\n\u2022 In response, Ukraine is rebuilding its energy sector with a focus on renewable energy sources like solar and wind power.",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -105,7 +105,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 U.K. election exit polls predict a significant Labour victory, ending 14 years of Conservative rule.\n\u2022 Keir Starmer is poised to become the new Prime Minister.\n\u2022 Jewish voters who previously left the Labour party due to anti-Semitism concerns are rejoining.",
+        "summary": "\u2022 The UK has elected a new PM, Keir Starmer.\n\u2022 Labour's historic win marks an end to 14 years of Conservative rule.\n\u2022 Key figures in Starmer's new government remain unknown.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -113,7 +113,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Nearly 30,000 people have been evacuated due to California wildfires.\n\u2022 Former Vice President Joe Biden has admitted to \"screwing up\" during a recent debate, but vows to continue participating in the election.\n\u2022 An American citizen was imprisoned in Russia for 12 years after being convicted of drug charges.",
+        "summary": "\u2022 Biden faces donor pressure over his re-election campaign.\n\u2022 Wildfires have forced evacuations in California.\n\u2022 Biden has vowed to remain in the race and defeat Trump.",
         "coordinates": [
             39.7837304,
             -100.445882
