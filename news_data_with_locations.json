@@ -1,63 +1,67 @@
 [
     {
-        "headline": "Biden faces donor pressure as he digs in on re-election bid",
+        "headline": "Air strike on Gaza school kills at least 16 people",
+        "location": "Israel"
+    },
+    {
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
         "location": "United States"
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "Air strike leaves 100,000 without power in Ukraine",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Junta chiefs 'turn their backs' on West Africa bloc",
+        "location": "West Africa"
+    },
+    {
+        "headline": "Kimchi blamed for mass sickness in South Korea",
+        "location": "South Korea"
+    },
+    {
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
+        "location": "United States"
+    },
+    {
+        "headline": "French far right seeks vote win but deadlock looms",
         "location": "France"
     },
     {
-        "headline": "Israel settlements drive heightens Palestinian land angst",
-        "location": "Israel"
+        "headline": "She accused Assange of sexual assault, but is glad he\u2019s now free",
+        "location": "Not applicable (no specific country mentioned)"
     },
     {
-        "headline": "Pope Francis critic excommunicated by the Vatican",
-        "location": "Vatican City"
+        "headline": "Air strike leaves 100,000 without power in Ukraine",
+        "location": "Ukraine"
     },
     {
-        "headline": "Jailed Russian dissident moved to prison hospital",
-        "location": "Russia"
+        "headline": "Ukraine lorry collides with minibus killing 14",
+        "location": "Ukraine"
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "Cyclist fined for kissing wife during Tour de France",
         "location": "France"
     },
     {
-        "headline": "Hungary's Russia-friendly PM meets Putin in Moscow",
-        "location": "Hungary"
-    },
-    {
-        "headline": "World media reacts to UK election",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Israel settlements drive heightens Palestinian land angst",
-        "location": "Israel"
-    },
-    {
-        "headline": "Andrew Tate free to leave Romania but not the EU",
-        "location": "Romania"
-    },
-    {
-        "headline": "Mexico's coast and tourist hotspots battered by Hurricane Beryl",
-        "location": "Mexico"
-    },
-    {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "headline": "Reformist Masoud Pezeshkian elected Iran's president",
         "location": "Iran"
     },
     {
-        "headline": "Kenyan leader faces furious young people in online debate",
-        "location": "Kenya"
+        "headline": "Slovak PM in first public appearance since shooting",
+        "location": "Slovakia"
     },
     {
-        "headline": "Fifty violent attacks shock France ahead of crunch vote",
-        "location": "France"
+        "headline": "Mexico's coast battered by Hurricane Beryl",
+        "location": "Mexico"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Not applicable"
+        "location": "Not applicable (no specific country mentioned)"
+    },
+    {
+        "headline": "Watch: Thousands celebrate start of San Fermin festival, Pamplona",
+        "location": "Spain"
     },
     {
         "headline": "Debris flies through air as tornado hits China city",
@@ -76,43 +80,23 @@
         "location": "United States"
     },
     {
-        "headline": "'Worst hurricane ever' - Union Island resident describes Beryl destruction",
-        "location": "Union Island"
-    },
-    {
         "headline": "Features",
-        "location": "Not applicable"
+        "location": "Not applicable (no specific country mentioned)"
     },
     {
-        "headline": "'We've learnt to do surgery without electricity': Ukraine's power cuts worsen",
-        "location": "Ukraine"
+        "headline": "The far right is close to power in France. Will the rest of Europe follow?",
+        "location": "France"
     },
     {
-        "headline": "Rescue street dogs, or euthanise them? Turks split over its strays",
-        "location": "Turkey"
+        "headline": "Fake police scammers convinced me I was on China's 'most wanted' list",
+        "location": "China"
     },
     {
-        "headline": "Celebrating 50 years of marriage in Nigeria\u2019s 'divorce capital'",
-        "location": "Nigeria"
+        "headline": "Forget Ethiopia's Spice Girls - this singer salutes the true queens",
+        "location": "Ethiopia"
     },
     {
-        "headline": "Tennis, flags and fire: Photos of the week",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "'Breakthrough' heightens hopes of Gaza ceasefire deal",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Biden vows to stay in race and beat Trump in defiant speech",
-        "location": "United States"
-    },
-    {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "headline": "Iran's new president gives hope to some women and younger voters",
         "location": "Iran"
     },
     {
@@ -120,32 +104,60 @@
         "location": "Ukraine"
     },
     {
-        "headline": "Democratic voters chime in on Biden's run for office",
-        "location": "United States"
+        "headline": "Latest updates",
+        "location": "Not applicable (no specific country mentioned)"
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "Forget Ethiopia's Spice Girls - this singer salutes the true queens",
+        "location": "Ethiopia"
+    },
+    {
+        "headline": "Air strike on Gaza school kills at least 16 people",
+        "location": "Israel"
+    },
+    {
+        "headline": "Ukraine lorry collides with minibus killing 14",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Last two migrants bound for Rwanda to be bailed, Home Office says",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Shock and horror at scene of Gaza blast",
+        "location": "Israel"
+    },
+    {
+        "headline": "Navy destroyer HMS Diamond returns from Red Sea",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "French far right seeks vote win but deadlock looms",
         "location": "France"
     },
     {
-        "headline": "'I am running and going to win again', says Biden",
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
         "location": "United States"
     },
     {
-        "headline": "'Breakthrough' heightens hopes of Gaza ceasefire deal",
-        "location": "Gaza Strip"
-    },
-    {
-        "headline": "Watch July 4 fireworks misfire into Utah crowds",
-        "location": "United States"
-    },
-    {
-        "headline": "Pope Francis critic excommunicated by the Vatican",
-        "location": "Vatican City"
+        "headline": "Two bodies recovered from canal in Dublin",
+        "location": "Ireland"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "United Kingdom"
+        "location": "Not applicable (no specific country mentioned)"
+    },
+    {
+        "headline": "Caribbean islands reel from Hurricane Beryl damage",
+        "location": "Caribbean Islands"
+    },
+    {
+        "headline": "Iranian reformist wins presidency, seeks engagement with the West",
+        "location": "Iran"
+    },
+    {
+        "headline": "France\u2019s Jordan Bardella, the immigrant\u2019s son who would target migrants",
+        "location": "France"
     },
     {
         "headline": "New U.K. Prime Minister Keir Starmer met the king, gave a speech, got to work",
@@ -189,7 +201,7 @@
     },
     {
         "headline": "Hurricane Beryl tracker: Map and projected storm path",
-        "location": "Not applicable"
+        "location": "Not applicable (no specific country mentioned)"
     },
     {
         "headline": "Russia destroyed Ukraine\u2019s energy sector, so it\u2019s being rebuilt green",
@@ -214,17 +226,5 @@
     {
         "headline": "Man sentenced to prison for carrying 6-inch replica Zelda sword",
         "location": "United States"
-    },
-    {
-        "headline": "Can the king vote, and does he have a role in elections?",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Biden faces a high-stakes summit with his presidency in the spotlight",
-        "location": "United States"
-    },
-    {
-        "headline": "Hurricane Beryl leaves storm-tossed Jamaica, heads for Cayman Islands",
-        "location": "Jamaica"
     }
 ]

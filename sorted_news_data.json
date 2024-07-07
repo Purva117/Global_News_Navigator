@@ -16,7 +16,31 @@
         ]
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "Fake police scammers convinced me I was on China's 'most wanted' list",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "headline": "Forget Ethiopia's Spice Girls - this singer salutes the true queens",
+        "location": "Ethiopia",
+        "coordinates": [
+            10.2116702,
+            38.6521203
+        ]
+    },
+    {
+        "headline": "Forget Ethiopia's Spice Girls - this singer salutes the true queens",
+        "location": "Ethiopia",
+        "coordinates": [
+            10.2116702,
+            38.6521203
+        ]
+    },
+    {
+        "headline": "French far right seeks vote win but deadlock looms",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -24,7 +48,7 @@
         ]
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "Cyclist fined for kissing wife during Tour de France",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -32,7 +56,7 @@
         ]
     },
     {
-        "headline": "Fifty violent attacks shock France ahead of crunch vote",
+        "headline": "The far right is close to power in France. Will the rest of Europe follow?",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -40,7 +64,7 @@
         ]
     },
     {
-        "headline": "France ends ugly campaign and draws breath before historic vote",
+        "headline": "French far right seeks vote win but deadlock looms",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -48,11 +72,11 @@
         ]
     },
     {
-        "headline": "Hungary's Russia-friendly PM meets Putin in Moscow",
-        "location": "Hungary",
+        "headline": "France\u2019s Jordan Bardella, the immigrant\u2019s son who would target migrants",
+        "location": "France",
         "coordinates": [
-            47.1817585,
-            19.5060937
+            46.603354,
+            1.8883335
         ]
     },
     {
@@ -64,7 +88,7 @@
         ]
     },
     {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "headline": "Reformist Masoud Pezeshkian elected Iran's president",
         "location": "Iran",
         "coordinates": [
             32.6475314,
@@ -72,7 +96,15 @@
         ]
     },
     {
-        "headline": "Hardliner faces reformist in Iran presidential run-off",
+        "headline": "Iran's new president gives hope to some women and younger voters",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Iranian reformist wins presidency, seeks engagement with the West",
         "location": "Iran",
         "coordinates": [
             32.6475314,
@@ -96,7 +128,23 @@
         ]
     },
     {
-        "headline": "Israel settlements drive heightens Palestinian land angst",
+        "headline": "Last two migrants bound for Rwanda to be bailed, Home Office says",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Two bodies recovered from canal in Dublin",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Air strike on Gaza school kills at least 16 people",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -104,7 +152,15 @@
         ]
     },
     {
-        "headline": "Israel settlements drive heightens Palestinian land angst",
+        "headline": "Air strike on Gaza school kills at least 16 people",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Shock and horror at scene of Gaza blast",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -120,14 +176,6 @@
         ]
     },
     {
-        "headline": "Hurricane Beryl leaves storm-tossed Jamaica, heads for Cayman Islands",
-        "location": "Jamaica",
-        "coordinates": [
-            18.1850507,
-            -77.3947693
-        ]
-    },
-    {
         "headline": "Japan won its \u2018war\u2019 on floppy disks, but its love of archaic tech lingers",
         "location": "Japan",
         "coordinates": [
@@ -136,15 +184,7 @@
         ]
     },
     {
-        "headline": "Kenyan leader faces furious young people in online debate",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "Mexico's coast and tourist hotspots battered by Hurricane Beryl",
+        "headline": "Mexico's coast battered by Hurricane Beryl",
         "location": "Mexico",
         "coordinates": [
             19.4326296,
@@ -152,19 +192,51 @@
         ]
     },
     {
-        "headline": "Celebrating 50 years of marriage in Nigeria\u2019s 'divorce capital'",
-        "location": "Nigeria",
+        "headline": "Slovak PM in first public appearance since shooting",
+        "location": "Slovakia",
         "coordinates": [
-            9.6000359,
-            7.9999721
+            48.7411522,
+            19.4528646
         ]
     },
     {
-        "headline": "Andrew Tate free to leave Romania but not the EU",
-        "location": "Romania",
+        "headline": "Kimchi blamed for mass sickness in South Korea",
+        "location": "South Korea",
         "coordinates": [
-            45.9852129,
-            24.6859225
+            36.638392,
+            127.6961188
+        ]
+    },
+    {
+        "headline": "Watch: Thousands celebrate start of San Fermin festival, Pamplona",
+        "location": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "headline": "Air strike leaves 100,000 without power in Ukraine",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Air strike leaves 100,000 without power in Ukraine",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "Ukraine lorry collides with minibus killing 14",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
@@ -176,7 +248,7 @@
         ]
     },
     {
-        "headline": "'We've learnt to do surgery without electricity': Ukraine's power cuts worsen",
+        "headline": "Ukraine lorry collides with minibus killing 14",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -192,15 +264,7 @@
         ]
     },
     {
-        "headline": "World media reacts to UK election",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Follow BBC on:",
+        "headline": "Navy destroyer HMS Diamond returns from Red Sea",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -264,15 +328,15 @@
         ]
     },
     {
-        "headline": "Can the king vote, and does he have a role in elections?",
-        "location": "United Kingdom",
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
+        "location": "United States",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.7837304,
+            -100.445882
         ]
     },
     {
-        "headline": "Biden faces donor pressure as he digs in on re-election bid",
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,31 +368,7 @@
         ]
     },
     {
-        "headline": "Biden vows to stay in race and beat Trump in defiant speech",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Democratic voters chime in on Biden's run for office",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "'I am running and going to win again', says Biden",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch July 4 fireworks misfire into Utah crowds",
+        "headline": "Biden interview fails to quell Democrat concerns over fitness",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -337,14 +377,6 @@
     },
     {
         "headline": "Man sentenced to prison for carrying 6-inch replica Zelda sword",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden faces a high-stakes summit with his presidency in the spotlight",
         "location": "United States",
         "coordinates": [
             39.7837304,
