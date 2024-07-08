@@ -1,31 +1,15 @@
 [
     {
         "location": "Afghanistan",
-        "summary": "\u2022 The Taliban's restrictions on women have led to them leading secret online lives.\n\u2022 Many Afghani women are using social media platforms to communicate with others.\n\u2022 The Taliban is limiting options for women in Afghanistan.",
+        "summary": "\u2022 The Taliban restricts opportunities for Afghan women, forcing them to live secret lives.\n\u2022 Many Afghan women turn to the internet to maintain some autonomy and freedom.\n\u2022 Online platforms provide a space for Afghan women to connect with others who share similar experiences and challenges.",
         "coordinates": [
             33.7680065,
             66.2385139
         ]
     },
     {
-        "location": "China",
-        "summary": "\u2022 A tornado hit a Chinese city, causing debris to fly through the air.\n\u2022 Scam artists impersonated police officers to deceive people by claiming they were on China's \"most wanted\" list.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "location": "Ethiopia",
-        "summary": "\u2022 A singer pays tribute to Ethiopia's traditional female vocalists.\n\u2022 The singer acknowledges their cultural significance.\n\u2022 This recognition aims to promote awareness about Ethiopia's rich musical heritage.",
-        "coordinates": [
-            10.2116702,
-            38.6521203
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 French far-right parties are seeking electoral victories amidst concerns over political gridlock.\n\u2022 A cyclist was fined for kissing his wife during the Tour de France.\n\u2022 The far-right movement has gained significant support in France, sparking questions about its potential spread across Europe.",
+        "summary": "\u2022 Projections show that France's left alliance has taken a surprise lead.\n\u2022 The French have rejected the far-right again.\n\u2022 There was jubilation and stunned silence as the results were announced.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -33,31 +17,31 @@
     },
     {
         "location": "Hungary",
-        "summary": "\u2022 Viktor Orban visited Moscow\n\u2022 His trip angered EU allies\n\u2022 This action upset his European partners",
+        "summary": "\u2022 Viktor Orban visits Moscow\n\u2022 Angers EU allies\n\u2022 Hungry leader visits Russia",
         "coordinates": [
             47.1817585,
             19.5060937
         ]
     },
     {
+        "location": "India",
+        "summary": "\u2022 In rural areas, women accused of witchcraft face murder and violence from their own families over disputes about land ownership.\n\u2022 Fetching water for household chores is a significant obstacle to education and economic opportunities for Indian women, particularly in rural areas where access to clean drinking water is limited.\n\u2022 The lack of access to basic amenities like clean water hinders girls' ability to attend school regularly, perpetuating cycles of poverty and inequality.",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
         "location": "Iran",
-        "summary": "\u2022 Masoud Pezeshkian was elected as Iran's president.\n\u2022 The new president has brought hope to women and younger voters in Iran.\n\u2022 The newly-elected president will seek to engage with the West.",
+        "summary": "\u2022 Iranian reformist wins presidency, seeking engagement with the West.\n\u2022 Low voter turnout may indicate discontent among voters or apathy towards politics in Iran.\n\u2022 The election process is overseen by the Guardian Council, ensuring candidates meet strict criteria before being approved.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
-        "location": "Ireland",
-        "summary": "\u2022 Last two migrants on their way to Rwanda get bail.\n\u2022 Two people found dead in a canal in Dublin.",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "location": "Israel",
-        "summary": "\u2022 At least 16 people killed in air strikes on Gaza schools.\n\u2022 Israeli-Hamas talks resume, then adjourn due to disagreements.\n\u2022 Scene of Gaza blast sparks shock and horror among witnesses.",
+        "summary": "\u2022 Israeli-Hamas talks resume, then adjourn again amid muted optimism\n\u2022 Resumption of talks follows recent tensions between Israel and Hamas in Gaza Strip\n\u2022 Uncertainty surrounds future prospects for agreement or truce between both sides",
         "coordinates": [
             30.8124247,
             34.8594762
@@ -65,55 +49,39 @@
     },
     {
         "location": "Japan",
-        "summary": "\u2022 Japan has largely abandoned floppy disks due to their obsolescence.\n\u2022 Despite this, some industries continue to use floppy disks in certain contexts.\n\u2022 This reflects Japan's ongoing reliance on outdated technology.",
+        "summary": "\u2022 Tokyo's first female governor is expected to win her third term after surviving the COVID-19 pandemic and the Olympics.\n\u2022 Despite winning its \"war\" against floppy disks, Japan still has an affinity for outdated technology.\n\u2022 Japan has made progress in modernizing its technology infrastructure despite lingering support for older devices.",
         "coordinates": [
             36.5748441,
             139.2394179
         ]
     },
     {
-        "location": "Mexico",
-        "summary": "\u2022 Hurricane Beryl hits Mexico's coast\n\u2022 Storm causes widespread damage to infrastructure and properties\n\u2022 Emergency services and local authorities work together to respond to the disaster",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "location": "Slovakia",
-        "summary": "\u2022 The Slovak Prime Minister has made his first public appearance after being shot.\n\u2022 He was attacked while visiting a town in eastern Slovakia.\n\u2022 His condition is stable but still recovering from the wound.",
-        "coordinates": [
-            48.7411522,
-            19.4528646
-        ]
-    },
-    {
-        "location": "South Korea",
-        "summary": "\u2022 Mass sickness reported in South Korea\n\u2022 Kimchi suspected as cause\n\u2022 Investigation underway",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
         "location": "Spain",
-        "summary": "\u2022 Thousands celebrated the start of the San Fermin Festival in Pamplona.\n\u2022 The event kicked off with traditional festivities.\n\u2022 The city was filled with music, dance, and colorful costumes during the celebration.",
+        "summary": "\u2022 Protests against mass tourism in Barcelona\n\u2022 Demonstrators used water to disrupt tourist activities\n\u2022 Calls for responsible travel practices in popular destinations",
         "coordinates": [
             39.3260685,
             -4.8379791
         ]
     },
     {
-        "location": "Ukraine",
-        "summary": "\u2022 An air strike left 100,000 people without power in Ukraine.\n\u2022 A lorry collided with a minibus, killing 14 people in Ukraine.\n\u2022 Russia destroyed Ukraine's energy sector; now it is being rebuilt sustainably.",
+        "location": "Sweden",
+        "summary": "\u2022 The woman accused Assange of sexual assault.\n\u2022 However, she is relieved that he has been released from detention.\n\u2022 Her accusations were likely due to her belief in the seriousness of the charges against him.",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            59.6749712,
+            14.5208584
+        ]
+    },
+    {
+        "location": "Switzerland",
+        "summary": "\u2022 WTO Chief Warns Against Global Trade Breakdown\n\u2022 Warning Issued Over Global Economic Disruption Risks \n\u2022 Economic Dangers Highlighted By International Organization Head",
+        "coordinates": [
+            46.7985624,
+            8.2319736
         ]
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 HMS Diamond returns from Red Sea mission\n\u2022 UK Prime Minister Keir Starmer meets King and addresses nation\n\u2022 Keir Starmer leads landslide Labour win, ending 14 years of Tory rule",
+        "summary": "\u2022 New UK Prime Minister Keir Starmer meets the King and gives a speech.\n\u2022 He gets to work with his newly formed government.\n\u2022 The 14-year conservative government has significantly impacted British society.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -121,7 +89,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Joe Biden's recent interviews have failed to alleviate Democratic concerns about his physical and mental health.\n\u2022 A malfunctioning firework display caused chaos at a Utah event on Independence Day.\n\u2022 President Biden acknowledged making mistakes during an interview.\n\u2022 Wildfires led to evacuations in parts of California.\n\u2022 A man was sentenced to prison for possessing a replica Zelda sword.",
+        "summary": "\u2022 Western US faces severe heatwaves.\n\u2022 A young NFL player dies in a car accident.\n\u2022 A famous movie producer passes away at 63.\n\u2022 Wrestler John Cena retires from his sport.\n\u2022 Many Americans struggle with debt just to buy food.\n\u2022 The Democratic party considers the consequences of losing Joe Biden as their candidate.",
         "coordinates": [
             39.7837304,
             -100.445882
