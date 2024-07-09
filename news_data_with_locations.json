@@ -1,63 +1,71 @@
 [
     {
-        "headline": "Projections show surprise lead for France's left alliance",
+        "headline": "White House defends Biden\u2019s health in fiery briefing",
+        "location": "United States"
+    },
+    {
+        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Macron asks French PM to stay on as political deadlock continues",
         "location": "France"
     },
     {
-        "headline": "French people reject the far right  - again",
+        "headline": "Israeli forces bombard Gaza City as tanks re-enter central areas",
+        "location": "Israel"
+    },
+    {
+        "headline": "Justin Bieber performs at India's mega wedding",
+        "location": "India"
+    },
+    {
+        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Russian court jails theatre figures over IS wives play",
+        "location": "Russia"
+    },
+    {
+        "headline": "After France's election shock comes the real power struggle",
         "location": "France"
     },
     {
-        "headline": "After Covid and Olympics, Tokyo\u2019s first female governor set for third term",
-        "location": "Japan"
-    },
-    {
-        "headline": "Mass tourism protesters squirt water at Barcelona tourists",
-        "location": "Spain"
-    },
-    {
-        "headline": "Napoleon's pistols sell for \u20ac1.69m at auction",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "French people reject the far right  - again",
+        "headline": "Macron asks French PM to stay on as political deadlock continues",
         "location": "France"
     },
     {
-        "headline": "Democrats weigh risks and rewards of losing Biden",
+        "headline": "Rewards for tourists who litter pick in Copenhagen",
+        "location": "Denmark"
+    },
+    {
+        "headline": "Liberian president cuts his salary by 40%",
+        "location": "Liberia"
+    },
+    {
+        "headline": "South African football star held up at gunpoint",
+        "location": "South Africa"
+    },
+    {
+        "headline": "Hollywood icon Paramount agrees $28bn merger deal",
         "location": "United States"
     },
     {
-        "headline": "Senior Hamas official killed as Israel orders fresh evacuation",
-        "location": "Palestine"
-    },
-    {
-        "headline": "After Covid and Olympics, Tokyo\u2019s first female governor set for third term",
-        "location": "Japan"
-    },
-    {
-        "headline": "WTO chief warns against global trade breakdown",
-        "location": "Switzerland"
-    },
-    {
-        "headline": "Western US bakes in heatwave",
-        "location": "United States"
-    },
-    {
-        "headline": "NFL rookie Jackson dies in car crash",
-        "location": "United States"
-    },
-    {
-        "headline": "John Cena announces retirement from wrestling",
-        "location": "United States"
-    },
-    {
-        "headline": "Titanic and Avatar producer Jon Landau dies aged 63",
+        "headline": "Two dead as Beryl slams Texas leaving millions without power",
         "location": "United States"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Not applicable"
+        "location": "Unknown"
+    },
+    {
+        "headline": "Staff help clear rubble from destroyed Kyiv hospital",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "California airport engulfed by wildfires",
+        "location": "United States"
     },
     {
         "headline": "Jubilation and stunned silence: France reacts to exit polls",
@@ -72,100 +80,140 @@
         "location": "France"
     },
     {
-        "headline": "National Rally's Bardella:  'Dishonourable alliance' prevented victory",
-        "location": "France"
-    },
-    {
-        "headline": "Shock and horror at scene of Gaza blast",
-        "location": "Palestine"
-    },
-    {
         "headline": "Features",
-        "location": "Not applicable"
+        "location": "Australia"
     },
     {
-        "headline": "Accused of witchcraft then murdered for land",
+        "headline": "'You're not welcome here': Australia\u2019s treatment of disabled migrants",
+        "location": "Canada"
+    },
+    {
+        "headline": "How Canada became a car theft capital of the world",
+        "location": "Canada"
+    },
+    {
+        "headline": "Indian wrestlers eye Olympics after sex harassment scandal",
         "location": "India"
     },
     {
-        "headline": "How fetching water is holding back India's women",
-        "location": "India"
-    },
-    {
-        "headline": "'I had to downgrade my life' - US workers in debt to buy groceries",
-        "location": "United States"
-    },
-    {
-        "headline": "The far right came close to power in France. What about the rest of Europe?",
+        "headline": "Napoleon's pistols sell for \u20ac1.69m at auction",
         "location": "France"
     },
     {
-        "headline": "She accused Assange of sexual assault, but is glad he\u2019s now free",
-        "location": "Sweden"
+        "headline": "What just happened in France's shock election?",
+        "location": "France"
     },
     {
         "headline": "Latest updates",
-        "location": "Not applicable"
+        "location": "Unknown"
     },
     {
-        "headline": "Euphoria and rage in Bordeaux over shock poll result",
-        "location": "France"
+        "headline": "How Canada became a car theft capital of the world",
+        "location": "Canada"
     },
     {
-        "headline": "How fetching water is holding back India's women",
-        "location": "India"
-    },
-    {
-        "headline": "Accused of witchcraft then murdered for land",
-        "location": "India"
-    },
-    {
-        "headline": "Jubilation and stunned silence: France reacts to exit polls",
-        "location": "France"
-    },
-    {
-        "headline": "France's far right 'sad and disappointed' over election result",
-        "location": "France"
-    },
-    {
-        "headline": "M\u00e9lenchon: 'We are allowed to love our country'",
-        "location": "France"
-    },
-    {
-        "headline": "Democrats weigh risks and rewards of losing Biden",
+        "headline": "White House fights back against doubts on Biden fitness",
         "location": "United States"
     },
     {
-        "headline": "French people reject the far right  - again",
-        "location": "France"
+        "headline": "Russian court jails theatre figures over IS wives play",
+        "location": "Russia"
     },
     {
-        "headline": "French left celebrates as far right faces surprise defeat",
-        "location": "France"
+        "headline": "White House defends Biden health in fiery press briefing",
+        "location": "United States"
+    },
+    {
+        "headline": "Two dead as Beryl slams Texas leaving millions without power",
+        "location": "United States"
+    },
+    {
+        "headline": "Indian wrestlers eye Olympics after sex harassment scandal",
+        "location": "India"
+    },
+    {
+        "headline": "Watch fire engine rescue man from Beryl floods in Texas",
+        "location": "United States"
+    },
+    {
+        "headline": "One dead after lake electrocution in Virginia",
+        "location": "United States"
+    },
+    {
+        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
+        "location": "Ukraine"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "France"
+        "location": "Ukraine"
     },
     {
-        "headline": "France election: Far right\u2019s rise suffers unexpected blow as left surges",
-        "location": "France"
+        "headline": "With Orban in China and Modi in Russia, Putin\u2019s multipolar world takes shape",
+        "location": "China, Russia, and Hungary"
     },
     {
-        "headline": "Left-wing bloc leads in surprise projections for French elections",
-        "location": "France"
+        "headline": "Russian missile attack kills 37 in Ukraine, hits children\u2019s hospital",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "Thousands flee as Israel launches new Gaza City operation",
+        "location": "Israel"
+    },
+    {
+        "headline": "Playwright and director sentenced to six years in prison by Russian court",
+        "location": "Russia"
+    },
+    {
+        "headline": "A revived NATO marks 75 years, but political uncertainty clouds its future",
+        "location": "NATO member states"
     },
     {
         "headline": "What to know about France\u2019s leftist alliance after shock election win",
         "location": "France"
     },
     {
+        "headline": "Divided France enters uncharted political territory after historic vote",
+        "location": "France"
+    },
+    {
+        "headline": "Copenhagen\u2019s new sustainability push? Free coffee for tourists.",
+        "location": "Denmark"
+    },
+    {
+        "headline": "How big elections are changing the world in 2024",
+        "location": "Global"
+    },
+    {
+        "headline": "Is it cruel to cuddle a koala? Sanctuary stops hugs amid debate.",
+        "location": "Australia"
+    },
+    {
+        "headline": "In lawless Gaza, cigarette smuggling fuels attacks on aid trucks",
+        "location": "Gaza Strip"
+    },
+    {
+        "headline": "Ukrainian attacks on supply lines slowed Russians in Kharkiv, intercepts show",
+        "location": "Ukraine"
+    },
+    {
+        "headline": "NATO meets at a moment of peak uncertainty in the West",
+        "location": "NATO member states"
+    },
+    {
+        "headline": "France election: Far right\u2019s rise suffers unexpected blow as left surges",
+        "location": "France"
+    },
+    {
+        "headline": "French election results a win for left and center candidates",
+        "location": "France"
+    },
+    {
         "headline": "The ICC charged Israeli officials with starving Gaza. What happens now?",
-        "location": "Palestine"
+        "location": "Israel"
     },
     {
         "headline": "Caribbean islands reel from Hurricane Beryl damage",
-        "location": "Caribbean Islands"
+        "location": "Caribbean islands"
     },
     {
         "headline": "Iranian reformist wins presidency, seeks engagement with the West",
@@ -178,53 +226,5 @@
     {
         "headline": "New U.K. Prime Minister Keir Starmer met the king, gave a speech, got to work",
         "location": "United Kingdom"
-    },
-    {
-        "headline": "U.K. election results: Keir Starmer becomes prime minister after Labour\u2019s historic win",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Who is in Keir Starmer\u2019s new U.K. government?",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Amid muted optimism, Israeli-Hamas talks resume, then adjourn again",
-        "location": "Israel"
-    },
-    {
-        "headline": "Hungarian leader Viktor Orban visits Moscow, angering E.U. allies",
-        "location": "Hungary"
-    },
-    {
-        "headline": "What low voter turnout might reveal about Iran\u2019s presidential election",
-        "location": "Iran"
-    },
-    {
-        "headline": "Vatican excommunicates Archbishop Vigan\u00f2 for refusing to recognize Pope Francis",
-        "location": "Vatican City"
-    },
-    {
-        "headline": "Iran is picking a new president. Here\u2019s what to know.",
-        "location": "Iran"
-    },
-    {
-        "headline": "How 14 years of Conservative government have changed Britain",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "Japan won its \u2018war\u2019 on floppy disks, but its love of archaic tech lingers",
-        "location": "Japan"
-    },
-    {
-        "headline": "Hurricane Beryl tracker: Map and projected storm path",
-        "location": "Caribbean Islands"
-    },
-    {
-        "headline": "Russia destroyed Ukraine\u2019s energy sector, so it\u2019s being rebuilt green",
-        "location": "Russia"
-    },
-    {
-        "headline": "As Taliban limits options for Afghan women, many lead secret lives online",
-        "location": "Afghanistan"
     }
 ]
