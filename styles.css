@@ -1,37 +1,33 @@
-/* Add any custom CSS styles here */
-#map {
-    height: auto; /* Adjust height as needed */
-    width: auto; /* Full width */
-    margin: 0;
-    padding: 0;
-}
-
 body {
-    background-color: rgb(112, 172, 255);
-    overflow-x: auto;
-    overflow-y: auto;
+    margin: 0;
+    overflow: hidden;
 }
 
-svg path {
-    cursor: pointer;
+#infoBox {
+    font-family: Quicksand;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 300px;
+    background: rgba(0, 0, 0, 0.85);
+    backdrop-filter: blur(10px);
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+    box-shadow: 0 0 6px rgb(240, 102, 102);
 }
 
-svg path:hover {
-    fill: rgba(200, 30, 30, 0.75);
+#locationHeading {
+    margin: 0 0 10px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
 }
 
-/* Style for news headlines */
-.news-headline {
-    font-family: Arial, sans-serif; /* Choose an appropriate font */
-    font-size: 12px; /* Adjust font size */
-    background-color: rgba(255, 255, 255, 0.8); /* Background color with transparency */
-    padding: 5px 10px; /* Padding around the text */
-    border-radius: 5px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
-    color: #ff0000; /* Text color */
-    text-align: center; /* Center align text */
-    max-width: 150px; /* Maximum width of the box */
-    overflow: hidden; /* Hide overflow text */
-    white-space: nowrap; /* Prevent line breaks */
-    text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+#newsContent {
+    font-family: Quicksand;
+    font-weight: bold;
+    font-size: px;
+    color: #adadad;
 }
