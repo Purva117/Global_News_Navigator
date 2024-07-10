@@ -1,23 +1,47 @@
 [
     {
+        "location": "Antarctica",
+        "summary": "\u2022 Shackleton's Endurance ship gets extra protection\n\u2022 The ship is being protected to preserve its historical significance \n\u2022 The goal is to preserve it for future generations",
+        "coordinates": [
+            -79.4063075,
+            0.3149312
+        ]
+    },
+    {
         "location": "Australia",
-        "summary": "\u2022 A sanctuary in Australia has stopped allowing visitors to hug koalas due to concerns about their welfare.\n\u2022 The decision was made after some people expressed concerns that hugging the animals could be harmful or stressful.\n\u2022 As a result, the sanctuary is now focused on providing a safe and natural environment for its koalas.",
+        "summary": "\u2022 Teen jumps from jet ski to stop runaway boat.\n\u2022 Koala sanctuary stops allowing hugs due to animal welfare concerns.",
         "coordinates": [
             -24.7761086,
             134.755
         ]
     },
     {
+        "location": "Brazil",
+        "summary": "\u2022 Brazil's President Jair Bolsonaro might face charges related to a jewelry transaction.\n\u2022 The exact nature of these charges remains unclear at this time.\n\u2022 No further details have been released about the incident or potential consequences for Bolsonaro.",
+        "coordinates": [
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
         "location": "Canada",
-        "summary": "\u2022 \"Australia rejects disabled migrants, tells them they're not welcome.\"\n\u2022 \"Canada has become the world's largest car theft hub due to lax laws and lenient sentences.\"\n\u2022 \"Lack of enforcement and strict penalties have contributed to Canada's high car theft rate.\"",
+        "summary": "\u2022 Canada has become the \"car theft capital of the world\" due to lax laws and lenient sentences.\n\u2022 The country is under scrutiny at the NATO summit for allegedly free-riding on other countries' defense efforts.\n\u2022 Canada's inaction on climate change and human rights issues contributes to its international reputation as an unreliable partner.",
         "coordinates": [
             61.0666922,
             -107.991707
         ]
     },
     {
+        "location": "China",
+        "summary": "\u2022 Heatwaves and floods in China increase awareness about climate change.\n\u2022 The country experiences extreme weather conditions due to global warming.\n\u2022 Climate change is recognized as an urgent issue by the Chinese government and citizens alike.",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
         "location": "Denmark",
-        "summary": "\u2022 Copenhagen offers rewards to tourists who participate in cleaning up litter.\n\u2022 Tourists can enjoy free coffee as part of Copenhagen's sustainability efforts.",
+        "summary": "\u2022 Copenhagen offers free coffee to tourists as part of its sustainable tourism initiative.\n\u2022 The city aims to reduce waste and promote eco-friendly practices through this program.\n\u2022 By providing free coffee, Copenhagen hopes to attract visitors while minimizing environmental impact.",
         "coordinates": [
             55.670249,
             10.3333283
@@ -25,71 +49,63 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 French President Emmanuel Macron has asked Prime Minister \u00c9douard Philippe to remain in his position amid ongoing political deadlock.\n\u2022 The far-right party saw its expected surge in popularity unexpectedly halted during the recent elections, while the left surged forward.\n\u2022 Following the elections, a left-leaning alliance won the majority of votes with moderate and socialist candidates holding significant positions.",
+        "summary": "\u2022 The French Socialist party is eyeing the Prime Minister position despite ongoing political deadlock.\n\u2022 The recent French election resulted in a surprise outcome due to various factors.\n\u2022 A left-leaning coalition has emerged as a dominant force in French politics following the election results.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "India",
-        "summary": "\u2022 Justin Bieber performed at a high-profile wedding in India.\n\u2022 Several Indian wrestlers are aiming to participate in the upcoming Olympic Games.\n\u2022 A sexual harassment scandal has affected Indian wrestling, leading to repercussions for some athletes.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
         "location": "Iran",
-        "summary": "\u2022 Reformist candidate wins Iran's presidential election\n\u2022 New president seeks to improve relations with Western countries\n\u2022 President-elect aims for increased diplomatic engagement with the West",
+        "summary": "\u2022 Iran's new president will prioritize domestic development over international relations.\n\u2022 The president aims to reduce Iran's dependence on oil exports by increasing non-oil revenue.\n\u2022 The administration plans to implement policies that benefit the middle class, including increased subsidies and job creation initiatives.",
         "coordinates": [
             32.6475314,
             54.5643516
         ]
     },
     {
+        "location": "Ireland",
+        "summary": "\u2022 The Irish Prime Minister is set to intervene on behalf of an Irish woman who faces charges in Dubai.\n\u2022 This move aims to ensure her safety and secure fair treatment during the legal proceedings.\n\u2022 The intervention may also facilitate communication between authorities to resolve the matter efficiently.",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
         "location": "Israel",
-        "summary": "\u2022 Israeli forces launch airstrikes on Gaza City amid renewed tank presence in central areas.\n\u2022 Thousands of civilians flee due to escalating violence in Gaza City.\n\u2022 The ICC charges Israeli officials with war crimes related to humanitarian crisis in Gaza.",
+        "summary": "\u2022 Health care in Gaza City is collapsing due to an Israeli offensive.\n\u2022 The crisis has forced thousands to flee their homes.\n\u2022 A new Israeli operation in Gaza City is underway.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Liberia",
-        "summary": "\u2022 The President of Liberia has cut their own salary by 40%.\n\u2022 This move aims to address economic hardship faced by ordinary citizens.\n\u2022 By taking this step, the president demonstrates commitment to helping those struggling financially.",
+        "location": "South Korea",
+        "summary": "\u2022 South Korean politician blames women for rising male suicides.\n\u2022 Gautam Gambhir has transitioned from being an aggressive batsman to becoming a strategic coach.\n\u2022 A South Korean politician has made controversial remarks about men committing suicide due to women.",
         "coordinates": [
-            5.7499721,
-            -9.3658524
+            36.638392,
+            127.6961188
         ]
     },
     {
-        "location": "South Africa",
-        "summary": "\u2022 A South African football star was held up at gunpoint.\n\u2022 The incident occurred while he was in South Africa.\n\u2022 No further details were provided about the event.",
+        "location": "Spain",
+        "summary": "\u2022 Protesters in Barcelona used water guns to attack tourists.\n\u2022 The protest was sparked by frustration towards tourists.\n\u2022 The incident highlights tensions between locals and visitors in popular tourist destinations.",
         "coordinates": [
-            -28.8166236,
-            24.991639
+            39.3260685,
+            -4.8379791
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 A children's hospital was hit by Russian strikes in Ukraine, killing dozens.\n\u2022 The staff worked to clear rubble from a destroyed Kyiv hospital.\n\u2022 A Russian missile attack killed 37 people in Ukraine and damaged a children's hospital.\n\u2022 Ukrainian attacks on supply lines slowed down the Russian advance in Kharkiv.",
+        "summary": "\u2022 A Kyiv hospital was attacked by missiles.\n\u2022 The US will be providing more air defenses to protect against such attacks.\n\u2022 The attack resulted in the deaths of 37 people, including children.",
         "coordinates": [
             49.4871968,
             31.2718321
         ]
     },
     {
-        "location": "United Kingdom",
-        "summary": "\u2022 New UK Prime Minister Keir Starmer meets the King.\n\u2022 He gives a speech.\n\u2022 He starts working.",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
         "location": "United States",
-        "summary": "\u2022 The White House defended Joe Biden's health during a heated press conference.\n\u2022 A massive wildfire swept through California, forcing an airport to evacuate.\n\u2022 Hurricane Beryl struck Texas, killing two people and leaving millions without power.",
+        "summary": "\u2022 Donald Trump has challenged Joe Biden to a debate without moderators.\n\u2022 The US has discovered an alleged Russian \"bot farm\".\n\u2022 A New York bridge is stuck open due to extreme heat.",
         "coordinates": [
             39.7837304,
             -100.445882

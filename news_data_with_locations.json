@@ -1,159 +1,187 @@
 [
     {
-        "headline": "White House defends Biden\u2019s health in fiery briefing",
+        "headline": "Donald Trump challenges Joe Biden to a debate without moderators",
         "location": "United States"
     },
     {
-        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
+        "headline": "'Unimaginable' destruction after strike on Gaza camp",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Irish PM to help woman facing charges in Dubai",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Hamas critic beaten by masked men in Gaza",
+        "location": "Palestine"
+    },
+    {
+        "headline": "US officials uncover alleged Russian \u2018bot farm\u2019",
+        "location": "United States"
+    },
+    {
+        "headline": "'Unimaginable' destruction after strike on Gaza camp",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Shackleton's Endurance ship gets extra protection",
+        "location": "Antarctica"
+    },
+    {
+        "headline": "South Korea politician blames women for rising male suicides",
+        "location": "South Korea"
+    },
+    {
+        "headline": "Irish PM to help woman facing charges in Dubai",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Kyiv hospital boss describes 'real hell' of missile attack",
         "location": "Ukraine"
     },
     {
-        "headline": "Macron asks French PM to stay on as political deadlock continues",
+        "headline": "French Socialist eyes PM job but deadlock persists",
         "location": "France"
     },
     {
-        "headline": "Israeli forces bombard Gaza City as tanks re-enter central areas",
-        "location": "Israel"
+        "headline": "Brazil's Bolsonaro may be charged over jewel sale",
+        "location": "Brazil"
     },
     {
-        "headline": "Justin Bieber performs at India's mega wedding",
-        "location": "India"
+        "headline": "Gladiator II: Paul Mescal battles a rhino in upcoming film",
+        "location": "Not applicable"
     },
     {
-        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Russian court jails theatre figures over IS wives play",
-        "location": "Russia"
-    },
-    {
-        "headline": "After France's election shock comes the real power struggle",
-        "location": "France"
-    },
-    {
-        "headline": "Macron asks French PM to stay on as political deadlock continues",
-        "location": "France"
-    },
-    {
-        "headline": "Rewards for tourists who litter pick in Copenhagen",
-        "location": "Denmark"
-    },
-    {
-        "headline": "Liberian president cuts his salary by 40%",
-        "location": "Liberia"
-    },
-    {
-        "headline": "South African football star held up at gunpoint",
-        "location": "South Africa"
-    },
-    {
-        "headline": "Hollywood icon Paramount agrees $28bn merger deal",
-        "location": "United States"
-    },
-    {
-        "headline": "Two dead as Beryl slams Texas leaving millions without power",
-        "location": "United States"
+        "headline": "Europe's Ariane-6 rocket blasts off on maiden flight",
+        "location": "Europe (Ariane-6 rocket is launched from France)"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Unknown"
+        "location": "Not applicable"
+    },
+    {
+        "headline": "BBC Verify looks at evidence linking Russia to Kyiv hospital strike",
+        "location": "Ukraine"
     },
     {
         "headline": "Staff help clear rubble from destroyed Kyiv hospital",
         "location": "Ukraine"
     },
     {
+        "headline": "Moment teen jumps from jet ski to stop runaway boat",
+        "location": "Australia"
+    },
+    {
+        "headline": "New York bridge gets stuck open after getting too hot",
+        "location": "United States"
+    },
+    {
         "headline": "California airport engulfed by wildfires",
         "location": "United States"
     },
     {
-        "headline": "Jubilation and stunned silence: France reacts to exit polls",
-        "location": "France"
-    },
-    {
-        "headline": "Watch: Left alliance supporters react as vote projection revealed",
-        "location": "France"
-    },
-    {
-        "headline": "M\u00e9lenchon: 'We are allowed to love our country'",
-        "location": "France"
-    },
-    {
         "headline": "Features",
-        "location": "Australia"
+        "location": "Not applicable"
     },
     {
-        "headline": "'You're not welcome here': Australia\u2019s treatment of disabled migrants",
-        "location": "Canada"
+        "headline": "The secret hospitals offering criminals new faces",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "What to expect from Iran's new president",
+        "location": "Iran"
+    },
+    {
+        "headline": "What to know as Alec Baldwin's Rust shooting trial begins",
+        "location": "United States"
     },
     {
         "headline": "How Canada became a car theft capital of the world",
         "location": "Canada"
     },
     {
-        "headline": "Indian wrestlers eye Olympics after sex harassment scandal",
-        "location": "India"
-    },
-    {
-        "headline": "Napoleon's pistols sell for \u20ac1.69m at auction",
-        "location": "France"
-    },
-    {
-        "headline": "What just happened in France's shock election?",
-        "location": "France"
+        "headline": "Democrats look to Kamala Harris - but could she beat Trump?",
+        "location": "United States"
     },
     {
         "headline": "Latest updates",
-        "location": "Unknown"
+        "location": "Not applicable"
     },
     {
-        "headline": "How Canada became a car theft capital of the world",
-        "location": "Canada"
+        "headline": "'Unimaginable' destruction after strike on Gaza camp",
+        "location": "Palestine"
     },
     {
-        "headline": "White House fights back against doubts on Biden fitness",
+        "headline": "What are cognitive tests and what can they tell us about Biden and Trump?",
         "location": "United States"
     },
     {
-        "headline": "Russian court jails theatre figures over IS wives play",
+        "headline": "What to know as Alec Baldwin's Rust shooting trial begins",
+        "location": "United States"
+    },
+    {
+        "headline": "Gautam Gambhir's journey from feisty batter to tactical coach",
+        "location": "South Korea"
+    },
+    {
+        "headline": "South Korea politician blames women for rising male suicides",
+        "location": "South Korea"
+    },
+    {
+        "headline": "Russian court orders arrest of Yulia Navalnaya",
         "location": "Russia"
     },
     {
-        "headline": "White House defends Biden health in fiery press briefing",
-        "location": "United States"
-    },
-    {
-        "headline": "Two dead as Beryl slams Texas leaving millions without power",
-        "location": "United States"
-    },
-    {
-        "headline": "Indian wrestlers eye Olympics after sex harassment scandal",
-        "location": "India"
-    },
-    {
-        "headline": "Watch fire engine rescue man from Beryl floods in Texas",
-        "location": "United States"
-    },
-    {
-        "headline": "One dead after lake electrocution in Virginia",
-        "location": "United States"
-    },
-    {
-        "headline": "Children's hospital hit as Russian strikes kill dozens in Ukraine",
+        "headline": "BBC Verify looks at evidence linking Russia to Kyiv hospital strike",
         "location": "Ukraine"
+    },
+    {
+        "headline": "Weinstein faces new sex assault inquiry in New York",
+        "location": "United States"
+    },
+    {
+        "headline": "Canada faces pressure at Nato summit for riding on 'coattails'",
+        "location": "Canada"
     },
     {
         "headline": "Follow BBC on:",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "U.S. to provide more air defenses after missile strike on Kyiv children\u2019s hospital",
         "location": "Ukraine"
     },
     {
-        "headline": "With Orban in China and Modi in Russia, Putin\u2019s multipolar world takes shape",
-        "location": "China, Russia, and Hungary"
+        "headline": "NATO vows lasting support for Ukraine but won\u2019t promise membership",
+        "location": "NATO (includes multiple member states)"
+    },
+    {
+        "headline": "Renewed Israeli offensive sees Gaza City health care crumble",
+        "location": "Israel"
+    },
+    {
+        "headline": "Why the French election result was such a surprise",
+        "location": "France"
+    },
+    {
+        "headline": "Modi bear-hugs Putin in Moscow, marking deep ties between Russia and India",
+        "location": "Russia and India"
+    },
+    {
+        "headline": "Fed up with tourists, Barcelona protesters blast them with water guns",
+        "location": "Spain"
+    },
+    {
+        "headline": "Another year of heat and floods spurs China\u2019s climate-change awakening",
+        "location": "China"
     },
     {
         "headline": "Russian missile attack kills 37 in Ukraine, hits children\u2019s hospital",
         "location": "Ukraine"
+    },
+    {
+        "headline": "With Orban in China and Modi in Russia, Putin\u2019s multipolar world takes shape",
+        "location": "Russia, India, and China"
     },
     {
         "headline": "Thousands flee as Israel launches new Gaza City operation",
@@ -165,7 +193,7 @@
     },
     {
         "headline": "A revived NATO marks 75 years, but political uncertainty clouds its future",
-        "location": "NATO member states"
+        "location": "NATO (includes multiple member states)"
     },
     {
         "headline": "What to know about France\u2019s leftist alliance after shock election win",
@@ -181,7 +209,7 @@
     },
     {
         "headline": "How big elections are changing the world in 2024",
-        "location": "Global"
+        "location": "Not applicable"
     },
     {
         "headline": "Is it cruel to cuddle a koala? Sanctuary stops hugs amid debate.",
@@ -189,7 +217,7 @@
     },
     {
         "headline": "In lawless Gaza, cigarette smuggling fuels attacks on aid trucks",
-        "location": "Gaza Strip"
+        "location": "Palestine"
     },
     {
         "headline": "Ukrainian attacks on supply lines slowed Russians in Kharkiv, intercepts show",
@@ -197,34 +225,6 @@
     },
     {
         "headline": "NATO meets at a moment of peak uncertainty in the West",
-        "location": "NATO member states"
-    },
-    {
-        "headline": "France election: Far right\u2019s rise suffers unexpected blow as left surges",
-        "location": "France"
-    },
-    {
-        "headline": "French election results a win for left and center candidates",
-        "location": "France"
-    },
-    {
-        "headline": "The ICC charged Israeli officials with starving Gaza. What happens now?",
-        "location": "Israel"
-    },
-    {
-        "headline": "Caribbean islands reel from Hurricane Beryl damage",
-        "location": "Caribbean islands"
-    },
-    {
-        "headline": "Iranian reformist wins presidency, seeks engagement with the West",
-        "location": "Iran"
-    },
-    {
-        "headline": "France\u2019s Jordan Bardella, the immigrant\u2019s son who would target migrants",
-        "location": "France"
-    },
-    {
-        "headline": "New U.K. Prime Minister Keir Starmer met the king, gave a speech, got to work",
-        "location": "United Kingdom"
+        "location": "NATO (includes multiple member states)Note: Some headlines do not mention specific countries or regions, so I left those as \"Not applicable\"."
     }
 ]
