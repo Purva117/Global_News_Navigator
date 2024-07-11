@@ -1,50 +1,10 @@
 [
     {
-        "headline": "Shackleton's Endurance ship gets extra protection",
-        "location": "Antarctica",
-        "coordinates": [
-            -79.4063075,
-            0.3149312
-        ]
-    },
-    {
-        "headline": "Moment teen jumps from jet ski to stop runaway boat",
+        "headline": "\u2018Dad tried to kill us\u2019: The fire that devastated Australia",
         "location": "Australia",
         "coordinates": [
             -24.7761086,
             134.755
-        ]
-    },
-    {
-        "headline": "Is it cruel to cuddle a koala? Sanctuary stops hugs amid debate.",
-        "location": "Australia",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "headline": "Brazil's Bolsonaro may be charged over jewel sale",
-        "location": "Brazil",
-        "coordinates": [
-            -10.3333333,
-            -53.2
-        ]
-    },
-    {
-        "headline": "How Canada became a car theft capital of the world",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "headline": "Canada faces pressure at Nato summit for riding on 'coattails'",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
         ]
     },
     {
@@ -56,15 +16,31 @@
         ]
     },
     {
-        "headline": "Copenhagen\u2019s new sustainability push? Free coffee for tourists.",
-        "location": "Denmark",
+        "headline": "'It was terrifying' - escaping Ethiopia's armed kidnappers",
+        "location": "Ethiopia",
         "coordinates": [
-            55.670249,
-            10.3333283
+            10.2116702,
+            38.6521203
         ]
     },
     {
-        "headline": "French Socialist eyes PM job but deadlock persists",
+        "headline": "Carla Bruni-Sarkozy charged with witness tampering",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Moment Ariane-6 rocket blasts into space on first flight",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Will the Paris Olympics be the friendliest yet for competing moms?",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -80,31 +56,31 @@
         ]
     },
     {
-        "headline": "What to know about France\u2019s leftist alliance after shock election win",
-        "location": "France",
+        "headline": "NBA star to become first black Greek Olympic flagbearer",
+        "location": "Greece",
         "coordinates": [
-            46.603354,
-            1.8883335
+            39.0742,
+            21.8243
         ]
     },
     {
-        "headline": "Divided France enters uncharted political territory after historic vote",
-        "location": "France",
+        "headline": "The big fat Indian wedding turning heads around the world",
+        "location": "India",
         "coordinates": [
-            46.603354,
-            1.8883335
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "What to expect from Iran's new president",
-        "location": "Iran",
+        "headline": "Abu Bakr al-Baghdadi\u2019s widow sentenced to death in Iraq",
+        "location": "Iraq",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            33.0955793,
+            44.1749775
         ]
     },
     {
-        "headline": "Irish PM to help woman facing charges in Dubai",
+        "headline": "Pilots' union to suspend Aer Lingus industrial action",
         "location": "Ireland",
         "coordinates": [
             52.865196,
@@ -112,11 +88,27 @@
         ]
     },
     {
-        "headline": "Irish PM to help woman facing charges in Dubai",
-        "location": "Ireland",
+        "headline": "Israel tells 'everyone in Gaza City' to leave",
+        "location": "Israel",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel calls for Gaza City to evacuate, affecting hundreds of thousands",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "At NATO summit, Gaza is the elephant in the room",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -128,27 +120,19 @@
         ]
     },
     {
-        "headline": "Thousands flee as Israel launches new Gaza City operation",
-        "location": "Israel",
+        "headline": "Japan wants to relax bear hunting laws as attacks rise",
+        "location": "Japan",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            36.5748441,
+            139.2394179
         ]
     },
     {
-        "headline": "South Korea politician blames women for rising male suicides",
-        "location": "South Korea",
+        "headline": "As fears mount of an Israel-Lebanon war, Hezbollah\u2019s arsenal looms large",
+        "location": "Lebanon",
         "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
-        "headline": "Gautam Gambhir's journey from feisty batter to tactical coach",
-        "location": "South Korea",
-        "coordinates": [
-            36.638392,
-            127.6961188
+            40.375713,
+            -76.4626118
         ]
     },
     {
@@ -168,15 +152,127 @@
         ]
     },
     {
-        "headline": "Kyiv hospital boss describes 'real hell' of missile attack",
-        "location": "Ukraine",
+        "headline": "A photographer's 11-day trek to flee war-torn Sudan",
+        "location": "Sudan",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            10.9,
+            6.5
         ]
     },
     {
-        "headline": "BBC Verify looks at evidence linking Russia to Kyiv hospital strike",
+        "headline": "Top Democratic fundraiser Clooney calls on Biden to drop out",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Baldwin 'played make-believe' with gun, Rust trial hears",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Top Democratic fundraiser Clooney calls on Biden to drop out",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Baldwin 'played make-believe' with gun, Rust trial hears",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Starmer meets Biden: Special relationship 'stronger now than ever'",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Moment teen jumps from jet ski to stop runaway boat",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "This Nato summit could save or sink Biden's candidacy",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Starmer meets Biden: Special relationship 'stronger now than ever'",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Top Democratic fundraiser Clooney calls on Biden to drop out",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden's bruising day sinks hopes Democrats will move on",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Baldwin 'played make-believe' with gun, Rust trial hears",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "NATO leaders move to \u2018Trump-proof\u2019 the alliance in Washington",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. to again ship 500-pound bombs to Israel, reversing suspension",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S. to provide more air defenses after missile strike on Kyiv children\u2019s hospital",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Nato vows 'irreversible path' to Ukraine membership",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -192,7 +288,7 @@
         ]
     },
     {
-        "headline": "BBC Verify looks at evidence linking Russia to Kyiv hospital strike",
+        "headline": "Nato vows 'irreversible path' to Ukraine membership",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -200,7 +296,7 @@
         ]
     },
     {
-        "headline": "U.S. to provide more air defenses after missile strike on Kyiv children\u2019s hospital",
+        "headline": "Ukraine\u2019s first F-16s will see combat this summer, officials say",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -208,91 +304,11 @@
         ]
     },
     {
-        "headline": "Russian missile attack kills 37 in Ukraine, hits children\u2019s hospital",
+        "headline": "NATO vows lasting support for Ukraine but won\u2019t promise membership",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
             31.2718321
-        ]
-    },
-    {
-        "headline": "Ukrainian attacks on supply lines slowed Russians in Kharkiv, intercepts show",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Donald Trump challenges Joe Biden to a debate without moderators",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "US officials uncover alleged Russian \u2018bot farm\u2019",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "New York bridge gets stuck open after getting too hot",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "California airport engulfed by wildfires",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "What to know as Alec Baldwin's Rust shooting trial begins",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Democrats look to Kamala Harris - but could she beat Trump?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "What are cognitive tests and what can they tell us about Biden and Trump?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "What to know as Alec Baldwin's Rust shooting trial begins",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Weinstein faces new sex assault inquiry in New York",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
         ]
     }
 ]
