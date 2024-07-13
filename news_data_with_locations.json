@@ -5,11 +5,11 @@
     },
     {
         "headline": "Death and rubble fill streets of Tal Al-Sultan as rescuers dodge Israeli fire",
-        "location": "Lebanon"
+        "location": "Palestine"
     },
     {
         "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
-        "location": "Europe"
+        "location": "United States"
     },
     {
         "headline": "Poland considers downing Russian missiles over Ukraine",
@@ -21,7 +21,7 @@
     },
     {
         "headline": "Death and rubble fill streets of Tal Al-Sultan as rescuers dodge Israeli fire",
-        "location": "Lebanon"
+        "location": "Palestine"
     },
     {
         "headline": "Children killed in Nigeria school collapse",
@@ -33,7 +33,7 @@
     },
     {
         "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
-        "location": "Europe"
+        "location": "United States"
     },
     {
         "headline": "EU says X\u2019s blue tick accounts deceive users",
@@ -73,7 +73,7 @@
     },
     {
         "headline": "Liverpool footballer N\u00fa\u00f1ez clashes with Colombia fans",
-        "location": "England"
+        "location": "Colombia"
     },
     {
         "headline": "Moment slackline record attempt goes wrong",
@@ -92,20 +92,28 @@
         "location": "United States"
     },
     {
+        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
+        "location": "Zimbabwe"
+    },
+    {
         "headline": "In photos: Kim Kardashian, Bieber and Rihanna at grand India wedding",
         "location": "India"
+    },
+    {
+        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
+        "location": "France"
+    },
+    {
+        "headline": "Latest updates",
+        "location": "Not applicable"
     },
     {
         "headline": "Many Democrats are sticking with Biden. Here's why",
         "location": "United States"
     },
     {
-        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
-        "location": "Not applicable"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Not applicable"
+        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
+        "location": "Zimbabwe"
     },
     {
         "headline": "Orban goes global as self-styled peacemaker without a plan",
@@ -125,7 +133,7 @@
     },
     {
         "headline": "Ukrainian president to hold talks with Irish PM",
-        "location": "Ireland"
+        "location": "Ukraine"
     },
     {
         "headline": "Who are the Democrats calling time on Joe Biden?",
@@ -134,14 +142,6 @@
     {
         "headline": "Project 2025: A wish list for a Trump presidency, explained",
         "location": "United States"
-    },
-    {
-        "headline": "In photos: Kim Kardashian, Bieber and Rihanna at grand India wedding",
-        "location": "India"
-    },
-    {
-        "headline": "Blind man and dog rescued after days stuck on trail",
-        "location": "Not applicable"
     },
     {
         "headline": "Follow BBC on:",
@@ -153,7 +153,7 @@
     },
     {
         "headline": "After abuse revelations, professors grapple with how to teach Munro",
-        "location": "Not applicable"
+        "location": "Canada"
     },
     {
         "headline": "After weeks of protests, Kenya\u2019s president sacks his much reviled ministers",
@@ -221,7 +221,7 @@
     },
     {
         "headline": "Man caught trying to smuggle 104 live snakes \u2014 in his pants",
-        "location": "Not applicable"
+        "location": "Unknown"
     },
     {
         "headline": "Britain\u2019s new government vows to prioritize Ukraine fight",

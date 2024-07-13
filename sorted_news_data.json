@@ -1,5 +1,13 @@
 [
     {
+        "headline": "After abuse revelations, professors grapple with how to teach Munro",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
         "headline": "Outrage in China after reports of fuel tankers transporting cooking oil",
         "location": "China",
         "coordinates": [
@@ -8,7 +16,23 @@
         ]
     },
     {
+        "headline": "Liverpool footballer N\u00fa\u00f1ez clashes with Colombia fans",
+        "location": "Colombia",
+        "coordinates": [
+            4.099917,
+            -72.9088133
+        ]
+    },
+    {
         "headline": "French rugby players charged with raping woman in Argentina",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -72,22 +96,6 @@
         ]
     },
     {
-        "headline": "In photos: Kim Kardashian, Bieber and Rihanna at grand India wedding",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Ukrainian president to hold talks with Irish PM",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "headline": "Freed Israeli hostage recalls joy of rescue, depression in captivity",
         "location": "Israel",
         "coordinates": [
@@ -117,22 +125,6 @@
         "coordinates": [
             1.4419683,
             38.4313975
-        ]
-    },
-    {
-        "headline": "Death and rubble fill streets of Tal Al-Sultan as rescuers dodge Israeli fire",
-        "location": "Lebanon",
-        "coordinates": [
-            40.375713,
-            -76.4626118
-        ]
-    },
-    {
-        "headline": "Death and rubble fill streets of Tal Al-Sultan as rescuers dodge Israeli fire",
-        "location": "Lebanon",
-        "coordinates": [
-            40.375713,
-            -76.4626118
         ]
     },
     {
@@ -168,6 +160,14 @@
         ]
     },
     {
+        "headline": "Ukrainian president to hold talks with Irish PM",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
         "headline": "Buckingham Palace\u2019s East Wing (the one with the balcony) opens to the public",
         "location": "United Kingdom",
         "coordinates": [
@@ -185,6 +185,22 @@
     },
     {
         "headline": "Alec Baldwin's Rust trial dismissed over hidden evidence",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -293,6 +309,22 @@
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
+        "location": "Zimbabwe",
+        "coordinates": [
+            -18.4554963,
+            29.7468414
+        ]
+    },
+    {
+        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
+        "location": "Zimbabwe",
+        "coordinates": [
+            -18.4554963,
+            29.7468414
         ]
     }
 ]
