@@ -1,63 +1,55 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 A devastating bushfire ravaged Australia\n\u2022 The fire was sparked by an out-of-control campfire\n\u2022 One man claimed he tried to kill others in the blaze",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
         "location": "China",
-        "summary": "\u2022 China is experiencing another year of extreme heat and flooding due to climate change.\n\u2022 The country's leaders are waking up to the reality of their environmental challenges.\n\u2022 Climate change has severe consequences, including heatwaves and devastating floods.",
+        "summary": "\u2022 Reports emerge of fuel tankers carrying cooking oil\n\u2022 Public outraged over misuse of resources\n\u2022 Authorities investigate to ensure compliance with regulations",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
-        "location": "Ethiopia",
-        "summary": "\u2022 A person recounts their harrowing experience of being kidnapped by armed men in Ethiopia\n\u2022 The individual managed to escape from their captors after a terrifying ordeal\n\u2022 Details of the incident remain unclear but highlight the dangers faced by individuals in Ethiopia",
-        "coordinates": [
-            10.2116702,
-            38.6521203
-        ]
-    },
-    {
         "location": "France",
-        "summary": "\u2022 Carla Bruni-Sarkozy faces charges of witness tampering.\n\u2022 An Ariane-6 rocket successfully launched into space during its inaugural flight.\n\u2022 The upcoming Paris Olympics may set a new standard for accommodating competing mothers.",
+        "summary": "\u2022 Three French rugby players charged with rape in Argentina\n\u2022 Incident occurred during recent international match between France and Argentina\n\u2022 Players face potential legal consequences and possible expulsion from national team",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Greece",
-        "summary": "\u2022 NBA star becomes first black Greek Olympic flagbearer\n\u2022 Historic milestone in representation and diversity\n\u2022 Breaks barriers in promoting inclusivity and equality",
+        "location": "Germany",
+        "summary": "\u2022 Germany expresses shock over alleged Russian assassination plot\n\u2022 German government reacts to potential threat from Russia\n\u2022 Country's security concerns heightened by possible threat",
         "coordinates": [
-            39.0742,
-            21.8243
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "location": "Haiti",
+        "summary": "\u2022 Kenyan police start patrols in Haiti.\n\u2022 Haitian gangs remain unaffected by the increased security presence.\n\u2022 Gangs continue to operate undeterred in Haiti despite the new patrols.",
+        "coordinates": [
+            19.1399952,
+            -72.3570972
+        ]
+    },
+    {
+        "location": "Hungary",
+        "summary": "\u2022 Viktor Orban claims to be a peacekeeper but lacks a clear strategy.\n\u2022 He is expanding his international influence despite lacking a concrete plan.\n\u2022 His actions have raised concerns about his ability to effectively promote peace.",
+        "coordinates": [
+            47.1817585,
+            19.5060937
         ]
     },
     {
         "location": "India",
-        "summary": "\u2022 A lavish Indian wedding has gone viral globally.\n\u2022 It features an elaborate ceremony with traditional attire and customs.\n\u2022 The event showcases India's rich cultural heritage to international audiences.",
+        "summary": "\u2022 Ambani's son gets married to his fianc\u00e9e.\n\u2022 Celebrities like former PMs, film and sports stars attend the ceremony.\n\u2022 Kim Kardashian, Justin Bieber, and Rihanna also attend the grand India wedding.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Iraq",
-        "summary": "\u2022 Abu Bakr al-Baghdadi's widow was sentenced to death in Iraq\n\u2022 No further details provided",
-        "coordinates": [
-            33.0955793,
-            44.1749775
-        ]
-    },
-    {
         "location": "Ireland",
-        "summary": "\u2022 Pilots' union to suspend Aer Lingus industrial action\n\u2022 Industrial action suspended \n\u2022 No further information available",
+        "summary": "\u2022 Ukrainian President holds talks with Irish PM\n\u2022 Talks expected to address Ukraine-Russia conflict\n\u2022 Stronger bilateral ties discussed between leaders",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -65,66 +57,74 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israel demands evacuation from Gaza City.\n\u2022 Hundreds of thousands affected by the call for evacuation.\n\u2022 Gaza City's healthcare system collapses under renewed Israeli aggression.",
+        "summary": "\u2022 A freed Israeli hostage recalls feeling joyful upon rescue from captivity.\n\u2022 The individual also experienced depression during their time in captivity.\n\u2022 On October 7th, the Israeli military claimed that they failed to adequately protect a Gaza border town.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Japan",
-        "summary": "\u2022 Japan seeks to ease bear-hunting restrictions amid rising incidents\n\u2022 Authorities consider loosening regulations due to increased human-bear conflicts\n\u2022 Decision aims to reduce threat from bears while ensuring public safety",
+        "location": "Kenya",
+        "summary": "\u2022 The police chief resigned due to violent anti-tax protests.\n\u2022 Protests led to President sacking disliked ministers.\n\u2022 Kenya's government faces turmoil amidst unrest.",
         "coordinates": [
-            36.5748441,
-            139.2394179
+            1.4419683,
+            38.4313975
         ]
     },
     {
         "location": "Lebanon",
-        "summary": "\u2022 Fears of a potential war between Israel and Lebanon have intensified.\n\u2022 The escalation in tensions is driven by concerns over Hezbollah's military capabilities.\n\u2022 This has raised alarm bells among regional powers, who fear a conflict could destabilize the entire region.",
+        "summary": "\u2022 Death and rubble fill streets of Tal Al-Sultan.\n\u2022 Rescuers face danger from Israeli fire.\n\u2022 Death and rubble fill streets of Tal Al-Sultan.",
         "coordinates": [
             40.375713,
             -76.4626118
         ]
     },
     {
+        "location": "Mexico",
+        "summary": "\u2022 Mexico's new president has experience in environmental issues\n\u2022 She aims to address the country's dependence on oil exports\n\u2022 Her leadership may impact Mexico's energy sector and economy",
+        "coordinates": [
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "location": "Nigeria",
+        "summary": "\u2022 A school collapsed in Nigeria.\n\u2022 The incident resulted in children being killed.\n\u2022 The tragedy highlights concerns over building safety standards in the country.",
+        "coordinates": [
+            9.6000359,
+            7.9999721
+        ]
+    },
+    {
+        "location": "Poland",
+        "summary": "\u2022 Poland is considering shooting down Russian missiles that may enter its airspace from Ukraine.\n\u2022 The move comes amid escalating tensions between Russia and Ukraine.\n\u2022 Polish authorities are working to ensure national security in light of these developments.",
+        "coordinates": [
+            52.215933,
+            19.134422
+        ]
+    },
+    {
         "location": "South Korea",
-        "summary": "\u2022 A South Korean politician has sparked outrage by blaming women for the rising number of male suicides.\n\u2022 The politician's comments have been widely criticized as insensitive and offensive.\n\u2022 Many people in South Korea are calling for greater awareness about mental health issues to reduce suicide rates.",
+        "summary": "\u2022 The Trader Joe's seasoning has been banned in South Korea due to its popularity.\n\u2022 This ban is part of South Korea's efforts to control the importation of certain products.\n\u2022 South Korean authorities have deemed this product a threat to public health or safety.",
         "coordinates": [
             36.638392,
             127.6961188
         ]
     },
     {
-        "location": "Spain",
-        "summary": "\u2022 Protesters in Barcelona use water guns to deter tourists\n\u2022 Locals unhappy with influx of visitors\n\u2022 Tourists targeted by residents",
+        "location": "United Kingdom",
+        "summary": "\u2022 Buckingham Palace's East Wing, including its famous balcony, is now open to the public.\n\u2022 The UK government has pledged to prioritize supporting Ukraine in its conflict against Russia.\n\u2022 The British monarch's official residence will welcome visitors from all over the world.",
         "coordinates": [
-            39.3260685,
-            -4.8379791
+            54.7023545,
+            -3.2765753
         ]
     },
     {
-        "location": "Sudan",
-        "summary": "\u2022 A photographer undertook an 11-day trek to escape war-torn Sudan.\n\u2022 The photographer faced numerous challenges during their journey.\n\u2022 The trek was a dangerous undertaking due to the ongoing conflict in Sudan.",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "location": "USA",
-        "summary": "\u2022 George Clooney urges Joe Biden to quit as the Democratic presidential candidate.\n\u2022 Alec Baldwin pretended to hold a real weapon during a rehearsal for the film \"Rust.\"\n\u2022 British politician Keir Starmer met US President Joe Biden to strengthen their special bond.\n\u2022 A teenager stopped a runaway boat by jumping off a jet ski.\n\u2022 The NATO summit may affect Joe Biden's chances of being elected.\n\u2022 Alec Baldwin pretended to hold a real weapon during a rehearsal for the film \"Rust.\"\n\u2022 British politician Keir Starmer met US President Joe Biden to strengthen their special bond.\n\u2022 US officials plan to supply 500-pound bombs to Israel despite previously suspending this practice.\n\u2022 The United States is providing additional air defense systems to protect against further missile strikes on civilian targets such as hospitals in Ukraine.",
+        "location": "United States",
+        "summary": "\u2022 Alec Baldwin's Rust trial has been dismissed due to hidden evidence.\n\u2022 The US is facing an issue where hackers have stolen nearly all AT&T customer call records.\n\u2022 President Biden had a poor performance when answering questions from reporters, including two instances of stumbling through his responses.",
         "coordinates": [
             39.7837304,
             -100.445882
-        ]
-    },
-    {
-        "location": "Ukraine",
-        "summary": "\u2022 NATO vows \"irreversible path\" to Ukraine membership.\n\u2022 Ukraine's first F-16 fighter jets may engage in combat missions this summer.\n\u2022 NATO promises long-term support for Ukraine, but doesn't guarantee membership.",
-        "coordinates": [
-            49.4871968,
-            31.2718321
         ]
     }
 ]
