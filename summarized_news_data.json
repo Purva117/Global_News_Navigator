@@ -1,31 +1,47 @@
 [
     {
+        "location": "Afghanistan",
+        "summary": "\u2022 The Taliban is trying to reconcile science and religion in addressing climate change.\n\u2022 They aim to find ways to reduce greenhouse gas emissions and slow down global warming within an Islamic framework.\n\u2022 This effort involves exploring traditional practices that can help mitigate the effects of climate change while staying true to their religious beliefs.",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
         "location": "Canada",
-        "summary": "\u2022 Abuse revelations prompt professors to re-examine their teaching methods\n\u2022 Professors struggle to find effective ways to teach Alice Munro's works in light of recent abuse allegations\n\u2022 Educators seek alternative approaches to ensure students can engage with Munro's writing without perpetuating harm",
+        "summary": "\u2022 Abuse revelations spark debate on teaching Alice Munro's work in Canadian classrooms\n\u2022 Professors struggle to balance literary merit with sensitivity towards students who may have experienced similar trauma\n\u2022 Some educators consider omitting certain stories or using alternative materials to avoid triggering harmful emotions",
         "coordinates": [
             61.0666922,
             -107.991707
         ]
     },
     {
-        "location": "China",
-        "summary": "\u2022 Reports have emerged that fuel tankers in China may be used to transport cooking oil.\n\u2022 This practice has sparked outrage among Chinese citizens who see it as an improper use of resources.\n\u2022 The transportation of food products by fuel tankers raises concerns about efficiency, safety, and environmental impact.",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
         "location": "Colombia",
-        "summary": "\u2022 Liverpool player Darwin N\u00fa\u00f1ez argued with Colombian fans\n\u2022 The incident occurred at Estadio Ol\u00edmpico Poblado in Medell\u00edn\n\u2022 No further details were released about the altercation",
+        "summary": "\u2022 N\u00fa\u00f1ez had an altercation with Colombian fans during a match.\n\u2022 The incident led to tension between him and some spectators.\n\u2022 He faced criticism from both the fans and media.",
         "coordinates": [
             4.099917,
             -72.9088133
         ]
     },
     {
+        "location": "Ecuador",
+        "summary": "\u2022 Five people have been imprisoned in relation to the murder of an Ecuadorian presidential candidate.\n\u2022 The incident has sparked widespread outrage among Ecuadorians and human rights groups.\n\u2022 The case is being closely monitored by international organizations due to its political implications.",
+        "coordinates": [
+            -1.3397668,
+            -79.3666965
+        ]
+    },
+    {
+        "location": "Egypt",
+        "summary": "\u2022 4,000-year-old axe-heads have been discovered.\n\u2022 The axe-heads were sent to a museum.\n\u2022 The source of the axe-heads remains unknown.",
+        "coordinates": [
+            26.2540493,
+            29.2675469
+        ]
+    },
+    {
         "location": "France",
-        "summary": "\u2022 Three French rugby players have been charged with rape in Argentina.\n\u2022 Lamine Yamal is being pursued by three countries for his soccer skills.\n\u2022 A woman was allegedly raped by French rugby players in Argentina.",
+        "summary": "\u2022 Three French rugby players have been charged with rape.\n\u2022 The incident allegedly occurred during their tour of Argentina.\n\u2022 They will face trial to determine their guilt or innocence.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -33,23 +49,15 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 A potential assassination plot against a high-ranking German official has been uncovered.\n\u2022 The alleged conspiracy is attributed to Russia.\n\u2022 German authorities have expressed shock and concern over this revelation.",
+        "summary": "\u2022 Germany forces some asylum seekers to work.\n\u2022 Asylum seekers prefer real jobs over forced labor.\n\u2022 Forced work affects asylum seekers' job prospects in Germany.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "Haiti",
-        "summary": "\u2022 Kenyan police start patrolling\n\u2022 Haitian gangs remain unbothered by their presence",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
         "location": "Hungary",
-        "summary": "\u2022 Hungarian Prime Minister Viktor Orban is positioning himself as a global peacemaker despite lacking a clear strategy.\n\u2022 His efforts to resolve international conflicts are seen as ambiguous and lacking direction.\n\u2022 Critics argue that his approach is ineffective in addressing regional tensions and disputes.",
+        "summary": "\u2022 Orban claims to be a peacemaker without a plan.\n\u2022 He lacks a clear strategy for resolving conflicts globally.\n\u2022 His actions may be driven by personal interests rather than a genuine desire for peace.",
         "coordinates": [
             47.1817585,
             19.5060937
@@ -57,7 +65,7 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 Extravagant wedding of India tycoon Ambani's son begins.\n\u2022 A-list celebrities attend the lavish event.\n\u2022 International stars like Kim Kardashian, Justin Bieber, and Rihanna arrive to celebrate.",
+        "summary": "\u2022 The Ambani family celebrated with former Prime Ministers, film stars, and athletes.\n\u2022 Asia's richest person hosted a lavish wedding featuring Bollywood stars and other celebrities.\n\u2022 Two brothers from a wealthy business family got married in a highly publicized event.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -65,7 +73,7 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli military fails to protect Gaza border town on October 7\n\u2022 Israeli hostage freed from captivity after joyful rescue, experienced depression during captivity\n\u2022 Israeli military fails to protect Gaza border town on October 7",
+        "summary": "\u2022 Israeli strikes kill 90 people in Gaza, including Hamas military chief.\n\u2022 Israeli military claims to have failed to protect Gaza border town.\n\u2022 Israel and Hamas close to ceasefire deal.",
         "coordinates": [
             30.8124247,
             34.8594762
@@ -73,47 +81,39 @@
     },
     {
         "location": "Kenya",
-        "summary": "\u2022 Kenya's police chief resigns amid violent protests against taxes.\n\u2022 President fires unpopular cabinet members amid ongoing unrest.\n\u2022 Protesters continue to demand action on tax policies.",
+        "summary": "\u2022 Kenyan President has fired his unpopular cabinet members after weeks of public unrest.\n\u2022 The move comes as part of efforts to address widespread discontent among citizens.\n\u2022 This development is expected to bring about positive change in the country's governance structure.",
         "coordinates": [
             1.4419683,
             38.4313975
         ]
     },
     {
-        "location": "Mexico",
-        "summary": "\u2022 Mexico's newly appointed leader has a background in climate science.\n\u2022 The country relies heavily on its oil industry.\n\u2022 This leader may be able to address environmental concerns while maintaining energy production.",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
         "location": "Nigeria",
-        "summary": "\u2022 A tragic incident occurred at a Nigerian school where children lost their lives due to a building collapse.\n\u2022 The exact number of fatalities is unknown, but it is confirmed that several young lives were taken.\n\u2022 The cause of the collapse remains under investigation by authorities.",
+        "summary": "\u2022 At least 10 children were killed when a building collapsed at a school in Lagos.\n\u2022 The incident occurred during a morning assembly at the school.\n\u2022 Rescue efforts are ongoing to locate any survivors trapped under the rubble.",
         "coordinates": [
             9.6000359,
             7.9999721
         ]
     },
     {
-        "location": "Poland",
-        "summary": "\u2022 Poland considers shooting down Russian missiles\n\u2022 This move is in response to Russia's actions in Ukraine\n\u2022 The country wants to protect its citizens from potential threats",
-        "coordinates": [
-            52.215933,
-            19.134422
-        ]
-    },
-    {
         "location": "South Korea",
-        "summary": "\u2022 The Trader Joe's seasoning is popular in South Korea.\n\u2022 It is banned by law in South Korea.\n\u2022 There are concerns about its safety or quality.",
+        "summary": "\u2022 U.S.-China rivalry extends to music industry with competition over who can produce better K-pop songs.\n\u2022 In South Korea, popular Trader Joe's seasoning is banned due to its high salt content being seen as unhealthy by the Korean government.\n\u2022 The ban on Trader Joe's seasoning has led to widespread outrage among consumers in South Korea.",
         "coordinates": [
             36.638392,
             127.6961188
         ]
     },
     {
+        "location": "Spain",
+        "summary": "\u2022 Three countries vie for talented player Lamine Yamal.\n\u2022 Spaniards believe they have strong chance to win Euro 24 title.",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
         "location": "Ukraine",
-        "summary": "\u2022 Ukrainian President will hold talks with Irish Prime Minister.\n\u2022 \n\u2022 \n\u2022",
+        "summary": "\u2022 Zelensky visits Ireland\n\u2022 Taoiseach vows to visit Kyiv\n\u2022 Ukraine-Ireland relations strengthened through these trips",
         "coordinates": [
             49.4871968,
             31.2718321
@@ -121,7 +121,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 Buckingham Palace's East Wing opens to the public.\n\u2022 The UK's new government prioritizes fighting in Ukraine.",
+        "summary": "\u2022 Princess Kate to present trophy to men's Wimbledon winner\n\u2022 Palace announces royal presence at tennis tournament\n\u2022 Traditional Wimbledon ceremony to take place on Centre Court",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -129,7 +129,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Alec Baldwin\u2019s Rust trial was dismissed due to hidden evidence.\n\u2022 The US has been hacked, resulting in stolen call records from nearly every AT&T customer.\n\u2022 Democratic politicians are supporting Biden despite his recent mistakes.",
+        "summary": "\u2022 Shots were fired at a Donald Trump rally; Trump was rushed offstage and the attacker died.\n\u2022 Dr. Ruth Westheimer, a celebrity sex therapist, passed away at 96 years old.\n\u2022 Alec Baldwin's Rust trial has been dismissed due to hidden evidence.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -137,7 +137,7 @@
     },
     {
         "location": "Zimbabwe",
-        "summary": "\u2022 Massacre survivors struggle to come to terms with their experiences.\n\u2022 Survivors feel betrayed by the government's inaction during the massacre.\n\u2022 The incident has left deep emotional scars on those affected.",
+        "summary": "\u2022 A massacre survivor refuses to forgive Zimbabwean President Robert Mugabe's soldiers.\n\u2022 The survivor seeks justice for the atrocities committed by the soldiers.\n\u2022 The incident highlights ongoing human rights abuses in Zimbabwe under Mugabe's regime.",
         "coordinates": [
             -18.4554963,
             29.7468414

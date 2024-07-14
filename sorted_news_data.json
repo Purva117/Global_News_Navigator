@@ -1,18 +1,18 @@
 [
     {
+        "headline": "Taliban tries reconciling science and religion in facing climate change",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
         "headline": "After abuse revelations, professors grapple with how to teach Munro",
         "location": "Canada",
         "coordinates": [
             61.0666922,
             -107.991707
-        ]
-    },
-    {
-        "headline": "Outrage in China after reports of fuel tankers transporting cooking oil",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
         ]
     },
     {
@@ -24,6 +24,22 @@
         ]
     },
     {
+        "headline": "Five jailed for Ecuador presidential candidate's murder",
+        "location": "Ecuador",
+        "coordinates": [
+            -1.3397668,
+            -79.3666965
+        ]
+    },
+    {
+        "headline": "Mystery as 4,000-year-old axe-heads sent to museum",
+        "location": "Egypt",
+        "coordinates": [
+            26.2540493,
+            29.2675469
+        ]
+    },
+    {
         "headline": "French rugby players charged with raping woman in Argentina",
         "location": "France",
         "coordinates": [
@@ -32,15 +48,7 @@
         ]
     },
     {
-        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "German shock at reported Russian assassination plot",
+        "headline": "Germany is forcing some asylum seekers to work, when they just want real jobs",
         "location": "Germany",
         "coordinates": [
             51.1638175,
@@ -48,14 +56,6 @@
         ]
     },
     {
-        "headline": "Kenyan police begin patrols, but Haiti\u2019s gangs are unperturbed",
-        "location": "Haiti",
-        "coordinates": [
-            19.1399952,
-            -72.3570972
-        ]
-    },
-    {
         "headline": "Orban goes global as self-styled peacemaker without a plan",
         "location": "Hungary",
         "coordinates": [
@@ -64,15 +64,7 @@
         ]
     },
     {
-        "headline": "Orban goes global as self-styled peacemaker without a plan",
-        "location": "Hungary",
-        "coordinates": [
-            47.1817585,
-            19.5060937
-        ]
-    },
-    {
-        "headline": "Extravagant wedding of India tycoon Ambani\u2019s son in full swing",
+        "headline": "Celebrations continue for star-studded Ambani wedding",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -88,11 +80,75 @@
         ]
     },
     {
-        "headline": "In photos: Kim Kardashian, Bieber and Rihanna at grand India wedding",
+        "headline": "Meet the tycoons behind the grand Indian wedding",
         "location": "India",
         "coordinates": [
             22.3511148,
             78.6677428
+        ]
+    },
+    {
+        "headline": "Asia\u2019s richest man is hosting a \u2018spectacular,\u2019 \u2018vulgar,\u2019 star-studded wedding",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Hamas-run health ministry says 90 killed in Israeli strike targeting military chief",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Hamas-run health ministry says 90 killed in Israeli strike targeting military chief",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Follow BBC on:",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli strikes targeting Hamas military leader kill 90 in Gaza",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Who is Mohammed Deif, Hamas military commander targeted by Israel?",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "These are Hamas\u2019s top leaders",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel, Hamas inch closer to Gaza cease-fire deal, but gaps remain",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -112,11 +168,11 @@
         ]
     },
     {
-        "headline": "Kenya's police chief resigns after deadly anti-tax protests",
-        "location": "Kenya",
+        "headline": "U.S. will soon end its troubled Gaza pier mission, Pentagon says",
+        "location": "Israel",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -128,14 +184,6 @@
         ]
     },
     {
-        "headline": "Mexico\u2019s new leader is a climate expert. Can she save an oil nation?",
-        "location": "Mexico",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
         "headline": "Children killed in Nigeria school collapse",
         "location": "Nigeria",
         "coordinates": [
@@ -144,11 +192,11 @@
         ]
     },
     {
-        "headline": "Poland considers downing Russian missiles over Ukraine",
-        "location": "Poland",
+        "headline": "U.S.-China rivalry enters a new sphere: Who can best carry a tune",
+        "location": "South Korea",
         "coordinates": [
-            52.215933,
-            19.134422
+            36.638392,
+            127.6961188
         ]
     },
     {
@@ -160,7 +208,23 @@
         ]
     },
     {
-        "headline": "Ukrainian president to hold talks with Irish PM",
+        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
+        "location": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "headline": "High on Yamal fever, Spaniards think Euros victory is theirs",
+        "location": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "headline": "Zelensky visits Ireland as taoiseach vows Kyiv trip",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -168,7 +232,7 @@
         ]
     },
     {
-        "headline": "Buckingham Palace\u2019s East Wing (the one with the balcony) opens to the public",
+        "headline": "Princess Kate will present trophy to men\u2019s Wimbledon winner, palace says",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -176,11 +240,27 @@
         ]
     },
     {
-        "headline": "Britain\u2019s new government vows to prioritize Ukraine fight",
-        "location": "United Kingdom",
+        "headline": "Trump safe but bloodied, and attacker dead, after shots fired at rally",
+        "location": "United States",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump rushed off stage at rally as shots  heard",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
         ]
     },
     {
@@ -192,7 +272,7 @@
         ]
     },
     {
-        "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
+        "headline": "Trump rushed off stage at rally as shots  heard",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -200,7 +280,7 @@
         ]
     },
     {
-        "headline": "US allies try to 'Trump-proof' Nato - but is that even possible?",
+        "headline": "Video shows moment Trump ducks and swarmed by security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -208,7 +288,23 @@
         ]
     },
     {
-        "headline": "Hackers steal call records of 'nearly all' AT&T customers",
+        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Many Democrats are sticking with Biden. Here's why",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Ros Atkins on... The Biden dilemma facing the Democrats",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +336,31 @@
         ]
     },
     {
-        "headline": "Many Democrats are sticking with Biden. Here's why",
+        "headline": "Witness says he saw gunman on roof near Trump rally",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump rushed off stage at rally as shots  heard",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch: Witness says he saw gunman on roof",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Video shows moment Trump ducks and swarmed by security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,38 +376,6 @@
         ]
     },
     {
-        "headline": "Biden is teetering. Trump's plan? Let it happen",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch moment case collapses against tearful Baldwin",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Who are the Democrats calling time on Joe Biden?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Project 2025: A wish list for a Trump presidency, explained",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
         "headline": "Delta apologizes for post disparaging attendants\u2019 Palestinian flag pins",
         "location": "United States",
         "coordinates": [
@@ -296,7 +384,7 @@
         ]
     },
     {
-        "headline": "U.S. will soon end its troubled Gaza pier mission, Pentagon says",
+        "headline": "NATO sets its sights on China",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +392,7 @@
         ]
     },
     {
-        "headline": "Biden administration disturbed by Modi-Putin visit during NATO summit",
+        "headline": "U.S., Germany foiled Russian plot to assassinate CEO of arms manufacturer, officials say",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,11 +400,11 @@
         ]
     },
     {
-        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
-        "location": "Zimbabwe",
+        "headline": "Republicans to NATO leaders: Take Trump seriously, not literally",
+        "location": "United States",
         "coordinates": [
-            -18.4554963,
-            29.7468414
+            39.7837304,
+            -100.445882
         ]
     },
     {
