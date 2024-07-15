@@ -8,19 +8,27 @@
         ]
     },
     {
-        "headline": "After abuse revelations, professors grapple with how to teach Munro",
-        "location": "Canada",
+        "headline": "King and Queen to visit Australia in October",
+        "location": "Australia",
         "coordinates": [
-            61.0666922,
-            -107.991707
+            -24.7761086,
+            134.755
         ]
     },
     {
-        "headline": "Liverpool footballer N\u00fa\u00f1ez clashes with Colombia fans",
-        "location": "Colombia",
+        "headline": "Features",
+        "location": "Brazil",
         "coordinates": [
-            4.099917,
-            -72.9088133
+            -10.3333333,
+            -53.2
+        ]
+    },
+    {
+        "headline": "Is Brazil's Brics-building worth it?",
+        "location": "Brazil",
+        "coordinates": [
+            -10.3333333,
+            -53.2
         ]
     },
     {
@@ -32,19 +40,27 @@
         ]
     },
     {
-        "headline": "Mystery as 4,000-year-old axe-heads sent to museum",
-        "location": "Egypt",
-        "coordinates": [
-            26.2540493,
-            29.2675469
-        ]
-    },
-    {
-        "headline": "French rugby players charged with raping woman in Argentina",
+        "headline": "Princess Catherine steps into spotlight again after cancer announcement",
         "location": "France",
         "coordinates": [
             46.603354,
             1.8883335
+        ]
+    },
+    {
+        "headline": "Olympic flame arrives in Paris, at the center of Bastille Day parade",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "As Gambia weighs end to genital-cutting ban, this girl was cut behind mother\u2019s back",
+        "location": "Gambia",
+        "coordinates": [
+            13.470062,
+            -15.4900464
         ]
     },
     {
@@ -56,31 +72,7 @@
         ]
     },
     {
-        "headline": "Orban goes global as self-styled peacemaker without a plan",
-        "location": "Hungary",
-        "coordinates": [
-            47.1817585,
-            19.5060937
-        ]
-    },
-    {
         "headline": "Celebrations continue for star-studded Ambani wedding",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Former PMs, film and sports stars join Ambani wedding",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Meet the tycoons behind the grand Indian wedding",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -96,23 +88,7 @@
         ]
     },
     {
-        "headline": "Hamas-run health ministry says 90 killed in Israeli strike targeting military chief",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Hamas-run health ministry says 90 killed in Israeli strike targeting military chief",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Follow BBC on:",
+        "headline": "IDF says senior Hamas commander killed in Israeli air strike",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -152,31 +128,23 @@
         ]
     },
     {
-        "headline": "Freed Israeli hostage recalls joy of rescue, depression in captivity",
-        "location": "Israel",
+        "headline": "Kenya police probed after body parts found",
+        "location": "Kenya",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "Israeli military says it failed to protect Gaza border town on Oct. 7",
-        "location": "Israel",
+        "headline": "After abuse revelations, professors grapple with how to teach Munro",
+        "location": "Kenya",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "headline": "U.S. will soon end its troubled Gaza pier mission, Pentagon says",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "After weeks of protests, Kenya\u2019s president sacks his much reviled ministers",
+        "headline": "After weeks of protests, Kenya\u2019s president sacks his much-reviled ministers",
         "location": "Kenya",
         "coordinates": [
             1.4419683,
@@ -192,11 +160,51 @@
         ]
     },
     {
-        "headline": "U.S.-China rivalry enters a new sphere: Who can best carry a tune",
-        "location": "South Korea",
+        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
+        "location": "Rwanda",
         "coordinates": [
-            36.638392,
-            127.6961188
+            -1.9646631,
+            30.0644358
+        ]
+    },
+    {
+        "headline": "How conspiracy theories and hate dominated social feeds after assassination attempt on Trump",
+        "location": "Rwanda",
+        "coordinates": [
+            -1.9646631,
+            30.0644358
+        ]
+    },
+    {
+        "headline": "Kagame seeks fourth term as Rwandan president",
+        "location": "Rwanda",
+        "coordinates": [
+            -1.9646631,
+            30.0644358
+        ]
+    },
+    {
+        "headline": "Kagame seeks fourth term as Rwandan president",
+        "location": "Rwanda",
+        "coordinates": [
+            -1.9646631,
+            30.0644358
+        ]
+    },
+    {
+        "headline": "Kagame seeks fourth term as Rwandan president",
+        "location": "Rwanda",
+        "coordinates": [
+            -1.9646631,
+            30.0644358
+        ]
+    },
+    {
+        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
+        "location": "Rwanda",
+        "coordinates": [
+            -1.9646631,
+            30.0644358
         ]
     },
     {
@@ -208,30 +216,6 @@
         ]
     },
     {
-        "headline": "The three-way international tussle for Euro 24 star Lamine Yamal",
-        "location": "Spain",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "headline": "High on Yamal fever, Spaniards think Euros victory is theirs",
-        "location": "Spain",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "headline": "Zelensky visits Ireland as taoiseach vows Kyiv trip",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
         "headline": "Princess Kate will present trophy to men\u2019s Wimbledon winner, palace says",
         "location": "United Kingdom",
         "coordinates": [
@@ -240,7 +224,7 @@
         ]
     },
     {
-        "headline": "Trump safe but bloodied, and attacker dead, after shots fired at rally",
+        "headline": "Biden urges America to 'lower temperature' after Trump shooting",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +232,7 @@
         ]
     },
     {
-        "headline": "Trump rushed off stage at rally as shots  heard",
+        "headline": "First panic, then fury - what I witnessed at Trump rally",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +240,7 @@
         ]
     },
     {
-        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
+        "headline": "Video shows moment Trump ducks and is swarmed by security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +248,7 @@
         ]
     },
     {
-        "headline": "Alec Baldwin's Rust trial dismissed over hidden evidence",
+        "headline": "A shocking act that will reshape the presidential race",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +256,7 @@
         ]
     },
     {
-        "headline": "Trump rushed off stage at rally as shots  heard",
+        "headline": "Spray of bullets shatters nation's illusion of security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +264,7 @@
         ]
     },
     {
-        "headline": "Video shows moment Trump ducks and swarmed by security",
+        "headline": "Watch: Witness tells BBC he warned police of gunman on roof",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +272,23 @@
         ]
     },
     {
-        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
+        "headline": "Beverly Hills 90210 star Shannen Doherty dead at 53",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Secret Service faces questions after Trump assassination attempt",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Video shows Trump rally shooter on roof",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +304,7 @@
         ]
     },
     {
-        "headline": "Ros Atkins on... The Biden dilemma facing the Democrats",
+        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +312,7 @@
         ]
     },
     {
-        "headline": "Key moments as Biden spars with reporters and fumbles twice",
+        "headline": "Watch/Listen",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "headline": "Moment plane tyre explodes during take-off in Tampa",
+        "headline": "Videos show how gunman shot at Trump despite public alerting police",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,7 +328,7 @@
         ]
     },
     {
-        "headline": "Biden is teetering. Trump's plan? Let it happen",
+        "headline": "Video shows moment Trump ducks and is swarmed by security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -336,7 +336,7 @@
         ]
     },
     {
-        "headline": "Witness says he saw gunman on roof near Trump rally",
+        "headline": "Watch: How chaos unfolded at Trump rally shooting",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -344,7 +344,7 @@
         ]
     },
     {
-        "headline": "Trump rushed off stage at rally as shots  heard",
+        "headline": "Watch: Witness tells BBC he warned police of gunman on roof",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "headline": "Watch: Witness says he saw gunman on roof",
+        "headline": "Video shows Trump rally shooter on roof",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -360,7 +360,7 @@
         ]
     },
     {
-        "headline": "Video shows moment Trump ducks and swarmed by security",
+        "headline": "Remembering Shannen Doherty, the Beverly Hills 'badass'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -368,7 +368,47 @@
         ]
     },
     {
-        "headline": "Alec Baldwin's Rust trial dismissed over hidden evidence",
+        "headline": "Latest updates",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Man killed during Trump shooting dived on family to protect them",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Videos show how gunman shot at Trump despite public alerting police",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Republicans accuse Biden of inciting Trump shooting",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "How conspiracy theories and hate dominated social feeds after assassination attempt on Trump",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Melania Trump speaks out: 'Ascend above the hate'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -392,7 +432,7 @@
         ]
     },
     {
-        "headline": "U.S., Germany foiled Russian plot to assassinate CEO of arms manufacturer, officials say",
+        "headline": "Freed Israeli hostage recalls joy of rescue, depression in captivity",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -400,19 +440,19 @@
         ]
     },
     {
-        "headline": "Republicans to NATO leaders: Take Trump seriously, not literally",
-        "location": "United States",
+        "headline": "Zambia made education free, now classrooms are crammed",
+        "location": "Zambia",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            -14.5189121,
+            27.5589884
         ]
     },
     {
-        "headline": "I cannot forgive Mugabe's soldiers \u2013 massacre survivor",
-        "location": "Zimbabwe",
+        "headline": "Zambia made education free, now classrooms are crammed",
+        "location": "Zambia",
         "coordinates": [
-            -18.4554963,
-            29.7468414
+            -14.5189121,
+            27.5589884
         ]
     }
 ]
