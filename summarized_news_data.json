@@ -1,31 +1,31 @@
 [
     {
         "location": "Afghanistan",
-        "summary": "\u2022 Taliban seeks to reconcile science and religion on climate change.\n\u2022 This move aims to address environmental challenges.\n\u2022 Climate change poses significant threats to Afghan communities.",
+        "summary": "\u2022 The article discusses the challenges faced by women in Afghanistan, particularly during the country's beauty pageants.\n\u2022 Despite being considered one of the worst places to be a woman, the beauty pageants serve as an outlet for self-expression and empowerment.\n\u2022 In contrast, the Taliban is attempting to reconcile science and religion in addressing climate change, highlighting their efforts towards sustainability and environmental awareness.",
         "coordinates": [
             33.7680065,
             66.2385139
         ]
     },
     {
-        "location": "Australia",
-        "summary": "\u2022 The British monarch will pay an official state visit to Australia.\n\u2022 The royal couple will spend several days in the country from October onwards.\n\u2022 During their trip, they will engage in various activities, including cultural events and diplomatic meetings with local leaders.",
+        "location": "Argentina",
+        "summary": "\u2022 The Copa America tournament was marred by controversy due to security issues.\n\u2022 The incident nearly turned deadly, sparking widespread concern among spectators.\n\u2022 As a result, the event was rebranded as the \"party that almost became a tragedy\".",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -34.9964963,
+            -64.9672817
         ]
     },
     {
-        "location": "Ecuador",
-        "summary": "\u2022 \n\u2022 \n\u2022",
+        "location": "China",
+        "summary": "\u2022 Asia's richest man hosts lavish star-studded wedding\n\u2022 Event features spectacular decorations and performances\n\u2022 Critics label it as \"vulgar\" due to excess and extravagance",
         "coordinates": [
-            -1.3397668,
-            -79.3666965
+            35.000074,
+            104.999927
         ]
     },
     {
         "location": "France",
-        "summary": "\u2022 Princess Catherine makes public appearance after cancer diagnosis.\n\u2022 Olympic torch arrives in Paris for Bastille Day parade.\n\u2022 Princess Catherine and Olympic torch appear together on Bastille Day.",
+        "summary": "\u2022 The Olympic flame arrived in Paris.\n\u2022 It was placed at the center of the Bastille Day parade.\n\u2022 This event is part of the celebration for Bastille Day.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -33,7 +33,7 @@
     },
     {
         "location": "Gambia",
-        "summary": "\u2022 A girl in Gambia was secretly circumcised despite her family's opposition.\n\u2022 The country is considering lifting its ban on female circumcision.\n\u2022 Female circumcision remains a contentious issue globally due to its cultural significance and human rights implications.",
+        "summary": "\u2022 The Gambian government has maintained its ban on Female Genital Cutting (FGC), which involves the partial or total removal of external female genitalia.\n\u2022 This decision comes amid concerns that the ban may be lifted, allowing FGC to resume in the country.\n\u2022 In contrast, some girls have already undergone the procedure despite their parents' efforts to protect them from FGC.",
         "coordinates": [
             13.470062,
             -15.4900464
@@ -41,63 +41,79 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 Germany is implementing a policy that forces certain asylum seekers to take on labor-intensive tasks.\n\u2022 Asylum seekers in Germany are being compelled to work under duress rather than pursuing employment opportunities of their choice.\n\u2022 This approach has sparked controversy among human rights advocates who argue it undermines the dignity of refugees seeking refuge in Germany.",
+        "summary": "\u2022 The German government has implemented a policy requiring certain asylum seekers to participate in labor programs as part of their integration process.\n\u2022 This decision aims to provide these individuals with job training, skills development, and social adaptation to better prepare them for employment upon obtaining refugee status.\n\u2022 Critics argue that this approach may be overly restrictive and undermine the dignity of refugees who simply wish to pursue legitimate employment opportunities.",
         "coordinates": [
             51.1638175,
             10.4478313
         ]
     },
     {
-        "location": "India",
-        "summary": "\u2022 Star-studded Ambani wedding continues with celebrations.\n\u2022 Asia's richest man hosts lavish, spectacular wedding.\n\u2022 Event sparks controversy over its opulence and extravagance.",
+        "location": "Indonesia",
+        "summary": "\u2022 A previously unknown \"sky island\" rainforest in Indonesia has been preserved due to recent discoveries.\n\u2022 The isolated ecosystem is home to unique species that thrive in its high-altitude environment.\n\u2022 Scientists hope to learn from this natural wonder and apply their findings to protect other vulnerable ecosystems globally.",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            -2.4833826,
+            117.8902853
+        ]
+    },
+    {
+        "location": "Ireland",
+        "summary": "\u2022 Violence breaks out in Dublin over planned asylum seeker housing.\n\u2022 Prime Minister condemns violence as \"reprehensible\".\n\u2022 Stars remember musician Shane Doherty who passed away suddenly.",
+        "coordinates": [
+            52.865196,
+            -7.9794599
         ]
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Senior Hamas commander killed in Israeli airstrike.\n\u2022 90 killed in Israeli airstrikes on Gaza targeting Hamas military leader.\n\u2022 Gaps remain as Israel and Hamas negotiate ceasefire deal.",
+        "summary": "\u2022 Israel's military is concerned about potential conflict with Lebanon.\n\u2022 Israeli airstrikes have killed 90 people in Gaza, including a high-ranking Hamas official.\n\u2022 The death toll in Gaza continues to rise as Israel and Hamas negotiate a ceasefire agreement.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
+        "location": "Italy",
+        "summary": "\u2022 Dozens of Indian workers were rescued from \"slave-like\" conditions in Italy.\n\u2022 An Italian court sentenced an Instagram influencer to prison for human trafficking and exploitation.",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
         "location": "Kenya",
-        "summary": "\u2022 Kenya's police under investigation after human remains discovered\n\u2022 Professors struggle to address abuse allegations in their teaching methods\n\u2022 Kenyan President replaces controversial cabinet members amidst ongoing protests",
+        "summary": "\u2022 Serial killer caught after bodies found in Kenya dump.\n\u2022 Professors struggling to teach Munro after abuse revelations.\n\u2022 President fires hated ministers amid weeks of protests.",
         "coordinates": [
             1.4419683,
             38.4313975
         ]
     },
     {
-        "location": "Nigeria",
-        "summary": "\u2022 At least 13 children died when a building housing a primary school collapsed in Lagos, Nigeria.\n\u2022 The incident occurred during lunchtime on a Friday afternoon at the three-story structure built over 50 years ago with multiple extensions.\n\u2022 Survivors were taken to nearby hospitals for treatment after emergency responders arrived quickly on the scene.",
-        "coordinates": [
-            9.6000359,
-            7.9999721
-        ]
-    },
-    {
-        "location": "Rwanda",
-        "summary": "\u2022 An individual named Thomas Matthew Crooks is identified in connection with an attempted attack on US President Donald Trump.\n\u2022 Conspiracy theories and hate speech have spread on social media platforms following the incident.\n\u2022 Rwandan President Paul Kagame has announced his intention to seek a fourth presidential term.",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
         "location": "South Korea",
-        "summary": "\u2022 Trader Joe's seasoning banned in South Korea due to its popularity\n\u2022 The seasoning gained widespread use despite being prohibited by law\n\u2022 Authorities have taken steps to enforce the ban and promote compliance with regulations",
+        "summary": "\u2022 The popular US-based grocery store chain Trader Joe's has launched a new line of seasonings in South Korea.\n\u2022 However, these products have sparked controversy as they contain MSG, which is banned by Korean law due to concerns over its potential health effects.\n\u2022 As a result, the products can no longer be legally sold or distributed in the country.",
         "coordinates": [
             36.638392,
             127.6961188
         ]
     },
     {
+        "location": "Spain",
+        "summary": "\u2022 Fans celebrate after Spain's royal welcome in Madrid\n\u2022 Royal family arrives at Adolfo Su\u00e1rez Madrid\u2013Barajas Airport\n\u2022 Thousands gather to greet Spanish monarchs",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "location": "Syria",
+        "summary": "\u2022 Many Syrians are fleeing their country due to ongoing conflict.\n\u2022 Some have joined African mercenaries to escape instability at home.\n\u2022 This trend is becoming increasingly common among displaced Syrian individuals.",
+        "coordinates": [
+            34.815353599999995,
+            38.42307447267531
+        ]
+    },
+    {
         "location": "United Kingdom",
-        "summary": "\u2022 Princess Kate will present the trophy to the men's Wimbledon winner.\n\u2022 The presentation is confirmed by the palace.\n\u2022 This highlights her role in supporting British sports achievements.",
+        "summary": "\u2022 Princess Catherine returns to public life after announcing her cancer diagnosis.\n\u2022 She will present the trophy to the men's Wimbledon champion.\n\u2022 The event showcases the royal family's continued support for tennis in the UK.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -105,7 +121,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022\tTrump shooter on the roof fires at Trump who is ducked by security\n\u2022\tDemocrats stick with Joe Biden due to his policy stance\n\u2022\tGunman kills man who jumps in front of him to protect family",
+        "summary": "\u2022 President Trump may make his first public appearance since an assassination attempt.\n\u2022 JD Vance has been criticized for supporting Trump in the past but now serves as his running mate.\n\u2022 Former Vice President Joe Biden defended his statement that Trump poses a danger to democracy during a recent event.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -113,7 +129,7 @@
     },
     {
         "location": "Zambia",
-        "summary": "\u2022 Education in Zambia was made free by the government.\n\u2022 As a result, classrooms became overcrowded due to increased demand.\n\u2022 This has led to challenges in providing quality education amidst the high number of students.",
+        "summary": "\u2022 Free education policy implemented in Zambia\n\u2022 Overcrowding issues arise due to increased enrollment\n\u2022 Strain on resources and infrastructure persists",
         "coordinates": [
             -14.5189121,
             27.5589884

@@ -1,5 +1,21 @@
 [
     {
+        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
+        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
         "headline": "Taliban tries reconciling science and religion in facing climate change",
         "location": "Afghanistan",
         "coordinates": [
@@ -8,43 +24,27 @@
         ]
     },
     {
-        "headline": "King and Queen to visit Australia in October",
-        "location": "Australia",
+        "headline": "Copa America - the 'party that almost became a tragedy'",
+        "location": "Argentina",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -34.9964963,
+            -64.9672817
         ]
     },
     {
-        "headline": "Features",
-        "location": "Brazil",
+        "headline": "Copa America - the 'party that almost became a tragedy'",
+        "location": "Argentina",
         "coordinates": [
-            -10.3333333,
-            -53.2
+            -34.9964963,
+            -64.9672817
         ]
     },
     {
-        "headline": "Is Brazil's Brics-building worth it?",
-        "location": "Brazil",
+        "headline": "Asia\u2019s richest man is hosting a \u2018spectacular,\u2019 \u2018vulgar,\u2019 star-studded wedding",
+        "location": "China",
         "coordinates": [
-            -10.3333333,
-            -53.2
-        ]
-    },
-    {
-        "headline": "Five jailed for Ecuador presidential candidate's murder",
-        "location": "Ecuador",
-        "coordinates": [
-            -1.3397668,
-            -79.3666965
-        ]
-    },
-    {
-        "headline": "Princess Catherine steps into spotlight again after cancer announcement",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
+            35.000074,
+            104.999927
         ]
     },
     {
@@ -53,6 +53,14 @@
         "coordinates": [
             46.603354,
             1.8883335
+        ]
+    },
+    {
+        "headline": "Gambia keeps ban on female genital cutting after fears it would be repealed",
+        "location": "Gambia",
+        "coordinates": [
+            13.470062,
+            -15.4900464
         ]
     },
     {
@@ -72,23 +80,47 @@
         ]
     },
     {
-        "headline": "Celebrations continue for star-studded Ambani wedding",
-        "location": "India",
+        "headline": "Secret 'sky island' rainforest saved by new discoveries",
+        "location": "Indonesia",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            -2.4833826,
+            117.8902853
         ]
     },
     {
-        "headline": "Asia\u2019s richest man is hosting a \u2018spectacular,\u2019 \u2018vulgar,\u2019 star-studded wedding",
-        "location": "India",
+        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
+        "location": "Ireland",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            52.865196,
+            -7.9794599
         ]
     },
     {
-        "headline": "IDF says senior Hamas commander killed in Israeli air strike",
+        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Stars pay tribute to 'force of nature'  Doherty",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Irish PM condemns 'reprehensible' Dublin violence",
+        "location": "Ireland",
+        "coordinates": [
+            52.865196,
+            -7.9794599
+        ]
+    },
+    {
+        "headline": "Israel\u2019s military, worn down by Gaza, looks warily toward war in Lebanon",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -128,7 +160,23 @@
         ]
     },
     {
-        "headline": "Kenya police probed after body parts found",
+        "headline": "Dozens of Indian workers freed from 'slavery' in Italy",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "Instagram influencer jailed for trafficking and slavery",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "'Serial killer' arrested after bodies found in Kenya dump",
         "location": "Kenya",
         "coordinates": [
             1.4419683,
@@ -152,67 +200,35 @@
         ]
     },
     {
-        "headline": "Children killed in Nigeria school collapse",
-        "location": "Nigeria",
-        "coordinates": [
-            9.6000359,
-            7.9999721
-        ]
-    },
-    {
-        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
-        "headline": "How conspiracy theories and hate dominated social feeds after assassination attempt on Trump",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
-        "headline": "Kagame seeks fourth term as Rwandan president",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
-        "headline": "Kagame seeks fourth term as Rwandan president",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
-        "headline": "Kagame seeks fourth term as Rwandan president",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
-        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
-        "location": "Rwanda",
-        "coordinates": [
-            -1.9646631,
-            30.0644358
-        ]
-    },
-    {
         "headline": "This Trader Joe\u2019s seasoning is a hot item. In South Korea, it\u2019s illegal.",
         "location": "South Korea",
         "coordinates": [
             36.638392,
             127.6961188
+        ]
+    },
+    {
+        "headline": "Fans celebrate after Spain's royal welcome in Madrid",
+        "location": "Spain",
+        "coordinates": [
+            39.3260685,
+            -4.8379791
+        ]
+    },
+    {
+        "headline": "Leaving Syria's civil war to be a mercenary in Africa",
+        "location": "Syria",
+        "coordinates": [
+            34.815353599999995,
+            38.42307447267531
+        ]
+    },
+    {
+        "headline": "Princess Catherine steps into spotlight again after cancer announcement",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
         ]
     },
     {
@@ -224,7 +240,7 @@
         ]
     },
     {
-        "headline": "Biden urges America to 'lower temperature' after Trump shooting",
+        "headline": "Trump expected to make first public appearance since assassination attempt",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +248,7 @@
         ]
     },
     {
-        "headline": "First panic, then fury - what I witnessed at Trump rally",
+        "headline": "'It will be great to see him': Joy and relief for Trump faithful after shooting",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +256,7 @@
         ]
     },
     {
-        "headline": "Video shows moment Trump ducks and is swarmed by security",
+        "headline": "JD Vance once criticised Trump. Now he's his running mate",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +264,7 @@
         ]
     },
     {
-        "headline": "A shocking act that will reshape the presidential race",
+        "headline": "A look inside the Republican convention as it kicks off",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +272,7 @@
         ]
     },
     {
-        "headline": "Spray of bullets shatters nation's illusion of security",
+        "headline": "Biden defends calling Trump a threat to democracy",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +280,7 @@
         ]
     },
     {
-        "headline": "Watch: Witness tells BBC he warned police of gunman on roof",
+        "headline": "Videos show how gunman shot at Trump despite public alerting police",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +288,7 @@
         ]
     },
     {
-        "headline": "Beverly Hills 90210 star Shannen Doherty dead at 53",
+        "headline": "Trump classified documents case dismissed by Florida judge",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +296,7 @@
         ]
     },
     {
-        "headline": "Secret Service faces questions after Trump assassination attempt",
+        "headline": "Stranger Things season five teaser excites fans",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,23 +304,7 @@
         ]
     },
     {
-        "headline": "Video shows Trump rally shooter on roof",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Many Democrats are sticking with Biden. Here's why",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Celebrity sex therapist Dr Ruth Westheimer dies at 96",
+        "headline": "Cave discovered on Moon could be home for humans",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +320,7 @@
         ]
     },
     {
-        "headline": "Videos show how gunman shot at Trump despite public alerting police",
+        "headline": "The missed warnings ahead of the Trump attack",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -352,7 +352,7 @@
         ]
     },
     {
-        "headline": "Video shows Trump rally shooter on roof",
+        "headline": "Features",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -376,7 +376,7 @@
         ]
     },
     {
-        "headline": "Man killed during Trump shooting dived on family to protect them",
+        "headline": "JD Vance once criticised Trump. Now he's his running mate",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -384,7 +384,7 @@
         ]
     },
     {
-        "headline": "Videos show how gunman shot at Trump despite public alerting police",
+        "headline": "Biden defends calling Trump a threat to democracy",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -392,7 +392,7 @@
         ]
     },
     {
-        "headline": "Republicans accuse Biden of inciting Trump shooting",
+        "headline": "A look inside the Republican convention as it kicks off",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "headline": "How conspiracy theories and hate dominated social feeds after assassination attempt on Trump",
+        "headline": "Security was tight, so how did Trump gunman slip through?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "headline": "Melania Trump speaks out: 'Ascend above the hate'",
+        "headline": "JD Vance named as Trump's running mate",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -416,7 +416,7 @@
         ]
     },
     {
-        "headline": "Delta apologizes for post disparaging attendants\u2019 Palestinian flag pins",
+        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -424,7 +424,7 @@
         ]
     },
     {
-        "headline": "NATO sets its sights on China",
+        "headline": "The missed warnings ahead of the Trump attack",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "headline": "Freed Israeli hostage recalls joy of rescue, depression in captivity",
+        "headline": "Follow BBC on:",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -440,11 +440,35 @@
         ]
     },
     {
-        "headline": "Zambia made education free, now classrooms are crammed",
-        "location": "Zambia",
+        "headline": "World leaders react to Trump rally shooting: \u2018A tragedy for our democracies\u2019",
+        "location": "United States",
         "coordinates": [
-            -14.5189121,
-            27.5589884
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Biden made a bold deal with Venezuela\u2019s strongman. Will it pay off?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Two earlier assassination attempts shadow Trump shooting",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "U.S.-China rivalry enters a new sphere: Who can best carry a tune",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
         ]
     },
     {
