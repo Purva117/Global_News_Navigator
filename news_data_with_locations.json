@@ -1,78 +1,58 @@
 [
     {
-        "headline": "Trump expected to make first public appearance since assassination attempt",
+        "headline": "Trump security boosted weeks ago over 'Iranian plot' to kill him",
         "location": "United States"
     },
     {
-        "headline": "'It will be great to see him': Joy and relief for Trump faithful after shooting",
+        "headline": "Defeated Trump rivals to preach unity at Republican convention",
         "location": "United States"
     },
     {
-        "headline": "JD Vance once criticised Trump. Now he's his running mate",
+        "headline": "Senator Bob Menendez found guilty in bribery scheme",
         "location": "United States"
     },
     {
-        "headline": "A look inside the Republican convention as it kicks off",
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada"
+    },
+    {
+        "headline": "Toronto reels from floods and power cuts after severe storms",
+        "location": "Canada"
+    },
+    {
+        "headline": "Defeated Trump rivals to preach unity at Republican convention",
         "location": "United States"
     },
     {
-        "headline": "Biden defends calling Trump a threat to democracy",
+        "headline": "Deadly unrest over job quotas grips Bangladesh",
+        "location": "Bangladesh"
+    },
+    {
+        "headline": "Gaza man with Down's syndrome attacked by IDF dog and left to die, mother tells BBC",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Senator Bob Menendez found guilty in bribery scheme",
         "location": "United States"
     },
     {
-        "headline": "Videos show how gunman shot at Trump despite public alerting police",
+        "headline": "Biden considers major Supreme Court reform: report",
         "location": "United States"
     },
     {
-        "headline": "Trump classified documents case dismissed by Florida judge",
-        "location": "United States"
+        "headline": "Islamic State group claims deadly attack in Oman",
+        "location": "Oman"
     },
     {
-        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
-        "location": "Ireland"
+        "headline": "Mystery surrounds deaths at Grand Hyatt hotel in Bangkok",
+        "location": "Thailand"
     },
     {
-        "headline": "Copa America - the 'party that almost became a tragedy'",
-        "location": "Argentina"
+        "headline": "50 reportedly killed in latest Israeli strikes in Gaza",
+        "location": "Israel"
     },
     {
-        "headline": "Dozens of Indian workers freed from 'slavery' in Italy",
-        "location": "Italy"
-    },
-    {
-        "headline": "Fans celebrate after Spain's royal welcome in Madrid",
-        "location": "Spain"
-    },
-    {
-        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Instagram influencer jailed for trafficking and slavery",
-        "location": "Italy"
-    },
-    {
-        "headline": "Copa America - the 'party that almost became a tragedy'",
-        "location": "Argentina"
-    },
-    {
-        "headline": "Stars pay tribute to 'force of nature'  Doherty",
-        "location": "Ireland"
-    },
-    {
-        "headline": "Israeli strike on central Gaza school reportedly kills 22",
-        "location": "Palestine/Gaza Strip"
-    },
-    {
-        "headline": "Stranger Things season five teaser excites fans",
-        "location": "United States"
-    },
-    {
-        "headline": "'Serial killer' arrested after bodies found in Kenya dump",
-        "location": "Kenya"
-    },
-    {
-        "headline": "Cave discovered on Moon could be home for humans",
+        "headline": "Jack Black axes tour over bandmate's Trump comment",
         "location": "United States"
     },
     {
@@ -80,19 +60,23 @@
         "location": "United States"
     },
     {
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada"
+    },
+    {
+        "headline": "Spain team chant 'Gibraltar is Spanish' at Euros celebration",
+        "location": "Spain"
+    },
+    {
+        "headline": "Wild cheers at convention as Trump makes first outing since attack",
+        "location": "United States"
+    },
+    {
+        "headline": "'My heart skipped a beat' - tears as Trump appears at RNC",
+        "location": "United States"
+    },
+    {
         "headline": "The missed warnings ahead of the Trump attack",
-        "location": "United States"
-    },
-    {
-        "headline": "Video shows moment Trump ducks and is swarmed by security",
-        "location": "United States"
-    },
-    {
-        "headline": "Watch: How chaos unfolded at Trump rally shooting",
-        "location": "United States"
-    },
-    {
-        "headline": "Watch: Witness tells BBC he warned police of gunman on roof",
         "location": "United States"
     },
     {
@@ -100,23 +84,23 @@
         "location": "United States"
     },
     {
-        "headline": "Secret 'sky island' rainforest saved by new discoveries",
-        "location": "Indonesia/Malaysia"
+        "headline": "Kenya's \u2018serial killer\u2019 mystery - five key questions",
+        "location": "Kenya"
+    },
+    {
+        "headline": "A friendship in the face of fascism",
+        "location": "United States"
+    },
+    {
+        "headline": "New tech aims to keep polar bears and people apart",
+        "location": "United States"
+    },
+    {
+        "headline": "Vance choice heightens European fears over Trump presidency",
+        "location": "United States"
     },
     {
         "headline": "Leaving Syria's civil war to be a mercenary in Africa",
-        "location": "Syria/Africa"
-    },
-    {
-        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
-        "location": "Afghanistan/Iran"
-    },
-    {
-        "headline": "Zambia made education free, now classrooms are crammed",
-        "location": "Zambia"
-    },
-    {
-        "headline": "Remembering Shannen Doherty, the Beverly Hills 'badass'",
         "location": "United States"
     },
     {
@@ -124,44 +108,76 @@
         "location": "United States"
     },
     {
-        "headline": "JD Vance once criticised Trump. Now he's his running mate",
+        "headline": "Deadly unrest over job quotas grips Bangladesh",
+        "location": "Bangladesh"
+    },
+    {
+        "headline": "Biden considers major Supreme Court reform: report",
         "location": "United States"
     },
     {
-        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
-        "location": "Afghanistan/Iran"
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada"
     },
     {
-        "headline": "Biden defends calling Trump a threat to democracy",
+        "headline": "Toronto reels from floods and power cuts after severe storms",
+        "location": "Canada"
+    },
+    {
+        "headline": "JD Vance's 'Hillbilly Elegy' becomes political lightning rod in 2024 election",
         "location": "United States"
     },
     {
-        "headline": "A look inside the Republican convention as it kicks off",
+        "headline": "Two Brits missing in Sweden as bodies found in car",
+        "location": "Sweden"
+    },
+    {
+        "headline": "Trump's ex-rival Haley to speak at Republican convention",
         "location": "United States"
     },
     {
-        "headline": "Security was tight, so how did Trump gunman slip through?",
+        "headline": "Trump security boosted weeks ago over Iran plot to kill him",
         "location": "United States"
     },
     {
-        "headline": "Irish PM condemns 'reprehensible' Dublin violence",
+        "headline": "Leo Varadkar to stand down at next Irish election",
         "location": "Ireland"
-    },
-    {
-        "headline": "JD Vance named as Trump's running mate",
-        "location": "United States"
-    },
-    {
-        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
-        "location": "United States"
-    },
-    {
-        "headline": "The missed warnings ahead of the Trump attack",
-        "location": "United States"
     },
     {
         "headline": "Follow BBC on:",
         "location": "United States"
+    },
+    {
+        "headline": "White House touts drop in border crossings to counter GOP crime focus",
+        "location": "United States"
+    },
+    {
+        "headline": "Trump will push for hasty peace in Ukraine if elected, Hungary\u2019s Orban says",
+        "location": "United States"
+    },
+    {
+        "headline": "2 Americans among 6 found dead in Bangkok hotel room, officials say",
+        "location": "Thailand"
+    },
+    {
+        "headline": "Israel says half of Hamas military leadership killed since Oct. 7",
+        "location": "Israel"
+    },
+    {
+        "headline": "Russia convicts writer Masha Gessen; reporter Gershkovich seeks faster trial",
+        "location": "Russia"
+    },
+    {
+        "headline": "\u2018Long live Donald Trump\u2019: Indians express their support after shooting",
+        "location": "India"
+    },
+    {
+        "headline": "Across river from lavish Indian wedding, frustration and flooded streets",
+        "location": "India"
+    },
+    {
+        "headline": "Housing, once the ticket to wealth in China, is now draining fortunes",
+        "location": "China"
     },
     {
         "headline": "Gambia keeps ban on female genital cutting after fears it would be repealed",
@@ -173,11 +189,11 @@
     },
     {
         "headline": "Biden made a bold deal with Venezuela\u2019s strongman. Will it pay off?",
-        "location": "United States/Venezuela"
+        "location": "United States"
     },
     {
         "headline": "Israel\u2019s military, worn down by Gaza, looks warily toward war in Lebanon",
-        "location": "Israel/Lebanon"
+        "location": "Israel"
     },
     {
         "headline": "Two earlier assassination attempts shadow Trump shooting",
@@ -185,11 +201,11 @@
     },
     {
         "headline": "Asia\u2019s richest man is hosting a \u2018spectacular,\u2019 \u2018vulgar,\u2019 star-studded wedding",
-        "location": "China/Saudi Arabia"
+        "location": "Asia (referring to Asia's richest man)"
     },
     {
         "headline": "Princess Catherine steps into spotlight again after cancer announcement",
-        "location": "United Kingdom/France"
+        "location": "France"
     },
     {
         "headline": "Olympic flame arrives in Paris, at the center of Bastille Day parade",
@@ -201,46 +217,14 @@
     },
     {
         "headline": "Israeli strikes targeting Hamas military leader kill 90 in Gaza",
-        "location": "Israel/Gaza Strip"
+        "location": "Israel"
     },
     {
         "headline": "Who is Mohammed Deif, Hamas military commander targeted by Israel?",
-        "location": "Israel/Gaza Strip"
+        "location": "Israel"
     },
     {
         "headline": "Princess Kate will present trophy to men\u2019s Wimbledon winner, palace says",
         "location": "United Kingdom"
-    },
-    {
-        "headline": "These are Hamas\u2019s top leaders",
-        "location": "Israel/Gaza Strip"
-    },
-    {
-        "headline": "Germany is forcing some asylum seekers to work, when they just want real jobs",
-        "location": "Germany"
-    },
-    {
-        "headline": "Taliban tries reconciling science and religion in facing climate change",
-        "location": "Afghanistan"
-    },
-    {
-        "headline": "Israel, Hamas inch closer to Gaza cease-fire deal, but gaps remain",
-        "location": "Israel/Gaza Strip"
-    },
-    {
-        "headline": "After abuse revelations, professors grapple with how to teach Munro",
-        "location": "Kenya"
-    },
-    {
-        "headline": "After weeks of protests, Kenya\u2019s president sacks his much-reviled ministers",
-        "location": "Kenya"
-    },
-    {
-        "headline": "U.S.-China rivalry enters a new sphere: Who can best carry a tune",
-        "location": "United States/China"
-    },
-    {
-        "headline": "This Trader Joe\u2019s seasoning is a hot item. In South Korea, it\u2019s illegal.",
-        "location": "South Korea"
     }
 ]

@@ -1,50 +1,74 @@
 [
     {
-        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
-        "location": "Afghanistan",
+        "headline": "Deadly unrest over job quotas grips Bangladesh",
+        "location": "Bangladesh",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            -0.2864982,
+            36.0514231
         ]
     },
     {
-        "headline": "Inside the beauty pageant in the world\u2019s worst place to be a woman",
-        "location": "Afghanistan",
+        "headline": "Deadly unrest over job quotas grips Bangladesh",
+        "location": "Bangladesh",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            -0.2864982,
+            36.0514231
         ]
     },
     {
-        "headline": "Taliban tries reconciling science and religion in facing climate change",
-        "location": "Afghanistan",
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "Copa America - the 'party that almost became a tragedy'",
-        "location": "Argentina",
+        "headline": "Toronto reels from floods and power cuts after severe storms",
+        "location": "Canada",
         "coordinates": [
-            -34.9964963,
-            -64.9672817
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "Copa America - the 'party that almost became a tragedy'",
-        "location": "Argentina",
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada",
         "coordinates": [
-            -34.9964963,
-            -64.9672817
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "Asia\u2019s richest man is hosting a \u2018spectacular,\u2019 \u2018vulgar,\u2019 star-studded wedding",
+        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
+        "headline": "Toronto reels from floods and power cuts after severe storms",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
+        "headline": "Housing, once the ticket to wealth in China, is now draining fortunes",
         "location": "China",
         "coordinates": [
             35.000074,
             104.999927
+        ]
+    },
+    {
+        "headline": "Princess Catherine steps into spotlight again after cancer announcement",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
         ]
     },
     {
@@ -72,23 +96,23 @@
         ]
     },
     {
-        "headline": "Germany is forcing some asylum seekers to work, when they just want real jobs",
-        "location": "Germany",
+        "headline": "\u2018Long live Donald Trump\u2019: Indians express their support after shooting",
+        "location": "India",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Secret 'sky island' rainforest saved by new discoveries",
-        "location": "Indonesia",
+        "headline": "Across river from lavish Indian wedding, frustration and flooded streets",
+        "location": "India",
         "coordinates": [
-            -2.4833826,
-            117.8902853
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
+        "headline": "Leo Varadkar to stand down at next Irish election",
         "location": "Ireland",
         "coordinates": [
             52.865196,
@@ -96,27 +120,19 @@
         ]
     },
     {
-        "headline": "Violence erupts at Dublin site earmarked for asylum seekers",
-        "location": "Ireland",
+        "headline": "50 reportedly killed in latest Israeli strikes in Gaza",
+        "location": "Israel",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "Stars pay tribute to 'force of nature'  Doherty",
-        "location": "Ireland",
+        "headline": "Israel says half of Hamas military leadership killed since Oct. 7",
+        "location": "Israel",
         "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
-        "headline": "Irish PM condemns 'reprehensible' Dublin violence",
-        "location": "Ireland",
-        "coordinates": [
-            52.865196,
-            -7.9794599
+            30.8124247,
+            34.8594762
         ]
     },
     {
@@ -144,39 +160,7 @@
         ]
     },
     {
-        "headline": "These are Hamas\u2019s top leaders",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israel, Hamas inch closer to Gaza cease-fire deal, but gaps remain",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Dozens of Indian workers freed from 'slavery' in Italy",
-        "location": "Italy",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
-        "headline": "Instagram influencer jailed for trafficking and slavery",
-        "location": "Italy",
-        "coordinates": [
-            42.6384261,
-            12.674297
-        ]
-    },
-    {
-        "headline": "'Serial killer' arrested after bodies found in Kenya dump",
+        "headline": "Kenya's \u2018serial killer\u2019 mystery - five key questions",
         "location": "Kenya",
         "coordinates": [
             1.4419683,
@@ -184,31 +168,15 @@
         ]
     },
     {
-        "headline": "After abuse revelations, professors grapple with how to teach Munro",
-        "location": "Kenya",
+        "headline": "Islamic State group claims deadly attack in Oman",
+        "location": "Oman",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            21.0000287,
+            57.0036901
         ]
     },
     {
-        "headline": "After weeks of protests, Kenya\u2019s president sacks his much-reviled ministers",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "This Trader Joe\u2019s seasoning is a hot item. In South Korea, it\u2019s illegal.",
-        "location": "South Korea",
-        "coordinates": [
-            36.638392,
-            127.6961188
-        ]
-    },
-    {
-        "headline": "Fans celebrate after Spain's royal welcome in Madrid",
+        "headline": "Spain team chant 'Gibraltar is Spanish' at Euros celebration",
         "location": "Spain",
         "coordinates": [
             39.3260685,
@@ -216,19 +184,27 @@
         ]
     },
     {
-        "headline": "Leaving Syria's civil war to be a mercenary in Africa",
-        "location": "Syria",
+        "headline": "Two Brits missing in Sweden as bodies found in car",
+        "location": "Sweden",
         "coordinates": [
-            34.815353599999995,
-            38.42307447267531
+            59.6749712,
+            14.5208584
         ]
     },
     {
-        "headline": "Princess Catherine steps into spotlight again after cancer announcement",
-        "location": "United Kingdom",
+        "headline": "Mystery surrounds deaths at Grand Hyatt hotel in Bangkok",
+        "location": "Thailand",
         "coordinates": [
-            54.7023545,
-            -3.2765753
+            7.4931858,
+            124.724704
+        ]
+    },
+    {
+        "headline": "2 Americans among 6 found dead in Bangkok hotel room, officials say",
+        "location": "Thailand",
+        "coordinates": [
+            7.4931858,
+            124.724704
         ]
     },
     {
@@ -240,7 +216,7 @@
         ]
     },
     {
-        "headline": "Trump expected to make first public appearance since assassination attempt",
+        "headline": "Trump security boosted weeks ago over 'Iranian plot' to kill him",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +224,7 @@
         ]
     },
     {
-        "headline": "'It will be great to see him': Joy and relief for Trump faithful after shooting",
+        "headline": "Defeated Trump rivals to preach unity at Republican convention",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +232,7 @@
         ]
     },
     {
-        "headline": "JD Vance once criticised Trump. Now he's his running mate",
+        "headline": "Senator Bob Menendez found guilty in bribery scheme",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +240,7 @@
         ]
     },
     {
-        "headline": "A look inside the Republican convention as it kicks off",
+        "headline": "Defeated Trump rivals to preach unity at Republican convention",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +248,7 @@
         ]
     },
     {
-        "headline": "Biden defends calling Trump a threat to democracy",
+        "headline": "Senator Bob Menendez found guilty in bribery scheme",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +256,7 @@
         ]
     },
     {
-        "headline": "Videos show how gunman shot at Trump despite public alerting police",
+        "headline": "Biden considers major Supreme Court reform: report",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,23 +264,7 @@
         ]
     },
     {
-        "headline": "Trump classified documents case dismissed by Florida judge",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Stranger Things season five teaser excites fans",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Cave discovered on Moon could be home for humans",
+        "headline": "Jack Black axes tour over bandmate's Trump comment",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,31 +280,23 @@
         ]
     },
     {
+        "headline": "Wild cheers at convention as Trump makes first outing since attack",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "'My heart skipped a beat' - tears as Trump appears at RNC",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
         "headline": "The missed warnings ahead of the Trump attack",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Video shows moment Trump ducks and is swarmed by security",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch: How chaos unfolded at Trump rally shooting",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch: Witness tells BBC he warned police of gunman on roof",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -360,7 +312,31 @@
         ]
     },
     {
-        "headline": "Remembering Shannen Doherty, the Beverly Hills 'badass'",
+        "headline": "A friendship in the face of fascism",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "New tech aims to keep polar bears and people apart",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Vance choice heightens European fears over Trump presidency",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Leaving Syria's civil war to be a mercenary in Africa",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -376,7 +352,7 @@
         ]
     },
     {
-        "headline": "JD Vance once criticised Trump. Now he's his running mate",
+        "headline": "Biden considers major Supreme Court reform: report",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -384,7 +360,7 @@
         ]
     },
     {
-        "headline": "Biden defends calling Trump a threat to democracy",
+        "headline": "JD Vance's 'Hillbilly Elegy' becomes political lightning rod in 2024 election",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -392,7 +368,7 @@
         ]
     },
     {
-        "headline": "A look inside the Republican convention as it kicks off",
+        "headline": "Trump's ex-rival Haley to speak at Republican convention",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -400,31 +376,7 @@
         ]
     },
     {
-        "headline": "Security was tight, so how did Trump gunman slip through?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "JD Vance named as Trump's running mate",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Thomas Matthew Crooks: What we know about the Trump attacker",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "The missed warnings ahead of the Trump attack",
+        "headline": "Trump security boosted weeks ago over Iran plot to kill him",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -433,6 +385,22 @@
     },
     {
         "headline": "Follow BBC on:",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "White House touts drop in border crossings to counter GOP crime focus",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Trump will push for hasty peace in Ukraine if elected, Hungary\u2019s Orban says",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -461,22 +429,6 @@
         "coordinates": [
             39.7837304,
             -100.445882
-        ]
-    },
-    {
-        "headline": "U.S.-China rivalry enters a new sphere: Who can best carry a tune",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Zambia made education free, now classrooms are crammed",
-        "location": "Zambia",
-        "coordinates": [
-            -14.5189121,
-            27.5589884
         ]
     }
 ]
