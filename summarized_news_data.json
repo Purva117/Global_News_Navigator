@@ -1,15 +1,23 @@
 [
     {
-        "location": "Bangladesh",
-        "summary": "\u2022 Deadly unrest spreads across Bangladesh due to disputes over job quotas.\n\u2022 Protests turn violent, leading to fatalities in multiple regions.\n\u2022 The government struggles to maintain order amidst growing tensions.",
+        "location": "Australia",
+        "summary": "\u2022 Greyhound racing in Australia faces fresh allegations of animal cruelty.\n\u2022 Authorities investigate claims of mistreatment and neglect at racing tracks.\n\u2022 Industry under scrutiny as public outcry demands action against abuse.",
         "coordinates": [
-            -0.2864982,
-            36.0514231
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "location": "Brazil",
+        "summary": "\u2022 An isolated indigenous tribe has emerged from the Amazon rainforest due to logging activities\n\u2022 The tribe's appearance is rare and unexpected, highlighting their vulnerability to human impact\n\u2022 The encounter raises concerns about the tribe's safety and potential displacement",
+        "coordinates": [
+            -10.3333333,
+            -53.2
         ]
     },
     {
         "location": "Canada",
-        "summary": "\u2022 Severe storms cause flooding and power outages in Toronto.\n\u2022 Drake's Toronto home \"The Embassy\" is affected by the floods.\n\u2022 The city faces significant damage due to the storm.",
+        "summary": "\u2022 Drake\u2019s Toronto mansion \u2018The Embassy\u2019 is flooded.\n\u2022 The cause of the flood has not been disclosed.\n\u2022 Floods can lead to structural damage and health issues if left untreated.",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -17,7 +25,7 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 In China, housing used to be a symbol of success but it has become a financial burden instead.\n\u2022 Many Chinese people have seen their savings dwindle as they struggle to afford housing costs.\n\u2022 As a result, the traditional notion of housing as a path to prosperity is being rewritten.",
+        "summary": "\u2022 A massive fire broke out at a popular Chinese shopping center.\n\u2022 China has suspended its nuclear talks with the United States due to US military aid sales to Taiwan.\n\u2022 Owning a house was previously seen as a symbol of wealth in China, but it is now causing financial distress instead.",
         "coordinates": [
             35.000074,
             104.999927
@@ -25,87 +33,79 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 Princess Catherine returns to the public eye after announcing her cancer diagnosis.\n\u2022 The Olympic flame arrives in Paris, marking the start of the Bastille Day celebrations.\n\u2022 The Olympic torch will feature prominently during the Bastille Day parade.",
+        "summary": "- Car accident in Paris leaves one person dead and several injured.\n- Paris Mayor declares the Seine River clean for the Olympics after swimming in it.\n- No other information available.",
         "coordinates": [
             46.603354,
             1.8883335
         ]
     },
     {
-        "location": "Gambia",
-        "summary": "\u2022 The Gambian government has maintained its ban on female genital cutting despite pressure to repeal it.\n\u2022 The ban aims to protect women and girls from the harmful practice.\n\u2022 Despite the ban, some girls continue to undergo the procedure, often secretly.",
+        "location": "Germany",
+        "summary": "\u2022 The Euro 2024 tournament challenged Germany's reputation as an efficient team.\n\u2022 Despite expectations, Germany struggled with consistency during the competition.\n\u2022 The event marked a significant shift in public perception of German football teams.",
         "coordinates": [
-            13.470062,
-            -15.4900464
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "location": "Hong Kong",
+        "summary": "\u2022 The Wall Street Journal fired a Hong Kong reporter who was also the head of an embattled press club.\n\u2022 No further details about the reasons behind the firing were provided.\n\u2022 This incident may impact the relationship between the journalist and their former employer.",
+        "coordinates": [
+            22.350627,
+            114.1849161
+        ]
+    },
+    {
+        "location": "Hungary",
+        "summary": "\u2022 J.D. Vance has publicly expressed his admiration for Hungarian President Viktor Orban's policies.\n\u2022 This endorsement highlights the growing international support for Orban's government.\n\u2022 As a prominent figure in American politics, Vance's praise carries significant weight globally.",
+        "coordinates": [
+            47.1817585,
+            19.5060937
         ]
     },
     {
         "location": "India",
-        "summary": "\u2022 Indians express support for Donald Trump amidst violent protests.\n\u2022 Frustration and flooding reported in areas near an upscale Indian wedding event.",
+        "summary": "\u2022 Indians show support for US President Donald Trump after a shooting incident.\n\u2022 Frustration arises due to flooded streets during a lavish Indian wedding.\n\u2022 The wedding takes place across a river.",
         "coordinates": [
             22.3511148,
             78.6677428
         ]
     },
     {
-        "location": "Ireland",
-        "summary": "\u2022 Leo Varadkar announces his decision to step down as leader before the next Irish election.\n\u2022 The exact timing of his departure has not been disclosed.\n\u2022 His resignation is expected to have significant implications for the country's political landscape.",
+        "location": "Lebanon",
+        "summary": "\u2022 Hezbollah leader vows to target Israeli towns amid rising tensions\n\u2022 Threats escalate as Hezbollah prepares for potential conflict with Israel\n\u2022 Regional instability grows due to escalating rhetoric between Hezbollah and Israel",
         "coordinates": [
-            52.865196,
-            -7.9794599
+            40.375713,
+            -76.4626118
         ]
     },
     {
-        "location": "Israel",
-        "summary": "\u2022 50 people have been reported as killed in the latest Israeli strikes on Gaza.\n\u2022 Since October 7, 2021, Israel has claimed that they have killed over half of Hamas' military leadership.\n\u2022 The Israeli military seems to be wary about going to war with Lebanon.\n\u2022 In Gaza, it was stated that 90 people were killed during an attack from Israel that targeted a high-ranking Hamas military leader named Mohamed Deif.",
+        "location": "South Africa",
+        "summary": "\u2022 Impeached judge seeks to challenge South African President.\n\u2022 No further information available.\n\u2022 No additional details provided.",
         "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "location": "Kenya",
-        "summary": "\u2022 A series of unsolved murders has taken place in Kenya, sparking widespread concern about the lack of justice.\n\u2022 The case has garnered significant attention due to its similarity to previous cases involving unidentified killers.\n\u2022 Investigators are working tirelessly to uncover clues and apprehend the perpetrator(s), with several suspects already under scrutiny.",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "location": "Oman",
-        "summary": "\u2022 The Islamic State group has claimed responsibility for a deadly attack in Oman.\n\u2022 No further details have been provided regarding the specifics of the attack or its impact on the local population.\n\u2022 Omani authorities are likely to investigate and respond to this incident accordingly.",
-        "coordinates": [
-            21.0000287,
-            57.0036901
-        ]
-    },
-    {
-        "location": "Spain",
-        "summary": "\u2022 The Spain national football team chanted \"Gibraltar is Spanish\" during their Euro 2020 victory celebrations.\n\u2022 This chant highlights the ongoing dispute between Spain and Gibraltar over sovereignty of the territory.\n\u2022 The statement reinforces Spain's claim to Gibraltar despite its recent annexation by Britain in 1707.",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "location": "Sweden",
-        "summary": "\u2022 Two British citizens go missing in Sweden.\n\u2022 Bodies discovered inside a car.\n\u2022 The identities of the victims remain unknown.",
-        "coordinates": [
-            59.6749712,
-            14.5208584
+            -28.8166236,
+            24.991639
         ]
     },
     {
         "location": "Thailand",
-        "summary": "\u2022 6 people were found dead in a hotel room in Bangkok.\n\u2022 Two of those who died were from America.\n\u2022 Officials are trying to find out why they died.",
+        "summary": "\u2022 6 people were found dead in a Bangkok hotel room.\n\u2022 Cyanide was likely the cause of death.\n\u2022 Two American nationals were among those who died.",
         "coordinates": [
             7.4931858,
             124.724704
         ]
     },
     {
+        "location": "United Arab Emirates",
+        "summary": "\u2022 Dubai princess announces divorce on Instagram\n\u2022 Princess's private life becomes public due to social media post\n\u2022 Divorce sparks interest in royal family's personal lives",
+        "coordinates": [
+            24.0002488,
+            53.9994829
+        ]
+    },
+    {
         "location": "United Kingdom",
-        "summary": "\u2022 Princess Kate will present the trophy to the men's Wimbledon winner.\n\u2022 This is according to an official statement from the palace.\n\u2022 The event takes place during the Wimbledon tennis tournament.",
+        "summary": "\u2022 The UK is undergoing a significant shift in power dynamics.\n\u2022 The King's Speech and parliamentary pomp signal this transformation.\n\u2022 This change will have far-reaching consequences for British politics.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -113,10 +113,18 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Trump had his security increased after an Iranian plot was discovered to kill him.\n\u2022 Defeated Trump opponents spoke out for unity during the Republican Convention.\n\u2022 Senator Bob Menendez has been found guilty of bribery.\n\u2022 Joe Biden is considering major changes to the US Supreme Court.\n\u2022 Trump recently appeared at a convention after being shot.",
+        "summary": "\u2022 Trump's VP pick Vance is set to deliver a prime-time speech at the convention.\n\u2022 Biden has tested positive for Covid and claims to be feeling well despite this diagnosis.\n\u2022 Texas faces severe heatwaves without electricity, while the US government works on addressing the situation.",
         "coordinates": [
             39.7837304,
             -100.445882
+        ]
+    },
+    {
+        "location": "Yemen",
+        "summary": "\u2022 Houthi rebels launch an attack on an oil tanker in Yemen.\n\u2022 The incident has significant implications for global energy markets and regional stability.\n\u2022 The attack highlights the ongoing conflict between Houthi rebels and the government of Yemen.",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     }
 ]
