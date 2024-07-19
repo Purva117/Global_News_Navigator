@@ -1,22 +1,14 @@
 [
     {
-        "headline": "Fresh abuse claims rock Australia's greyhound racing industry",
-        "location": "Australia",
+        "headline": "Bangladesh students defy ban to continue protests",
+        "location": "Bangladesh",
         "coordinates": [
-            -24.7761086,
-            134.755
+            -0.2864982,
+            36.0514231
         ]
     },
     {
-        "headline": "A rarely seen Amazon tribe emerges from rainforest as loggers move in",
-        "location": "Brazil",
-        "coordinates": [
-            -10.3333333,
-            -53.2
-        ]
-    },
-    {
-        "headline": "Drake's Toronto home 'The Embassy' hit by floods",
+        "headline": "Smoke plumes may reach U.S. as wildfires in Canada erupt",
         "location": "Canada",
         "coordinates": [
             61.0666922,
@@ -24,39 +16,23 @@
         ]
     },
     {
-        "headline": "Watch: Huge fire breaks out at Chinese shopping centre",
-        "location": "China",
+        "headline": "Listeria linked to nondairy products kills 2, sickens 10 in Canada",
+        "location": "Canada",
         "coordinates": [
-            35.000074,
-            104.999927
+            61.0666922,
+            -107.991707
         ]
     },
     {
-        "headline": "Watch: Huge fire breaks out at Chinese shopping centre",
-        "location": "China",
+        "headline": "A double life: The cocaine kingpin who hid as a professional soccer player",
+        "location": "Colombia",
         "coordinates": [
-            35.000074,
-            104.999927
+            4.099917,
+            -72.9088133
         ]
     },
     {
-        "headline": "China suspends nuclear talks with the U.S. over Taiwan arms sales",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "headline": "Housing, once the ticket to wealth in China, is now draining fortunes",
-        "location": "China",
-        "coordinates": [
-            35.000074,
-            104.999927
-        ]
-    },
-    {
-        "headline": "One dead, several injured after car hits Paris cafe",
+        "headline": "Ghosts of Olympics past leave their mark in Paris",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,15 +40,7 @@
         ]
     },
     {
-        "headline": "Paris mayor swims in the Seine, declares it clean for the Olympics",
-        "location": "France",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "headline": "How Euro 2024 busted legend of German efficiency",
+        "headline": "The most unlikely city on Taylor Swift\u2019s Europe tour: Gelsenkirchen",
         "location": "Germany",
         "coordinates": [
             51.1638175,
@@ -80,43 +48,75 @@
         ]
     },
     {
-        "headline": "How Euro 2024 busted legend of German efficiency",
-        "location": "Germany",
+        "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
+        "location": "Iran",
         "coordinates": [
-            51.1638175,
-            10.4478313
+            32.6475314,
+            54.5643516
         ]
     },
     {
-        "headline": "Wall Street Journal fires Hong Kong reporter who headed embattled press club",
-        "location": "Hong Kong",
+        "headline": "Iran denies plot against Trump, after U.S. reports unspecified threat",
+        "location": "Iran",
         "coordinates": [
-            22.350627,
-            114.1849161
+            32.6475314,
+            54.5643516
         ]
     },
     {
-        "headline": "J.D. Vance\u2019s vocal admiration for Orban\u2019s Hungary tells its own story",
-        "location": "Hungary",
+        "headline": "Israeli man killed in drone attack on Tel Aviv",
+        "location": "Israel",
         "coordinates": [
-            47.1817585,
-            19.5060937
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "\u2018Long live Donald Trump\u2019: Indians express their support after shooting",
-        "location": "India",
+        "headline": "UN top court to give opinion on Israeli occupation",
+        "location": "Israel",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            30.8124247,
+            34.8594762
         ]
     },
     {
-        "headline": "Across river from lavish Indian wedding, frustration and flooded streets",
-        "location": "India",
+        "headline": "Israeli man killed in drone attack on Tel Aviv",
+        "location": "Israel",
         "coordinates": [
-            22.3511148,
-            78.6677428
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli man killed in drone attack on Tel Aviv",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israel says Gaza war winding down despite rise in deadly civilian strikes",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Israeli right-wing minister visits Temple Mount, showcasing influence",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Journalist told to pay damages for mocking Italian PM's height",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
         ]
     },
     {
@@ -128,7 +128,31 @@
         ]
     },
     {
-        "headline": "Impeached judge itching to take on South African president",
+        "headline": "As a trafficker pursued dreams of soccer glory, investigators closed in",
+        "location": "Mexico",
+        "coordinates": [
+            19.4326296,
+            -99.1331785
+        ]
+    },
+    {
+        "headline": "Watch: Waterspout spotted off Philippines coast",
+        "location": "Philippines",
+        "coordinates": [
+            12.7503486,
+            122.7312101
+        ]
+    },
+    {
+        "headline": "Serbian suspect held over killing of Rolls-Royce designer",
+        "location": "Serbia",
+        "coordinates": [
+            44.024322850000004,
+            21.07657433209902
+        ]
+    },
+    {
+        "headline": "South Africa's calm opening of parliament heralds new era",
         "location": "South Africa",
         "coordinates": [
             -28.8166236,
@@ -136,39 +160,23 @@
         ]
     },
     {
-        "headline": "Impeached judge itching to take on South African president",
-        "location": "South Africa",
+        "headline": "South Korea makes N Korean defector vice minister",
+        "location": "South Korea",
         "coordinates": [
-            -28.8166236,
-            24.991639
+            36.638392,
+            127.6961188
         ]
     },
     {
-        "headline": "Cyanide found in blood of Bangkok hotel victims",
-        "location": "Thailand",
+        "headline": "Inside Sudan, devastating warfare forces desperate choices",
+        "location": "Sudan",
         "coordinates": [
-            7.4931858,
-            124.724704
+            10.9,
+            6.5
         ]
     },
     {
-        "headline": "Cyanide, found in cups, probably killed 6 in Bangkok hotel room, officials say",
-        "location": "Thailand",
-        "coordinates": [
-            7.4931858,
-            124.724704
-        ]
-    },
-    {
-        "headline": "2 Americans among 6 found dead in Bangkok hotel room, officials say",
-        "location": "Thailand",
-        "coordinates": [
-            7.4931858,
-            124.724704
-        ]
-    },
-    {
-        "headline": "As mobilization rules kick in, some Ukrainian men pay to flee, dodging draft",
+        "headline": "Zelensky: Trump would be hard work, but we are hard workers",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -176,7 +184,15 @@
         ]
     },
     {
-        "headline": "Instagram account of Dubai princess announces divorce",
+        "headline": "Zelensky urges PM to help lift Ukraine weapon limits",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "\u2018I Divorce You\u2019: Dubai princess\u2019s Instagram declaration defies custom",
         "location": "United Arab Emirates",
         "coordinates": [
             24.0002488,
@@ -184,7 +200,7 @@
         ]
     },
     {
-        "headline": "King\u2019s Speech and parliamentary pomp mark major power shift in U.K.",
+        "headline": "New U.K. prime minister seeks reset with Europe after years of squabbling",
         "location": "United Kingdom",
         "coordinates": [
             54.7023545,
@@ -192,7 +208,7 @@
         ]
     },
     {
-        "headline": "Trump's VP pick Vance to give primetime speech at convention",
+        "headline": "\u2018I shouldn\u2019t be here\u2019 - Trump recounts shooting in marathon speech",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -200,7 +216,7 @@
         ]
     },
     {
-        "headline": "Biden tests positive for Covid, White House says",
+        "headline": "Melania Trump watches husband's convention speech in rare appearance",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -208,7 +224,7 @@
         ]
     },
     {
-        "headline": "Biden tests positive for Covid, White House says",
+        "headline": "US policeman who joked about India woman's death fired",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -216,7 +232,7 @@
         ]
     },
     {
-        "headline": "Trump gunman seen as threat before attack, was lost in crowd",
+        "headline": "Democratic mood darkens as Biden faces new pressure",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +240,7 @@
         ]
     },
     {
-        "headline": "Texans face days-long deadly heat wave without power",
+        "headline": "90 minutes of Trump - and other moments - in 90 seconds",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +248,7 @@
         ]
     },
     {
-        "headline": "Gaetz trolls McCarthy and other unexpected convention moments",
+        "headline": "'Drill, baby, drill' - At the RNC as Trump charmed crowd",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +256,7 @@
         ]
     },
     {
-        "headline": "Police were stationed in building Trump gunman shot from",
+        "headline": "Watch Trump and Melania kiss as balloons drop",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +264,7 @@
         ]
     },
     {
-        "headline": "Watch: Unexpected moments from the Republican convention",
+        "headline": "What Republicans want from a second Trump presidency",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +272,7 @@
         ]
     },
     {
-        "headline": "'He will unite us' - Trump\u2019s ex-rivals praise him",
+        "headline": "Five takeaways from Trump's convention speech",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +280,7 @@
         ]
     },
     {
-        "headline": "Three things to watch for in JD Vance's convention speech",
+        "headline": "'It can only be a bullet' - Trump describes moment he was shot at",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +288,7 @@
         ]
     },
     {
-        "headline": "Lara Trump's meteoric rise signals changing of Trump family guard",
+        "headline": "Who are the Democrats calling time on Joe Biden?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +296,7 @@
         ]
     },
     {
-        "headline": "Trump gunman seen as threat before attack, was lost in crowd",
+        "headline": "Republicans put abortion disagreements aside at 'unity' convention",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +304,7 @@
         ]
     },
     {
-        "headline": "Biden says he feels 'good' after positive Covid test",
+        "headline": "Trump recounts shooting in marathon Republican convention speech",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +312,7 @@
         ]
     },
     {
-        "headline": "Lara Trump's meteoric rise signals changing of Trump family guard",
+        "headline": "Flights grounded across the US during tech outage",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +320,7 @@
         ]
     },
     {
-        "headline": "Biden tests positive for Covid, White House says",
+        "headline": "'Drill, baby, drill' - At the RNC as Trump charmed crowd",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +328,7 @@
         ]
     },
     {
-        "headline": "Texans face days-long deadly heat wave without power",
+        "headline": "Crime, immigration and tax cuts - Trump's speech fact-checked",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +336,7 @@
         ]
     },
     {
-        "headline": "Pentagon ends troubled Gaza pier mission, shifts focus to Israeli port",
+        "headline": "The Trump-Vance ticket aligns the GOP with Europe\u2019s far right",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,31 +344,23 @@
         ]
     },
     {
-        "headline": "Most birds avoid hurricanes. This species chases them, scientists say.",
-        "location": "United States",
+        "headline": "Tense election raises concerns of new Venezuelan exodus to U.S.",
+        "location": "Venezuela",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            8.0018709,
+            -66.1109318
         ]
     },
     {
-        "headline": "White House touts drop in border crossings to counter GOP crime focus",
-        "location": "United States",
+        "headline": "Citing poor health, Vietnam leader Nguyen Phu Trong steps back from duties",
+        "location": "Vietnam",
         "coordinates": [
-            39.7837304,
-            -100.445882
+            15.9266657,
+            107.9650855
         ]
     },
     {
-        "headline": "Trump will push for hasty peace in Ukraine if elected, Hungary\u2019s Orban says",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Watch: Yemeni Houthi rebels attack oil tanker",
+        "headline": "Yemen\u2019s Houthis claim drone strike near U.S. Embassy branch in Tel Aviv",
         "location": "Yemen",
         "coordinates": [
             16.3471243,
