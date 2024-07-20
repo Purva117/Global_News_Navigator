@@ -1,10 +1,42 @@
 [
     {
-        "headline": "Bangladesh students defy ban to continue protests",
+        "headline": "Afghanistan War Commission opens inquiry of America\u2019s longest conflict",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
+        "headline": "Bangladesh imposes curfew as protests continue",
         "location": "Bangladesh",
         "coordinates": [
             -0.2864982,
             36.0514231
+        ]
+    },
+    {
+        "headline": "Bangladesh imposes curfew after dozens killed in anti-government protests",
+        "location": "Bangladesh",
+        "coordinates": [
+            -0.2864982,
+            36.0514231
+        ]
+    },
+    {
+        "headline": "Belarus sentences German medic to death, activists say",
+        "location": "Belarus",
+        "coordinates": [
+            53.4250605,
+            27.6971358
+        ]
+    },
+    {
+        "headline": "Inside Canada's booze battle over canned cocktails",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
         ]
     },
     {
@@ -16,19 +48,11 @@
         ]
     },
     {
-        "headline": "Listeria linked to nondairy products kills 2, sickens 10 in Canada",
-        "location": "Canada",
+        "headline": "Crouching Tiger, Hidden Dragon star Cheng Pei-pei dies at 78",
+        "location": "China",
         "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "headline": "A double life: The cocaine kingpin who hid as a professional soccer player",
-        "location": "Colombia",
-        "coordinates": [
-            4.099917,
-            -72.9088133
+            35.000074,
+            104.999927
         ]
     },
     {
@@ -48,43 +72,27 @@
         ]
     },
     {
-        "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
-        "location": "Iran",
+        "headline": "At least 40 Haitian migrants killed in boat fire",
+        "location": "Haiti",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            19.1399952,
+            -72.3570972
         ]
     },
     {
-        "headline": "Iran denies plot against Trump, after U.S. reports unspecified threat",
-        "location": "Iran",
+        "headline": "Second fire at Coolock and officers injured in disorder",
+        "location": "Ireland",
         "coordinates": [
-            32.6475314,
-            54.5643516
+            52.865196,
+            -7.9794599
         ]
     },
     {
-        "headline": "Israeli man killed in drone attack on Tel Aviv",
-        "location": "Israel",
+        "headline": "'Significant' seizure of guns and ammunition in Louth",
+        "location": "Ireland",
         "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "UN top court to give opinion on Israeli occupation",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israeli man killed in drone attack on Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
+            52.865196,
+            -7.9794599
         ]
     },
     {
@@ -112,43 +120,27 @@
         ]
     },
     {
-        "headline": "Journalist told to pay damages for mocking Italian PM's height",
-        "location": "Italy",
+        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
+        "location": "Nepal",
         "coordinates": [
-            42.6384261,
-            12.674297
+            28.3780464,
+            83.9999901
         ]
     },
     {
-        "headline": "Hezbollah leader threatens new attacks on Israeli towns as tensions rise",
-        "location": "Lebanon",
+        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
+        "location": "Nepal",
         "coordinates": [
-            40.375713,
-            -76.4626118
+            28.3780464,
+            83.9999901
         ]
     },
     {
-        "headline": "As a trafficker pursued dreams of soccer glory, investigators closed in",
-        "location": "Mexico",
+        "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
+        "location": "Saudi Arabia",
         "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "headline": "Watch: Waterspout spotted off Philippines coast",
-        "location": "Philippines",
-        "coordinates": [
-            12.7503486,
-            122.7312101
-        ]
-    },
-    {
-        "headline": "Serbian suspect held over killing of Rolls-Royce designer",
-        "location": "Serbia",
-        "coordinates": [
-            44.024322850000004,
-            21.07657433209902
+            25.6242618,
+            42.3528328
         ]
     },
     {
@@ -160,11 +152,11 @@
         ]
     },
     {
-        "headline": "South Korea makes N Korean defector vice minister",
-        "location": "South Korea",
+        "headline": "The African Tour de France cyclist racking up historic wins",
+        "location": "South Africa",
         "coordinates": [
-            36.638392,
-            127.6961188
+            -28.8166236,
+            24.991639
         ]
     },
     {
@@ -176,19 +168,11 @@
         ]
     },
     {
-        "headline": "Zelensky: Trump would be hard work, but we are hard workers",
-        "location": "Ukraine",
+        "headline": "Cyanide teacups in Room 502: Mystery of the Bangkok hotel deaths",
+        "location": "Thailand",
         "coordinates": [
-            49.4871968,
-            31.2718321
-        ]
-    },
-    {
-        "headline": "Zelensky urges PM to help lift Ukraine weapon limits",
-        "location": "Ukraine",
-        "coordinates": [
-            49.4871968,
-            31.2718321
+            7.4931858,
+            124.724704
         ]
     },
     {
@@ -208,7 +192,7 @@
         ]
     },
     {
-        "headline": "\u2018I shouldn\u2019t be here\u2019 - Trump recounts shooting in marathon speech",
+        "headline": "Global services slowly recovering after bug causes IT chaos",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -216,7 +200,7 @@
         ]
     },
     {
-        "headline": "Melania Trump watches husband's convention speech in rare appearance",
+        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +208,7 @@
         ]
     },
     {
-        "headline": "US policeman who joked about India woman's death fired",
+        "headline": "Biden vows to run as more Democrats ask him to drop out",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +216,7 @@
         ]
     },
     {
-        "headline": "Democratic mood darkens as Biden faces new pressure",
+        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -240,7 +224,15 @@
         ]
     },
     {
-        "headline": "90 minutes of Trump - and other moments - in 90 seconds",
+        "headline": "Donald Trump\u2019s supporters saw two sides of him. Which one might govern?",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Judge sets Harvey Weinstein retrial date for November",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +256,7 @@
         ]
     },
     {
-        "headline": "What Republicans want from a second Trump presidency",
+        "headline": "Living in cars and motels - what it's like to work at the 'Happiest Place on Earth'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +272,7 @@
         ]
     },
     {
-        "headline": "'It can only be a bullet' - Trump describes moment he was shot at",
+        "headline": "Democratic mood darkens as Biden faces new pressure",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +280,7 @@
         ]
     },
     {
-        "headline": "Who are the Democrats calling time on Joe Biden?",
+        "headline": "Anxiety at Aspen over Ukraine and Trump",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +288,7 @@
         ]
     },
     {
-        "headline": "Republicans put abortion disagreements aside at 'unity' convention",
+        "headline": "Biden vows to run as more Democrats ask him to drop out",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +296,7 @@
         ]
     },
     {
-        "headline": "Trump recounts shooting in marathon Republican convention speech",
+        "headline": "What caused the Windows outages affecting flights, companies around the world",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +304,7 @@
         ]
     },
     {
-        "headline": "Flights grounded across the US during tech outage",
+        "headline": "Why do we blush? Research subjects watched their own karaoke to find out.",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,15 +312,7 @@
         ]
     },
     {
-        "headline": "'Drill, baby, drill' - At the RNC as Trump charmed crowd",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Crime, immigration and tax cuts - Trump's speech fact-checked",
+        "headline": "See how Social Security retirement benefits stack up globally",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -352,7 +336,15 @@
         ]
     },
     {
-        "headline": "Citing poor health, Vietnam leader Nguyen Phu Trong steps back from duties",
+        "headline": "Vietnamese leader Nguyen Phu Trong dies at 80",
+        "location": "Vietnam",
+        "coordinates": [
+            15.9266657,
+            107.9650855
+        ]
+    },
+    {
+        "headline": "What the death of leader Nguyen Phu Trong means for Vietnam",
         "location": "Vietnam",
         "coordinates": [
             15.9266657,

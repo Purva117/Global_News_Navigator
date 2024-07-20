@@ -1,67 +1,75 @@
 [
     {
-        "headline": "Worldwide travel and banking hit after cybersecurity update causes IT chaos",
-        "location": "Worldwide"
+        "headline": "Global services slowly recovering after bug causes IT chaos",
+        "location": "United States"
     },
     {
         "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
-        "location": "Global"
+        "location": "United States"
+    },
+    {
+        "headline": "UN top court says Israeli occupation of Palestinian territories is illegal",
+        "location": "Palestine"
+    },
+    {
+        "headline": "Biden vows to run as more Democrats ask him to drop out",
+        "location": "United States"
+    },
+    {
+        "headline": "Russia jails US journalist Gershkovich for 16 years",
+        "location": "Russia"
+    },
+    {
+        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
+        "location": "United States"
+    },
+    {
+        "headline": "Belarus sentences German medic to death, activists say",
+        "location": "Belarus"
+    },
+    {
+        "headline": "Donald Trump\u2019s supporters saw two sides of him. Which one might govern?",
+        "location": "United States"
+    },
+    {
+        "headline": "UN top court says Israeli occupation of Palestinian territories is illegal",
+        "location": "Palestine"
     },
     {
         "headline": "Israeli man killed in drone attack on Tel Aviv",
         "location": "Israel"
     },
     {
-        "headline": "UN top court to give opinion on Israeli occupation",
-        "location": "Israel"
+        "headline": "Bangladesh imposes curfew as protests continue",
+        "location": "Bangladesh"
     },
     {
-        "headline": "Journalist told to pay damages for mocking Italian PM's height",
-        "location": "Italy"
-    },
-    {
-        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
-        "location": "Global"
-    },
-    {
-        "headline": "\u2018I shouldn\u2019t be here\u2019 - Trump recounts shooting in marathon speech",
+        "headline": "Judge sets Harvey Weinstein retrial date for November",
         "location": "United States"
     },
     {
-        "headline": "Melania Trump watches husband's convention speech in rare appearance",
-        "location": "United States"
+        "headline": "Crouching Tiger, Hidden Dragon star Cheng Pei-pei dies at 78",
+        "location": "China"
     },
     {
-        "headline": "Israeli man killed in drone attack on Tel Aviv",
-        "location": "Israel"
-    },
-    {
-        "headline": "US policeman who joked about India woman's death fired",
-        "location": "United States"
-    },
-    {
-        "headline": "Zelensky: Trump would be hard work, but we are hard workers",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Democratic mood darkens as Biden faces new pressure",
-        "location": "United States"
-    },
-    {
-        "headline": "South Korea makes N Korean defector vice minister",
-        "location": "South Korea"
-    },
-    {
-        "headline": "Ursula von der Leyen secures five more years in top EU job",
-        "location": "European Union"
+        "headline": "Vietnamese leader Nguyen Phu Trong dies at 80",
+        "location": "Vietnam"
     },
     {
         "headline": "Watch/Listen",
         "location": "Not applicable"
     },
     {
+        "headline": "Watch: Blue screens, queues and airport delays worldwide",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "'My boarding pass and luggage tags were filled in manually'",
+        "location": "Not applicable"
+    },
+    {
         "headline": "90 minutes of Trump - and other moments - in 90 seconds",
-        "location": "United States"
+        "location": "Not applicable"
     },
     {
         "headline": "'Drill, baby, drill' - At the RNC as Trump charmed crowd",
@@ -72,16 +80,20 @@
         "location": "United States"
     },
     {
-        "headline": "What Republicans want from a second Trump presidency",
+        "headline": "Features",
+        "location": "Not applicable"
+    },
+    {
+        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
+        "location": "Nepal"
+    },
+    {
+        "headline": "Living in cars and motels - what it's like to work at the 'Happiest Place on Earth'",
         "location": "United States"
     },
     {
-        "headline": "Watch: Waterspout spotted off Philippines coast",
-        "location": "Philippines"
-    },
-    {
-        "headline": "Features",
-        "location": "Not applicable"
+        "headline": "South Africa's calm opening of parliament heralds new era",
+        "location": "South Africa"
     },
     {
         "headline": "Ghosts of Olympics past leave their mark in Paris",
@@ -92,55 +104,43 @@
         "location": "United States"
     },
     {
-        "headline": "'It can only be a bullet' - Trump describes moment he was shot at",
-        "location": "United States"
-    },
-    {
-        "headline": "Who are the Democrats calling time on Joe Biden?",
-        "location": "United States"
-    },
-    {
-        "headline": "Republicans put abortion disagreements aside at 'unity' convention",
-        "location": "United States"
-    },
-    {
         "headline": "Latest updates",
         "location": "Not applicable"
     },
     {
-        "headline": "Israeli man killed in drone attack on Tel Aviv",
-        "location": "Israel"
-    },
-    {
-        "headline": "Zelensky urges PM to help lift Ukraine weapon limits",
-        "location": "Ukraine"
-    },
-    {
-        "headline": "Trump recounts shooting in marathon Republican convention speech",
+        "headline": "Democratic mood darkens as Biden faces new pressure",
         "location": "United States"
     },
     {
-        "headline": "Bangladesh students defy ban to continue protests",
-        "location": "Bangladesh"
-    },
-    {
-        "headline": "South Africa's calm opening of parliament heralds new era",
+        "headline": "The African Tour de France cyclist racking up historic wins",
         "location": "South Africa"
     },
     {
-        "headline": "Serbian suspect held over killing of Rolls-Royce designer",
-        "location": "Serbia"
+        "headline": "Inside Canada's booze battle over canned cocktails",
+        "location": "Canada"
     },
     {
-        "headline": "Flights grounded across the US during tech outage",
+        "headline": "Anxiety at Aspen over Ukraine and Trump",
         "location": "United States"
     },
     {
-        "headline": "'Drill, baby, drill' - At the RNC as Trump charmed crowd",
-        "location": "United States"
+        "headline": "Cyanide teacups in Room 502: Mystery of the Bangkok hotel deaths",
+        "location": "Thailand"
     },
     {
-        "headline": "Crime, immigration and tax cuts - Trump's speech fact-checked",
+        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
+        "location": "Nepal"
+    },
+    {
+        "headline": "Second fire at Coolock and officers injured in disorder",
+        "location": "Ireland"
+    },
+    {
+        "headline": "'Significant' seizure of guns and ammunition in Louth",
+        "location": "Ireland"
+    },
+    {
+        "headline": "Biden vows to run as more Democrats ask him to drop out",
         "location": "United States"
     },
     {
@@ -148,12 +148,44 @@
         "location": "Not applicable"
     },
     {
+        "headline": "Afghanistan War Commission opens inquiry of America\u2019s longest conflict",
+        "location": "Afghanistan"
+    },
+    {
+        "headline": "What caused the Windows outages affecting flights, companies around the world",
+        "location": "United States"
+    },
+    {
+        "headline": "At least 40 Haitian migrants killed in boat fire",
+        "location": "Haiti"
+    },
+    {
+        "headline": "Why do we blush? Research subjects watched their own karaoke to find out.",
+        "location": "United States"
+    },
+    {
+        "headline": "Bangladesh imposes curfew after dozens killed in anti-government protests",
+        "location": "Bangladesh"
+    },
+    {
+        "headline": "Israel should evacuate settlements, pay reparations, ICJ says",
+        "location": "Palestine"
+    },
+    {
         "headline": "Yemen\u2019s Houthis claim drone strike near U.S. Embassy branch in Tel Aviv",
         "location": "Yemen"
     },
     {
-        "headline": "Russian prosecutor seeks 18 years in prison for journalist Evan Gershkovich",
+        "headline": "What the death of leader Nguyen Phu Trong means for Vietnam",
+        "location": "Vietnam"
+    },
+    {
+        "headline": "Russian court convicts journalist Evan Gershkovich, imposes 16-year sentence",
         "location": "Russia"
+    },
+    {
+        "headline": "See how Social Security retirement benefits stack up globally",
+        "location": "United States"
     },
     {
         "headline": "Inside Sudan, devastating warfare forces desperate choices",
@@ -177,7 +209,7 @@
     },
     {
         "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
-        "location": "Iran"
+        "location": "Saudi Arabia"
     },
     {
         "headline": "Tense election raises concerns of new Venezuelan exodus to U.S.",
@@ -194,37 +226,5 @@
     {
         "headline": "Smoke plumes may reach U.S. as wildfires in Canada erupt",
         "location": "Canada"
-    },
-    {
-        "headline": "Russian court moves quickly in trial of journalist Evan Gershkovich",
-        "location": "Russia"
-    },
-    {
-        "headline": "Listeria linked to nondairy products kills 2, sickens 10 in Canada",
-        "location": "Canada"
-    },
-    {
-        "headline": "Citing poor health, Vietnam leader Nguyen Phu Trong steps back from duties",
-        "location": "Vietnam"
-    },
-    {
-        "headline": "Iran denies plot against Trump, after U.S. reports unspecified threat",
-        "location": "Iran"
-    },
-    {
-        "headline": "As a trafficker pursued dreams of soccer glory, investigators closed in",
-        "location": "Mexico"
-    },
-    {
-        "headline": "A double life: The cocaine kingpin who hid as a professional soccer player",
-        "location": "Colombia"
-    },
-    {
-        "headline": "Hezbollah leader threatens new attacks on Israeli towns as tensions rise",
-        "location": "Lebanon"
-    },
-    {
-        "headline": "Pentagon ends troubled Gaza pier mission, shifts focus to Israeli port",
-        "location": "Palestine"
     }
 ]
