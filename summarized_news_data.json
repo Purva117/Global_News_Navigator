@@ -1,7 +1,7 @@
 [
     {
         "location": "Afghanistan",
-        "summary": "\u2022 Afghanistan War Commission launches an investigation into America's longest-running conflict.\n\u2022 The commission aims to uncover the reasons behind the prolonged conflict in Afghanistan.\n\u2022 The inquiry is expected to reveal insights into the country's future strategy and decision-making processes.",
+        "summary": "\u2022 The Taliban expresses its desire to return to power in Afghanistan.\n\u2022 A commission is established to investigate the ongoing Afghan war.\n\u2022 This marks one of the longest-running conflicts in US history.",
         "coordinates": [
             33.7680065,
             66.2385139
@@ -9,31 +9,15 @@
     },
     {
         "location": "Bangladesh",
-        "summary": "\u2022 Bangladesh imposes curfew due to ongoing protests.\n\u2022 Curfew is implemented after violent clashes result in dozens of deaths.\n\u2022 The government aims to maintain order during the unrest.",
+        "summary": "\u2022 The Bangladeshi government faces widespread public discontent due to various issues.\n\u2022 Anti-government protests have resulted in over 100 fatalities, with Dhaka now subject to a strict curfew.\n\u2022 In response to the violence, the government has imposed a nationwide curfew to restore order.",
         "coordinates": [
             -0.2864982,
             36.0514231
         ]
     },
     {
-        "location": "Belarus",
-        "summary": "\u2022 A German medic has been sentenced to death by Belarusian authorities.\n\u2022 The sentence was handed down despite calls from human rights groups for clemency.\n\u2022 The verdict has sparked international outrage over the country's human rights record.",
-        "coordinates": [
-            53.4250605,
-            27.6971358
-        ]
-    },
-    {
-        "location": "Canada",
-        "summary": "\u2022 Canned cocktails in Canada face stiff competition.\n\u2022 Wildfires in Canada threaten to spread smoke plumes across US borders.\n\u2022 Canadians debate whether to allow sales of pre-packaged drinks with alcohol.",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
         "location": "China",
-        "summary": "\u2022 Legendary Chinese actress Cheng Pei-pei has passed away at the age of 78.\n\u2022 She was best known for her iconic role as Jade Fox in the award-winning film \"Crouching Tiger, Hidden Dragon\".\n\u2022 Her passing marks the end of an era for Chinese cinema, leaving behind a legacy that continues to inspire generations of filmmakers.",
+        "summary": "\u2022 China avoided the worst of the global tech meltdown due to its robust domestic market and diverse economy.\n\u2022 At least 11 people died in a bridge collapse caused by heavy flooding in China.\n\u2022 The disaster highlights the need for better infrastructure management and flood prevention measures in the country.",
         "coordinates": [
             35.000074,
             104.999927
@@ -41,7 +25,7 @@
     },
     {
         "location": "France",
-        "summary": "\u2022 The Olympics' legacy continues to shape Paris.\n\u2022 Memories of past Games remain strong in the city.\n\u2022 The Olympics' impact on Paris is still felt today.",
+        "summary": "\u2022 Contaminated Olympic-branded water bottles have been recalled in France.\n\u2022 The recall is related to contamination issues with Olympic-branded water bottles.\n\u2022 There may be further actions taken regarding these contaminated products.",
         "coordinates": [
             46.603354,
             1.8883335
@@ -49,7 +33,7 @@
     },
     {
         "location": "Germany",
-        "summary": "\u2022 Gelsenkirchen hosts an unexpected stop on Taylor Swift's European tour.\n\u2022 This marks one of her lesser-known performances in Germany.\n\u2022 Fans in Gelsenkirchen eagerly anticipate her visit.",
+        "summary": "\u2022 A site intended for asylum seekers in Germany has been set on fire again.\n\u2022 This marks the second time the site has caught fire.\n\u2022 Authorities are working to determine who is responsible for the latest blaze.",
         "coordinates": [
             51.1638175,
             10.4478313
@@ -57,15 +41,23 @@
     },
     {
         "location": "Haiti",
-        "summary": "\u2022 A tragic boat accident resulted in at least 40 Haitian migrant deaths.\n\u2022 The incident highlights concerns about safety and regulation in Haitian migration.\n\u2022 Authorities are investigating the cause of the fire and responding to the aftermath.",
+        "summary": "\u2022 At least 40 Haitian migrants were killed in a boat fire.\n\u2022 The incident occurred on a vessel carrying migrants from Haiti to other countries.\n\u2022 The cause of the fire remains unknown at this time.",
         "coordinates": [
             19.1399952,
             -72.3570972
         ]
     },
     {
+        "location": "Iran",
+        "summary": "\u2022 Heat wave in the Persian Gulf reaches dangerous levels\n\u2022 Temperature exceeds 140 degrees Fahrenheit, posing health risks\n\u2022 Severe weather conditions expected to continue",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
         "location": "Ireland",
-        "summary": "\u2022 A second fire broke out in Coolock, injuring police officers during the incident.\n\u2022 Authorities made a significant haul of guns and ammunition in Louth.\n\u2022 The seizures in Louth were substantial, with multiple firearms recovered.",
+        "summary": "\u2022 A second fire occurred in Coolock.\n\u2022 Officers were injured during a subsequent disorder.\n\u2022 The incident was covered by BBC News.",
         "coordinates": [
             52.865196,
             -7.9794599
@@ -73,7 +65,7 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli man killed in drone attack on Tel Aviv\n\u2022 Israel says Gaza war winding down despite rise in deadly civilian strikes\n\u2022 Israeli right-wing minister visits Temple Mount, showcasing influence",
+        "summary": "\u2022 Israel claims that the Gaza conflict is coming to an end.\n\u2022 The Israeli military has increased its airstrikes on Gaza, resulting in higher civilian casualties.\n\u2022 Despite this escalation, both sides appear to be moving towards a ceasefire agreement.",
         "coordinates": [
             30.8124247,
             34.8594762
@@ -81,47 +73,39 @@
     },
     {
         "location": "Nepal",
-        "summary": "\u2022 The bodies of several climbers have been retrieved from the \"death zone\" on Mount Everest.\n\u2022 This area is notorious for its extreme weather conditions, making recovery operations challenging.\n\u2022 The successful retrieval brings closure to families and friends of the deceased climbers.",
+        "summary": "\u2022 Bodies of frozen climbers retrieved from Everest's treacherous \"death zone\".\n\u2022 Recovery efforts pose significant challenges due to harsh weather conditions.\n\u2022 Discovery sheds light on fate of missing climbers who perished in the region.",
         "coordinates": [
             28.3780464,
             83.9999901
         ]
     },
     {
-        "location": "Saudi Arabia",
-        "summary": "\u2022 Life-threatening heat indexes in the Persian Gulf reach above 140 degrees.\n\u2022 Extreme weather conditions pose significant risks to human health and safety.\n\u2022 Heatwaves have severe consequences on ecosystems and wildlife habitats.",
+        "location": "Spain",
+        "summary": "\u2022 The Spanish government is implementing measures to mitigate the negative impacts of record tourism on local communities.\n\u2022 The tourism industry's growth poses challenges such as strain on resources and infrastructure in popular destinations.\n\u2022 Efforts are being made to promote sustainable tourism practices and reduce environmental degradation caused by mass tourism.",
         "coordinates": [
-            25.6242618,
-            42.3528328
-        ]
-    },
-    {
-        "location": "South Africa",
-        "summary": "\u2022 South Africa opens its parliament peacefully, marking a new era.\n\u2022 An African cyclist makes history with consecutive Tour de France victories.\n\u2022 Both events showcase progress in their respective fields.",
-        "coordinates": [
-            -28.8166236,
-            24.991639
+            39.3260685,
+            -4.8379791
         ]
     },
     {
         "location": "Sudan",
-        "summary": "\u2022 Devastating warfare is forcing people to make desperate choices in Sudan.\n\u2022 The country is facing severe challenges due to ongoing conflict.\n\u2022 This has led to difficult decisions being made by those affected.",
+        "summary": "\u2022 Devastating warfare is occurring inside Sudan\n\u2022 Desperate choices are being made due to this conflict\n\u2022 The situation is becoming increasingly dire",
         "coordinates": [
             10.9,
             6.5
         ]
     },
     {
-        "location": "Thailand",
-        "summary": "\u2022 Hotel room 502 had cyanide-tainted teacups.\n\u2022 Guests died from poisoning; authorities investigate.\n\u2022 Bangkok hotel staff found dead with unknown cause.",
+        "location": "Ukraine",
+        "summary": "\u2022 A former Ukrainian MP has been killed by gunfire in Lviv.\n\u2022 The local population believes that Russia should prevail over Ukraine and Western countries at all costs.\n\u2022 This incident has sparked concerns about rising tensions between Russia and Ukraine, as well as their respective allies.",
         "coordinates": [
-            7.4931858,
-            124.724704
+            49.4871968,
+            31.2718321
         ]
     },
     {
         "location": "United Arab Emirates",
-        "summary": "\u2022 A Dubai princess has publicly stated her intention to divorce on social media.\n\u2022 This move goes against traditional customs in the region where divorce is often kept private.\n\u2022 The princess's statement may pave the way for other women in similar situations to speak out about their personal lives.",
+        "summary": "\u2022 A Dubai princess has posted an Instagram message saying \"I divorce you\", which is considered unconventional in UAE society where divorce is usually done through legal channels.\n\u2022 This public declaration may be seen as breaking social norms in the conservative region.\n\u2022 The post has sparked interest among followers who were surprised by the princess's decision to go against traditional practices.",
         "coordinates": [
             24.0002488,
             53.9994829
@@ -129,7 +113,7 @@
     },
     {
         "location": "United Kingdom",
-        "summary": "\u2022 The UK Prime Minister is seeking to improve relations with European countries\n\u2022 This comes after years of disagreements between the UK and its European counterparts\n\u2022 The goal is to strengthen ties and work together on common issues",
+        "summary": "\u2022 The new UK Prime Minister aims to rebuild relationships with European countries.\n\u2022 This comes after years of disagreements between the UK and its European partners.\n\u2022 The goal is to establish a stronger connection with Europe.",
         "coordinates": [
             54.7023545,
             -3.2765753
@@ -137,7 +121,7 @@
     },
     {
         "location": "United States",
-        "summary": "\u2022 Global IT services slowly recover after an IT bug caused widespread disruptions.\n\u2022 President Biden reaffirms his commitment to running despite growing pressure to step aside.\n\u2022 A judge sets a new trial date for disgraced film producer Harvey Weinstein.\n\u2022 The Trump-Vance ticket aligns with Europe's far-right political ideology.\n\u2022 As tensions rise in Aspen regarding Ukraine and Trump, anxiety grows among attendees.\n\u2022 In other news, research sheds light on why people blush during social interactions.",
+        "summary": "\u2022 Trump tells thousands at Michigan rally that he took a bullet for democracy\n\u2022 CrowdStrike IT outage affects 8.5 million Windows devices; Microsoft says it was not intentional\n\u2022 A woman is freed from prison after being wrongly convicted of murder and serving 43 years",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -145,7 +129,7 @@
     },
     {
         "location": "Venezuela",
-        "summary": "\u2022 A tense election in Venezuela sparks concerns about a potential new wave of Venezuelan emigration to the US.\n\u2022 The upcoming election has raised fears among international observers that it could lead to another mass migration of Venezuelans fleeing political instability.\n\u2022 The uncertainty surrounding the outcome of the vote is likely to exacerbate an already dire humanitarian crisis in the country.",
+        "summary": "\u2022 A tense election is raising concerns about a potential mass migration from Venezuela to the US.\n\u2022 The election's outcome may spark widespread unrest or violence, leading to a new wave of refugees fleeing the country.\n\u2022 This could result in a significant increase in asylum seekers reaching the US border, putting pressure on existing resources.",
         "coordinates": [
             8.0018709,
             -66.1109318
@@ -153,7 +137,7 @@
     },
     {
         "location": "Vietnam",
-        "summary": "\u2022 Vietnamese leader Nguyen Phu Trong has passed away at the age of 80.\n\u2022 His passing marks a significant shift in leadership for Vietnam.\n\u2022 The impact on the country remains uncertain as it navigates this change.",
+        "summary": "\u2022 Vietnam's ruling party faces leadership uncertainty after the death of General Secretary Nguyen Phu Trong\n\u2022 The transition may lead to changes in policy priorities or leadership style within the party\n\u2022 The international community closely watches developments in Vietnam due to its strategic location and economic importance",
         "coordinates": [
             15.9266657,
             107.9650855
@@ -161,7 +145,7 @@
     },
     {
         "location": "Yemen",
-        "summary": "\u2022 Yemen's Houthis claim responsibility for a drone strike\n\u2022 The attack occurred near a US Embassy branch in Tel Aviv\n\u2022 This incident highlights escalating tensions between Yemen's warring factions",
+        "summary": "\u2022 Israel has struck Houthi targets in Yemen multiple times, including at the port, in response to drone attacks on Tel Aviv.\n\u2022 The Houthis have claimed responsibility for several drone strikes, including one that targeted the US embassy in Tel Aviv.\n\u2022 These incidents highlight ongoing tensions between Israel and the Houthi rebels in Yemen.",
         "coordinates": [
             16.3471243,
             47.8915271

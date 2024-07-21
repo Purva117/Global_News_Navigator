@@ -1,5 +1,13 @@
 [
     {
+        "headline": "Afghanistan - wish you were here? The Taliban do",
+        "location": "Afghanistan",
+        "coordinates": [
+            33.7680065,
+            66.2385139
+        ]
+    },
+    {
         "headline": "Afghanistan War Commission opens inquiry of America\u2019s longest conflict",
         "location": "Afghanistan",
         "coordinates": [
@@ -8,7 +16,23 @@
         ]
     },
     {
-        "headline": "Bangladesh imposes curfew as protests continue",
+        "headline": "Why is the Bangladeshi government facing so much anger?",
+        "location": "Bangladesh",
+        "coordinates": [
+            -0.2864982,
+            36.0514231
+        ]
+    },
+    {
+        "headline": "Why is the Bangladeshi government facing so much anger?",
+        "location": "Bangladesh",
+        "coordinates": [
+            -0.2864982,
+            36.0514231
+        ]
+    },
+    {
+        "headline": "Toll in Bangladesh protests tops 100 as Dhaka falls quiet under curfew",
         "location": "Bangladesh",
         "coordinates": [
             -0.2864982,
@@ -24,31 +48,7 @@
         ]
     },
     {
-        "headline": "Belarus sentences German medic to death, activists say",
-        "location": "Belarus",
-        "coordinates": [
-            53.4250605,
-            27.6971358
-        ]
-    },
-    {
-        "headline": "Inside Canada's booze battle over canned cocktails",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "headline": "Smoke plumes may reach U.S. as wildfires in Canada erupt",
-        "location": "Canada",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "headline": "Crouching Tiger, Hidden Dragon star Cheng Pei-pei dies at 78",
+        "headline": "How China swerved worst of global tech meltdown",
         "location": "China",
         "coordinates": [
             35.000074,
@@ -56,7 +56,15 @@
         ]
     },
     {
-        "headline": "Ghosts of Olympics past leave their mark in Paris",
+        "headline": "China bridge collapse kills at least 11 after floods",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "headline": "France recalls contaminated Olympic-branded water bottles",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -64,7 +72,15 @@
         ]
     },
     {
-        "headline": "The most unlikely city on Taylor Swift\u2019s Europe tour: Gelsenkirchen",
+        "headline": "France recalls contaminated Olympic-branded water bottles",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Site earmarked for asylum seekers hit by fire again",
         "location": "Germany",
         "coordinates": [
             51.1638175,
@@ -80,6 +96,14 @@
         ]
     },
     {
+        "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
         "headline": "Second fire at Coolock and officers injured in disorder",
         "location": "Ireland",
         "coordinates": [
@@ -88,19 +112,11 @@
         ]
     },
     {
-        "headline": "'Significant' seizure of guns and ammunition in Louth",
+        "headline": "Follow BBC on:",
         "location": "Ireland",
         "coordinates": [
             52.865196,
             -7.9794599
-        ]
-    },
-    {
-        "headline": "Israeli man killed in drone attack on Tel Aviv",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
         ]
     },
     {
@@ -112,15 +128,7 @@
         ]
     },
     {
-        "headline": "Israeli right-wing minister visits Temple Mount, showcasing influence",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
+        "headline": "How bodies of frozen climbers were finally recovered from Everest 'death zone'",
         "location": "Nepal",
         "coordinates": [
             28.3780464,
@@ -128,35 +136,19 @@
         ]
     },
     {
-        "headline": "Bodies of fallen climbers finally recovered from Everest 'death zone'",
-        "location": "Nepal",
+        "headline": "The Spanish fightback against record tourism",
+        "location": "Spain",
         "coordinates": [
-            28.3780464,
-            83.9999901
+            39.3260685,
+            -4.8379791
         ]
     },
     {
-        "headline": "The Persian Gulf is enduring life-threatening heat indexes above 140 degrees",
-        "location": "Saudi Arabia",
+        "headline": "The Spanish fightback against record tourism",
+        "location": "Spain",
         "coordinates": [
-            25.6242618,
-            42.3528328
-        ]
-    },
-    {
-        "headline": "South Africa's calm opening of parliament heralds new era",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
-        ]
-    },
-    {
-        "headline": "The African Tour de France cyclist racking up historic wins",
-        "location": "South Africa",
-        "coordinates": [
-            -28.8166236,
-            24.991639
+            39.3260685,
+            -4.8379791
         ]
     },
     {
@@ -168,11 +160,19 @@
         ]
     },
     {
-        "headline": "Cyanide teacups in Room 502: Mystery of the Bangkok hotel deaths",
-        "location": "Thailand",
+        "headline": "Ukrainian nationalist ex-MP shot dead in Lviv street",
+        "location": "Ukraine",
         "coordinates": [
-            7.4931858,
-            124.724704
+            49.4871968,
+            31.2718321
+        ]
+    },
+    {
+        "headline": "In this city, people say Russia must defeat Ukraine and the West at any cost",
+        "location": "Ukraine",
+        "coordinates": [
+            49.4871968,
+            31.2718321
         ]
     },
     {
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "headline": "Global services slowly recovering after bug causes IT chaos",
+        "headline": "Trump tells thousands at Michigan rally he 'took a bullet for democracy'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -200,7 +200,15 @@
         ]
     },
     {
-        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
+        "headline": "CrowdStrike IT outage affected 8.5 million Windows devices, Microsoft says",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "US woman freed after 43 years in prison for murder she didn\u2019t commit",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -216,7 +224,7 @@
         ]
     },
     {
-        "headline": "Crowdstrike and Microsoft: What we know about global IT outage",
+        "headline": "Watch/Listen",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,7 +232,7 @@
         ]
     },
     {
-        "headline": "Donald Trump\u2019s supporters saw two sides of him. Which one might govern?",
+        "headline": "'My boarding pass and luggage tags were filled in manually'",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -232,7 +240,15 @@
         ]
     },
     {
-        "headline": "Judge sets Harvey Weinstein retrial date for November",
+        "headline": "San Diego Zoo pandas make official debut",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "90 minutes of Trump - and other moments - in 90 seconds",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -248,7 +264,7 @@
         ]
     },
     {
-        "headline": "Watch Trump and Melania kiss as balloons drop",
+        "headline": "Features",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -256,7 +272,7 @@
         ]
     },
     {
-        "headline": "Living in cars and motels - what it's like to work at the 'Happiest Place on Earth'",
+        "headline": "Donald Trump\u2019s supporters saw two sides of him. Which one might govern?",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +280,7 @@
         ]
     },
     {
-        "headline": "Five takeaways from Trump's convention speech",
+        "headline": "Disneyland workers say they live in cars and motels due to low pay",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +288,7 @@
         ]
     },
     {
-        "headline": "Democratic mood darkens as Biden faces new pressure",
+        "headline": "Crowdstrike and Microsoft: What we know about global outage",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +296,7 @@
         ]
     },
     {
-        "headline": "Anxiety at Aspen over Ukraine and Trump",
+        "headline": "\u2018I wanted my clitoris back\u2019 \u2013  FGM survivor opts for reconstructive surgery",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +304,15 @@
         ]
     },
     {
-        "headline": "Biden vows to run as more Democrats ask him to drop out",
+        "headline": "Trump tells thousands at Michigan rally he 'took a bullet for democracy'",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Watch: Spire collapses as fire engulfs Texas church",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,14 +336,6 @@
         ]
     },
     {
-        "headline": "See how Social Security retirement benefits stack up globally",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
         "headline": "The Trump-Vance ticket aligns the GOP with Europe\u2019s far right",
         "location": "United States",
         "coordinates": [
@@ -336,7 +352,7 @@
         ]
     },
     {
-        "headline": "Vietnamese leader Nguyen Phu Trong dies at 80",
+        "headline": "What the death of leader Nguyen Phu Trong means for Vietnam",
         "location": "Vietnam",
         "coordinates": [
             15.9266657,
@@ -344,11 +360,35 @@
         ]
     },
     {
-        "headline": "What the death of leader Nguyen Phu Trong means for Vietnam",
-        "location": "Vietnam",
+        "headline": "Israel strikes Houthis in Yemen after drone hits Tel Aviv",
+        "location": "Yemen",
         "coordinates": [
-            15.9266657,
-            107.9650855
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Israel strikes Houthis in Yemen after drone hits Tel Aviv",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Israel strikes Houthis in Yemen after drone hits Tel Aviv",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Israel strikes Yemen port after Houthis claim drone attack in Tel Aviv",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
         ]
     },
     {
