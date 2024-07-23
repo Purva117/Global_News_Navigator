@@ -1,7 +1,7 @@
 [
     {
         "location": "Afghanistan",
-        "summary": "\u2022 The Taliban wishes Americans would come to Afghanistan.\n\u2022 The Afghan War Commission has begun investigating the country's longest conflict.\n\u2022 The commission aims to uncover the truth behind the ongoing conflict in Afghanistan.",
+        "summary": "\u2022 The Afghanistan War Commission has opened an inquiry into America's longest-running conflict.\n\u2022 This investigation aims to shed light on various aspects of the war, including its impact on civilians and military personnel.\n\u2022 The commission seeks to learn from past mistakes and inform future policy decisions related to the region.",
         "coordinates": [
             33.7680065,
             66.2385139
@@ -9,23 +9,39 @@
     },
     {
         "location": "Bangladesh",
-        "summary": "\u2022 A Bangladesh court has scrapped job quotas to address grievances from the people.\n\u2022 The death toll in the ongoing protests has exceeded 100, with Dhaka being placed under a curfew.\n\u2022 The government has imposed a curfew to contain the spread of violence in response to the anti-government protests that have resulted in numerous deaths.",
+        "summary": "\u2022 The death toll in Bangladesh has surpassed 100 amid ongoing anti-government protests.\n\u2022 A nationwide curfew has been imposed to restore order, with authorities citing public safety concerns.\n\u2022 Dhaka city has fallen silent under the new curfew regulations.",
         "coordinates": [
             -0.2864982,
             36.0514231
         ]
     },
     {
+        "location": "Canada",
+        "summary": "\u2022 Keanu Reeves talks openly about his thoughts on mortality\n\u2022 He believes people should consider their own deaths regularly\n\u2022 This mindset helps him appreciate life and focus on positive experiences",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
         "location": "China",
-        "summary": "\u2022 A new record-breaking rowing boat will transport the Olympic torch across the world.\n\u2022 This massive vessel is designed specifically for this historic journey.\n\u2022 The exact route remains undisclosed due to security concerns.",
+        "summary": "\u2022 A Chinese actor was allegedly kidnapped and forced to work at an internet scam operation.\n\u2022 The actor was reportedly held captive in a compound where he was made to participate in online fraud schemes.\n\u2022 Authorities have launched an investigation into the incident and are working to rescue the actor and bring those responsible to justice.",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
+        "location": "Croatia",
+        "summary": "\u2022 Six people were shot dead at a nursing home in Croatia.\n\u2022 The incident occurred on an unspecified date and time.\n\u2022 Authorities have launched an investigation into the tragedy.",
+        "coordinates": [
+            45.3658443,
+            15.6575209
+        ]
+    },
+    {
         "location": "Haiti",
-        "summary": "\u2022 A devastating boat fire claimed the lives of at least 40 Haitian migrants.\n\u2022 The tragedy highlights the dangers faced by those attempting to flee Haiti's troubled past and uncertain future.\n\u2022 This incident underscores the urgent need for safe and legal migration routes for Haitians seeking better opportunities abroad.",
+        "summary": "\u2022 A boat carrying at least 40 Haitian migrants caught fire\n\u2022 The incident resulted in the deaths of all on board\n\u2022 Emergency services were unable to reach the stricken vessel",
         "coordinates": [
             19.1399952,
             -72.3570972
@@ -33,7 +49,7 @@
     },
     {
         "location": "India",
-        "summary": "\u2022 India's job market struggles persist despite PM Modi's new budget.\n\u2022 The budget aims to address unemployment through various initiatives.\n\u2022 However, its effectiveness remains uncertain due to ongoing economic challenges.",
+        "summary": "\u2022 A boy has died due to the Nipah virus in Kerala.\n\u2022 This incident has raised concerns about public health safety in India.\n\u2022 Health officials are working to identify any potential cases related to the outbreak.",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -41,71 +57,55 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Netanyahu visits Washington as Biden exits US presidential race.\n\u2022 A long-hidden painting is uncovered after its frame is turned over.\n\u2022 The Gaza conflict appears to be subsiding, but civilian casualties continue to mount.",
+        "summary": "\u2022 Israeli Prime Minister Netanyahu must navigate complex US relations.\n\u2022 Destruction and fear prevail along the Israel-Lebanon border.\n\u2022 Israel has evacuated parts of Gaza and faced international criticism.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Malaysia",
-        "summary": "\u2022 The Malaysian government has tracked down a missing oil tanker that fled the scene after colliding with another vessel.\n\u2022 Authorities have successfully located the fugitive tanker.\n\u2022 This incident highlights the importance of maritime safety regulations in preventing such incidents from occurring.",
+        "location": "Kenya",
+        "summary": "\u2022 Police use excessive force against protesters in Kenya.\n\u2022 Protests turn violent due to police actions.\n\u2022 Demonstrations continue despite government efforts to suppress them.",
         "coordinates": [
-            4.5693754,
-            102.2656823
+            1.4419683,
+            38.4313975
         ]
     },
     {
-        "location": "Nepal",
-        "summary": "\u2022 Bodies of frozen climbers have been recovered from the \"death zone\" on Mount Everest.\n\u2022 The recovery operation was carried out by a team led by a Nepalese mountaineer.\n\u2022 The incident highlights the risks faced by climbers attempting to reach the summit of the world's highest mountain.",
+        "location": "Tanzania",
+        "summary": "\u2022 A Tanzanian minister was fired due to allegations of poll rigging.\n\u2022 The minister made controversial comments about election fraud.\n\u2022 This development has sparked concerns about democratic values in the country.",
         "coordinates": [
-            28.3780464,
-            83.9999901
-        ]
-    },
-    {
-        "location": "Nigeria",
-        "summary": "\u2022 A new oil refinery is being built in Nigeria to increase oil production.\n\u2022 The project aims to boost economic growth by creating jobs and generating revenue.\n\u2022 Its successful completion will reduce reliance on imported fuel and enhance energy security.",
-        "coordinates": [
-            9.6000359,
-            7.9999721
-        ]
-    },
-    {
-        "location": "Spain",
-        "summary": "\u2022 The Spanish government is implementing measures to mitigate the negative impacts of over-tourism.\n\u2022 Local communities are pushing back against unchecked tourist development and exploitation.\n\u2022 The industry must adopt sustainable practices to preserve cultural heritage and protect the environment.",
-        "coordinates": [
-            39.3260685,
-            -4.8379791
-        ]
-    },
-    {
-        "location": "Sudan",
-        "summary": "\u2022 Devastating warfare in Sudan is forcing people to make desperate choices.\n\u2022 The conflict has resulted in severe human rights abuses.\n\u2022 Many civilians have been forced to flee their homes due to the violence.",
-        "coordinates": [
-            10.9,
-            6.5
-        ]
-    },
-    {
-        "location": "Uganda",
-        "summary": "\u2022 President warns against protests in Uganda\n\u2022 Protests in Uganda face opposition from authorities",
-        "coordinates": [
-            1.5333554,
-            32.2166578
+            -6.5247123,
+            35.7878438
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 People in the city demand that Russia defeats Ukraine and the West at any cost.\n\u2022 The locals believe Russia's victory is crucial for their own security and prosperity.\n\u2022 They see Western intervention as a threat to their nation's sovereignty and independence.",
+        "summary": "\u2022 People in the city believe Russia needs to defeat Ukraine and the West at all costs.\n\u2022 This suggests that there is strong support for Russian actions in the region.\n\u2022 The level of determination expressed by these individuals may indicate a willingness to take drastic measures to achieve their goals.",
         "coordinates": [
             49.4871968,
             31.2718321
         ]
     },
     {
+        "location": "United Arab Emirates",
+        "summary": "\u2022 57 Bangladeshi nationals jailed in UAE for protesting against their own government.\n\u2022 The individuals were arrested after participating in demonstrations against the Bangladeshi government.\n\u2022 This development has sparked concerns about human rights abuses in both countries.",
+        "coordinates": [
+            24.0002488,
+            53.9994829
+        ]
+    },
+    {
+        "location": "United Kingdom",
+        "summary": "\u2022 The world's longest rowing boat will be carrying the Olympic torch.\n\u2022 This historic event marks a significant milestone in the Olympic torch relay.\n\u2022 The iconic vessel is set to make history with this unique and challenging endeavor.",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
         "location": "United States",
-        "summary": "\u2022 Kamala Harris is now considered a leading candidate for the Democratic presidential nomination after Biden dropped out.\n\u2022 The withdrawal of Biden leaves the Democrats facing challenges, while Trump can continue his campaign with renewed energy.\n\u2022 Several people have been mentioned as potential challengers for the presidency or running mates for Harris.",
+        "summary": "\u2022 Kamala Harris may have what it takes to defeat Trump.\n\u2022 A significant number of devices are back online after an outage according to CrowdStrike.\n\u2022 Biden told staff that quitting the race was the right decision.\n\u2022 Lawmakers are calling on the US Secret Service boss to step down.\n\u2022 There are six swing states that will determine the winner of the 2024 election.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -113,23 +113,15 @@
     },
     {
         "location": "Venezuela",
-        "summary": "\u2022 The article discusses how to run against an autocratic president in Venezuela's upcoming presidential election.\n\u2022 It highlights the challenges faced by opposition candidates, including limited access to media and resources.\n\u2022 The article suggests that building strong relationships with international organizations can be crucial in gaining support and recognition.",
+        "summary": "\u2022 The Venezuelan president has been accused of being an autocrat\n\u2022 Many have tried to run against him but he won\u2019t allow it\n\u2022 It is difficult to run against someone who doesn\u2019t allow opponents",
         "coordinates": [
             8.0018709,
             -66.1109318
         ]
     },
     {
-        "location": "Vietnam",
-        "summary": "\u2022 The passing of President Nguyen Phu Trong has sent shockwaves throughout Vietnam, leaving many wondering about the implications for the country's political landscape.\n\u2022 As the longest-serving general secretary of the Communist Party of Vietnam, Trong was instrumental in shaping the nation's economic policies and strategic relationships with regional powers.\n\u2022 With his departure, Vietnam faces a crucial period of transition, marked by uncertainty over who will succeed him and how they will navigate the complex web of internal politics and international relations.",
-        "coordinates": [
-            15.9266657,
-            107.9650855
-        ]
-    },
-    {
         "location": "Yemen",
-        "summary": "\u2022 Israel intercepted a missile launched by Yemen's Houthis.\n\u2022 Houthis claimed responsibility for a drone strike targeting an Israeli ship at the port city of Eilat.\n\u2022 The Houthis also attacked a U.S. Embassy branch in Tel Aviv using drones.",
+        "summary": "\u2022 Yemen's Houthis claim responsibility for a drone strike near the US embassy branch in Tel Aviv.\n\u2022 The attack is believed to have been carried out using a small unmanned aerial vehicle (UAV).\n\u2022 This incident marks an escalation of tensions between Houthi rebels and the United States.",
         "coordinates": [
             16.3471243,
             47.8915271
