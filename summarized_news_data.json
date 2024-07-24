@@ -1,15 +1,15 @@
 [
     {
-        "location": "Afghanistan",
-        "summary": "\u2022 The Afghanistan War Commission has opened an inquiry into America's longest-running conflict.\n\u2022 This investigation aims to shed light on various aspects of the war, including its impact on civilians and military personnel.\n\u2022 The commission seeks to learn from past mistakes and inform future policy decisions related to the region.",
+        "location": "Australia",
+        "summary": "\u2022 The retired Australian striker made an Olympic comeback due to his exceptional skills.\n\u2022 His decision was influenced by personal factors that motivated him to return to competition.\n\u2022 He is now competing in the Olympics, where he aims to make a significant impact on the team's performance.",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            -24.7761086,
+            134.755
         ]
     },
     {
         "location": "Bangladesh",
-        "summary": "\u2022 The death toll in Bangladesh has surpassed 100 amid ongoing anti-government protests.\n\u2022 A nationwide curfew has been imposed to restore order, with authorities citing public safety concerns.\n\u2022 Dhaka city has fallen silent under the new curfew regulations.",
+        "summary": "\u2022 Deadly clashes between protesters and police resulted in over 100 fatalities.\n\u2022 The violence forced authorities to impose a curfew on Dhaka.\n\u2022 Despite the curfew, the death toll continues to rise due to ongoing unrest.",
         "coordinates": [
             -0.2864982,
             36.0514231
@@ -17,7 +17,7 @@
     },
     {
         "location": "Canada",
-        "summary": "\u2022 Keanu Reeves talks openly about his thoughts on mortality\n\u2022 He believes people should consider their own deaths regularly\n\u2022 This mindset helps him appreciate life and focus on positive experiences",
+        "summary": "\u2022 Jasper National Park in Canada has been ordered to evacuate due to a nearby wildfire.\n\u2022 The park is one of Canada's most popular tourist destinations.\n\u2022 Visitors have been asked to leave immediately to ensure their safety during the evacuation process.",
         "coordinates": [
             61.0666922,
             -107.991707
@@ -25,31 +25,31 @@
     },
     {
         "location": "China",
-        "summary": "\u2022 A Chinese actor was allegedly kidnapped and forced to work at an internet scam operation.\n\u2022 The actor was reportedly held captive in a compound where he was made to participate in online fraud schemes.\n\u2022 Authorities have launched an investigation into the incident and are working to rescue the actor and bring those responsible to justice.",
+        "summary": "\u2022 China aims to unify Palestinian factions through a reconciliation agreement.\n\u2022 China seeks to establish itself as a global mediator by brokering a Palestinian unity declaration.\n\u2022 China is interested in a disputed island due to its strategic location.",
         "coordinates": [
             35.000074,
             104.999927
         ]
     },
     {
-        "location": "Croatia",
-        "summary": "\u2022 Six people were shot dead at a nursing home in Croatia.\n\u2022 The incident occurred on an unspecified date and time.\n\u2022 Authorities have launched an investigation into the tragedy.",
+        "location": "France",
+        "summary": "\u2022 A Russian national has been detained due to allegations that they were plotting to destabilize the Paris Olympics.\n\u2022 French President Emmanuel Macron believes it would be an excellent idea if singer Celine Dion performed during the event.\n\u2022 In preparation for the upcoming Olympics, the city of Paris will have approximately 75,000 police officers stationed throughout the area.",
         "coordinates": [
-            45.3658443,
-            15.6575209
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "location": "Haiti",
-        "summary": "\u2022 A boat carrying at least 40 Haitian migrants caught fire\n\u2022 The incident resulted in the deaths of all on board\n\u2022 Emergency services were unable to reach the stricken vessel",
+        "location": "Germany",
+        "summary": "\u2022 Berliners experience thrill of soaring high above the city\n\u2022 Europe's highest swing takes tourists to new heights\n\u2022 Adrenaline-pumping fun for visitors to the capital",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            51.1638175,
+            10.4478313
         ]
     },
     {
         "location": "India",
-        "summary": "\u2022 A boy has died due to the Nipah virus in Kerala.\n\u2022 This incident has raised concerns about public health safety in India.\n\u2022 Health officials are working to identify any potential cases related to the outbreak.",
+        "summary": "\u2022 Surge in attacks brings fear to calmer parts of Kashmir\n\u2022 India\u2019s indie films win awards abroad but find no space in theaters at home",
         "coordinates": [
             22.3511148,
             78.6677428
@@ -57,55 +57,39 @@
     },
     {
         "location": "Israel",
-        "summary": "\u2022 Israeli Prime Minister Netanyahu must navigate complex US relations.\n\u2022 Destruction and fear prevail along the Israel-Lebanon border.\n\u2022 Israel has evacuated parts of Gaza and faced international criticism.",
+        "summary": "- Netanyahu has clashed with US Presidents over decades.\n- Israel has ordered the evacuation of its former Gaza safe area.\n- Israel has intercepted a missile from Yemen amid airstrikes on a Houthi port.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Kenya",
-        "summary": "\u2022 Police use excessive force against protesters in Kenya.\n\u2022 Protests turn violent due to police actions.\n\u2022 Demonstrations continue despite government efforts to suppress them.",
+        "location": "Italy",
+        "summary": "\u2022 Two people died after a walkway collapsed at an infamous Naples estate.\n\u2022 The incident occurred in the notorious Camorra crime family's territory.\n\u2022 This is the latest in a series of tragedies plaguing the area.",
         "coordinates": [
-            1.4419683,
-            38.4313975
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "location": "Tanzania",
-        "summary": "\u2022 A Tanzanian minister was fired due to allegations of poll rigging.\n\u2022 The minister made controversial comments about election fraud.\n\u2022 This development has sparked concerns about democratic values in the country.",
+        "location": "Spain",
+        "summary": "\u2022 One person dies in a shipwreck off the coast of the Falkland Islands.\n\u2022 The incident occurs during a voyage by Spanish fishing boats.\n\u2022 A rescue operation is underway to locate survivors.",
         "coordinates": [
-            -6.5247123,
-            35.7878438
+            39.3260685,
+            -4.8379791
         ]
     },
     {
         "location": "Ukraine",
-        "summary": "\u2022 People in the city believe Russia needs to defeat Ukraine and the West at all costs.\n\u2022 This suggests that there is strong support for Russian actions in the region.\n\u2022 The level of determination expressed by these individuals may indicate a willingness to take drastic measures to achieve their goals.",
+        "summary": "\u2022 Ukraine is experiencing a labor shortage due to the need for soldiers.\n\u2022 The country's workforce has been drained by the demand for military personnel.\n\u2022 As a result, Ukraine faces significant challenges in finding enough workers to fill critical roles.",
         "coordinates": [
             49.4871968,
             31.2718321
         ]
     },
     {
-        "location": "United Arab Emirates",
-        "summary": "\u2022 57 Bangladeshi nationals jailed in UAE for protesting against their own government.\n\u2022 The individuals were arrested after participating in demonstrations against the Bangladeshi government.\n\u2022 This development has sparked concerns about human rights abuses in both countries.",
-        "coordinates": [
-            24.0002488,
-            53.9994829
-        ]
-    },
-    {
-        "location": "United Kingdom",
-        "summary": "\u2022 The world's longest rowing boat will be carrying the Olympic torch.\n\u2022 This historic event marks a significant milestone in the Olympic torch relay.\n\u2022 The iconic vessel is set to make history with this unique and challenging endeavor.",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
         "location": "United States",
-        "summary": "\u2022 Kamala Harris may have what it takes to defeat Trump.\n\u2022 A significant number of devices are back online after an outage according to CrowdStrike.\n\u2022 Biden told staff that quitting the race was the right decision.\n\u2022 Lawmakers are calling on the US Secret Service boss to step down.\n\u2022 There are six swing states that will determine the winner of the 2024 election.",
+        "summary": "\u2022 Kamala Harris criticizes Trump at her first rally, with him responding.\n\u2022 The head of the US Secret Service resigned due to Trump shooting incidents.\n\u2022 Senator Bob Menendez is retiring after being convicted of bribery.",
         "coordinates": [
             39.7837304,
             -100.445882
@@ -113,7 +97,7 @@
     },
     {
         "location": "Venezuela",
-        "summary": "\u2022 The Venezuelan president has been accused of being an autocrat\n\u2022 Many have tried to run against him but he won\u2019t allow it\n\u2022 It is difficult to run against someone who doesn\u2019t allow opponents",
+        "summary": "\u2022 Nicol\u00e1s Maduro has vowed to maintain power in Venezuela through any means necessary.\n\u2022 Running against an authoritarian leader requires strategic planning and tactics.\n\u2022 Despite these challenges, Venezuela's citizens continue to seek democratic alternatives.",
         "coordinates": [
             8.0018709,
             -66.1109318
@@ -121,7 +105,7 @@
     },
     {
         "location": "Yemen",
-        "summary": "\u2022 Yemen's Houthis claim responsibility for a drone strike near the US embassy branch in Tel Aviv.\n\u2022 The attack is believed to have been carried out using a small unmanned aerial vehicle (UAV).\n\u2022 This incident marks an escalation of tensions between Houthi rebels and the United States.",
+        "summary": "\u2022 A 'magical' self-portrait was discovered when the canvas was flipped.\n\u2022 Israel has attacked a Yemeni port after claiming that Houthi rebels had launched a drone strike on Tel Aviv.\n\u2022 The Houthi rebels have claimed responsibility for launching an unmanned aerial vehicle at the Israeli capital.",
         "coordinates": [
             16.3471243,
             47.8915271

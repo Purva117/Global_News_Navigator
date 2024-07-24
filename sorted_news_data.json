@@ -1,10 +1,34 @@
 [
     {
-        "headline": "Afghanistan War Commission opens inquiry of America\u2019s longest conflict",
-        "location": "Afghanistan",
+        "headline": "How retired Australian striker earned Olympic comeback",
+        "location": "Australia",
         "coordinates": [
-            33.7680065,
-            66.2385139
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "headline": "How retired Australian striker earned Olympic comeback",
+        "location": "Australia",
+        "coordinates": [
+            -24.7761086,
+            134.755
+        ]
+    },
+    {
+        "headline": "Drenched in blood - how Bangladesh protests turned deadly",
+        "location": "Bangladesh",
+        "coordinates": [
+            -0.2864982,
+            36.0514231
+        ]
+    },
+    {
+        "headline": "Drenched in blood - how Bangladesh protests turned deadly",
+        "location": "Bangladesh",
+        "coordinates": [
+            -0.2864982,
+            36.0514231
         ]
     },
     {
@@ -16,19 +40,35 @@
         ]
     },
     {
-        "headline": "Bangladesh imposes curfew after dozens killed in anti-government protests",
-        "location": "Bangladesh",
-        "coordinates": [
-            -0.2864982,
-            36.0514231
-        ]
-    },
-    {
-        "headline": "Keanu Reeves: I think about death all the time",
+        "headline": "Canada\u2019s popular Jasper National Park ordered to evacuate as fire nears",
         "location": "Canada",
         "coordinates": [
             61.0666922,
             -107.991707
+        ]
+    },
+    {
+        "headline": "China seeks to unite Palestinian factions with reconciliation deal",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "headline": "China brokers Palestinian unity declaration in bid to be global mediator",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
+        ]
+    },
+    {
+        "headline": "Why does China care about a rust bucket in the middle of the sea?",
+        "location": "China",
+        "coordinates": [
+            35.000074,
+            104.999927
         ]
     },
     {
@@ -40,31 +80,79 @@
         ]
     },
     {
-        "headline": "At least six killed in Croatia nursing home shooting",
-        "location": "Croatia",
+        "headline": "Russian arrested over alleged plot to 'destabilise' Paris Olympics",
+        "location": "France",
         "coordinates": [
-            45.3658443,
-            15.6575209
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "At least six killed in Croatia nursing home shooting",
-        "location": "Croatia",
+        "headline": "Celine Dion at Olympics would be great, Macron says",
+        "location": "France",
         "coordinates": [
-            45.3658443,
-            15.6575209
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "At least 40 Haitian migrants killed in boat fire",
-        "location": "Haiti",
+        "headline": "As the Olympics nears, Paris puts 75,000 troops on the streets",
+        "location": "France",
         "coordinates": [
-            19.1399952,
-            -72.3570972
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "India alert after boy dies from Nipah virus in Kerala",
+        "headline": "Watch: Celine Dion in Paris amid rumours of Olympic performance",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "As the Olympics nears, Paris puts 75,000 troops on the streets",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Russian arrested over alleged plot to 'destabilise' Paris Olympics",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Alleged rape of Australian rattles Paris days before Olympics",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Olympic costs can crush host cities. Paris 2024 vowed cheaper Games.",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Watch: Berliners soar over the city on Europe\u2019s highest swing",
+        "location": "Germany",
+        "coordinates": [
+            51.1638175,
+            10.4478313
+        ]
+    },
+    {
+        "headline": "Surge in attacks brings fear to calmer parts of Kashmir",
         "location": "India",
         "coordinates": [
             22.3511148,
@@ -72,31 +160,15 @@
         ]
     },
     {
-        "headline": "Netanyahu faces delicate balancing act in US after Biden exits race",
-        "location": "Israel",
+        "headline": "India\u2019s indie films win awards abroad but find no space in theaters at home",
+        "location": "India",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            22.3511148,
+            78.6677428
         ]
     },
     {
-        "headline": "Damage, destruction and fear along the Israel-Lebanon border",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Israel orders evacuation of part of Gaza humanitarian zone",
-        "location": "Israel",
-        "coordinates": [
-            30.8124247,
-            34.8594762
-        ]
-    },
-    {
-        "headline": "Damage, destruction and fear along the Israel-Lebanon border",
+        "headline": "Netanyahu\u2019s history of clashing with U.S. presidents spans decades",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -136,47 +208,23 @@
         ]
     },
     {
-        "headline": "Israel strikes Yemen port after Houthis claim drone attack in Tel Aviv",
-        "location": "Israel",
+        "headline": "Walkway collapse kills two on infamous Naples estate",
+        "location": "Italy",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            42.6384261,
+            12.674297
         ]
     },
     {
-        "headline": "Israel should evacuate settlements, pay reparations, ICJ says",
-        "location": "Israel",
+        "headline": "Spain says one dead after ship sinks near Falklands",
+        "location": "Spain",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            39.3260685,
+            -4.8379791
         ]
     },
     {
-        "headline": "Batons, tear gas, live fire - Kenyans face police brutality",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "Batons, tear gas, live fire - Kenyans face police brutality",
-        "location": "Kenya",
-        "coordinates": [
-            1.4419683,
-            38.4313975
-        ]
-    },
-    {
-        "headline": "Tanzanian minister sacked after poll rigging remarks",
-        "location": "Tanzania",
-        "coordinates": [
-            -6.5247123,
-            35.7878438
-        ]
-    },
-    {
-        "headline": "In this city, people say Russia must defeat Ukraine and the West at any cost",
+        "headline": "Ukraine confronts labor shortage as need for soldiers drains workforce",
         "location": "Ukraine",
         "coordinates": [
             49.4871968,
@@ -184,23 +232,7 @@
         ]
     },
     {
-        "headline": "UAE jails 57 Bangladeshis over protests against own government",
-        "location": "United Arab Emirates",
-        "coordinates": [
-            24.0002488,
-            53.9994829
-        ]
-    },
-    {
-        "headline": "World's longest rowing boat to carry Olympic torch",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Has Kamala Harris got what it takes to beat Trump?",
+        "headline": "Kamala Harris slams Trump at first rally as he hits back",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -208,7 +240,7 @@
         ]
     },
     {
-        "headline": "Biden tells staff leaving race was 'right thing to do'",
+        "headline": "US Secret Service boss resigns over Trump shooting failures",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -216,7 +248,7 @@
         ]
     },
     {
-        "headline": "Chimps share humans' 'snappy' conversational style",
+        "headline": "US Secret Service boss resigns over Trump shooting failures",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -224,31 +256,7 @@
         ]
     },
     {
-        "headline": "'Significant number' of devices back online after outage, CrowdStrike says",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden tells staff leaving race was 'right thing to do'",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Lawmakers call on US Secret Service boss to resign",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Chimps share humans' 'snappy' conversational style",
+        "headline": "Senator Bob Menendez to quit after bribery conviction",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -264,7 +272,7 @@
         ]
     },
     {
-        "headline": "Watch: How US President Joe Biden's bid for re-election came to an end",
+        "headline": "Why tech bros are turning to Trump",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +280,7 @@
         ]
     },
     {
-        "headline": "Watch: Spire collapses as fire engulfs Texas church",
+        "headline": "Netanyahu faces delicate balancing act in US after Biden exits race",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -280,7 +288,7 @@
         ]
     },
     {
-        "headline": "Features",
+        "headline": "Kamala Harris slams Trump at first rally as he hits back",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -288,7 +296,7 @@
         ]
     },
     {
-        "headline": "The last days of the Biden campaign \u2013 BBC correspondent\u2019s account",
+        "headline": "Why tech bros are turning to Trump",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +304,7 @@
         ]
     },
     {
-        "headline": "What is Kamala Harris's 'brat' rebrand all about?",
+        "headline": "US Secret Service boss resigns over Trump shooting failures",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,71 +312,7 @@
         ]
     },
     {
-        "headline": "Biden has backed Harris. What happens next in US election?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Latest updates",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Biden tells staff leaving race was 'right thing to do'",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Chimps share humans' 'snappy' conversational style",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Has Kamala Harris got what it takes to beat Trump?",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Harris raises $81m after Biden's exit from presidential race",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Six swing states set to decide the 2024 US election",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Lawmakers call on Secret Service boss to resign",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "Follow BBC on:",
+        "headline": "Harris attacks Trump in first campaign speech",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -384,6 +328,14 @@
         ]
     },
     {
+        "headline": "Nicol\u00e1s Maduro: The leader who promised to win 'by hook or by crook'",
+        "location": "Venezuela",
+        "coordinates": [
+            8.0018709,
+            -66.1109318
+        ]
+    },
+    {
         "headline": "Venezuela\u2019s presidential election: How to run against an autocrat",
         "location": "Venezuela",
         "coordinates": [
@@ -392,7 +344,15 @@
         ]
     },
     {
-        "headline": "Yemen\u2019s Houthis claim drone strike near U.S. Embassy branch in Tel Aviv",
+        "headline": "\u2018Magical\u2019 self-portrait was hidden for decades \u2014 until the canvas was flipped",
+        "location": "Yemen",
+        "coordinates": [
+            16.3471243,
+            47.8915271
+        ]
+    },
+    {
+        "headline": "Israel strikes Yemen port after Houthis claim drone attack in Tel Aviv",
         "location": "Yemen",
         "coordinates": [
             16.3471243,
