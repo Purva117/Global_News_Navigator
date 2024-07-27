@@ -1,6 +1,30 @@
 [
     {
-        "headline": "'Monster' fires may have destroyed half of historic Canadian town",
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus",
+        "coordinates": [
+            53.4250605,
+            27.6971358
+        ]
+    },
+    {
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus",
+        "coordinates": [
+            53.4250605,
+            27.6971358
+        ]
+    },
+    {
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus",
+        "coordinates": [
+            53.4250605,
+            27.6971358
+        ]
+    },
+    {
+        "headline": "Celine Dion makes stirring comeback at Olympics",
         "location": "Canada",
         "coordinates": [
             61.0666922,
@@ -8,7 +32,7 @@
         ]
     },
     {
-        "headline": "'Monster' fires may have destroyed half of historic Canadian town",
+        "headline": "Canadians mourn as Jasper, jewel of the Rockies, burns",
         "location": "Canada",
         "coordinates": [
             61.0666922,
@@ -16,7 +40,7 @@
         ]
     },
     {
-        "headline": "'There's mum and dad's house' - wildfire razes swathe of Jasper",
+        "headline": "From \u2018sunny ways\u2019 to cloudy days: Canadians have tired of Justin Trudeau",
         "location": "Canada",
         "coordinates": [
             61.0666922,
@@ -32,7 +56,7 @@
         ]
     },
     {
-        "headline": "Typhoon Gaemi hits China after deaths in Taiwan and Philippines",
+        "headline": "How one Chinese machine tool maker is helping Russia\u2019s war against Ukraine",
         "location": "China",
         "coordinates": [
             35.000074,
@@ -40,55 +64,63 @@
         ]
     },
     {
-        "headline": "Typhoon Gaemi hits China after deaths in Taiwan and Philippines",
-        "location": "China",
+        "headline": "Opening ceremony lights up Paris in unique style",
+        "location": "France",
         "coordinates": [
-            35.000074,
-            104.999927
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Watch: People rescued as Typhoon floods shops and streets",
-        "location": "China",
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France",
         "coordinates": [
-            35.000074,
-            104.999927
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Satellite images and doctor testimony reveal new hunger crisis in Ethiopia",
-        "location": "Ethiopia",
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France",
         "coordinates": [
-            10.2116702,
-            38.6521203
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Satellite images and doctor testimony reveal new hunger crisis in Ethiopia",
-        "location": "Ethiopia",
+        "headline": "French rail sabotage causes chaos as Paris Olympics open",
+        "location": "France",
         "coordinates": [
-            10.2116702,
-            38.6521203
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Satellite images and doctor testimony reveal Tigray hunger crisis",
-        "location": "Ethiopia",
+        "headline": "Who could have attacked France's high-speed rail?",
+        "location": "France",
         "coordinates": [
-            10.2116702,
-            38.6521203
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Follow BBC on:",
-        "location": "Ethiopia",
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France",
         "coordinates": [
-            10.2116702,
-            38.6521203
+            46.603354,
+            1.8883335
         ]
     },
     {
-        "headline": "Paris set for its first Olympics in 100 years",
+        "headline": "Olympic Ceremonies on the Seine were a daring feat. Paris stuck the landing.",
+        "location": "France",
+        "coordinates": [
+            46.603354,
+            1.8883335
+        ]
+    },
+    {
+        "headline": "Arson attacks target France\u2019s high speed trains hours before Olympics",
         "location": "France",
         "coordinates": [
             46.603354,
@@ -104,39 +136,15 @@
         ]
     },
     {
-        "headline": "1972 Munich Olympics, marred by killing of Israeli athletes, loom over Paris Games",
-        "location": "France",
+        "headline": "Dublin wax museum removes Sinead O'Connor figure",
+        "location": "Ireland",
         "coordinates": [
-            46.603354,
-            1.8883335
+            52.865196,
+            -7.9794599
         ]
     },
     {
-        "headline": "How decline of Indian vultures led to 500,000 human deaths",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "How decline of Indian vultures led to 500,000 human deaths",
-        "location": "India",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "headline": "Komodo dragons have iron-coated teeth to rip apart prey, scientists find",
-        "location": "Indonesia",
-        "coordinates": [
-            -2.4833826,
-            117.8902853
-        ]
-    },
-    {
-        "headline": "Israeli military recovers five hostages' bodies in Gaza",
+        "headline": "Thousands protest as Netanyahu addresses US Congress",
         "location": "Israel",
         "coordinates": [
             30.8124247,
@@ -152,75 +160,75 @@
         ]
     },
     {
-        "headline": "As Netanyahu hails Gaza war effort, hobbled Hamas government clings to power",
-        "location": "Israel",
+        "headline": "'Atomic bomb hell must never be repeated' say Japan's last survivors",
+        "location": "Japan",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            36.5748441,
+            139.2394179
         ]
     },
     {
-        "headline": "Netanyahu dismisses critics, scolds protesters in defiant speech to Congress",
-        "location": "Israel",
+        "headline": "'Atomic bomb hell must never be repeated' say Japan's last survivors",
+        "location": "Japan",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            36.5748441,
+            139.2394179
         ]
     },
     {
-        "headline": "Anti-Israel protests and threats set tone for politically charged Olympics",
-        "location": "Israel",
+        "headline": "Mexico wasn\u2019t told of cartel arrests until kingpins were in U.S. custody",
+        "location": "Mexico",
         "coordinates": [
-            30.8124247,
-            34.8594762
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "American reality show contestant kills, eats protected bird in New Zealand",
-        "location": "New Zealand",
+        "headline": "What to know about the Sinaloa cartel after the arrest of \u2018El Mayo\u2019",
+        "location": "Mexico",
         "coordinates": [
-            -41.5000831,
-            172.8344077
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "How a sketch blossomed into Pakistan's first Ghibli-style animation",
-        "location": "Pakistan",
+        "headline": "Top Sinaloa cartel leader taken into U.S. custody alongside son of  \u2018El Chapo\u2019",
+        "location": "Mexico",
         "coordinates": [
-            30.3308401,
-            71.247499
+            19.4326296,
+            -99.1331785
         ]
     },
     {
-        "headline": "Gang kills women and children in Papua New Guinea massacre - reports",
-        "location": "Papua New Guinea",
+        "headline": "My family went to help landslide victims and ended up dead",
+        "location": "Nepal",
         "coordinates": [
-            -5.6816069,
-            144.2489081
+            28.3780464,
+            83.9999901
         ]
     },
     {
-        "headline": "North Korean balloon drops trash on South Korean presidential office",
-        "location": "South Korea",
+        "headline": "My family went to help landslide victims and ended up dead",
+        "location": "Nepal",
         "coordinates": [
-            36.638392,
-            127.6961188
+            28.3780464,
+            83.9999901
         ]
     },
     {
-        "headline": "Sanctions crushed Syria\u2019s elite. So they built a zombie economy fueled by drugs.",
-        "location": "Syria",
+        "headline": "Watch: People rescued as Typhoon floods shops and streets",
+        "location": "Philippines",
         "coordinates": [
-            34.815353599999995,
-            38.42307447267531
+            12.7503486,
+            122.7312101
         ]
     },
     {
-        "headline": "Teenager held over murder of Ukraine nationalist ex-MP",
-        "location": "Ukraine",
+        "headline": "SA mass killer dies as victims still demand justice",
+        "location": "South Africa",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            -28.8166236,
+            24.991639
         ]
     },
     {
@@ -232,11 +240,27 @@
         ]
     },
     {
-        "headline": "Ukraine's hopes and challenges after long wait for F-16s",
-        "location": "Ukraine",
+        "headline": "Vulnerable, messy and bratty: The pop girlies having a moment",
+        "location": "United Kingdom",
         "coordinates": [
-            49.4871968,
-            31.2718321
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "U.K. ending challenge to ICC arrest warrants for Israeli leaders",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
+        ]
+    },
+    {
+        "headline": "Video of police kicking man on ground at U.K. airport sparks protests",
+        "location": "United Kingdom",
+        "coordinates": [
+            54.7023545,
+            -3.2765753
         ]
     },
     {
@@ -256,15 +280,7 @@
         ]
     },
     {
-        "headline": "U.K. royals to get big raise as Crown Estate sees record $1.4 billion profit",
-        "location": "United Kingdom",
-        "coordinates": [
-            54.7023545,
-            -3.2765753
-        ]
-    },
-    {
-        "headline": "Leader of Mexico's Sinaloa drug cartel arrested in Texas",
+        "headline": "JD Vance defends 'childless cat ladies' comment after backlash",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -272,7 +288,23 @@
         ]
     },
     {
-        "headline": "Netanyahu meets Biden to close 'gaps' on Gaza ceasefire deal",
+        "headline": "How 'El Mayo' Zambada was arrested in the US after 35 years",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Three ways Trump is trying to end the Harris honeymoon",
+        "location": "United States",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "'Boneless' chicken wings can have bones, US court rules",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -296,7 +328,7 @@
         ]
     },
     {
-        "headline": "Thousands protest as Netanyahu addresses US Congress",
+        "headline": "Trump shooting: The plan and the botched security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -304,7 +336,7 @@
         ]
     },
     {
-        "headline": "Hostage families deride Netanyahu's Congress speech",
+        "headline": "Trump shooting: The plan and the botched security",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -312,7 +344,7 @@
         ]
     },
     {
-        "headline": "Biden sidesteps hard truths in first speech since quitting race",
+        "headline": "JD Vance defends 'childless cat ladies' comment after backlash",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -320,7 +352,7 @@
         ]
     },
     {
-        "headline": "Trump shooting: the plan and the botched response",
+        "headline": "Three ways Trump is trying to end the Harris honeymoon",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -328,15 +360,7 @@
         ]
     },
     {
-        "headline": "Lawmaker uses AI voice clone to address Congress",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "California orders homeless camps be dismantled",
+        "headline": "Timberlake 'not intoxicated' during arrest, lawyer says",
         "location": "United States",
         "coordinates": [
             39.7837304,
@@ -352,15 +376,7 @@
         ]
     },
     {
-        "headline": "Netanyahu\u2019s history of clashing with U.S. presidents spans decades",
-        "location": "United States",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
-        "headline": "The ordinary people risking everything to protect Venezuela\u2019s vote",
+        "headline": "Venezuela holds elections on Sunday. Could real change be coming?",
         "location": "Venezuela",
         "coordinates": [
             8.0018709,
@@ -368,11 +384,11 @@
         ]
     },
     {
-        "headline": "Boat carrying 45 migrants and refugees capsizes off Yemen",
-        "location": "Yemen",
+        "headline": "Is this the beginning of the end for the Maduro regime in Venezuela?",
+        "location": "Venezuela",
         "coordinates": [
-            16.3471243,
-            47.8915271
+            8.0018709,
+            -66.1109318
         ]
     }
 ]

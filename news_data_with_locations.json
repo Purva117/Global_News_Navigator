@@ -1,63 +1,63 @@
 [
     {
-        "headline": "Leader of Mexico's Sinaloa drug cartel arrested in Texas",
-        "location": "United States"
-    },
-    {
-        "headline": "Satellite images and doctor testimony reveal new hunger crisis in Ethiopia",
-        "location": "Ethiopia"
-    },
-    {
-        "headline": "Typhoon Gaemi hits China after deaths in Taiwan and Philippines",
-        "location": "China"
-    },
-    {
-        "headline": "China and Russia stage first joint bomber patrol near Alaska",
-        "location": "China and Russia"
-    },
-    {
-        "headline": "Paris set for its first Olympics in 100 years",
+        "headline": "Opening ceremony lights up Paris in unique style",
         "location": "France"
     },
     {
-        "headline": "Satellite images and doctor testimony reveal new hunger crisis in Ethiopia",
-        "location": "Ethiopia"
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France"
     },
     {
-        "headline": "Netanyahu meets Biden to close 'gaps' on Gaza ceasefire deal",
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus"
+    },
+    {
+        "headline": "JD Vance defends 'childless cat ladies' comment after backlash",
         "location": "United States"
     },
     {
-        "headline": "'Monster' fires may have destroyed half of historic Canadian town",
+        "headline": "Venezuela holds elections on Sunday. Could real change be coming?",
+        "location": "Venezuela"
+    },
+    {
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France"
+    },
+    {
+        "headline": "Celine Dion makes stirring comeback at Olympics",
         "location": "Canada"
     },
     {
-        "headline": "Typhoon Gaemi hits China after deaths in Taiwan and Philippines",
-        "location": "China"
+        "headline": "French rail sabotage causes chaos as Paris Olympics open",
+        "location": "France"
     },
     {
-        "headline": "North Korea hackers trying to steal nuclear secrets, US and UK warn",
-        "location": "United States and United Kingdom"
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus"
     },
     {
-        "headline": "Teenager held over murder of Ukraine nationalist ex-MP",
-        "location": "Ukraine"
+        "headline": "Dublin wax museum removes Sinead O'Connor figure",
+        "location": "Ireland"
     },
     {
-        "headline": "Israeli military recovers five hostages' bodies in Gaza",
-        "location": "Israel"
+        "headline": "How 'El Mayo' Zambada was arrested in the US after 35 years",
+        "location": "United States"
     },
     {
-        "headline": "Boat carrying 45 migrants and refugees capsizes off Yemen",
-        "location": "Yemen"
+        "headline": "Three ways Trump is trying to end the Harris honeymoon",
+        "location": "United States"
     },
     {
-        "headline": "Gang kills women and children in Papua New Guinea massacre - reports",
-        "location": "Papua New Guinea"
+        "headline": "'Boneless' chicken wings can have bones, US court rules",
+        "location": "United States"
+    },
+    {
+        "headline": "SA mass killer dies as victims still demand justice",
+        "location": "South Africa"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Not applicable"
+        "location": "Unknown"
     },
     {
         "headline": "How drones and the battle for Ukraine are changing the future of warfare",
@@ -69,7 +69,7 @@
     },
     {
         "headline": "Watch: People rescued as Typhoon floods shops and streets",
-        "location": "China"
+        "location": "Philippines"
     },
     {
         "headline": "Key moments from Biden's first speech after quitting race",
@@ -77,75 +77,123 @@
     },
     {
         "headline": "Thousands protest as Netanyahu addresses US Congress",
-        "location": "United States"
+        "location": "Israel"
     },
     {
         "headline": "Features",
-        "location": "Not applicable"
+        "location": "Unknown"
     },
     {
-        "headline": "Hostage families deride Netanyahu's Congress speech",
-        "location": "United States"
+        "headline": "Who could have attacked France's high-speed rail?",
+        "location": "France"
     },
     {
-        "headline": "Ukraine's hopes and challenges after long wait for F-16s",
-        "location": "Ukraine"
+        "headline": "'Atomic bomb hell must never be repeated' say Japan's last survivors",
+        "location": "Japan"
     },
     {
-        "headline": "How decline of Indian vultures led to 500,000 human deaths",
-        "location": "India"
+        "headline": "Vulnerable, messy and bratty: The pop girlies having a moment",
+        "location": "United Kingdom"
     },
     {
-        "headline": "How a sketch blossomed into Pakistan's first Ghibli-style animation",
-        "location": "Pakistan"
+        "headline": "My family went to help landslide victims and ended up dead",
+        "location": "Nepal"
     },
     {
-        "headline": "Biden sidesteps hard truths in first speech since quitting race",
+        "headline": "Trump shooting: The plan and the botched security",
         "location": "United States"
     },
     {
         "headline": "Latest updates",
-        "location": "Not applicable"
+        "location": "Unknown"
     },
     {
-        "headline": "Trump shooting: the plan and the botched response",
+        "headline": "'Atomic bomb hell must never be repeated' say Japan's last survivors",
+        "location": "Japan"
+    },
+    {
+        "headline": "My family went to help landslide victims and ended up dead",
+        "location": "Nepal"
+    },
+    {
+        "headline": "Questions surround German man sentenced to death in Belarus",
+        "location": "Belarus"
+    },
+    {
+        "headline": "Trump shooting: The plan and the botched security",
         "location": "United States"
     },
     {
-        "headline": "'Monster' fires may have destroyed half of historic Canadian town",
+        "headline": "Spectacular photos from the Paris 2024 opening ceremony",
+        "location": "France"
+    },
+    {
+        "headline": "Canadians mourn as Jasper, jewel of the Rockies, burns",
         "location": "Canada"
     },
     {
-        "headline": "What's behind the global self-storage boom?",
-        "location": "Global"
-    },
-    {
-        "headline": "'There's mum and dad's house' - wildfire razes swathe of Jasper",
-        "location": "Canada"
-    },
-    {
-        "headline": "Lawmaker uses AI voice clone to address Congress",
+        "headline": "JD Vance defends 'childless cat ladies' comment after backlash",
         "location": "United States"
     },
     {
-        "headline": "How decline of Indian vultures led to 500,000 human deaths",
-        "location": "India"
-    },
-    {
-        "headline": "Satellite images and doctor testimony reveal Tigray hunger crisis",
-        "location": "Ethiopia"
-    },
-    {
-        "headline": "California orders homeless camps be dismantled",
+        "headline": "Three ways Trump is trying to end the Harris honeymoon",
         "location": "United States"
     },
     {
-        "headline": "Daughter graduates from mum's uni over 70 years on",
-        "location": "Not applicable"
+        "headline": "Timberlake 'not intoxicated' during arrest, lawyer says",
+        "location": "United States"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "Ethiopia"
+        "location": "Unknown"
+    },
+    {
+        "headline": "Olympic Ceremonies on the Seine were a daring feat. Paris stuck the landing.",
+        "location": "France"
+    },
+    {
+        "headline": "Mexico wasn\u2019t told of cartel arrests until kingpins were in U.S. custody",
+        "location": "Mexico"
+    },
+    {
+        "headline": "Arson attacks target France\u2019s high speed trains hours before Olympics",
+        "location": "France"
+    },
+    {
+        "headline": "U.K. ending challenge to ICC arrest warrants for Israeli leaders",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "What to know about the Sinaloa cartel after the arrest of \u2018El Mayo\u2019",
+        "location": "Mexico"
+    },
+    {
+        "headline": "From \u2018sunny ways\u2019 to cloudy days: Canadians have tired of Justin Trudeau",
+        "location": "Canada"
+    },
+    {
+        "headline": "Video of police kicking man on ground at U.K. airport sparks protests",
+        "location": "United Kingdom"
+    },
+    {
+        "headline": "Russia wary of U.S. and France election surprises, especially Kamala Harris",
+        "location": "Russia"
+    },
+    {
+        "headline": "Olympics quiz: Pick the right anthems, flags and avoid a diplomatic incident",
+        "location": "Unknown"
+    },
+    {
+        "headline": "How one Chinese machine tool maker is helping Russia\u2019s war against Ukraine",
+        "location": "China/Russia/Ukraine"
+    },
+    {
+        "headline": "Top Sinaloa cartel leader taken into U.S. custody alongside son of  \u2018El Chapo\u2019",
+        "location": "Mexico"
+    },
+    {
+        "headline": "Is this the beginning of the end for the Maduro regime in Venezuela?",
+        "location": "Venezuela"
     },
     {
         "headline": "Harris calls for cease-fire and hostage release after Netanyahu meeting",
@@ -169,7 +217,7 @@
     },
     {
         "headline": "NORAD intercepts Russian, Chinese bombers off Alaskan coast",
-        "location": "Russia and China"
+        "location": "Russia/China"
     },
     {
         "headline": "Russia is banned from the Paris Olympics. Here\u2019s what that means.",
@@ -178,53 +226,5 @@
     {
         "headline": "Wildfire reaches resort town of Jasper as Alberta battles over 170 blazes",
         "location": "Canada"
-    },
-    {
-        "headline": "The ordinary people risking everything to protect Venezuela\u2019s vote",
-        "location": "Venezuela"
-    },
-    {
-        "headline": "Sanctions crushed Syria\u2019s elite. So they built a zombie economy fueled by drugs.",
-        "location": "Syria"
-    },
-    {
-        "headline": "Komodo dragons have iron-coated teeth to rip apart prey, scientists find",
-        "location": "Indonesia"
-    },
-    {
-        "headline": "As Netanyahu hails Gaza war effort, hobbled Hamas government clings to power",
-        "location": "Israel"
-    },
-    {
-        "headline": "Twice-a-year shot provides 100 percent HIV protection, study finds",
-        "location": "Study location not specified"
-    },
-    {
-        "headline": "Netanyahu dismisses critics, scolds protesters in defiant speech to Congress",
-        "location": "Israel"
-    },
-    {
-        "headline": "Anti-Israel protests and threats set tone for politically charged Olympics",
-        "location": "Israel"
-    },
-    {
-        "headline": "U.K. royals to get big raise as Crown Estate sees record $1.4 billion profit",
-        "location": "United Kingdom"
-    },
-    {
-        "headline": "North Korean balloon drops trash on South Korean presidential office",
-        "location": "South Korea"
-    },
-    {
-        "headline": "Netanyahu\u2019s history of clashing with U.S. presidents spans decades",
-        "location": "United States"
-    },
-    {
-        "headline": "1972 Munich Olympics, marred by killing of Israeli athletes, loom over Paris Games",
-        "location": "France"
-    },
-    {
-        "headline": "American reality show contestant kills, eats protected bird in New Zealand",
-        "location": "New Zealand"
     }
 ]
