@@ -1,230 +1,230 @@
 [
     {
-        "headline": "'A dangerous moment' - Israelis face spectre of another war",
-        "location": "Israel"
+        "headline": "Venezuelans head for presidential palace to protest against election result",
+        "location": "Venezuela - \"Venezuelans head for presidential palace to protest against election result\""
     },
     {
-        "headline": "Thousands mourn children killed in Golan Heights strike",
-        "location": "Israel (again, same article)"
+        "headline": "Bowen: Golan attack leaves border war's unspoken rules in tatters",
+        "location": "No clear country (appears to be a location, not a specific country)"
     },
     {
-        "headline": "Parisians\u2019 Olympic spirit not dampened \u2013 but grumbles remain",
-        "location": "France"
+        "headline": "Israeli protesters enter army base after soldiers held over Gaza detainee abuse",
+        "location": "Israel - \"Israeli protesters enter army base after soldiers held over Gaza detainee abuse\""
     },
     {
-        "headline": "Simone Biles draws A-list celebrity crowd at Paris Olympics",
-        "location": "France"
+        "headline": "'Fire devils' spotted as California fire doubles in size",
+        "location": "USA - \"'Fire devils' spotted as California fire doubles in size\""
+    },
+    {
+        "headline": "Tiffany Haddish defends Zimbabwe video after backlash",
+        "location": "Zimbabwe - \"Tiffany Haddish defends Zimbabwe video after backlash\""
+    },
+    {
+        "headline": "Bowen: Golan attack leaves border war's unspoken rules in tatters",
+        "location": "No clear country (appears to be a location, not a specific country)"
+    },
+    {
+        "headline": "'Unjustified': Videos reveal brutality during Bangladesh protests",
+        "location": "Bangladesh - \"'Unjustified': Videos reveal brutality during Bangladesh protests\""
+    },
+    {
+        "headline": "Trump to be interviewed by FBI in shooting investigation",
+        "location": "USA - \"Trump to be interviewed by FBI in shooting investigation\""
+    },
+    {
+        "headline": "Israeli protesters enter army base after soldiers held over Gaza detainee abuse",
+        "location": "Israel - \"Israeli protesters enter army base after soldiers held over Gaza detainee abuse\""
+    },
+    {
+        "headline": "Russian commander killed in sandstorm ambush in Mali",
+        "location": "Mali - \"Russian commander killed in sandstorm ambush in Mali\""
     },
     {
         "headline": "Complex life on Earth may be much older than thought",
-        "location": "Earth (no country association)"
+        "location": "No clear country (general scientific interest, not specific to a country)"
     },
     {
-        "headline": "Thousands mourn children killed in Golan Heights strike",
-        "location": "Israel (same article as 2)"
+        "headline": "Biden criticises 'extreme' Supreme Court in push for reform",
+        "location": "USA - \"Biden criticises 'extreme' Supreme Court in push for reform\""
     },
     {
-        "headline": "Lebanon fears dangerous new phase in Hezbollah-Israel fighting",
-        "location": "Lebanon"
+        "headline": "Six-week abortion ban takes effect in Iowa",
+        "location": "USA - \"Six-week abortion ban takes effect in Iowa\""
     },
     {
-        "headline": "Venezuela opposition urges vigilance as polls close",
-        "location": "Venezuela"
-    },
-    {
-        "headline": "Parisians\u2019 Olympic spirit not dampened \u2013 but grumbles remain",
-        "location": "France (again, same article as 3)"
-    },
-    {
-        "headline": "Neighbours star Janet Andrewartha dies",
-        "location": "Australia/UK (referring to the Neighbours TV show)"
-    },
-    {
-        "headline": "France rail repairs completed after arson attacks",
-        "location": "France"
-    },
-    {
-        "headline": "Wrong national anthem played for South Sudan at Olympics",
-        "location": "South Sudan (host of the Olympics)"
-    },
-    {
-        "headline": "Huge California wildfire tears through 5,000 acres every hour",
-        "location": "USA"
-    },
-    {
-        "headline": "Boat disaster in Ethiopia kills 12",
-        "location": "Ethiopia"
+        "headline": "Israeli ministers authorise Netanyahu retaliation against Hezbollah",
+        "location": "Israel - \"Israeli ministers authorise Netanyahu retaliation against Hezbollah\""
     },
     {
         "headline": "Watch/Listen",
-        "location": "No country association (San Diego Comic Con in the US is referenced, but not explicitly associated with the event described)"
+        "location": "No clear country (appears to be a general interest story, not specific to a country)"
+    },
+    {
+        "headline": "Watch: Venezuela's Maduro declared winner in disputed vote",
+        "location": "Venezuela - \"Watch: Venezuela's Maduro declared winner in disputed vote\""
     },
     {
         "headline": "Watch: Moment Robert Downey Jr revealed at San Diego Comic Con",
-        "location": "USA"
+        "location": "USA - \"Watch: Moment Robert Downey Jr revealed at San Diego Comic Con\""
     },
     {
         "headline": "'There was a siren, but no-one had time to react'",
-        "location": "Israel (same article as 2/6)"
+        "location": "No clear country (general scientific interest, not specific to a country)"
     },
     {
         "headline": "Watch: Astronauts enjoy zero-gravity Olympics",
-        "location": "Space/NASA (not a specific country)"
+        "location": "No clear country (general scientific interest, not specific to a country)"
     },
     {
         "headline": "Relive a wild month in US politics in about two minutes",
-        "location": "USA"
-    },
-    {
-        "headline": "How drones and the battle for Ukraine are changing the future of warfare",
-        "location": "Ukraine"
+        "location": "USA - \"Relive a wild month in US politics in about two minutes\""
     },
     {
         "headline": "Features",
-        "location": "Global economy/finance topic, no country association"
+        "location": "No clear country (general interest story, not specific to a country)"
+    },
+    {
+        "headline": "'A dangerous moment' - Israelis face spectre of another war",
+        "location": "Israel - \"'A dangerous moment' - Israelis face spectre of another war\""
+    },
+    {
+        "headline": "Lebanon fears new phase in Hezbollah-Israel fighting",
+        "location": "Lebanon - \"Lebanon fears new phase in Hezbollah-Israel fighting\""
     },
     {
         "headline": "Timing, luck or talent - what makes a billionaire?",
-        "location": "USA/Billionaire lifestyle in general, not specific to any country"
+        "location": "No clear country (general interest story, not specific to a country)"
     },
     {
-        "headline": "Venezuela's economy runs on oil - and music",
-        "location": "Venezuela"
-    },
-    {
-        "headline": "Parisians\u2019 Olympic spirit not dampened \u2013 but grumbles remain",
-        "location": "France (same article as 3/9)"
-    },
-    {
-        "headline": "Why chaotic antiheroes like Deadpool are winning over superhero fans",
-        "location": "USA"
-    },
-    {
-        "headline": "What is Hezbollah and will it go to war with Israel?",
-        "location": "Lebanon"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Latest updates section, not a news headline about a specific story in this context"
+        "headline": "The 'upside-down' sex life of a rare Indian frog revealed",
+        "location": "India - \"The 'upside-down' sex life of a rare Indian frog revealed\""
     },
     {
         "headline": "'Not every Norwegian feels guilty but many do'",
-        "location": "Norway"
+        "location": "Norway - \"'Not every Norwegian feels guilty but many do'\""
     },
     {
-        "headline": "Irish writer Edna O'Brien dies aged 93",
-        "location": "Ireland"
+        "headline": "Latest updates",
+        "location": "No clear country (appears to be general updates from the BBC news site)"
     },
     {
-        "headline": "Thousands mourn children killed in Golan Heights strike",
-        "location": "Israel (same article as 2/6/17)"
+        "headline": "\u2018It doesn\u2019t look that bad\u2019: Would you swim in the Seine?",
+        "location": "France - \"\u2018It doesn\u2019t look that bad\u2019: Would you swim in the Seine?\""
     },
     {
-        "headline": "What is Hezbollah and will it go to war with Israel?",
-        "location": "Lebanon (same topic as 26 and 7)"
+        "headline": "Biden criticises 'extreme' Supreme Court in push for reform",
+        "location": "USA - \"Biden criticises 'extreme' Supreme Court in push for reform\""
     },
     {
-        "headline": "Rocket strike puts Israel and Hezbollah on brink of all-out war",
-        "location": "Israel"
+        "headline": "Rescuer runs to save dogs trapped in huge California wildfire",
+        "location": "USA - \"Rescuer runs to save dogs trapped in huge California wildfire\""
     },
     {
-        "headline": "Parisians\u2019 Olympic spirit not dampened \u2013 but grumbles remain",
-        "location": "France (same article as 3/9/24)"
+        "headline": "Three arrested for murder of Florida rapper Julio Foolio",
+        "location": "USA - \"Three arrested for murder of Florida rapper Julio Foolio\""
     },
     {
-        "headline": "Wrong national anthem played for South Sudan at Olympics",
-        "location": "South Sudan"
+        "headline": "Six-week abortion ban takes effect in Iowa",
+        "location": "USA - \"Six-week abortion ban takes effect in Iowa\""
     },
     {
-        "headline": "Golan Heights strike: 'The whole town is mourning'",
-        "location": "Golan Heights (autonomous region, but often associated with Syria; however, in this context, it seems to refer specifically to the incident described)"
+        "headline": "Who could be Kamala Harris's running mate?",
+        "location": "USA - \"Who could be Kamala Harris's running mate?\""
     },
     {
-        "headline": "Lebanon fears dangerous new phase in Hezbollah-Israel fighting",
-        "location": "Lebanon (same topic as 26 and 7)"
+        "headline": "Jasper fire chief watched as his home was lost to flames",
+        "location": "USA - \"Jasper fire chief watched as his home was lost to flames\""
+    },
+    {
+        "headline": "Trump to be interviewed by FBI in shooting investigation",
+        "location": "USA - \"Trump to be interviewed by FBI in shooting investigation\""
+    },
+    {
+        "headline": "'Fire devils' spotted as California fire doubles in size",
+        "location": "USA - \"'Fire devils' spotted as California fire doubles in size\""
     },
     {
         "headline": "Follow BBC on:",
-        "location": "No country association (BBC is referenced, which is a UK-based global media outlet)"
+        "location": "No clear country (general interest story, not specific to a country)"
     },
     {
-        "headline": "Exit polling in Venezuela shows opposition beating Maduro by wide margin",
-        "location": "Venezuela"
+        "headline": "Iran seeks to undermine Trump ahead of election, officials signal",
+        "location": "Iran - \"Iran seeks to undermine Trump ahead of election, officials signal\""
+    },
+    {
+        "headline": "World leaders doubt Maduro\u2019s victory claim in Venezuelan election",
+        "location": "Venezuela - \"World leaders doubt Maduro\u2019s victory claim in Venezuelan election\""
+    },
+    {
+        "headline": "Region braces for Netanyahu to decide Israeli response to Golan Heights strike",
+        "location": "Israel - \"Region braces for Netanyahu to decide Israeli response to Golan Heights strike\""
+    },
+    {
+        "headline": "Palestinians recount deadly abuse in Israeli prisons: \u2018It is Guant\u00e1namo\u2019",
+        "location": "Palestine/Israel - \"Palestinians recount deadly abuse in Israeli prisons: \u2018It is Guant\u00e1namo\u2019\""
+    },
+    {
+        "headline": "Far right in uproar after Israel detains reservists over Gaza detainee abuse",
+        "location": "Israel - \"Far right in uproar after Israel detains reservists over Gaza detainee abuse\""
+    },
+    {
+        "headline": "Two children killed, others critically wounded in mass stabbing in British seaside town",
+        "location": "UK (England) - \"Two children killed, others critically wounded in mass stabbing in British seaside town\""
+    },
+    {
+        "headline": "Simone Biles urged her to endure. Now she\u2019s Biles\u2019s top challenger.",
+        "location": "USA (Texas/USA?) - \"Simone Biles urged her to endure. Now she\u2019s Biles\u2019s top challenger.\""
+    },
+    {
+        "headline": "We reported for months on changes sweeping Russia. Here\u2019s what we found.",
+        "location": "Russia - \"We reported for months on changes sweeping Russia. Here\u2019s what we found.\""
+    },
+    {
+        "headline": "Artists say Putin\u2019s push for patriotism is killing Russian culture",
+        "location": "Russia - \"Artists say Putin\u2019s push for patriotism is killing Russian culture\""
+    },
+    {
+        "headline": "Migrants from China \u2018walk the line\u2019 to U.S. border, testing Biden and Xi",
+        "location": "China and USA (border conflict) - \"Migrants from China \u2018walk the line\u2019 to U.S. border, testing Biden and Xi\""
+    },
+    {
+        "headline": "Maduro declared winner of disputed Venezuelan election",
+        "location": "Venezuela - \"Maduro declared winner of disputed Venezuelan election\""
+    },
+    {
+        "headline": "In Sudan\u2019s catastrophe, food runs out as guns flow freely",
+        "location": "Sudan - \"In Sudan\u2019s catastrophe, food runs out as guns flow freely\""
+    },
+    {
+        "headline": "Warring parties in Sudan accused of carrying out rapes",
+        "location": "Sudan - \"Warring parties in Sudan accused of carrying out rapes\""
+    },
+    {
+        "headline": "Paris Olympics organizers sorry for Last Supper at Opening Ceremonies",
+        "location": "France - \"Paris Olympics organizers sorry for Last Supper at Opening Ceremonies\""
     },
     {
         "headline": "Israel strikes deep in Lebanon after rocket attack, stoking fear of wider war",
-        "location": "Israel/Lebanon"
+        "location": "Israel/Lebanon - \"Israel strikes deep in Lebanon after rocket attack, stoking fear of wider war\""
     },
     {
         "headline": "Trump vs. Biden on immigration: 12 charts comparing U.S. border security",
-        "location": "USA"
+        "location": "USA (immigration) - \"Trump vs. Biden on immigration: 12 charts comparing U.S. border security\""
     },
     {
         "headline": "How India\u2019s warm embrace of Kamala Harris grew chilly",
-        "location": "India"
+        "location": "India - \"How India\u2019s warm embrace of Kamala Harris grew chilly\""
     },
     {
         "headline": "F-16 fighter jets arrive in Ukraine but may not tip advantage against Russia",
-        "location": "Ukraine"
+        "location": "Ukraine/Russia"
     },
     {
         "headline": "Canada owes First Nations for treaty breaches, top court rules",
-        "location": "Canada"
+        "location": "Location not found"
     },
     {
         "headline": "Attacks in Gaza and Golan Heights kill more than 40, many of them children",
-        "location": "Israel/Gaza and Golan Heights (regions within countries)"
-    },
-    {
-        "headline": "After \u2018big show\u2019 in U.S., Netanyahu returns to turmoil at home",
-        "location": "Israel"
-    },
-    {
-        "headline": "How many athletes are in the Paris Olympics, and other key numbers",
-        "location": "Paris, France (host of the Olympics)"
-    },
-    {
-        "headline": "In Miami, Venezuelan diaspora anxiously watches a vote it can\u2019t participate in",
-        "location": "Miami, USA"
-    },
-    {
-        "headline": "Netanyahu\u2019s U.S. visit revealed \u2018no workable plan\u2019 for peace, critics say",
-        "location": "Israel"
-    },
-    {
-        "headline": "U.S., Japan to unveil first steps towards enhanced military alliance",
-        "location": "USA/Japan"
-    },
-    {
-        "headline": "If Maduro loses, will he cede power? Venezuela\u2019s election, explained.",
-        "location": "Venezuela"
-    },
-    {
-        "headline": "Russia, adapting tactics, advances in Donetsk and takes more Ukrainian land",
-        "location": "Russia/Ukraine"
-    },
-    {
-        "headline": "The Paris Olympics, in comics",
-        "location": "No country association (comics topic about the Olympics)"
-    },
-    {
-        "headline": "Olympic Ceremonies on the Seine were a daring feat. Paris stuck the landing.",
-        "location": "No country association (Paris is mentioned as the host city)"
-    },
-    {
-        "headline": "Mexico wasn\u2019t told of cartel arrests until kingpins were in U.S. custody",
-        "location": "Mexico/USA"
-    },
-    {
-        "headline": "Arson attacks target France\u2019s high speed trains hours before Olympics",
-        "location": "France"
-    },
-    {
-        "headline": "U.K. ending challenge to ICC arrest warrants for Israeli leaders",
-        "location": "UK"
-    },
-    {
-        "headline": "What to know about the Sinaloa cartel after the arrest of \u2018El Mayo\u2019",
-        "location": "No country association (topic is general news and facts, not specific to any country)"
+        "location": "Location not found"
     }
 ]

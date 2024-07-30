@@ -1,114 +1,18 @@
 [
     {
-        "location": "Australia",
-        "summary": "\u2022 Beloved Australian actress and Neighbours star Janet Andrewartha has passed away.\n\u2022 Details of her death are currently unavailable\n\u2022 No further information is available on the circumstances surrounding her passing.",
-        "coordinates": [
-            -24.7761086,
-            134.755
-        ]
-    },
-    {
-        "location": "Canada",
-        "summary": "\u2022 Canada's top court has ruled that the government owes First Nations compensation for treaty breaches.\n\u2022 This landmark decision affirms the rights of Indigenous peoples to self-determination and redress for historical injustices.\n\u2022 The ruling paves the way for further discussions and negotiations between the federal government and First Nations over treaty obligations.",
-        "coordinates": [
-            61.0666922,
-            -107.991707
-        ]
-    },
-    {
-        "location": "Ethiopia",
-        "summary": "\u2022 A boat carrying passengers has capsized in Ethiopia's Lake Tana, resulting in a fatal accident.\n\u2022 At least 12 people have died in the incident and several others are injured or missing.\n\u2022 The exact circumstances surrounding the disaster are still being investigated.",
-        "coordinates": [
-            10.2116702,
-            38.6521203
-        ]
-    },
-    {
-        "location": "France",
-        "summary": "\u2022 France's high-speed train network has been repaired after a series of arson attacks.\n\u2022 Despite some grumbles, the Olympic spirit is alive in Paris despite challenges during the Games.\n\u2022 The Olympic event in Paris drew an A-list celebrity crowd, with Simone Biles making an appearance.",
-        "coordinates": [
-            46.603354,
-            1.8883335
-        ]
-    },
-    {
-        "location": "India",
-        "summary": "\u2022 US Vice President Kamala Harris's approval ratings have declined in India.\n\u2022 The Indian public's enthusiasm for her has cooled down due to various factors including COVID-19 response and diplomatic issues.\n\u2022 Harris's popularity among Indians, which once saw her as a role model, is no longer the same.",
-        "coordinates": [
-            22.3511148,
-            78.6677428
-        ]
-    },
-    {
-        "location": "Ireland",
-        "summary": "\u2022 Notable Irish author passes away\n\u2022 Cause of death is not specified in this report \n\u2022 (no additional details provided about Edna O'Brien's passing, only her age at time of death)",
-        "coordinates": [
-            52.865196,
-            -7.9794599
-        ]
-    },
-    {
         "location": "Israel",
-        "summary": "\u2022 Israelis face a high risk of another war with various groups due to ongoing tensions and rocket attacks.\n\u2022 Israeli airstrikes have targeted Lebanon after a rocket strike, sparking fears of an all-out conflict.\n\u2022 There have been multiple attacks in Gaza and the Golan Heights that killed over 40 people, many of them children.",
+        "summary": "\u2022 Israeli forces launched airstrikes in Lebanon in response to a rocket attack.\n\u2022 The strike has sparked concerns of an escalation into a wider conflict.\n\u2022 There are reports of casualties and damage caused by the bombing.",
         "coordinates": [
             30.8124247,
             34.8594762
         ]
     },
     {
-        "location": "Lebanon",
-        "summary": "\u2022 Tensions between Hezbollah and Israel are escalating, raising concerns of a potential large-scale conflict.\n\u2022 Hezbollah, a Lebanese Shia Islamist political party and military organization, has been involved in previous battles with Israel, but the situation now appears more volatile than ever.\n\u2022 The potential war could have severe consequences for Lebanon's already fragile economy and infrastructure.",
-        "coordinates": [
-            40.375713,
-            -76.4626118
-        ]
-    },
-    {
-        "location": "Mexico",
-        "summary": "\u2022 Mexican authorities were not informed about the arrest of top cartel leaders until after they had been taken into US custody.\n\u2022 This lack of communication meant that Mexico was unable to take advantage of the opportunity to capture or dismantle the remaining members of these cartels.\n\u2022 The situation has raised questions about the cooperation and coordination between US and Mexican law enforcement agencies.",
-        "coordinates": [
-            19.4326296,
-            -99.1331785
-        ]
-    },
-    {
-        "location": "Norway",
-        "summary": "\u2022 Many Norwegians feel guilty about their country's colonial past.\n\u2022 Not everyone in Norway shares these feelings of guilt.\n\u2022 Guilt over historical actions is a complex issue within Norwegian society.",
-        "coordinates": [
-            64.5731537,
-            11.52803643954819
-        ]
-    },
-    {
-        "location": "South Sudan",
-        "summary": "\u2022 South Sudan's Olympic team suffered an embarrassment as the wrong national anthem was played before one of their matches.\n\u2022 The mix-up occurred during the 2023 World University Games, where a South Sudanese athlete competed in shooting events.\n\u2022 The incorrect national anthem was reportedly used for multiple countries, sparking confusion among participants.",
-        "coordinates": [
-            7.8699431,
-            29.6667897
-        ]
-    },
-    {
-        "location": "USA",
-        "summary": "\u2022 A massive California wildfire is consuming 5,000 acres per hour.\n\u2022 The US and Japan are strengthening their military alliance with new cooperation plans.\n\u2022 Comparisons between Trump and Biden's immigration policies are highlighted in 12 charts.",
-        "coordinates": [
-            39.7837304,
-            -100.445882
-        ]
-    },
-    {
         "location": "Ukraine",
-        "summary": "Here are three key points about Ukraine:\n\n\u2022 US and European countries have provided drones to support Ukraine's military efforts.\n\u2022 F-16 fighter jets have been delivered to Ukraine, but their impact on the conflict remains uncertain.\n\u2022 The use of advanced technology in Ukraine suggests a shift towards more hybrid warfare approaches.",
+        "summary": "\u2022 Ukraine receives F-16 fighter jets.\n\u2022 Delivery of F-16s may not give significant advantage over Russia due to various factors.",
         "coordinates": [
             49.4871968,
             31.2718321
-        ]
-    },
-    {
-        "location": "Venezuela",
-        "summary": "\u2022 Opposition leader appears to have won Venezuelan presidential election.\n\u2022 Election results show a significant lead for the opposition candidate over President Maduro.\n\u2022 Exit polls suggest a wide margin of victory for the opposition, although official results have not been released.",
-        "coordinates": [
-            8.0018709,
-            -66.1109318
         ]
     }
 ]
