@@ -1,158 +1,222 @@
 [
     {
-        "headline": "Israel claims it killed senior Hezbollah commander in strike on Beirut",
-        "location": "**Israel**"
+        "headline": "Three men accused of plotting 9/11 reach plea deal - Pentagon",
+        "location": "Three men accused of plotting 9/11 reach plea deal - Pentagon: **United States**"
+    },
+    {
+        "headline": "Iran vows revenge after Hamas leader assassinated in Tehran",
+        "location": "Iran vows revenge after Hamas leader assassinated in Tehran: **Iran**"
+    },
+    {
+        "headline": "'Is she black or Indian?': Trump attacks Harris' racial identity",
+        "location": "'Is she black or Indian?': Trump attacks Harris' racial identity: **United States**"
+    },
+    {
+        "headline": "Witness to Titan sub tragedy tells of fear and false hope",
+        "location": "Witness to Titan sub tragedy tells of fear and false hope: **South Korea** (Titan is a South Korean-made submarine)"
+    },
+    {
+        "headline": "Maduro promises voting data as observers say Venezuela election 'not democratic'",
+        "location": "Maduro promises voting data as observers say Venezuela election 'not democratic': **Venezuela**"
+    },
+    {
+        "headline": "Iran vows revenge after Hamas leader assassinated in Tehran",
+        "location": "Iran vows revenge after Hamas leader assassinated in Tehran: **Iran** (same story, different source)"
+    },
+    {
+        "headline": "Bowen: Israel's killing of Haniyeh deals hammer blow to ceasefire prospects",
+        "location": "Bowen: Israel's killing of Haniyeh deals hammer blow to ceasefire prospects: **Australia**"
+    },
+    {
+        "headline": "Hezbollah confirms commander died  in Israeli strike",
+        "location": "Hezbollah confirms commander died  in Israeli strike: **Lebanon**"
+    },
+    {
+        "headline": "'Is she black or Indian?': Trump attacks Harris' racial identity",
+        "location": "'Is she black or Indian?': Trump attacks Harris' racial identity: **United States** (same story, different source)"
+    },
+    {
+        "headline": "Ukraine repels 'massive' Russian drone attack",
+        "location": "Ukraine repels 'massive' Russian drone attack: **Ukraine**"
     },
     {
         "headline": "Five things we learned from Secret Service boss about Trump shooting",
-        "location": "**USA**"
+        "location": "Five things we learned from Secret Service boss about Trump shooting: **United States**"
     },
     {
-        "headline": "Relief as Palestinian medical evacuees leave Gaza",
-        "location": "**Palestine/Israel** (both)"
+        "headline": "Israel may have tortured Palestinian prisoners - UN",
+        "location": "Israel may have tortured Palestinian prisoners - UN: **Israel** and international community (specifically, the United Nations)"
     },
     {
-        "headline": "India landslides kill 120 and trap dozens",
-        "location": "**India**"
+        "headline": "Scores missing as India landslides kill 166",
+        "location": "Scores missing as India landslides kill 166: **India**"
     },
     {
-        "headline": "Belarus pardon for German hints at wider prisoner swap",
-        "location": "**Belarus**"
-    },
-    {
-        "headline": "Five things we learned from Secret Service boss about Trump shooting",
-        "location": "**USA** (Duplicate)"
-    },
-    {
-        "headline": "Fresh protests in Venezuela as anger grows at disputed election result",
-        "location": "**Venezuela**"
-    },
-    {
-        "headline": "Rise in people fascinated by violence, police warn",
-        "location": "**UK**"
-    },
-    {
-        "headline": "Relief as Palestinian medical evacuees leave Gaza",
-        "location": "**Palestine/Israel** (both)"
-    },
-    {
-        "headline": "Lobster dinner for King Charles cost France \u20ac450,000",
-        "location": "**France**"
-    },
-    {
-        "headline": "Investigation into alleged antisemitism at Olympic football match",
-        "location": "**UK**"
-    },
-    {
-        "headline": "Central African Republic latest to declare mpox outbreak",
-        "location": "**Central African Republic**"
-    },
-    {
-        "headline": "Thousands of Palestinians return to Khan Younis as IDF withdraws",
-        "location": "**Palestine/Israel** (both)"
-    },
-    {
-        "headline": "Greece imposes restrictions to tackle 'goat plague'",
-        "location": "**Greece**"
+        "headline": "Fresh violence in Bangladesh student protests",
+        "location": "Fresh violence in Bangladesh student protests: **Bangladesh**"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Location not found"
+        "location": "Watch/Listen: **No country specified** (this appears to be a media section header rather than a news article)"
+    },
+    {
+        "headline": "Trump on Harris: 'Is she Indian or is she black?'",
+        "location": "Trump on Harris: 'Is she Indian or is she black?': **United States**"
+    },
+    {
+        "headline": "Video shows Haniyeh in Iran hours before his death",
+        "location": "Video shows Haniyeh in Iran hours before his death: **Iran**"
+    },
+    {
+        "headline": "Yolande Knell: 'This would have been extremely well planned'",
+        "location": "Yolande Knell: 'This would have been extremely well planned': **United Kingdom** (the author is a British journalist)"
     },
     {
         "headline": "Chaos and damage in Beirut after Israeli air strike",
-        "location": "Location not found"
+        "location": "Chaos and damage in Beirut after Israeli air strike: **Lebanon**"
     },
     {
         "headline": "Palestinians return to Khan Younis after Israeli operation",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Hundreds of thousands of dragonflies swarm beachgoers",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Watch: Protesters descend on Caracas after election win claim",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Watch: Venezuela's Maduro declared winner in disputed vote",
-        "location": "Location not found"
+        "location": "Palestinians return to Khan Younis after Israeli operation: **Gaza Strip** (part of the Palestinian territories)"
     },
     {
         "headline": "Features",
-        "location": "Location not found"
+        "location": "Features: **No country specified** (this appears to be a media section header rather than a news article)"
+    },
+    {
+        "headline": "Video games strike rumbles on in row over AI",
+        "location": "Video games strike rumbles on in row over AI: **United States**"
+    },
+    {
+        "headline": "50 jobs, 30 years: The unseen labour of an Indian female worker",
+        "location": "50 jobs, 30 years: The unseen labour of an Indian female worker: **India**"
+    },
+    {
+        "headline": "Can technology fix the 'broken' concert ticketing system?",
+        "location": "Can technology fix the 'broken' concert ticketing system?: **United Kingdom** (the author is a British journalist)"
+    },
+    {
+        "headline": "The Mexican women aiding migrants on their perilous journey north",
+        "location": "The Mexican women aiding migrants on their perilous journey north: **Mexico**"
     },
     {
         "headline": "The Israelis who want grandchildren from their dead sons\u2019 sperm",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The new face of homelessness in Australia",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The Dua Lipa festival aiming to change Kosovo\u2019s image",
-        "location": "Location not found"
-    },
-    {
-        "headline": "City of cafes: Shanghai\u2019s love affair with coffee",
-        "location": "Location not found"
-    },
-    {
-        "headline": "William Calley, who led My Lai massacre, dead at 80",
-        "location": "Location not found"
+        "location": "The Israelis who want grandchildren from their dead sons\u2019 sperm: **Israel**"
     },
     {
         "headline": "Latest updates",
-        "location": "Location not found"
+        "location": "Latest updates: **No country specified** (this appears to be a media section header rather than a news article)"
     },
     {
-        "headline": "Harris says 'path to the White House' runs through Georgia",
-        "location": "Location not found"
+        "headline": "Three men accused of plotting 9/11 reach plea deal - Pentagon",
+        "location": "Three men accused of plotting 9/11 reach plea deal - Pentagon: **United States** (same story, different source)"
     },
     {
-        "headline": "City of cafes: Shanghai\u2019s love affair with coffee",
-        "location": "Location not found"
+        "headline": "Can technology fix the 'broken' concert ticketing system?",
+        "location": "Can technology fix the 'broken' concert ticketing system?: **United Kingdom** (same story, different source)"
     },
     {
-        "headline": "Israel claims it killed senior Hezbollah commander in strike on Beirut",
-        "location": "Location not found"
+        "headline": "Iran vows revenge after Hamas leader assassinated in Tehran",
+        "location": "Iran vows revenge after Hamas leader assassinated in Tehran: **Iran** (same story, different source)"
     },
     {
-        "headline": "Chaos and damage in Beirut after Israeli air strike",
-        "location": "Israel claims it killed senior Hezbollah commander in strike on Beirut - **Israel**"
+        "headline": "'Is she black or Indian?': Trump attacks Harris' racial identity",
+        "location": "'Is she black or Indian?': Trump attacks Harris' racial identity: **United States** (same story, different source)"
     },
     {
-        "headline": "The Israelis who want grandchildren from their dead sons\u2019 sperm",
-        "location": "Chaos and damage in Beirut after Israeli air strike - **Lebanon**"
+        "headline": "Tributes to helicopter crash victim, Niall Crosby",
+        "location": "Tributes to helicopter crash victim, Niall Crosby: **Ireland**"
     },
     {
-        "headline": "Trump calls Harris 'failed' while Dems tout her legal career in new attack ads",
-        "location": "The Israelis who want grandchildren from their dead sons\u2019 sperm - **Israel**"
+        "headline": "Five-year-old male Asian lion moves to Dublin Zoo",
+        "location": "Five-year-old male Asian lion moves to Dublin Zoo: **Republic of Ireland**"
     },
     {
-        "headline": "Project 2025 leader quits conservative think tank",
-        "location": "Location not found"
+        "headline": "Trump on Harris: 'Is she Indian or is she black?'",
+        "location": "Trump on Harris: 'Is she Indian or is she black?': **United States** (same story, different source)"
     },
     {
-        "headline": "Two people die in Westmeath helicopter crash",
-        "location": "Location not found"
+        "headline": "Hezbollah confirms commander died  in Israeli strike",
+        "location": "Hezbollah confirms commander died  in Israeli strike: **Lebanon** (same story, different source)"
     },
     {
-        "headline": "Belarus pardon for German hints at wider prisoner swap",
-        "location": "Location not found"
+        "headline": "Bowen: Israel's killing of Haniyeh deals hammer blow to ceasefire prospects",
+        "location": "Bowen: Israel's killing of Haniyeh deals hammer blow to ceasefire prospects: **Australia** (same story, different source)"
     },
     {
         "headline": "Follow BBC on:",
+        "location": "Follow BBC on: **No country specified** (this appears to be a media section header rather than a news article)"
+    },
+    {
+        "headline": "Scotland Yard considering request to examine alleged phone-hacking coverup",
+        "location": "Scotland Yard considering request to examine alleged phone-hacking coverup: **United Kingdom**"
+    },
+    {
+        "headline": "How false claims about a mass stabbing led to a riot in the U.K.",
+        "location": "How false claims about a mass stabbing led to a riot in the U.K.: **United Kingdom**"
+    },
+    {
+        "headline": "Hamas leader Ismail Haniyeh killed in Iran, sparking fears of wider war",
+        "location": "Hamas leader Ismail Haniyeh killed in Iran, sparking fears of wider war: **Iran** and international community (specifically, Hamas)"
+    },
+    {
+        "headline": "Maduro urges Venezuelans to report protesters who question his reelection",
+        "location": "Maduro urges Venezuelans to report protesters who question his reelection: **Venezuela**"
+    },
+    {
+        "headline": "Live updates: Hamas leader Ismail Haniyeh assassinated; Netanyahu says Israel dealt \u2018crushing blows\u2019 to Iran-backed groups",
+        "location": "Live updates: Hamas leader Ismail Haniyeh assassinated; Netanyahu says Israel dealt \u2018crushing blows\u2019 to Iran-backed groups: **Israel** and international community (specifically, Hamas)"
+    },
+    {
+        "headline": "Iran vows revenge for killing of Hamas leader in Tehran",
+        "location": "Iran vows revenge for killing of Hamas leader in Tehran: **Iran**"
+    },
+    {
+        "headline": "Hamas leader\u2019s killing leaves Gaza cease-fire talks in doubt",
+        "location": "Hamas leader\u2019s killing leaves Gaza cease-fire talks in doubt: **Palestinian territories** (specifically, Gaza Strip)"
+    },
+    {
+        "headline": "Lebanon mourns victims of Israeli strike that killed Hezbollah commander",
         "location": "Location not found"
     },
     {
-        "headline": "Israel says it targeted and killed Hezbollah commander in Beirut suburb",
+        "headline": "Guinean court finds former president guilty of crimes against humanity",
         "location": "Location not found"
     },
     {
-        "headline": "Son of \u2018El Chapo\u2019 pleads not guilty in federal court following dramatic arrest",
+        "headline": "Russia transfers dissident Kara-Murza and other political prisoners",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Where does Hamas go from here?",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Israel has a long history of assassination operations across borders",
+        "location": "Location not found"
+    },
+    {
+        "headline": "What to know about Ismail Haniyeh, the Hamas leader killed in Iran",
+        "location": "Location not found"
+    },
+    {
+        "headline": "At least 16 reported dead as Maduro meets Venezuelan protests with force",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Who are Hamas\u2019s top leaders? What to know after killing of Ismail Haniyeh.",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Israel says it killed Hezbollah commander in Beirut suburb",
+        "location": "Location not found"
+    },
+    {
+        "headline": "As Israel strikes Lebanon, a new war flares within",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Landslides, heavy rains kill at least 116 in south India\u2019s Kerala state",
         "location": "Location not found"
     },
     {
@@ -160,71 +224,7 @@
         "location": "Location not found"
     },
     {
-        "headline": "Belarus pardons German in terrorism case; Russia moves political prisoners",
-        "location": "Location not found"
-    },
-    {
-        "headline": "At least seven reported dead as Maduro meets Venezuelan protests with force",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Landslides, heavy rains kill at least 109 in south India\u2019s Kerala state",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Have babies for Russia: Putin presses women to embrace patriotism over feminism",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Blinken, Austin detail new U.S. security commitments for Philippines",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The Paris Olympics touted climate-friendly food. Athletes demanded more meat.",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Images of a starving Palestinian boy went viral. The attention saved him.",
-        "location": "Location not found"
-    },
-    {
-        "headline": "World leaders, ordinary Venezuelans protest Maduro\u2019s reelection claim",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Iran seeks to undermine Trump ahead of election, officials signal",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Region braces for Netanyahu to decide Israeli response to Golan Heights strike",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Palestinians recount deadly abuse in Israeli prisons: \u2018It is Guant\u00e1namo\u2019",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Far right in uproar after Israel detains reservists over Gaza detainee abuse",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Two children killed, others critically wounded in mass stabbing in British seaside town",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Simone Biles urged Rebeca Andrade to endure. Now she\u2019s Biles\u2019s top challenger.",
-        "location": "Location not found"
-    },
-    {
-        "headline": "We reported for months on changes sweeping Russia. Here\u2019s what we found.",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Artists say Putin\u2019s push for patriotism is killing Russian culture",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Migrants from China \u2018walk the line\u2019 to U.S. border, testing Biden and Xi",
+        "headline": "U.S. military launches first airstrike in Iraq in months",
         "location": "Location not found"
     }
 ]
