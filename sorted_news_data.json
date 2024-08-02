@@ -1,1 +1,146 @@
-[]
+[
+    {
+        "headline": "How a refugee Olympian found a new life in Canada",
+        "location": "Canada",
+        "coordinates": [
+            61.0666922,
+            -107.991707
+        ]
+    },
+    {
+        "headline": "Hopes for survivors fade in deadly India landslides",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Watch: Moment building collapses into river in India",
+        "location": "India",
+        "coordinates": [
+            22.3511148,
+            78.6677428
+        ]
+    },
+    {
+        "headline": "Hamas leader's funeral draws crowds in Iran",
+        "location": "Iran",
+        "coordinates": [
+            32.6475314,
+            54.5643516
+        ]
+    },
+    {
+        "headline": "Pilots' action 'to cost Aer Lingus \u20ac55m'",
+        "location": "Ireland",
+        "coordinates": [
+            53.429500000000004,
+            -8.1227484875
+        ]
+    },
+    {
+        "headline": "Hamas military chief was killed in July strike, Israel says",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Hezbollah leader says conflict with Israel in 'new phase' after killings",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Hamas military chief was killed in July strike, Israel says",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Hezbollah leader says conflict with Israel in 'new phase' after killings",
+        "location": "Israel",
+        "coordinates": [
+            30.8124247,
+            34.8594762
+        ]
+    },
+    {
+        "headline": "Italy prepares to open controversial migrant centre in Albania",
+        "location": "Italy",
+        "coordinates": [
+            42.6384261,
+            12.674297
+        ]
+    },
+    {
+        "headline": "Kenya rolls out poison in bid to cull a million crows",
+        "location": "Kenya",
+        "coordinates": [
+            1.4419683,
+            38.4313975
+        ]
+    },
+    {
+        "headline": "Curfew imposed in Nigerian state after 'hunger' protest",
+        "location": "Nigeria",
+        "coordinates": [
+            9.6000359,
+            7.9999721
+        ]
+    },
+    {
+        "headline": "'Slave auction' pupils to face disciplinary in South Africa",
+        "location": "South Africa",
+        "coordinates": [
+            -28.8166236,
+            24.991639
+        ]
+    },
+    {
+        "headline": "Turbulence takes instant noodles off Korean Air menu",
+        "location": "South Korea",
+        "coordinates": [
+            36.638392,
+            127.6961188
+        ]
+    },
+    {
+        "headline": "Big Sudan camp pushed into famine - experts",
+        "location": "Sudan",
+        "coordinates": [
+            10.9,
+            6.5
+        ]
+    },
+    {
+        "headline": "Trump on Harris: 'Is she Indian or is she black?'",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Harris almost calls herself 'president' at Sheila Jackson\u2019s eulogy",
+        "location": "USA",
+        "coordinates": [
+            39.7837304,
+            -100.445882
+        ]
+    },
+    {
+        "headline": "Maduro manoeuvring to stay in power in Venezuela",
+        "location": "Venezuela",
+        "coordinates": [
+            8.0018709,
+            -66.1109318
+        ]
+    }
+]
