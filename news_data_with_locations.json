@@ -1,187 +1,211 @@
 [
     {
-        "headline": "Kamala Harris formally chosen as Democratic nominee",
-        "location": "Kamala Harris formally chosen as Democratic nominee - **United States**"
+        "headline": "US urges citizens to leave Lebanon on 'any available ticket'",
+        "location": "US urges citizens to leave Lebanon on 'any available ticket' - Lebanon"
     },
     {
-        "headline": "Why Putin thinks he's the winner in prisoner swap",
-        "location": "Why Putin thinks he's the winner in prisoner swap - **Russia** (but involves a prisoner exchange between Russia and other countries, which implies it's a broader international story)"
+        "headline": "Iran says Hamas leader killed from close range",
+        "location": "Iran says Hamas leader killed from close range - Iran (also referenced later)"
     },
     {
-        "headline": "US deploys jets and warships as Iran threatens Israel",
-        "location": "US deploys jets and warships as Iran threatens Israel - **United States**"
+        "headline": "Watch: Supercell tornado sweeps through El Toro in Spain",
+        "location": "Watch: Supercell tornado sweeps through El Toro in Spain - Spain"
     },
     {
-        "headline": "Hamas leader Haniyeh buried in Qatar",
-        "location": "Hamas leader Haniyeh buried in Qatar - **Qatar**"
+        "headline": "Beach attack in Somali capital kills dozens",
+        "location": "Beach attack in Somali capital kills dozens - Somalia"
     },
     {
-        "headline": "Dozens of children killed in Bangladesh protests - Unicef",
-        "location": "Dozens of children killed in Bangladesh protests - Unicef - **Bangladesh**"
+        "headline": "Trump and Harris at odds over presidential debate",
+        "location": "Trump and Harris at odds over presidential debate - USA"
     },
     {
-        "headline": "Why Putin thinks he's the winner in prisoner swap",
-        "location": "Why Putin thinks he's the winner in prisoner swap (same as headline 2) - **Russia** (same interpretation)"
+        "headline": "Iran says Hamas leader killed from close range",
+        "location": "Iran says Hamas leader killed from close range - Iran (same as #2, different article)"
     },
     {
-        "headline": "Freed Russian dissidents refused to sign plea for mercy from Putin",
-        "location": "Freed Russian dissidents refused to sign plea for mercy from Putin - **Russia**"
+        "headline": "Venezuela opposition leader emerges despite arrest threat",
+        "location": "Venezuela opposition leader emerges despite arrest threat - Venezuela"
     },
     {
-        "headline": "Who are the US citizens still being held abroad?",
-        "location": "Who are the US citizens still being held abroad? - **United States**"
+        "headline": "Ukraine says it sank Russian submarine in Crimea",
+        "location": "Ukraine says it sank Russian submarine in Crimea - Ukraine"
     },
     {
-        "headline": "US deploys jets and warships as Iran threatens Israel",
-        "location": "US deploys jets and warships as Iran threatens Israel (same as headline 3) - **United States**"
+        "headline": "Watch: Supercell tornado sweeps through El Toro in Spain",
+        "location": "Watch: Supercell tornado sweeps through El Toro in Spain - Spain (same as #3)"
     },
     {
-        "headline": "Kim Jong Un wants Trump back, elite defector tells BBC",
-        "location": "Kim Jong Un wants Trump back, elite defector tells BBC - **North Korea** (although involves a conversation with someone from the United States)"
+        "headline": "Snoop Dogg: America's cheerleader at the Olympics",
+        "location": "Snoop Dogg: America's cheerleader at the Olympics - USA"
     },
     {
-        "headline": "Justin Timberlake licence suspended in drink-driving case",
-        "location": "Justin Timberlake licence suspended in drink-driving case - **Canada** (specifically British Columbia), but note: Justin Timberlake is an American singer and actor, and this news headline likely refers to him as well"
-    },
-    {
-        "headline": "Idris Elba's studio plan sparks dreams of 'Zollywood'",
-        "location": "Idris Elba's studio plan sparks dreams of 'Zollywood' - **South Africa**"
-    },
-    {
-        "headline": "Al Jazeera rebuffs Israeli claim killed journalist was Hamas operative",
-        "location": "Al Jazeera rebuffs Israeli claim killed journalist was Hamas operative - **Qatar** (again)"
-    },
-    {
-        "headline": "Nigerians hit with 24-hour curfews amid protests",
-        "location": "Nigerians hit with 24-hour curfews amid protests - **Nigeria**"
-    },
-    {
-        "headline": "Watch/Listen",
-        "location": "Watch/Listen (no country specified)"
-    },
-    {
-        "headline": "From captivity to freedom - How prisoner swap unfolded",
-        "location": "From captivity to freedom - How prisoner swap unfolded - **Russia and other countries involved in the prisoner exchange** (not a specific country)"
-    },
-    {
-        "headline": "Toddler rescued after falling down 10-ft pipe",
-        "location": "Toddler rescued after falling down 10-ft pipe - no country specified"
-    },
-    {
-        "headline": "Russian prisoners arrive in Moscow following swap",
-        "location": "Russian prisoners arrive in Moscow following swap - **Russia**"
-    },
-    {
-        "headline": "Russian TV shows freed prisoners board plane after swap",
-        "location": "Russian TV shows freed prisoners board plane after swap - **Russia**"
-    },
-    {
-        "headline": "\u2018Their brutal ordeal is over\u2019 - Biden on prisoner swap",
-        "location": "\u2018Their brutal ordeal is over\u2019 - Biden on prisoner swap - **United States**"
-    },
-    {
-        "headline": "Features",
-        "location": "Features (no country specified)"
-    },
-    {
-        "headline": "Two years, secret talks, high stakes: How prisoner swap deal was struck",
-        "location": "Two years, secret talks, high stakes: How prisoner swap deal was struck - **Multiple countries** (involves Russia and other nations in the prisoner exchange)"
-    },
-    {
-        "headline": "Biden burnishes his legacy with historic  prisoner swap",
-        "location": "Biden burnishes his legacy with historic  prisoner swap - **United States**"
-    },
-    {
-        "headline": "Who are the prisoners in the Russia-West swap?",
-        "location": "Who are the prisoners in the Russia-West swap? - **Russia and Western countries involved in the prisoner exchange**"
-    },
-    {
-        "headline": "Whisper it, but is now a good time to holiday in Paris?",
-        "location": "Whisper it, but is now a good time to holiday in Paris? - **France** (Paris)"
-    },
-    {
-        "headline": "Venezuelans fear for relatives after mass arrests",
-        "location": "Venezuelans fear for relatives after mass arrests - **Venezuela**"
-    },
-    {
-        "headline": "Latest updates",
-        "location": "Latest updates (no country specified)"
-    },
-    {
-        "headline": "Beauty contest sparks row over who counts as South African",
-        "location": "Beauty contest sparks row over who counts as South African - **South Africa**"
-    },
-    {
-        "headline": "A bear mauled a Romanian teen to death. Will a cull solve the problem?",
-        "location": "A bear mauled a Romanian teen to death. Will a cull solve the problem? - **Romania**"
+        "headline": "Spies' children did not know they were Russian",
+        "location": "Spies' children did not know they were Russian - Russia (also referenced later)"
     },
     {
         "headline": "'Still alive' - graduate Asmaa's texts to BBC from the ruins of Gaza",
-        "location": "'Still alive' - graduate Asmaa's texts to BBC from the ruins of Gaza - **Gaza** (which is part of **Palestine**, although news headlines may not specify the country)"
+        "location": "'Still alive' - graduate Asmaa's texts to BBC from the ruins of Gaza - Palestine/Gaza"
     },
     {
-        "headline": "Mystery surrounds US woman found starving and chained to tree in India",
-        "location": "Mystery surrounds US woman found starving and chained to tree in India - **India**"
+        "headline": "Dozens of children killed in Bangladesh protests - Unicef",
+        "location": "Dozens of children killed in Bangladesh protests - Unicef - Bangladesh"
     },
     {
-        "headline": "Freed Russian dissidents refused to sign plea for mercy from Putin",
-        "location": "Freed Russian dissidents refused to sign plea for mercy from Putin (same as headline 7) - **Russia**"
+        "headline": "Plea deal with accused 9/11 plotters revoked",
+        "location": "Plea deal with accused 9/11 plotters revoked - USA"
     },
     {
-        "headline": "Man due in court after Dublin State buildings rammed",
-        "location": "Man due in court after Dublin State buildings rammed - **Ireland** (Dublin)"
+        "headline": "Watch/Listen",
+        "location": "Watch/Listen (no country referenced)"
     },
     {
-        "headline": "The many identities of the first woman vice-president",
-        "location": "The many identities of the first woman vice-president - **United States**"
+        "headline": "Watch: Supercell tornado sweeps through El Toro in Spain",
+        "location": "Watch: Supercell tornado sweeps through El Toro in Spain - Spain (same as #3 and #9)"
     },
     {
-        "headline": "Florida storms could bring up to 12 inches of rain and 'weeks' of flooding",
-        "location": "Florida storms could bring up to 12 inches of rain and 'weeks' of flooding - **United States** (Florida)"
+        "headline": "From captivity to freedom - How prisoner swap unfolded",
+        "location": "From captivity to freedom - How prisoner swap unfolded (refers to several countries, no specific one mentioned)"
     },
     {
-        "headline": "Kamala Harris formally chosen as Democratic nominee",
-        "location": "Kamala Harris formally chosen as Democratic nominee (same as headline 1) - **United States**"
+        "headline": "Toddler rescued after falling down 10ft pipe",
+        "location": "Toddler rescued after falling down 10ft pipe - No country referenced (presumably a generic article from a news organization)"
+    },
+    {
+        "headline": "Russian prisoners arrive in Moscow following swap",
+        "location": "Russian prisoners arrive in Moscow following swap - Russia"
+    },
+    {
+        "headline": "Russian TV shows freed prisoners board plane after swap",
+        "location": "Russian TV shows freed prisoners board plane after swap - Russia (same as #19)"
+    },
+    {
+        "headline": "Features",
+        "location": "Features (no country referenced)"
+    },
+    {
+        "headline": "World's biggest iceberg spins in ocean trap",
+        "location": "World's biggest iceberg spins in ocean trap - Antarctica/International waters"
+    },
+    {
+        "headline": "Why Putin thinks he's the winner in prisoner swap",
+        "location": "Why Putin thinks he's the winner in prisoner swap - Russia"
+    },
+    {
+        "headline": "Kim Jong Un wants Trump back, elite defector tells BBC",
+        "location": "Kim Jong Un wants Trump back, elite defector tells BBC - North Korea"
+    },
+    {
+        "headline": "Beauty contest sparks row over who counts as South African",
+        "location": "Beauty contest sparks row over who counts as South African - South Africa"
+    },
+    {
+        "headline": "A bear mauled a Romanian teen to death. Will a cull solve the problem?",
+        "location": "A bear mauled a Romanian teen to death. Will a cull solve the problem? - Romania"
+    },
+    {
+        "headline": "Latest updates",
+        "location": "Latest updates (no country referenced)"
+    },
+    {
+        "headline": "He lost two homes to California fires in six years. Now what?",
+        "location": "He lost two homes to California fires in six years. Now what? - USA (specifically California)"
+    },
+    {
+        "headline": "US urges citizens to leave Lebanon on 'any available ticket'",
+        "location": "US urges citizens to leave Lebanon on 'any available ticket' - Lebanon (same as #1, different article)"
+    },
+    {
+        "headline": "Snoop Dogg: America's cheerleader at the Olympics",
+        "location": "Snoop Dogg: America's cheerleader at the Olympics - USA"
+    },
+    {
+        "headline": "Trump and Harris at odds over presidential debate",
+        "location": "Trump and Harris at odds over presidential debate - USA"
+    },
+    {
+        "headline": "Stephen Nedoroscik is America's pommel horse hero",
+        "location": "Stephen Nedoroscik is America's pommel horse hero - USA"
+    },
+    {
+        "headline": "Ukraine says it sank Russian submarine in Crimea",
+        "location": "Ukraine says it sank Russian submarine in Crimea - Ukraine (same as #8, different article)"
+    },
+    {
+        "headline": "Canada Covid protesters cleared of plotting to kill police",
+        "location": "Canada Covid protesters cleared of plotting to kill police - Canada"
+    },
+    {
+        "headline": "Spies' children did not know they were Russian",
+        "location": "Spies' children did not know they were Russian - Russia (same as #11 and #43)"
+    },
+    {
+        "headline": "Iran says Hamas leader killed from close range",
+        "location": "Iran says Hamas leader killed from close range - Iran (same as #2 and #6)"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "Follow BBC on: (no country specified)"
+        "location": "Follow BBC on: (no country referenced, but likely an international news organization)"
+    },
+    {
+        "headline": "Death of Hamas chief draws mixed reactions in war-battered Gaza",
+        "location": "Death of Hamas chief draws mixed reactions in war-battered Gaza - Palestine/Gaza"
+    },
+    {
+        "headline": "Iran gives first detailed statement on Hamas leader\u2019s killing",
+        "location": "Iran gives first detailed statement on Hamas leader\u2019s killing - Iran (same as #36, different article)"
+    },
+    {
+        "headline": "Taiwan is readying citizens for a Chinese invasion. It\u2019s not going well.",
+        "location": "Taiwan is readying citizens for a Chinese invasion. It\u2019s not going well. - Taiwan"
+    },
+    {
+        "headline": "They were in prison in the West. Now they\u2019re celebrities in Russia.",
+        "location": "They were in prison in the West. Now they\u2019re celebrities in Russia - Russia"
+    },
+    {
+        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
+        "location": "How many hostages are still in Gaza since Hamas attack on Israel? What to know. - Palestine/Gaza"
+    },
+    {
+        "headline": "Left and right have denounced Venezuela\u2019s Maduro. Not the authoritarians.",
+        "location": "Left and right have denounced Venezuela\u2019s Maduro. Not the authoritarians. - Venezuela (same as #7)"
     },
     {
         "headline": "Al Jazeera rejects Israeli allegation that slain journalist was Hamas fighter",
-        "location": "Al Jazeera rejects Israeli allegation that slain journalist was Hamas fighter (same as headline 13) - **Qatar**"
+        "location": "Al Jazeera rejects Israeli allegation that slain journalist was Hamas fighter - Qatar/Israel/Palestine (complex article with multiple countries referenced)"
     },
     {
         "headline": "U.S. forces move toward Israel as Iran threatens to attack",
-        "location": "U.S. forces move toward Israel as Iran threatens to attack - **United States and Israel**"
+        "location": "U.S. forces move toward Israel as Iran threatens to attack - USA/Iran"
     },
     {
         "headline": "After assassinations, Israel braces for retaliation, wider conflict",
-        "location": "After assassinations, Israel braces for retaliation, wider conflict - **Israel** and potentially other countries in the Middle East"
+        "location": "After assassinations, Israel braces for retaliation, wider conflict - Israel"
     },
     {
         "headline": "Homeland Security Dept. pauses Biden parole program for four countries",
-        "location": "Homeland Security Dept. pauses Biden parole program for four countries - **United States**"
+        "location": "Homeland Security Dept. pauses Biden parole program for four countries - USA (likely references other international agreements or partnerships with the US)"
     },
     {
         "headline": "Children returned to Russia had no idea parents were spies, Kremlin says",
-        "location": "Children returned to Russia had no idea parents were spies, Kremlin says - **Russia**"
+        "location": "Children returned to Russia had no idea parents were spies, Kremlin says - Russia"
     },
     {
         "headline": "Russian opposition figure Ilya Yashin says he demanded not to be freed",
-        "location": "Russian opposition figure Ilya Yashin says he demanded not to be freed - **Russia**"
+        "location": "Russian opposition figure Ilya Yashin says he demanded not to be freed - Russia"
     },
     {
         "headline": "Ukraine watches warily as prisoner swap shows Moscow and West can negotiate",
-        "location": "Ukraine watches warily as prisoner swap shows Moscow and West can negotiate - **Ukraine**"
+        "location": "Ukraine watches warily as prisoner swap shows Moscow and West can negotiate - Ukraine (same as #8)"
     },
     {
         "headline": "Kremlin hails return of spies but says swap won\u2019t end fight over Ukraine",
-        "location": "Kremlin hails return of spies but says swap won\u2019t end fight over Ukraine - **Russia** (also involves the country of Ukraine)"
+        "location": "Kremlin hails return of spies but says swap won\u2019t end fight over Ukraine - Russia (same as #49, different article)"
     },
     {
         "headline": "\u2018I love my black job\u2019: Simone Biles joins those throwing shade at Trump",
-        "location": "\u2018I love my black job\u2019: Simone Biles joins those throwing"
+        "location": "\u2018I love my black job\u2019: Simone Biles joins those throwing shade at Trump - USA"
     },
     {
         "headline": "3 Americans freed in major prisoner swap with Russia are welcomed home",
@@ -201,30 +225,6 @@
     },
     {
         "headline": "Evan Gershkovich, others arrive in U.S. after landmark prisoner swap",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The Middle East is on the brink, again",
-        "location": "Location not found"
-    },
-    {
-        "headline": "U.S. says Maduro lost Venezuelan election, calls for talks, transition",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Inside the deal that led to a blockbuster prisoner swap between U.S., Russia",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The story behind a landmark prisoner swap",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Iran and its allies mourn militant leaders, vow revenge against Israel",
-        "location": "Location not found"
-    },
-    {
-        "headline": "The Paris Olympics, in comics",
         "location": "Location not found"
     }
 ]
