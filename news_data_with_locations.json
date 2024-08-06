@@ -1,226 +1,230 @@
 [
     {
-        "headline": "Bangladesh clashes: 90 killed in anti-government protests",
-        "location": "Bangladesh"
+        "headline": "Euphoria in Bangladesh after PM Sheikh Hasina flees country",
+        "location": "Euphoria in Bangladesh after PM Sheikh Hasina flees country - **Bangladesh**"
     },
     {
-        "headline": "Ukraine receives first F-16 fighter jets - Zelensky",
-        "location": "Ukraine"
+        "headline": "Blindfolded, bound and beaten: Palestinians tell of Israeli jail abuse",
+        "location": "Blindfolded, bound and beaten: Palestinians tell of Israeli jail abuse - **Israel/Palestine** (Note: Israel is a separate country, but in this context, it's being used to describe a conflict with Palestine)"
     },
     {
-        "headline": "Casualties after third Israeli strike on school in a week",
-        "location": "Israel/Palestine (both locations, but considered a single country for this purpose)"
+        "headline": "UN staff fired over possible links to 7 October attack",
+        "location": "UN staff fired over possible links to 7 October attack - **UN Headquarters in the US (or potentially another UN location)** (The \"7 October\" refers to the date of the attack on the World Cup stadium in Iran, however I have interpreted this as referring to a general event and not specified an exact country)"
     },
     {
-        "headline": "France's record haul & 100m fine margins - day nine in Paris",
-        "location": "France"
+        "headline": "Usha Vance defends husband's 'childless cat ladies' remark",
+        "location": "Usha Vance defends husband's 'childless cat ladies' remark - **No specific country** (This is a reference to a UK politician, but doesn't specify which country they represent)"
     },
     {
-        "headline": "Watch: Dawn spectacle as Mount Etna erupts",
-        "location": "Italy (the article mentions Mount Etna, which is an active volcano in Italy)"
+        "headline": "Japan stocks rebound a day after major market rout",
+        "location": "Japan stocks rebound a day after major market rout - **Japan**"
     },
     {
-        "headline": "Ukraine receives first F-16 fighter jets - Zelensky",
-        "location": "Ukraine"
+        "headline": "Blindfolded, bound and beaten: Palestinians tell of Israeli jail abuse",
+        "location": "Blindfolded, bound and beaten: Palestinians tell of Israeli jail abuse - **Israel/Palestine** (Same as #2)"
     },
     {
-        "headline": "Kamala Harris interviewing top vice-presidential contenders",
-        "location": "United States"
+        "headline": "Google's online search monopoly is illegal, US judge rules",
+        "location": "Google's online search monopoly is illegal, US judge rules - **USA**"
     },
     {
-        "headline": "'Betrayal': Detained US teacher's sister upset Russia prisoner swap left him out",
-        "location": "Russia/US (the prisoner swap involved Russian and US citizens)"
+        "headline": "US personnel injured in attack on airbase in Iraq",
+        "location": "US personnel injured in attack on airbase in Iraq - **Iraq/US** (Note: The airbase is likely operated by the US, but located in Iraq)"
     },
     {
-        "headline": "Casualties after third Israeli strike on school in a week",
-        "location": "Israel/Palestine"
+        "headline": "UN staff fired over possible links to 7 October attack",
+        "location": "UN staff fired over possible links to 7 October attack - **UN Headquarters in the US (or potentially another UN location)** (Same as #3)"
     },
     {
-        "headline": "\u2018Marchand-mania\u2019 inspires French unity \u2013 but for how long?",
-        "location": "France"
+        "headline": "Kamala Harris poised to announce her running mate",
+        "location": "Kamala Harris poised to announce her running mate - **USA**"
     },
     {
-        "headline": "Calls for foreigners to leave Lebanon as war fears grow",
-        "location": "Lebanon"
+        "headline": "Four dead as Hurricane Debby hits Florida coast",
+        "location": "Four dead as Hurricane Debby hits Florida coast - **USA** (Specifically, Florida)"
     },
     {
-        "headline": "Nigerian president demands end to deadly protests",
-        "location": "Nigeria"
+        "headline": "New Zealand helicopter pilot killed in Papua, police say",
+        "location": "New Zealand helicopter pilot killed in Papua, police say - **Papua/New Zealand** (Note: Papua is likely referring to the Indonesian region of Papua, not a country itself)"
     },
     {
-        "headline": "Belgium out of triathlon relay as athlete falls ill",
-        "location": "Belgium"
+        "headline": "Somali police seize hundreds of veils amid security fears",
+        "location": "Somali police seize hundreds of veils amid security fears - **Somalia**"
     },
     {
-        "headline": "Death threats against Olympics organisers investigated",
-        "location": "International/Olympics (this one does not specify a country, but rather an international event or organization)"
+        "headline": "Supreme Court justice didn't disclose travel, says senator",
+        "location": "Supreme Court justice didn't disclose travel, says senator - **USA** (Specifically, referring to the US Supreme Court)"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Removed from the list as it's a generic tag for watching/listening content"
+        "location": "Watch/Listen - **No specific country** (This is likely an introductory/promotional section for a news program with no specific geographic focus)"
     },
     {
-        "headline": "Police called to save cat with jar stuck on head",
-        "location": "United States"
+        "headline": "Watch: Bangladesh protesters storm prime minister's palace",
+        "location": "Watch: Bangladesh protesters storm prime minister's palace - **Bangladesh**"
+    },
+    {
+        "headline": "Watch: Dawn spectacle as Mount Etna erupts",
+        "location": "Watch: Dawn spectacle as Mount Etna erupts - **Italy** (Specifically, Mount Etna in Sicily, Italy)"
     },
     {
         "headline": "Watch: Supercell tornado sweeps through El Toro in Spain",
-        "location": "Spain"
+        "location": "Watch: Supercell tornado sweeps through El Toro in Spain - **Spain**"
     },
     {
         "headline": "From captivity to freedom - How prisoner swap unfolded",
-        "location": "Russia/US (same reason as before)"
+        "location": "From captivity to freedom - How prisoner swap unfolded - **No specific country** (This is likely referring to a general event or exchange between countries, without specifying which ones are involved)"
     },
     {
         "headline": "Toddler rescued after falling down 10ft pipe",
-        "location": "United States"
+        "location": "Toddler rescued after falling down 10ft pipe - **No specific country** (This is likely an isolated incident, without geographic context)"
     },
     {
         "headline": "Features",
-        "location": "Features/No country specified"
+        "location": "Features - **No specific country** (Same as #15, this is an introductory/promotional section for a news program with no specific geographic focus)"
     },
     {
-        "headline": "Can 24-hour drinking zones transform a city?",
-        "location": "UK/Ireland? (it mentions transforming \"a city\", possibly referring to London or Dublin)"
+        "headline": "Dead bear another strange twist in RFK Jr's faltering campaign",
+        "location": "Dead bear another strange twist in RFK Jr's faltering campaign - **USA** (Specifically, referring to a US politician and their presidential campaign)"
     },
     {
-        "headline": "Even after a year in jail, Imran Khan still dominates Pakistan's politics",
-        "location": "Pakistan"
+        "headline": "Sheikh Hasina: The pro-democracy icon who became an autocrat",
+        "location": "Sheikh Hasina: The pro-democracy icon who became an autocrat - **Bangladesh**"
     },
     {
-        "headline": "North Korea performs diplomatic gymnastics in Olympic comeback",
-        "location": "North Korea/South Korea/Olympics (this one refers to an international event, but also mentions a specific country involved in the controversy)"
+        "headline": "Can India help its special ally Bangladesh defuse the crisis?",
+        "location": "Can India help its special ally Bangladesh defuse the crisis? - **India/Bangladesh** (Both countries are involved in this situation)"
     },
     {
-        "headline": "Zambians mourn gospel singer popular in churches and clubs",
-        "location": "Zambia"
+        "headline": "Is the US really heading for recession?",
+        "location": "Is the US really heading for recession? - **USA** (Specifically, referring to economic trends within the United States)"
     },
     {
-        "headline": "'They're tightening the screws': Kremlin ups attacks on critics abroad",
-        "location": "Russia/US/International (same reason as before)"
+        "headline": "Russian dissident tells BBC he thought he would die in 'Putin's prison'",
+        "location": "Russian dissident tells BBC he thought he would die in 'Putin's prison' - **Russia/UK** (Note: Russia is a separate country from the UK, but they're both referenced here due to their different interests and perspectives on this event)"
     },
     {
         "headline": "Latest updates",
-        "location": "Removed from the list as it's a generic tag for latest updates"
+        "location": "Latest updates - **No specific country** (This is an introductory/promotional section for a news program with no specific geographic focus)"
     },
     {
-        "headline": "Even after a year in jail, Imran Khan still dominates Pakistan's politics",
-        "location": "Pakistan"
+        "headline": "Usha Vance defends husband's 'childless cat ladies' remark",
+        "location": "Usha Vance defends husband's 'childless cat ladies' remark - **UK/USA** (See note under #4, this refers to a UK politician but also has US context and references)"
     },
     {
-        "headline": "Zambians mourn gospel singer popular in churches and clubs",
-        "location": "Zambia"
+        "headline": "Dead bear another strange twist in RFK Jr's faltering campaign",
+        "location": "Dead bear another strange twist in RFK Jr's faltering campaign - **USA** (Same as #22)"
     },
     {
-        "headline": "Bangladesh clashes: 90 killed in anti-government protests",
-        "location": "Bangladesh"
+        "headline": "Supreme Court justice didn't disclose travel, says senator",
+        "location": "Supreme Court justice didn't disclose travel, says senator - **USA** (Same as #14)"
     },
     {
-        "headline": "Casualties after third Israeli strike on school in a week",
-        "location": "Israel/Palestine"
+        "headline": "Kamala Harris poised to announce her running mate",
+        "location": "Kamala Harris poised to announce her running mate - **USA** (Same as #10)"
     },
     {
-        "headline": "\u2018Marchand-mania\u2019 inspires French unity \u2013 but for how long?",
-        "location": "France"
+        "headline": "RFK Jr admits dumping bear carcass in New York's Central Park",
+        "location": "RFK Jr admits dumping bear carcass in New York's Central Park - **USA** (Specifically, referring to a location within the United States, specifically the park mentioned is in NYC but the city itself isn't specified in the headline)"
     },
     {
-        "headline": "Kamala Harris interviewing top vice-presidential contenders",
-        "location": "United States"
+        "headline": "Moment sailors are rescued as Hurricane Debby hits Florida",
+        "location": "Moment sailors are rescued as Hurricane Debby hits Florida - **USA/Florida"
     },
     {
-        "headline": "Ukraine receives first F-16 fighter jets - Zelensky",
-        "location": "Ukraine"
+        "headline": "Euphoria in Bangladesh after PM Sheikh Hasina flees country",
+        "location": "Location not found"
     },
     {
-        "headline": "Death threats against Olympics organisers investigated",
-        "location": "International/Olympics"
+        "headline": "Watch: Bangladesh protesters storm prime minister's palace",
+        "location": "Location not found"
     },
     {
-        "headline": "Harry and Meghan discuss 'protecting' their children",
-        "location": "UK (specifically, mentions Harry and Meghan, who are British)"
+        "headline": "Blindfolded, bound and beaten: Palestinians tell of Israeli jail abuse",
+        "location": "Location not found"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "Removed from the list as it's a generic tag for following content"
+        "location": "Location not found"
+    },
+    {
+        "headline": "Bangladesh\u2019s Hasina faces the revenge of history",
+        "location": "Location not found"
+    },
+    {
+        "headline": "U.S. says several troops hurt in Iraq attack",
+        "location": "Location not found"
+    },
+    {
+        "headline": "U.N. fires Gaza staff, citing possible involvement in attack on Israel",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Houthi drone expert among those killed in U.S. strike in Iraq",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Israel on alert for retaliation; U.S. officials say attack may be imminent",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Mali cuts ties with Ukraine, claiming Kyiv\u2019s involvement in rebel attacks",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Bangladeshi Prime Minister Sheikh Hasina resigns and flees country",
+        "location": "Location not found"
+    },
+    {
+        "headline": "How the U.S. military cultivated \u2014 and then lost \u2014 a key African ally",
+        "location": "Location not found"
+    },
+    {
+        "headline": "U.S. troops withdraw from strategic West African base as militant threat grows",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Who is\u00a0Sheikh Hasina, Bangladeshi leader who fled protests?",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Taiwan celebrates Olympic gold (and China tries to ignore it)",
+        "location": "Location not found"
+    },
+    {
+        "headline": "In photos: The scene in Bangladesh after clashes between protesters, security forces",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Thailand may soon take another backward step",
+        "location": "Location not found"
     },
     {
         "headline": "Maduro lost election, tallies collected by Venezuela\u2019s opposition show",
-        "location": "Venezuela"
+        "location": "Location not found"
     },
     {
         "headline": "First F-16 fighter jets have arrived in Ukraine, Zelensky confirms",
-        "location": "Ukraine"
+        "location": "Location not found"
     },
     {
         "headline": "Far-right protesters attack hotel housing asylum seekers in violent weekend",
-        "location": "Sweden (specifically mentions asylum seekers in a Swedish hotel)"
+        "location": "Location not found"
     },
     {
         "headline": "Dozens killed as anti-government protests resume in Bangladesh",
-        "location": "Bangladesh"
+        "location": "Location not found"
     },
     {
         "headline": "Strikes in Gaza, stabbing near Tel Aviv amid fears of wider Mideast war",
-        "location": "Israel/Palestine"
+        "location": "Location not found"
     },
     {
         "headline": "Israeli raids in West Bank cities help fuel militant violence",
-        "location": "Israel/Palestine"
+        "location": "Location not found"
     },
     {
         "headline": "Death of Hamas chief draws mixed reactions in war-battered Gaza",
-        "location": "Gaza/Israel/Palestine"
-    },
-    {
-        "headline": "Iran gives first detailed statement on Hamas leader\u2019s killing",
-        "location": "Iran"
-    },
-    {
-        "headline": "Taiwan is readying citizens for a Chinese invasion. It\u2019s not going well.",
-        "location": "Taiwan/China"
-    },
-    {
-        "headline": "They were in prison in the West. Now they\u2019re celebrities in Russia.",
-        "location": "Russia/US/International"
-    },
-    {
-        "headline": "How many hostages are still in Gaza since Hamas attack on Israel? What to know.",
-        "location": "Israel/Palestine"
-    },
-    {
-        "headline": "Left and right have denounced Venezuela\u2019s Maduro. Not the authoritarians.",
-        "location": "Venezuela"
-    },
-    {
-        "headline": "Al Jazeera rejects Israeli allegation that slain journalist was Hamas fighter",
-        "location": "Israel/Gaza"
-    },
-    {
-        "headline": "U.S. forces move toward Israel as Iran threatens to attack",
-        "location": "US/Israel"
-    },
-    {
-        "headline": "After assassinations, Israel braces for retaliation, wider conflict",
-        "location": "Israel/Palestine"
-    },
-    {
-        "headline": "Homeland Security Dept. pauses Biden parole program for four countries",
-        "location": "US (specifically, mentions the Homeland Security Dept.)"
-    },
-    {
-        "headline": "Children returned to Russia had no idea parents were spies, Kremlin says",
-        "location": "Russia/US"
-    },
-    {
-        "headline": "Russian opposition figure Ilya Yashin says he demanded not to be freed",
-        "location": "Russia"
-    },
-    {
-        "headline": "Ukraine watches warily as prisoner swap shows Moscow and West can negotiate",
-        "location": "Ukraine/Russia/International"
-    },
-    {
-        "headline": "Kremlin hails return of spies but says swap won\u2019t end fight over Ukraine",
-        "location": "Russia/Kremlin"
+        "location": "Location not found"
     }
 ]
