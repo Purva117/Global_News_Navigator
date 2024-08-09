@@ -1,154 +1,182 @@
 [
     {
-        "headline": "State of emergency declared as Ukraine launches raid into Russia",
-        "location": "State of emergency declared as Ukraine launches raid into Russia - **Russia** and **Ukraine**"
+        "headline": "Debate showdown between Trump and Harris set for September",
+        "location": "Debate showdown between Trump and Harris set for September - United States"
     },
     {
-        "headline": "Why has Ukraine launched a cross-border attack on Russia?",
-        "location": "Why has Ukraine launched a cross-border attack on Russia? - **Russia** and **Ukraine** (same answer)"
+        "headline": "Behind the scenes as Hamas chose its new leader",
+        "location": "Behind the scenes as Hamas chose its new leader - Israel (specifically, a region or a group in Gaza Strip, but I'm assuming you want the country)"
     },
     {
-        "headline": "VP rivals Walz and Vance hold duelling swing-state events",
-        "location": "VP rivals Walz and Vance hold duelling swing-state events - **USA** (note: while this article mentions USA, the state mentioned is not clear)"
+        "headline": "Teen planned 'explosives and knives' attack at Swift concert",
+        "location": "Teen planned 'explosives and knives' attack at Swift concert - United States"
     },
     {
-        "headline": "Iran will respond at \u2018right time\u2019 to killing of Hamas leader",
-        "location": "Iran will respond at \u2018right time\u2019 to killing of Hamas leader - **Iran**"
+        "headline": "Lyles' bid for Olympic sprint double wrecked by Covid",
+        "location": "Lyles' bid for Olympic sprint double wrecked by Covid - (no country mentioned; assuming a neutral Olympic context, but the story mentions an American athlete, so likely the US or internationally-neutral)"
     },
     {
-        "headline": "Australian hockey player 'sorry' after Paris cocaine arrest",
-        "location": "Australian hockey player 'sorry' after Paris cocaine arrest - **Australia**"
+        "headline": "Why did the alligator cross the road? Blame Tropical Storm Debby",
+        "location": "Why did the alligator cross the road? Blame Tropical Storm Debby - United States"
     },
     {
-        "headline": "Why has Ukraine launched a cross-border attack on Russia?",
-        "location": "Why has Ukraine launched a cross-border attack on Russia? - **Russia** and **Ukraine** (same answer)"
+        "headline": "Behind the scenes as Hamas chose its new leader",
+        "location": "Behind the scenes as Hamas chose its new leader - Israel (same as above)"
     },
     {
-        "headline": "Taylor Swift Vienna concerts cancelled after attack threat",
-        "location": "Taylor Swift Vienna concerts cancelled after attack threat - **Austria** and **USA** (note: while the article mentions USA, it's referring to Taylor Swift, an American artist performing in Austria)"
+        "headline": "US, Egypt and Qatar call on Israel and Hamas to resume talks",
+        "location": "US, Egypt and Qatar call on Israel and Hamas to resume talks - International/ multiple countries involved"
     },
     {
-        "headline": "Inside Bangladesh: BBC finds country in shock but dreaming of change",
-        "location": "Inside Bangladesh: BBC finds country in shock but dreaming of change - **Bangladesh**"
+        "headline": "Russia must feel war consequences, says Zelensky amid Ukrainian attack",
+        "location": "Russia must feel war consequences, says Zelensky amid Ukrainian attack - Ukraine/Russia (Ukrainian president's quote references a conflict involving both nations)"
     },
     {
-        "headline": "VP rivals Walz and Vance hold duelling swing-state events",
-        "location": "VP rivals Walz and Vance hold duelling swing-state events - **USA** (same answer as #3, assuming \"swing state\" refers to a US election term)"
+        "headline": "Teen planned 'explosives and knives' attack at Swift concert",
+        "location": "Teen planned 'explosives and knives' attack at Swift concert - United States (same as above)"
     },
     {
-        "headline": "Polish man jailed for four months for punching Danish PM",
-        "location": "Polish man jailed for four months for punching Danish PM - **Poland** and **Denmark**"
+        "headline": "Yunus sworn in as interim Bangladesh leader",
+        "location": "Yunus sworn in as interim Bangladesh leader - Bangladesh"
     },
     {
-        "headline": "Gaza to get 1.2m polio vaccines amid outbreak fears",
-        "location": "Gaza to get 1.2m polio vaccines amid outbreak fears - **Palestine/Gaza Strip** (note: while the article mentions \"Gaza\", it's generally considered part of Palestine)"
+        "headline": "Harris rejects claims she would support Israel arms embargo",
+        "location": "Harris rejects claims she would support Israel arms embargo - United States/Israel"
     },
     {
-        "headline": "Thai court dissolves reformist party that won election",
-        "location": "Thai court dissolves reformist party that won election - **Thailand**"
+        "headline": "Japan warns of heightened risk of megaquake",
+        "location": "Japan warns of heightened risk of megaquake - Japan"
     },
     {
-        "headline": "400-year record heat threat to Great Barrier Reef",
-        "location": "400-year record heat threat to Great Barrier Reef - **Australia** (specifically, referring to the Great Barrier Reef in Queensland)"
+        "headline": "Snoop Dogg: America's cheerleader at the Olympics",
+        "location": "Snoop Dogg: America's cheerleader at the Olympics - United States (but an internationally-covered story)"
     },
     {
-        "headline": "Video of alleged gang-rape sparks uproar in Tanzania",
-        "location": "Video of alleged gang-rape sparks uproar in Tanzania - **Tanzania**"
+        "headline": "Hunter Biden allegedly paid in Romanian 'influence' plot",
+        "location": "Hunter Biden allegedly paid in Romanian 'influence' plot - Romania (specifically, involving a US figure in international politics)"
     },
     {
         "headline": "Watch/Listen",
-        "location": "Location not found"
+        "location": "Watch/Listen - No country mentioned; assuming a neutral entertainment context"
+    },
+    {
+        "headline": "Watch: Taylor Swift cancellation 'felt like a break-up'",
+        "location": "Watch: Taylor Swift cancellation 'felt like a break-up' - United States (specifically, covering an American celebrity's actions)"
+    },
+    {
+        "headline": "San Diego debuts first giant pandas from China in decades",
+        "location": "San Diego debuts first giant pandas from China in decades - United States"
+    },
+    {
+        "headline": "Thousands of anti-racism protesters take to England's streets",
+        "location": "Thousands of anti-racism protesters take to England's streets - United Kingdom (more specifically, England as part of the UK)"
     },
     {
         "headline": "Moment dog sparks house fire after chewing power bank",
-        "location": "Location not found"
+        "location": "Moment dog sparks house fire after chewing power bank - No country mentioned; assuming a neutral international news context"
     },
     {
         "headline": "Florida streets become rivers as Storm Debby moves north",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Man nearly hit when small plane crashes on golf course",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Watch: Bangladesh protesters storm prime minister's palace",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Watch: Dawn spectacle as Mount Etna erupts",
-        "location": "Location not found"
+        "location": "Florida streets become rivers as Storm Debby moves north - United States"
     },
     {
         "headline": "Features",
-        "location": "Location not found"
+        "location": "Features - No specific country mentioned; assuming a neutral feature-focused story (often internationally-oriented)"
     },
     {
-        "headline": "Double whammy for the Kenyan president's tax plans",
-        "location": "Location not found"
+        "headline": "Katty Kay: Trump fights for spotlight as Democrats dominate coverage",
+        "location": "Katty Kay: Trump fights for spotlight as Democrats dominate coverage - International/multiple countries involved (US-based author discussing global politics)"
     },
     {
-        "headline": "The 'absurd' real-life sting operation that inspired a movie",
-        "location": "Location not found"
+        "headline": "The AI tech aiming to identify future Olympians",
+        "location": "The AI tech aiming to identify future Olympians - Internationally-oriented story about technology and the Olympics"
     },
     {
-        "headline": "The Nobel winner tasked with leading a nation out of chaos",
-        "location": "Location not found"
+        "headline": "Trumpets, slaps and acrobatics: Africa's top shots",
+        "location": "Trumpets, slaps and acrobatics: Africa's top shots - International/africa-focused story about diverse African talent"
     },
     {
-        "headline": "Sheikh Hasina's final hours as a hated autocrat",
-        "location": "Location not found"
+        "headline": "Could Australia become a green hydrogen superpower?",
+        "location": "Could Australia become a green hydrogen superpower? - Australia (but internationally-covered news)"
     },
     {
-        "headline": "Vibes and jibes - why Harris picked Walz as running mate",
-        "location": "Location not found"
+        "headline": "Steve Rosenberg: Ukraine's incursion shows Russia's war is not going to plan",
+        "location": "Steve Rosenberg: Ukraine's incursion shows Russia's war is not going to plan - Ukraine/Russia (Ukrainian journalist discussing the conflict between both nations)"
     },
     {
         "headline": "Latest updates",
-        "location": "Location not found"
+        "location": "Latest updates - No specific country mentioned; assuming a neutral international news context"
     },
     {
-        "headline": "Behave yourselves, China tells its Olympic fans",
-        "location": "Behave yourselves, China tells its Olympic fans - **China** (referring to the Beijing Olympics)"
+        "headline": "New bodycam footage shows moments  before Trump rally shooting",
+        "location": "New bodycam footage shows moments before Trump rally shooting - United States (but an internationally-covered story about US politics and law enforcement)"
     },
     {
-        "headline": "Biden 'not confident' of peaceful transition if Trump loses",
-        "location": "Biden 'not confident' of peaceful transition if Trump loses - **USA**"
+        "headline": "Katty Kay: Trump fights for spotlight as Democrats dominate coverage",
+        "location": "Katty Kay: Trump fights for spotlight as Democrats dominate coverage - Same as above"
     },
     {
-        "headline": "Taylor Swift Vienna concerts cancelled after attack threat",
-        "location": "Location not found"
+        "headline": "The moment a police officer spots Trump gunman",
+        "location": "The moment a police officer spots Trump gunman - United States (same as above)"
     },
     {
-        "headline": "Double whammy for the Kenyan president's tax plans",
-        "location": "Location not found"
+        "headline": "US, Egypt and Qatar call on Israel and Hamas to resume talks",
+        "location": "US, Egypt and Qatar call on Israel and Hamas to resume talks - International/multiple countries involved"
     },
     {
-        "headline": "Restaurant gutted as Storm Debby wreaks havoc in Carolinas",
-        "location": "Location not found"
+        "headline": "Why did the alligator cross the road? Blame Tropical Storm Debby",
+        "location": "Why did the alligator cross the road? Blame Tropical Storm Debby - United States (same as above)"
     },
     {
-        "headline": "'She did a really smart thing': Democratic voters like Harris's pick",
-        "location": "Location not found"
+        "headline": "Debate showdown between Trump and Harris set for September",
+        "location": "Debate showdown between Trump and Harris set for September - United States"
     },
     {
-        "headline": "Iran will respond at \u2018right time\u2019 to killing of Hamas leader",
-        "location": "Location not found"
+        "headline": "Russia must feel war consequences, says Zelensky amid Ukrainian attack",
+        "location": "Russia must feel war consequences, says Zelensky amid Ukrainian attack - Ukraine/Russia (Ukrainian president's quote references a conflict involving both nations)"
     },
     {
-        "headline": "Walz has history with China - it's more hawkish than critics claim",
-        "location": "Location not found"
+        "headline": "Yunus sworn in as interim Bangladesh leader",
+        "location": "Yunus sworn in as interim Bangladesh leader - Bangladesh"
     },
     {
-        "headline": "Why has Ukraine launched a cross-border attack on Russia?",
-        "location": "Location not found"
+        "headline": "Man charged over \u20ac6.5m cryptocurrency seizure in Dublin",
+        "location": "Man charged over \u20ac6.5m cryptocurrency seizure in Dublin - Ireland/Dublin (a specific Irish city and country)"
     },
     {
         "headline": "Follow BBC on:",
-        "location": "Location not found"
+        "location": "Follow BBC on: - United Kingdom (covering British news internationally, but this is not a specific UK-based story mentioned earlier; assuming UK-based international coverage for a story not mentioned specifically below)"
+    },
+    {
+        "headline": "Ukraine, powered by Western arms, stuns Russia in cross-border assault",
+        "location": "Ukraine, powered by Western arms, stuns Russia in cross-border assault - Ukraine/Russia (internationally-covered conflict)"
+    },
+    {
+        "headline": "Israel strikes Gaza schools, saying Hamas uses them to plan attacks",
+        "location": "Israel strikes Gaza schools, saying Hamas uses them to plan attacks - Israel/Gaza Strip (an internationally-covered story about Israeli military actions against Palestine's Hamas)"
+    },
+    {
+        "headline": "Israel repelled Iran\u2019s first direct attack. Is it ready for the next one?",
+        "location": "Israel repelled Iran\u2019s first direct attack. Is it ready for the next one? - International/Israel/Iran-conflict (an internationally-covered conflict with multiple countries involved)"
+    },
+    {
+        "headline": "Catalan leader Puigdemont reemerges in Spain, then vanishes, evading arrest",
+        "location": "Catalan leader Puigdemont reemerges in Spain, then vanishes, evading arrest - Spain"
+    },
+    {
+        "headline": "Maduro boasts 2,200 arrests since election; rights groups say 23 dead",
+        "location": "Maduro boasts 2,"
     },
     {
         "headline": "Taylor Swift cancels Vienna shows after two arrested on suspicion of plotting attack",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Banksy\u2019s mysterious trail of animal-themed art delights and confuses London",
+        "location": "Location not found"
+    },
+    {
+        "headline": "Japan issues first \u2018megaquake\u2019 warning for Nankai Trough after strong temblor",
         "location": "Location not found"
     },
     {
@@ -197,34 +225,6 @@
     },
     {
         "headline": "Chinese American scholar convicted of spying on dissidents for Beijing",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Sinwar to replace Haniyeh as Hamas political leader, cementing his power",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Washington and Arab states scramble to avert an all-out Middle East war",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Elon Musk says U.K. government, not social media, to blame for violence",
-        "location": "Location not found"
-    },
-    {
-        "headline": "U.S. stock indexes move higher the day after global market rout",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Bangladesh\u2019s Hasina faces the revenge of history",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Bangladeshi officials meet student demand to name Nobel laureate as leader",
-        "location": "Location not found"
-    },
-    {
-        "headline": "Airlines cancel Middle East flights as escalation anxiety rises",
         "location": "Location not found"
     }
 ]
